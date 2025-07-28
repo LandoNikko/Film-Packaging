@@ -1,74 +1,52 @@
-# Film Packaging Archive
+# Film Packaging Archive - Frontend UI Test
 
-Welcome! Here you can find high-resolution scans of:
+**⚠️ This is a forked repository for testing the frontend UI improvements.**
 
-* Photographic Film Packaging
-* In-box Instruction Manuals / Leaflets / Processing Envelopes
-* Old & new, popular & obscure.
+This fork contains experimental frontend enhancements to the original [Film Packaging Archive](https://github.com/dekuNukem/Film-Packaging) project.
 
-![title](resources/title.jpg)
+## 🎨 What's New
 
-## Why
+- **Modern landing page** with responsive design
+- **Interactive gallery** with search and filtering
+- **CORS-free JavaScript data loading** (works locally and on GitHub Pages)
+- **Lightbox viewer** for full-size image viewing
+- **Grid/List view toggle** for different browsing experiences
 
-Film packaging captures the evolution of photography, technology, and design trends.
+## 🧪 Testing Purpose
 
-Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.
+This fork is used to test and develop frontend improvements before potentially contributing back to the main repository. The gallery dynamically loads all 152 film packaging images from the archive.
 
-## I Want to Contribute!
+## 📸 Try the New Features
 
-Thanks! [Please follow the contribution guide](contribution_guide.md).
+- **[Interactive Gallery](gallery.html)** - Browse all images with search/filter
+- **[Modern Landing Page](index.html)** - Updated homepage design
+- **[Original Archive](film_packaging/by_brand.md)** - Traditional list view
 
-This project is fully open-source. [Click me for GitHub repo.](https://github.com/dekuNukem/Film-Packaging)
+## 🔧 Technical Details
 
-## Browse Archive
+- **No CORS issues** - Uses embedded JavaScript data
+- **All 152 images** supported
+- **Works on GitHub Pages** - Static file hosting compatible
+- **Easy updates** - Run `python generate_js_data.py` to regenerate data
 
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+## 📋 Original Project
 
-👉👉 [**CLICK ME TO SEE FULL LIST!**](./film_packaging/by_brand.md) 👈👈
+This is a fork of the [Film Packaging Archive](https://github.com/dekuNukem/Film-Packaging) by dekuNukem.
 
-☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
+**Original Description:**
+High-resolution scans of photographic film packaging, instruction manuals, leaflets, and processing envelopes from around the world.
 
-```
-Last Updated: Jul 28 2025
-# of items: 150
-```
+## 🚀 Quick Start
 
-Or Sort by...
+1. Clone this fork
+2. Run `python generate_js_data.py` to generate gallery data
+3. Open `index.html` or `gallery.html` in a browser
+4. Test the new frontend features
 
-* [Brand](./film_packaging/by_brand.md)
-* Film Format (Coming soon)
-* ISO (Coming soon)
-* Photographic Process (Coming soon)
-* Expiry Date (Coming soon)
+## 📞 Contact
 
-The collection is by no means complete or exhaustive, but it's a start!
+For questions about the original project, contact the main repository maintainer at `skate.huddle-6r@icloud.com` or join the [Discord community](https://discord.gg/yvBx7dVG4B).
 
-## Database
+---
 
-[Available as CSV file](./film_packaging/database.csv)
-
-## Contributor List
-
-```
-Username            Contributions       
-----------------------------------------
-dekuNukem           89                  
-@ob.skura           16                  
-b0baspace           14                  
-@SirBrentsworth     13                  
-benikum             6                   
-@recycling.film     5                   
-yc128               4                   
-@seklerek           2                   
-Yrikonchik          1                   
-```
-
-## Disclaimer
-
-The images are provided for reference and educational purposes.
-
-The designs may be protected under copyright and trademark laws. Use at your own risk.
-
-## Questions or Comments?
-
-Get in touch by joining [the Discord chatroom](https://discord.gg/yvBx7dVG4B), or email `skate.huddle-6r@icloud.com` !
+*This fork is for testing purposes only. All original content and credits belong to the main repository.*
