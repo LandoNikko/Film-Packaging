@@ -19,10 +19,8 @@ class FilmGallery {
     setupEventListeners() {
         // Search functionality
         const searchInput = document.getElementById('searchInput');
-        const searchBtn = document.getElementById('searchBtn');
         
         searchInput.addEventListener('input', () => this.filterGallery());
-        searchBtn.addEventListener('click', () => this.filterGallery());
         searchInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') this.filterGallery();
         });
@@ -39,7 +37,10 @@ class FilmGallery {
 
         // Lightbox controls
         document.getElementById('lightbox').addEventListener('click', (e) => {
-            if (e.target.id === 'lightbox') this.closeLightbox();
+            // Close if clicking on the lightbox background only
+            if (e.target.id === 'lightbox') {
+                this.closeLightbox();
+            }
         });
         
         document.querySelector('.lightbox-close').addEventListener('click', () => this.closeLightbox());
@@ -79,7 +80,6 @@ class FilmGallery {
             }
 
             this.filteredData = [...this.galleryData];
-            this.updateStats();
             console.log('🎯 Final gallery data:', this.galleryData.length, 'items');
             console.log('🎯 Filtered data:', this.filteredData.length, 'items');
             
@@ -138,13 +138,17 @@ class FilmGallery {
 
         this.galleryData = sampleData;
         this.filteredData = [...this.galleryData];
-        this.updateStats();
         console.log('🔄 Using sample data:', this.galleryData.length, 'items');
     }
 
     populateBrandFilter() {
         const brands = [...new Set(this.galleryData.map(item => item.brand))].sort();
         const brandFilter = document.getElementById('brandFilter');
+        
+        // Clear existing options except the first one
+        while (brandFilter.children.length > 1) {
+            brandFilter.removeChild(brandFilter.lastChild);
+        }
         
         brands.forEach(brand => {
             const option = document.createElement('option');
@@ -177,7 +181,6 @@ class FilmGallery {
         });
 
         this.renderGallery();
-        this.updateStats();
     }
 
     renderGallery() {
@@ -194,25 +197,35 @@ class FilmGallery {
 
         noResults.style.display = 'none';
         
-        container.innerHTML = this.filteredData.map((item, index) => `
-            <div class="gallery-item" data-index="${index}">
-                <img src="${item.imageUrl}" alt="${item.title}" loading="lazy" 
-                     onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
-                     onload="this.nextElementSibling.style.display='none';">
-                <div class="image-error" style="display: block; padding: 20px; text-align: center; color: #666; background: #f5f5f5;">
-                    <div style="font-size: 2em; margin-bottom: 10px;">📷</div>
-                    <div>Loading...</div>
-                </div>
-                <div class="gallery-item-info">
-                    <div class="gallery-item-title">${item.title}</div>
-                    <div class="gallery-item-details">${item.details}</div>
-                    <div class="gallery-item-meta">
-                        <span>By ${item.author}</span>
-                        <span>${item.film_format}</span>
+        container.innerHTML = this.filteredData.map((item, index) => {
+            const brandClass = this.getBrandClass(item.brand);
+            const iso = item.film_speed_iso || '100';
+            const format = item.film_format || '35mm';
+            const process = item.process || 'C-41';
+            
+            return `
+                <article class="gallery-item" data-index="${index}" data-brand="${item.brand.toLowerCase()}" data-name="${item.title}">
+                    <div class="bottom-flap"></div>
+                    <div class="top-flap"></div>
+                    <img src="${item.imageUrl}" alt="${item.title}" loading="lazy" 
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                         onload="this.nextElementSibling.style.display='none';">
+                    <div class="image-error" style="display: block; padding: 20px; text-align: center; color: #666; background: #f5f5f5;">
+                        <div style="font-size: 2em; margin-bottom: 10px;">📷</div>
+                        <div>Loading...</div>
                     </div>
-                </div>
-            </div>
-        `).join('');
+                    <div class="brand-header">${item.brand}</div>
+                    <div class="gallery-item-info">
+                        <h2 class="gallery-item-title">${item.product}</h2>
+                        <div class="gallery-item-details">
+                            <div>${iso} <span>ISO</span></div>
+                            <div>${format} <span>FORMAT</span></div>
+                            <div>${process} <span>PROCESS</span></div>
+                        </div>
+                    </div>
+                </article>
+            `;
+        }).join('');
 
         // Add click listeners to gallery items
         container.querySelectorAll('.gallery-item').forEach(item => {
@@ -223,6 +236,33 @@ class FilmGallery {
         });
         
         console.log('✅ Gallery rendered successfully');
+    }
+
+    getBrandClass(brand) {
+        const brandLower = brand.toLowerCase();
+        if (brandLower.includes('fujifilm')) return 'fujifilm';
+        if (brandLower.includes('kodak')) return 'kodak';
+        if (brandLower.includes('ilford')) return 'ilford';
+        if (brandLower.includes('agfa')) return 'agfa';
+        if (brandLower.includes('cinestill')) return 'cinestill';
+        if (brandLower.includes('alien film')) return 'alien-film';
+        if (brandLower.includes('efiniti')) return 'efiniti';
+        if (brandLower.includes('harman')) return 'harman';
+        if (brandLower.includes('rollei')) return 'rollei';
+        if (brandLower.includes('lomography')) return 'lomography';
+        if (brandLower.includes('lloyds pharmacy')) return 'lloyds-pharmacy';
+        if (brandLower.includes('kentmere')) return 'kentmere';
+        if (brandLower.includes('polaroid')) return 'polaroid';
+        if (brandLower.includes('konica')) return 'konica';
+        if (brandLower.includes('efke')) return 'efke';
+        if (brandLower.includes('jessops')) return 'jessops';
+        if (brandLower.includes('porst')) return 'porst';
+        if (brandLower.includes('wolfen')) return 'wolfen';
+        if (brandLower.includes('shanghai')) return 'shanghai';
+        if (brandLower.includes('york photo labs')) return 'york-photo-labs';
+        if (brandLower.includes('gaf')) return 'gaf';
+        if (brandLower.includes('unknown')) return 'unknown';
+        return 'other';
     }
 
     switchView(view) {
@@ -276,12 +316,6 @@ class FilmGallery {
         this.openLightbox(this.currentIndex);
     }
 
-    updateStats() {
-        document.getElementById('totalCount').textContent = this.galleryData.length;
-        document.getElementById('filteredCount').textContent = this.filteredData.length;
-        console.log('📊 Stats updated:', this.galleryData.length, 'total,', this.filteredData.length, 'filtered');
-    }
-
     showLoading(show) {
         const loadingIndicator = document.getElementById('loadingIndicator');
         const galleryContainer = document.getElementById('galleryContainer');
@@ -298,10 +332,10 @@ class FilmGallery {
     showError(message) {
         const container = document.getElementById('galleryContainer');
         container.innerHTML = `
-            <div class="error-message" style="text-align: center; padding: 40px; color: var(--text-light);">
+            <div class="no-results">
                 <h3>Error</h3>
                 <p>${message}</p>
-                <button onclick="location.reload()" style="margin-top: 20px; padding: 10px 20px; background: var(--primary-color); color: white; border: none; border-radius: 5px; cursor: pointer;">Try Again</button>
+                <button onclick="location.reload()" style="margin-top: 20px; padding: 10px 20px; background: var(--text-color); color: var(--card-bg); border: 2px solid var(--border-color); cursor: pointer;">Try Again</button>
             </div>
         `;
     }
