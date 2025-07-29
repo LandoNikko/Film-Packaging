@@ -203,12 +203,15 @@ class FilmGallery {
             const format = item.film_format || '35mm';
             const process = item.process || 'C-41';
             
+            // Use lowres for thumbnails, fallback to archive if lowres doesn't exist
+            const thumbnailUrl = item.imageUrl.replace('/archive/', '/lowres/');
+            
             return `
                 <article class="gallery-item" data-index="${index}" data-brand="${item.brand.toLowerCase()}" data-name="${item.title}">
                     <div class="bottom-flap"></div>
                     <div class="top-flap"></div>
-                    <img src="${item.imageUrl}" alt="${item.title}" loading="lazy" 
-                         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                    <img src="${thumbnailUrl}" alt="${item.title}" loading="lazy" 
+                         onerror="this.onerror=null; this.src='${item.imageUrl}'; this.nextElementSibling.style.display='none';"
                          onload="this.nextElementSibling.style.display='none';">
                     <div class="image-error" style="display: block; padding: 20px; text-align: center; color: #666; background: #f5f5f5;">
                         <div style="font-size: 2em; margin-bottom: 10px;">📷</div>
