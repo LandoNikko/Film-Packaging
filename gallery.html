@@ -11,10 +11,10 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
 </head>
-<body>
-    <!-- Navigation -->
+<body class="gallery-page">
     <nav>
         <div class="nav-container">
+            <a href="index.html" class="nav-logo">FP Archive</a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="film_packaging/by_brand.md">Browse</a></li>
@@ -24,9 +24,7 @@
         </div>
     </nav>
 
-    <!-- Site Header -->
     <header class="site-header">
-        <a href="index.html" class="nav-logo">FP Archive</a>
         <h1>Film Packaging Gallery</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <div class="header-decoration">
@@ -41,8 +39,7 @@
         </div>
     </header>
 
-    <!-- Controls Container -->
-    <div class="controls-container">
+    <div class="controls-container container-wide">
         <div class="filter-controls">
             <input type="text" id="searchInput" placeholder="Search by film name...">
             <select id="brandFilter">
@@ -74,32 +71,30 @@
             </select>
         </div>
         <div class="view-controls">
+            <div class="counter-display">
+                <span id="itemCounter">0</span> items
+            </div>
             <button id="gridView" class="view-btn active">Grid</button>
             <button id="listView" class="view-btn">List</button>
-            <button id="refreshBtn" class="view-btn">🔄 Refresh</button>
+            <button id="refreshBtn" class="view-btn">Dev refresh</button>
         </div>
     </div>
 
-    <!-- Gallery Container -->
     <main>
-        <div id="galleryContainer" class="gallery-grid">
-            <!-- Images will be loaded here dynamically -->
+        <div id="galleryContainer" class="gallery-grid container-wide">
         </div>
         
-        <!-- Loading Indicator -->
         <div id="loadingIndicator" class="loading">
             <div class="spinner"></div>
             <p>Loading gallery...</p>
         </div>
         
-        <!-- No Results Message -->
         <div id="noResults" class="no-results" style="display: none;">
             <h3>No items found</h3>
             <p>Try adjusting your search or filter criteria.</p>
         </div>
     </main>
 
-    <!-- Lightbox Modal -->
     <div id="lightbox" class="lightbox">
         <div class="lightbox-content">
             <button class="lightbox-close">&times;</button>
@@ -115,7 +110,6 @@
         </div>
     </div>
 
-    <!-- Footer -->
     <footer>
         <div class="footer-links">
             <a href="https://github.com/dekuNukem/Film-Packaging">GitHub Repository</a>
@@ -130,7 +124,6 @@
         </p>
     </footer>
 
-    <!-- Load data first, then gallery functionality -->
     <script src="assets/js/gallery-data.js"></script>
     <script src="assets/js/gallery.js"></script>
 </body>

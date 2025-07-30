@@ -1,4 +1,3 @@
-// Gallery functionality
 class FilmGallery {
     constructor() {
         this.galleryData = [];
@@ -11,13 +10,16 @@ class FilmGallery {
 
     async init() {
         this.setupEventListeners();
+        this.showLoading(true);
         await this.loadGalleryData();
         this.populateBrandFilter();
         this.renderGallery();
+        this.showLoading(false);
+        
+        this.startAutoRefresh();
     }
 
     setupEventListeners() {
-        // Search functionality
         const searchInput = document.getElementById('searchInput');
         
         searchInput.addEventListener('input', () => this.filterGallery());
@@ -25,17 +27,14 @@ class FilmGallery {
             if (e.key === 'Enter') this.filterGallery();
         });
 
-        // Filter controls
         document.getElementById('brandFilter').addEventListener('change', () => this.filterGallery());
         document.getElementById('formatFilter').addEventListener('change', () => this.filterGallery());
         document.getElementById('processFilter').addEventListener('change', () => this.filterGallery());
 
-        // View controls
         document.getElementById('gridView').addEventListener('click', () => this.switchView('grid'));
         document.getElementById('listView').addEventListener('click', () => this.switchView('list'));
         document.getElementById('refreshBtn').addEventListener('click', () => this.refreshGallery());
 
-        // Lightbox controls
         document.getElementById('lightbox').addEventListener('click', (e) => {
             // Close if clicking on the lightbox background only
             if (e.target.id === 'lightbox') {
@@ -44,120 +43,162 @@ class FilmGallery {
         });
         
         document.querySelector('.lightbox-close').addEventListener('click', () => this.closeLightbox());
-        document.querySelector('.lightbox-prev').addEventListener('click', () => this.showPrevious());
-        document.querySelector('.lightbox-next').addEventListener('click', () => this.showNext());
+        document.querySelector('.lightbox-prev').addEventListener('click', () => {
+            if (this.currentGroup && this.currentImageIndex > 0) {
+                this.showPreviousImage();
+            } else {
+                this.showPreviousCard();
+            }
+        });
+        document.querySelector('.lightbox-next').addEventListener('click', () => {
+            if (this.currentGroup && this.currentImageIndex < this.getAvailableImages().length - 1) {
+                this.showNextImage();
+            } else {
+                this.showNextCard();
+            }
+        });
 
-        // Keyboard navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') this.closeLightbox();
-            if (e.key === 'ArrowLeft') this.showPrevious();
-            if (e.key === 'ArrowRight') this.showNext();
+            if (e.key === 'ArrowLeft') {
+                if (this.currentGroup && this.currentImageIndex > 0) {
+                    this.showPreviousImage();
+                } else {
+                    this.showPreviousCard();
+                }
+            }
+            if (e.key === 'ArrowRight') {
+                if (this.currentGroup && this.currentImageIndex < this.getAvailableImages().length - 1) {
+                    this.showNextImage();
+                } else {
+                    this.showNextCard();
+                }
+            }
         });
     }
 
     async refreshGallery() {
         console.log('🔄 Refreshing gallery...');
+        this.showLoading(true);
         this.galleryData = [];
         this.filteredData = [];
         await this.loadGalleryData();
         this.populateBrandFilter();
         this.renderGallery();
+        this.showLoading(false);
+    }
+
+    startAutoRefresh() {
+        setInterval(async () => {
+            try {
+                // Try to fetch latest data from GitHub Actions
+                const response = await fetch('assets/js/gallery-data.js?' + Date.now());
+                if (response.ok) {
+                    // Reload the script to get new data
+                    await this.reloadGalleryData();
+                }
+            } catch (error) {
+                console.log('Auto-refresh check failed:', error);
+            }
+        }, 60 * 60 * 1000);
+    }
+
+    async reloadGalleryData() {
+        // Remove old script
+        const oldScript = document.querySelector('script[src*="gallery-data.js"]');
+        if (oldScript) {
+            oldScript.remove();
+        }
+        
+        // Add new script
+        const newScript = document.createElement('script');
+        newScript.src = 'assets/js/gallery-data.js?' + Date.now();
+        newScript.onload = () => {
+            this.refreshGallery();
+        };
+        document.head.appendChild(newScript);
     }
 
     async loadGalleryData() {
         try {
-            this.showLoading(true);
-            console.log('Starting gallery data loading...');
-            
-            // Use embedded JavaScript data (no CORS issues)
-            if (typeof window.GALLERY_DATA !== 'undefined') {
-                this.galleryData = window.GALLERY_DATA;
-                console.log('✅ Gallery data loaded from embedded JavaScript:', this.galleryData.length, 'items');
-                console.log('First few items:', this.galleryData.slice(0, 3));
+            if (typeof GALLERY_DATA !== 'undefined') {
+                this.galleryData = GALLERY_DATA;
+                this.filteredData = [...this.galleryData];
+                console.log('📊 Loaded', this.galleryData.length, 'gallery items');
             } else {
-                console.error('❌ GALLERY_DATA not found. Make sure gallery-data.js is loaded.');
-                this.createSampleData();
+                this.galleryData = this.createSampleData();
+                this.filteredData = [...this.galleryData];
             }
-
-            this.filteredData = [...this.galleryData];
-            console.log('🎯 Final gallery data:', this.galleryData.length, 'items');
-            console.log('🎯 Filtered data:', this.filteredData.length, 'items');
-            
         } catch (error) {
-            console.error('❌ Error loading gallery data:', error);
-            this.createSampleData();
-        } finally {
-            this.showLoading(false);
+            this.galleryData = this.createSampleData();
+            this.filteredData = [...this.galleryData];
         }
     }
 
     createSampleData() {
-        console.log('🔄 Creating sample data...');
-        // Create sample data based on known files
-        const sampleData = [
+        return [
             {
-                filename: '00000_000.jpg',
-                brand: 'Ilford',
-                product: 'HP5 Plus',
-                film_format: '120',
-                film_speed_iso: '400',
-                process: 'BW',
-                item_type: 'film_box_outside',
-                author: 'dekuNukem',
-                imageUrl: 'film_packaging/archive/00000_000.jpg',
-                title: 'Ilford HP5 Plus',
-                details: '120 • ISO 400 • BW • film_box_outside'
-            },
-            {
-                filename: '00001_000.jpg',
-                brand: 'Alien Film',
-                product: '5207/250D',
-                film_format: '120',
-                film_speed_iso: '250',
-                process: 'ECN-2',
-                item_type: 'film_box_outside',
-                author: 'dekuNukem',
-                imageUrl: 'film_packaging/archive/00001_000.jpg',
-                title: 'Alien Film 5207/250D',
-                details: '120 • ISO 250 • ECN-2 • film_box_outside'
-            },
-            {
-                filename: '00002_000.jpg',
-                brand: 'Efiniti',
-                product: 'UXi super 200',
-                film_format: '35mm',
-                film_speed_iso: '200',
-                process: 'C-41',
-                item_type: 'film_box_outside',
-                author: 'dekuNukem',
-                imageUrl: 'film_packaging/archive/00002_000.jpg',
-                title: 'Efiniti UXi super 200',
-                details: '35mm • ISO 200 • C-41 • film_box_outside'
+                filename: "sample_000.jpg",
+                brand: "Sample Brand",
+                product: "Sample Film",
+                film_format: "35mm",
+                film_speed_iso: "400",
+                process: "C-41",
+                item_type: "film_box_outside",
+                author: "sample",
+                imageUrl: "film_packaging/archive/sample_000.jpg",
+                title: "Sample Film",
+                details: "35mm • ISO 400 • C-41 • film_box_outside"
             }
         ];
+    }
 
-        this.galleryData = sampleData;
-        this.filteredData = [...this.galleryData];
-        console.log('🔄 Using sample data:', this.galleryData.length, 'items');
+    groupItemsByBaseFilename(items) {
+        const grouped = {};
+        
+        items.forEach(item => {
+            const baseFilename = item.filename.replace(/_\d{3}\.jpg$/, '');
+            
+            if (!grouped[baseFilename]) {
+                grouped[baseFilename] = {
+                    front: null,
+                    back: null,
+                    metadata: {
+                        brand: item.brand,
+                        product: item.product,
+                        film_format: item.film_format,
+                        film_speed_iso: item.film_speed_iso,
+                        process: item.process,
+                        author: item.author,
+                        title: item.title
+                    }
+                };
+            }
+            
+            if (item.filename.includes('_000.jpg')) {
+                grouped[baseFilename].front = item;
+            } else if (item.filename.includes('_001.jpg')) {
+                grouped[baseFilename].back = item;
+            }
+        });
+        
+        return Object.values(grouped);
     }
 
     populateBrandFilter() {
-        const brands = [...new Set(this.galleryData.map(item => item.brand))].sort();
         const brandFilter = document.getElementById('brandFilter');
+        const brands = [...new Set(this.galleryData.map(item => item.brand).filter(brand => brand && brand !== 'Unknown'))];
         
-        // Clear existing options except the first one
-        while (brandFilter.children.length > 1) {
-            brandFilter.removeChild(brandFilter.lastChild);
-        }
+        // Clear existing options except "All Brands"
+        brandFilter.innerHTML = '<option value="">All Brands</option>';
         
-        brands.forEach(brand => {
+        // Add brand options
+        brands.sort().forEach(brand => {
             const option = document.createElement('option');
             option.value = brand;
             option.textContent = brand;
             brandFilter.appendChild(option);
         });
-        
-        console.log('🏷️ Populated brand filter with:', brands.length, 'brands');
     }
 
     filterGallery() {
@@ -168,28 +209,36 @@ class FilmGallery {
 
         this.filteredData = this.galleryData.filter(item => {
             const matchesSearch = !searchTerm || 
+                item.title.toLowerCase().includes(searchTerm) ||
                 item.brand.toLowerCase().includes(searchTerm) ||
-                item.product.toLowerCase().includes(searchTerm) ||
-                item.film_format.toLowerCase().includes(searchTerm) ||
-                item.process.toLowerCase().includes(searchTerm);
-
+                item.product.toLowerCase().includes(searchTerm);
+            
             const matchesBrand = !brandFilter || item.brand === brandFilter;
             const matchesFormat = !formatFilter || item.film_format === formatFilter;
             const matchesProcess = !processFilter || item.process === processFilter;
-
+            
             return matchesSearch && matchesBrand && matchesFormat && matchesProcess;
         });
 
         this.renderGallery();
     }
 
+    updateCounter() {
+        const counter = document.getElementById('itemCounter');
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        counter.textContent = groupedData.length;
+    }
+
     renderGallery() {
         const container = document.getElementById('galleryContainer');
         const noResults = document.getElementById('noResults');
 
-        console.log('🎨 Rendering gallery with', this.filteredData.length, 'items');
+        // Group the filtered data by base filename
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
 
-        if (this.filteredData.length === 0) {
+        this.updateCounter();
+
+        if (groupedData.length === 0) {
             container.innerHTML = '';
             noResults.style.display = 'block';
             return;
@@ -197,48 +246,55 @@ class FilmGallery {
 
         noResults.style.display = 'none';
         
-        container.innerHTML = this.filteredData.map((item, index) => {
-            const brandClass = this.getBrandClass(item.brand);
-            const iso = item.film_speed_iso || '100';
-            const format = item.film_format || '35mm';
-            const process = item.process || 'C-41';
+        container.innerHTML = groupedData.map((group, index) => {
+            const brandClass = this.getBrandClass(group.metadata.brand);
+            const iso = group.metadata.film_speed_iso || '100';
+            const format = group.metadata.film_format || '35mm';
+            const process = group.metadata.process || 'C-41';
             
-            // Use lowres for thumbnails, fallback to archive if lowres doesn't exist
-            const thumbnailUrl = item.imageUrl.replace('/archive/', '/lowres/');
+            const thumbnailItem = group.front || group.back;
+            const thumbnailUrl = thumbnailItem.imageUrl.replace('/archive/', '/lowres/');
+            
+            let viewType = '';
+            if (group.front && group.back) {
+                viewType = 'Front & Back';
+            } else if (group.front) {
+                viewType = 'Front Only';
+            } else if (group.back) {
+                viewType = 'Back Only';
+            }
             
             return `
-                <article class="gallery-item" data-index="${index}" data-brand="${item.brand.toLowerCase()}" data-name="${item.title}">
+                <article class="gallery-item" data-index="${index}" data-brand="${group.metadata.brand.toLowerCase()}" data-name="${group.metadata.title}">
                     <div class="bottom-flap"></div>
                     <div class="top-flap"></div>
-                    <img src="${thumbnailUrl}" alt="${item.title}" loading="lazy" 
-                         onerror="this.onerror=null; this.src='${item.imageUrl}'; this.nextElementSibling.style.display='none';"
+                    <img src="${thumbnailUrl}" alt="${group.metadata.title}" loading="lazy" 
+                         onerror="this.onerror=null; this.src='${thumbnailItem.imageUrl}'; this.nextElementSibling.style.display='none';"
                          onload="this.nextElementSibling.style.display='none';">
                     <div class="image-error" style="display: block; padding: 20px; text-align: center; color: #666; background: #f5f5f5;">
                         <div style="font-size: 2em; margin-bottom: 10px;">📷</div>
                         <div>Loading...</div>
                     </div>
-                    <div class="brand-header">${item.brand}</div>
+                    <div class="brand-header">${group.metadata.brand}</div>
                     <div class="gallery-item-info">
-                        <h2 class="gallery-item-title">${item.product}</h2>
+                        <h2 class="gallery-item-title">${group.metadata.product}</h2>
                         <div class="gallery-item-details">
                             <div>${iso} <span>ISO</span></div>
                             <div>${format} <span>FORMAT</span></div>
                             <div>${process} <span>PROCESS</span></div>
+                            <div>${viewType} <span>VIEW</span></div>
                         </div>
                     </div>
                 </article>
             `;
         }).join('');
 
-        // Add click listeners to gallery items
         container.querySelectorAll('.gallery-item').forEach(item => {
             item.addEventListener('click', () => {
                 const index = parseInt(item.dataset.index);
                 this.openLightbox(index);
             });
         });
-        
-        console.log('✅ Gallery rendered successfully');
     }
 
     getBrandClass(brand) {
@@ -285,67 +341,164 @@ class FilmGallery {
     }
 
     openLightbox(index) {
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        const group = groupedData[index];
+        
+        if (!group) return;
+        
+        this.currentGroup = group;
+        this.currentImageIndex = 0;
+        
+        const availableImages = [];
+        if (group.front) availableImages.push(group.front);
+        if (group.back) availableImages.push(group.back);
+        
+        if (availableImages.length === 0) return;
+        
+        const displayItem = availableImages[this.currentImageIndex];
+        
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImage = document.getElementById('lightboxImage');
+        const lightboxTitle = document.getElementById('lightboxTitle');
+        const lightboxDetails = document.getElementById('lightboxDetails');
+        
+        lightboxImage.src = displayItem.imageUrl;
+        lightboxImage.alt = displayItem.title;
+        lightboxTitle.textContent = displayItem.title;
+        
+        // Update details to show which image is being displayed
+        let detailsText = displayItem.details;
+        if (availableImages.length > 1) {
+            detailsText += ` (${this.currentImageIndex === 0 ? 'Front' : 'Back'} ${this.currentImageIndex + 1}/${availableImages.length})`;
+        }
+        lightboxDetails.textContent = detailsText;
+        
         this.currentIndex = index;
-        const item = this.filteredData[index];
+        lightbox.style.display = 'flex';
         
-        document.getElementById('lightboxImage').src = item.imageUrl;
-        document.getElementById('lightboxTitle').textContent = item.title;
-        document.getElementById('lightboxDetails').textContent = item.details;
+        const prevBtn = document.querySelector('.lightbox-prev');
+        const nextBtn = document.querySelector('.lightbox-next');
         
-        document.getElementById('lightbox').classList.add('active');
-        document.body.style.overflow = 'hidden';
+        prevBtn.style.display = this.currentImageIndex > 0 ? 'block' : 'none';
+        nextBtn.style.display = this.currentImageIndex < availableImages.length - 1 ? 'block' : 'none';
+        
+        prevBtn.onclick = () => this.showPreviousImage();
+        nextBtn.onclick = () => this.showNextImage();
     }
 
     closeLightbox() {
-        document.getElementById('lightbox').classList.remove('active');
-        document.body.style.overflow = '';
+        document.getElementById('lightbox').style.display = 'none';
     }
 
-    showPrevious() {
-        if (this.currentIndex > 0) {
-            this.currentIndex--;
-        } else {
-            this.currentIndex = this.filteredData.length - 1;
+
+
+    showPreviousImage() {
+        if (this.currentGroup) {
+            const availableImages = [];
+            if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
+            if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
+            
+            if (this.currentImageIndex > 0) {
+                this.currentImageIndex--;
+                const displayItem = availableImages[this.currentImageIndex];
+                
+                const lightboxImage = document.getElementById('lightboxImage');
+                const lightboxDetails = document.getElementById('lightboxDetails');
+                
+                lightboxImage.src = displayItem.imageUrl;
+                lightboxImage.alt = displayItem.title;
+                
+                let detailsText = displayItem.details;
+                if (availableImages.length > 1) {
+                    detailsText += ` (${this.currentImageIndex === 0 ? 'Front' : 'Back'} ${this.currentImageIndex + 1}/${availableImages.length})`;
+                }
+                lightboxDetails.textContent = detailsText;
+                
+                const prevBtn = document.querySelector('.lightbox-prev');
+                const nextBtn = document.querySelector('.lightbox-next');
+                
+                prevBtn.style.display = this.currentImageIndex > 0 ? 'block' : 'none';
+                nextBtn.style.display = this.currentImageIndex < availableImages.length - 1 ? 'block' : 'none';
+            }
         }
-        this.openLightbox(this.currentIndex);
     }
 
-    showNext() {
-        if (this.currentIndex < this.filteredData.length - 1) {
-            this.currentIndex++;
-        } else {
-            this.currentIndex = 0;
+    showNextImage() {
+        if (this.currentGroup) {
+            const availableImages = [];
+            if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
+            if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
+            
+            if (this.currentImageIndex < availableImages.length - 1) {
+                this.currentImageIndex++;
+                const displayItem = availableImages[this.currentImageIndex];
+                
+                const lightboxImage = document.getElementById('lightboxImage');
+                const lightboxDetails = document.getElementById('lightboxDetails');
+                
+                lightboxImage.src = displayItem.imageUrl;
+                lightboxImage.alt = displayItem.title;
+                
+                let detailsText = displayItem.details;
+                if (availableImages.length > 1) {
+                    detailsText += ` (${this.currentImageIndex === 0 ? 'Front' : 'Back'} ${this.currentImageIndex + 1}/${availableImages.length})`;
+                }
+                lightboxDetails.textContent = detailsText;
+                
+                const prevBtn = document.querySelector('.lightbox-prev');
+                const nextBtn = document.querySelector('.lightbox-next');
+                
+                prevBtn.style.display = this.currentImageIndex > 0 ? 'block' : 'none';
+                nextBtn.style.display = this.currentImageIndex < availableImages.length - 1 ? 'block' : 'none';
+            }
         }
-        this.openLightbox(this.currentIndex);
     }
 
     showLoading(show) {
         const loadingIndicator = document.getElementById('loadingIndicator');
-        const galleryContainer = document.getElementById('galleryContainer');
-        
         if (show) {
-            loadingIndicator.style.display = 'block';
-            galleryContainer.style.display = 'none';
+            loadingIndicator.style.display = 'flex';
         } else {
             loadingIndicator.style.display = 'none';
-            galleryContainer.style.display = 'grid';
         }
     }
 
     showError(message) {
         const container = document.getElementById('galleryContainer');
         container.innerHTML = `
-            <div class="no-results">
-                <h3>Error</h3>
+            <div class="error-message">
+                <h3>Error Loading Gallery</h3>
                 <p>${message}</p>
-                <button onclick="location.reload()" style="margin-top: 20px; padding: 10px 20px; background: var(--text-color); color: var(--card-bg); border: 2px solid var(--border-color); cursor: pointer;">Try Again</button>
+                <button onclick="location.reload()">Retry</button>
             </div>
         `;
     }
+
+    getAvailableImages() {
+        if (!this.currentGroup) return [];
+        const availableImages = [];
+        if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
+        if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
+        return availableImages;
+    }
+
+    showPreviousCard() {
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        if (this.currentIndex > 0) {
+            this.currentIndex--;
+            this.openLightbox(this.currentIndex);
+        }
+    }
+
+    showNextCard() {
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        if (this.currentIndex < groupedData.length - 1) {
+            this.currentIndex++;
+            this.openLightbox(this.currentIndex);
+        }
+    }
 }
 
-// Initialize the gallery when the page loads
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('🚀 Initializing Film Gallery...');
     new FilmGallery();
 }); 

@@ -1,0 +1,34 @@
+name: Auto-Update Gallery Data
+
+on:
+  push:
+    paths:
+      - 'film_packaging/archive/**'
+      - 'film_packaging/database.csv'
+      - 'generate_js_data.py'
+  workflow_dispatch:  # Manual trigger option
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Generate Gallery Data
+      run: |
+        python generate_js_data.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add assets/js/gallery-data.js
+        git commit -m "Auto-update gallery data [skip ci]" || echo "No changes to commit"
+        git push 
