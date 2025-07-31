@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
 </head>
@@ -39,61 +40,87 @@
         </div>
     </header>
 
-    <div class="controls-container container-wide">
-        <div class="filter-controls">
-            <input type="text" id="searchInput" placeholder="Search by film name...">
-            <select id="brandFilter">
-                <option value="">All Brands</option>
-            </select>
-            <select id="formatFilter">
-                <option value="">All Formats</option>
-                <option value="35mm">35mm</option>
-                <option value="120">120</option>
-                <option value="220">220</option>
-                <option value="110">110</option>
-                <option value="126">126</option>
-                <option value="127">127</option>
-                <option value="620">620</option>
-                <option value="APS">APS</option>
-                <option value="Pack Film">Pack Film</option>
-                <option value="Integral Film">Integral Film</option>
-            </select>
-            <select id="processFilter">
-                <option value="">All Processes</option>
-                <option value="C-41">C-41</option>
-                <option value="E-6">E-6</option>
-                <option value="BW">Black & White</option>
-                <option value="E-2">E-2</option>
-                <option value="K-14">K-14</option>
-                <option value="C-22">C-22</option>
-                <option value="AR-1">AR-1</option>
-                <option value="Instant">Instant</option>
-            </select>
-        </div>
-        <div class="view-controls">
-            <div class="counter-display">
-                <span id="itemCounter">0</span> items
+    <div class="gallery-container">
+        <aside class="filter-sidebar">
+            <div class="sidebar-header">
+                <h3>Filters | <span class="counter-display"><span id="itemCounter">0</span></span></h3>
+                <div class="view-controls-section">
+                    <button id="gridView" class="view-btn active">Grid</button>
+                    <button id="listView" class="view-btn">List</button>
+                </div>
             </div>
-            <button id="gridView" class="view-btn active">Grid</button>
-            <button id="listView" class="view-btn">List</button>
-            <button id="refreshBtn" class="view-btn">Dev refresh</button>
-        </div>
-    </div>
+            
+            <div class="search-section">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search by film name...">
+                    <span class="search-icon"><i class="ri-search-line"></i></span>
+                </div>
+            </div>
 
-    <main>
-        <div id="galleryContainer" class="gallery-grid container-wide">
+            <div class="filter-section">
+                <button class="filter-toggle" data-target="brand-section">
+                    <span>Brand</span>
+                    <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
+                </button>
+                <div class="filter-content" id="brand-section">
+                    <div class="filter-options" id="brandFilter">
+                        <label class="filter-option">
+                            <input type="radio" name="brand" value="" checked>
+                            <span>All Brands</span>
+                            <span class="checkmark">✓</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <button class="filter-toggle" data-target="format-section">
+                    <span>Format</span>
+                    <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
+                </button>
+                <div class="filter-content" id="format-section">
+                    <div class="filter-options" id="formatFilter">
+                        <label class="filter-option">
+                            <input type="radio" name="format" value="" checked>
+                            <span>All Formats</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <button class="filter-toggle" data-target="process-section">
+                    <span>Process</span>
+                    <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
+                </button>
+                <div class="filter-content" id="process-section">
+                    <div class="filter-options" id="processFilter">
+                        <label class="filter-option">
+                            <input type="radio" name="process" value="" checked>
+                            <span>All Processes</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="gallery-main">
+
+        <div id="galleryContainer" class="gallery-grid">
         </div>
-        
-        <div id="loadingIndicator" class="loading">
-            <div class="spinner"></div>
-            <p>Loading gallery...</p>
-        </div>
-        
-        <div id="noResults" class="no-results" style="display: none;">
+    
+    <div id="loadingIndicator" class="loading">
+        <div class="spinner"></div>
+        <p>Loading gallery...</p>
+    </div>
+    
+            <div id="noResults" class="no-results" style="display: none;">
             <h3>No items found</h3>
-            <p>Try adjusting your search or filter criteria.</p>
+            <p>Try adjusting your filters/search or</p>
+            <button id="resetFilters" class="view-btn" style="margin-top: 1rem;">Reset All Filters</button>
         </div>
     </main>
+    </div>
 
     <div id="lightbox" class="lightbox">
         <div class="lightbox-content">
@@ -102,26 +129,83 @@
             <button class="lightbox-next">&gt;</button>
             <div class="lightbox-image-container">
                 <img id="lightboxImage" src="" alt="">
+                <div class="lightbox-zoom-controls">
+                    <button class="zoom-btn" id="zoomIn" aria-label="Zoom in">
+                        <i class="ri-zoom-in-line"></i>
+                    </button>
+                    <button class="zoom-btn" id="zoomOut" aria-label="Zoom out">
+                        <i class="ri-zoom-out-line"></i>
+                    </button>
+                    <button class="zoom-btn" id="rotateBtn" aria-label="Rotate 90 degrees">
+                        <i class="ri-clockwise-2-line"></i>
+                    </button>
+                    <button class="zoom-btn" id="zoomReset" aria-label="Reset zoom" style="margin-left:2rem;">
+                        <i class="ri-find-replace-line"></i>
+                    </button>
+                </div>
+                <div class="lightbox-view-controls">
+                    <button class="view-btn-lightbox" id="frontView">Front View</button>
+                    <button class="view-btn-lightbox" id="backView">Back View</button>
+                </div>
             </div>
             <div class="lightbox-info">
                 <h3 id="lightboxTitle"></h3>
                 <p id="lightboxDetails"></p>
+                <p id="lightboxScanCredit" class="scan-credit"></p>
             </div>
         </div>
     </div>
 
+    <!-- Scroll to top button -->
+    <button id="scrollToTop" class="scroll-to-top" aria-label="Scroll to top">
+        <i class="ri-arrow-up-line"></i>
+    </button>
+
     <footer>
-        <div class="footer-links">
-            <a href="https://github.com/dekuNukem/Film-Packaging">GitHub Repository</a>
-            <a href="https://discord.gg/yvBx7dVG4B">Discord Community</a>
-            <a href="mailto:skate.huddle-6r@icloud.com">Contact Email</a>
-            <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this Site</a>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Connect</h3>
+                <div class="footer-links">
+                    <a href="https://github.com/dekuNukem/Film-Packaging">
+                        <i class="ri-github-fill"></i>
+                        GitHub Repository
+                    </a>
+                    <a href="https://discord.gg/yvBx7dVG4B">
+                        <i class="ri-discord-fill"></i>
+                        Discord Community
+                    </a>
+                    <a href="mailto:skate.huddle-6r@icloud.com">
+                        <i class="ri-mail-fill"></i>
+                        Contact Email
+                    </a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h3>Contribute</h3>
+                <div class="footer-links">
+                    <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">
+                        <i class="ri-edit-fill"></i>
+                        Improve this Site
+                    </a>
+                    <a href="contribution_guide.md">
+                        <i class="ri-file-text-fill"></i>
+                        Contribution Guide
+                    </a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h3>Info</h3>
+                <p class="footer-info">
+                    Last Updated: <span id="lastUpdated">July 28, 2025</span>
+                </p>
+                <p class="footer-disclaimer">
+                    Images provided for reference and educational purposes.<br>
+                    Designs may be protected under copyright and trademark laws.
+                </p>
+            </div>
         </div>
-        <p style="opacity: 0.7; font-size: 0.9em;">Last Updated: July 28, 2025</p>
-        <p style="opacity: 0.5; font-size: 0.8em; margin-top: 20px;">
-            The images are provided for reference and educational purposes.<br>
-            The designs may be protected under copyright and trademark laws. Use at your own risk.
-        </p>
     </footer>
 
     <script src="assets/js/gallery-data.js"></script>
