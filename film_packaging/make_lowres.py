@@ -9,11 +9,11 @@ lowres_folder = './lowres'
 if not os.path.exists(lowres_folder):
     os.makedirs(lowres_folder)
 
-max_width = 1000
+max_width = 800
 
 # Loop through all files in the archive folder
 for filename in os.listdir(archive_folder):
-    if filename.lower().endswith('_000.jpg'):
+    if filename.lower().endswith('.jpg'):
         output_path = os.path.join(lowres_folder, filename)
         # Skip processing if the file already exists
         if os.path.exists(output_path):
