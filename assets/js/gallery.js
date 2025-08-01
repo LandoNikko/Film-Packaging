@@ -17,6 +17,7 @@ class FilmGallery {
         this.showLoading(true);
         await this.loadGalleryData();
         this.populateFilters();
+        this.sortGallery('brand');
         this.renderGallery();
         this.showLoading(false);
         
@@ -47,7 +48,7 @@ class FilmGallery {
             // Set initial collapsed state
             toggle.classList.add('collapsed');
             
-            toggle.addEventListener('click', () => {
+            const toggleFilter = (toggle) => {
                 const targetId = toggle.getAttribute('data-target');
                 const content = document.getElementById(targetId);
                 
@@ -66,6 +67,16 @@ class FilmGallery {
                     content.classList.add('expanded');
                     toggle.classList.remove('collapsed');
                 }
+            };
+            
+            toggle.addEventListener('click', () => toggleFilter(toggle));
+            
+            const filterSection = toggle.closest('.filter-section');
+            const icon = filterSection.querySelector('.filter-icon');
+            icon.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const filterType = toggle.getAttribute('data-target').replace('-section', '');
+                this.sortGallery(filterType);
             });
         });
 
@@ -405,6 +416,33 @@ class FilmGallery {
         this.renderGallery();
     }
 
+    sortGallery(sortBy) {
+        this.filteredData.sort((a, b) => {
+            let aValue, bValue;
+            
+            switch(sortBy) {
+                case 'brand':
+                    aValue = a.brand.toLowerCase();
+                    bValue = b.brand.toLowerCase();
+                    break;
+                case 'format':
+                    aValue = (a.film_format || '').toLowerCase();
+                    bValue = (b.film_format || '').toLowerCase();
+                    break;
+                case 'process':
+                    aValue = (a.process || '').toLowerCase();
+                    bValue = (b.process || '').toLowerCase();
+                    break;
+                default:
+                    return 0;
+            }
+            
+            return aValue.localeCompare(bValue);
+        });
+        
+        this.renderGallery();
+    }
+
     updateCounter() {
         const counter = document.getElementById('itemCounter');
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
@@ -430,6 +468,7 @@ class FilmGallery {
         
         container.innerHTML = groupedData.map((group, index) => {
             const brandClass = this.getBrandClass(group.metadata.brand);
+            const textColor = this.getTextColorForBrand(group.metadata.brand);
             const iso = group.metadata.film_speed_iso || '100';
             const format = group.metadata.film_format || '35mm';
             const process = group.metadata.process || 'C-41';
@@ -452,7 +491,7 @@ class FilmGallery {
                         <img src="${thumbnailUrl}" alt="${group.metadata.title}" loading="lazy" 
                              onerror="this.onerror=null; this.src='${thumbnailItem.imageUrl}';">
                     </div>
-                    <div class="brand-header">${group.metadata.brand}</div>
+                    <div class="brand-header" style="color: ${textColor};">${group.metadata.brand}</div>
                     <div class="gallery-item-info">
                         <h2 class="gallery-item-title">${group.metadata.product}</h2>
                         <div class="gallery-item-details">
@@ -498,6 +537,26 @@ class FilmGallery {
         if (brandLower.includes('gaf')) return 'gaf';
         if (brandLower.includes('unknown')) return 'unknown';
         return 'other';
+    }
+
+    // Dynamic text color based on brand accent color luminance
+    getTextColorForBrand(brand) {
+        const brandClass = this.getBrandClass(brand);
+        if (!brandClass || brandClass === 'other') return '#1A1A1A';
+        
+        const testElement = document.createElement('div');
+        testElement.style.backgroundColor = `var(--accent-${brandClass})`;
+        document.body.appendChild(testElement);
+        const computedColor = getComputedStyle(testElement).backgroundColor;
+        document.body.removeChild(testElement);
+        
+        const rgb = computedColor.match(/\d+/g);
+        if (!rgb || rgb.length < 3) return '#1A1A1A';
+        
+        const [r, g, b] = rgb.map(Number);
+        const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+        
+        return luminance > 0.5 ? '#1A1A1A' : '#FFFFFF';
     }
 
     switchView(view) {

@@ -106,6 +106,19 @@
 
 .filter-section {
     margin-bottom: 1rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.filter-icon-container {
+    flex-shrink: 0;
+    padding-top: 0.5rem;
+    font-weight: bold;
+}
+
+.filter-content-wrapper {
+    flex: 1;
     border: 2px solid var(--border-color);
 }
 
@@ -125,6 +138,18 @@
     transition: all 0.2s ease;
     text-transform: uppercase;
     letter-spacing: 1px;
+}
+
+.filter-icon {
+    font-size: 1rem;
+    opacity: 0.7;
+    color: var(--text-color);
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.filter-icon:hover {
+    opacity: 1;
 }
 
 .filter-toggle:hover {
@@ -359,12 +384,8 @@
     display: block;
 }
 
-
-
-
-
 .gallery-item-info {
-    padding: 1rem 1.5rem;
+    padding: 1rem 0;
     border-top: 2px solid var(--border-color);
     flex-grow: 1;
     display: flex;
@@ -379,6 +400,11 @@
     margin-bottom: 1rem;
     text-transform: uppercase;
     color: var(--text-color);
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
 }
 
 .gallery-item-details {
