@@ -3,7 +3,7 @@ class FilmGallery {
         this.galleryData = [];
         this.filteredData = [];
         this.currentIndex = 0;
-        this.isLoading = false;
+        this.currentSort = { type: null, ascending: true };
         
         this.init();
     }
@@ -21,15 +21,9 @@ class FilmGallery {
         this.renderGallery();
         this.showLoading(false);
         
-        // Only enable auto-refresh on production (GitHub Pages)
         if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
-            // Check for new data when page loads
             this.checkForUpdates();
-            
-            // Start periodic checks
             this.startAutoRefresh();
-        } else {
-            console.log('🔄 Auto-refresh disabled for local development');
         }
     }
 
@@ -43,9 +37,7 @@ class FilmGallery {
 
 
 
-        // Collapsible filter sections
         document.querySelectorAll('.filter-toggle').forEach(toggle => {
-            // Set initial collapsed state
             toggle.classList.add('collapsed');
             
             const toggleFilter = (toggle) => {
@@ -76,6 +68,14 @@ class FilmGallery {
             icon.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const filterType = toggle.getAttribute('data-target').replace('-section', '');
+                
+                if (this.currentSort.type === filterType) {
+                    this.currentSort.ascending = !this.currentSort.ascending;
+                } else {
+                    this.currentSort.type = filterType;
+                    this.currentSort.ascending = true;
+                }
+                
                 this.sortGallery(filterType);
             });
         });
@@ -89,17 +89,25 @@ class FilmGallery {
             }
         });
 
-        document.getElementById('gridView').addEventListener('click', () => this.switchView('grid'));
-        document.getElementById('listView').addEventListener('click', () => this.switchView('list'));
+
 
         document.getElementById('lightbox').addEventListener('click', (e) => {
-            // Close if clicking on the lightbox background only
             if (e.target.id === 'lightbox') {
                 this.closeLightbox();
             }
         });
         
         document.querySelector('.lightbox-close').addEventListener('click', () => this.closeLightbox());
+        
+        const infoToggle = document.getElementById('infoToggle');
+        const lightboxInfoMeta = document.querySelector('.lightbox-info-meta');
+        
+        infoToggle.addEventListener('click', () => {
+            lightboxInfoMeta.classList.toggle('show');
+            console.log('Toggle clicked, meta has show class:', lightboxInfoMeta.classList.contains('show'));
+            console.log('Meta element:', lightboxInfoMeta);
+            console.log('Meta computed display:', getComputedStyle(lightboxInfoMeta).display);
+        });
         document.querySelector('.lightbox-prev').addEventListener('click', () => {
             if (this.currentGroup && this.currentImageIndex > 0) {
                 this.showPreviousImage();
@@ -118,32 +126,28 @@ class FilmGallery {
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') this.closeLightbox();
             if (e.key === 'ArrowLeft') {
-                if (this.currentGroup && this.currentImageIndex > 0) {
-                    this.showPreviousImage();
-                } else {
-                    this.showPreviousCard();
-                }
+                this.showPreviousCard();
             }
             if (e.key === 'ArrowRight') {
-                if (this.currentGroup && this.currentImageIndex < this.getAvailableImages().length - 1) {
-                    this.showNextImage();
-                } else {
-                    this.showNextCard();
-                }
+                this.showNextCard();
             }
         });
 
         this.setupScrollToTop();
         
-        document.getElementById('resetFilters').addEventListener('click', () => {
+        const resetFiltersHandler = () => {
             this.resetAllFilters();
-        });
+        };
+        
+        document.getElementById('resetFilters').addEventListener('click', resetFiltersHandler);
+        document.querySelector('.clickable-filters').addEventListener('click', resetFiltersHandler);
+
+
 
         this.setupZoomControls();
     }
 
     async refreshGallery() {
-        console.log('🔄 Refreshing gallery...');
         this.showLoading(true);
         this.galleryData = [];
         this.filteredData = [];
@@ -155,98 +159,53 @@ class FilmGallery {
 
     async checkForUpdates() {
         try {
-            // Check for updated gallery data by reloading the script
-            console.log('🔄 Checking for gallery data updates...');
             await this.reloadGalleryData();
         } catch (error) {
-            console.log('Update check failed:', error);
         }
     }
 
     startAutoRefresh() {
         setInterval(async () => {
             try {
-                // Check for updates every hour by reloading the script
-                console.log('🔄 Periodic update check...');
                 await this.reloadGalleryData();
             } catch (error) {
-                console.log('Auto-refresh check failed:', error);
             }
-        }, 60 * 60 * 1000); // Check every hour
+        }, 60 * 60 * 1000);
     }
 
     async reloadGalleryData() {
         try {
-            // Store current data length for comparison
             const currentLength = this.galleryData.length;
             
-            // Remove old script
             const oldScript = document.querySelector('script[src*="gallery-data.js"]');
             if (oldScript) {
                 oldScript.remove();
             }
             
-            // Clear the global variable to allow redeclaration
             if (typeof window.GALLERY_DATA !== 'undefined') {
                 delete window.GALLERY_DATA;
             }
             
-            // Add new script with cache busting
             const newScript = document.createElement('script');
             newScript.src = 'assets/js/gallery-data.js?' + Date.now();
             newScript.onload = () => {
-                // Only refresh if new data is actually different
                 if (typeof GALLERY_DATA !== 'undefined' && currentLength !== GALLERY_DATA.length) {
-                    console.log('🔄 New data detected, refreshing gallery...');
                     this.refreshGallery();
                     this.updateLastUpdated();
-                } else {
-                    console.log('📊 No new data detected');
                 }
             };
             newScript.onerror = () => {
-                console.log('⚠️ Failed to load updated gallery data');
             };
             document.head.appendChild(newScript);
         } catch (error) {
-            console.log('Reload failed:', error);
         }
     }
 
 
 
     async loadGalleryData() {
-        try {
-            if (typeof GALLERY_DATA !== 'undefined') {
-                this.galleryData = GALLERY_DATA;
-                this.filteredData = [...this.galleryData];
-                console.log('📊 Loaded', this.galleryData.length, 'gallery items');
-            } else {
-                this.galleryData = this.createSampleData();
-                this.filteredData = [...this.galleryData];
-            }
-        } catch (error) {
-            this.galleryData = this.createSampleData();
-            this.filteredData = [...this.galleryData];
-        }
-    }
-
-    createSampleData() {
-        return [
-            {
-                filename: "sample_000.jpg",
-                brand: "Sample Brand",
-                product: "Sample Film",
-                film_format: "35mm",
-                film_speed_iso: "400",
-                process: "C-41",
-                item_type: "film_box_outside",
-                author: "sample",
-                imageUrl: "film_packaging/archive/sample_000.jpg",
-                title: "Sample Film",
-                details: "35mm • ISO 400 • C-41 • film_box_outside"
-            }
-        ];
+        this.galleryData = GALLERY_DATA;
+        this.filteredData = [...this.galleryData];
     }
 
     groupItemsByBaseFilename(items) {
@@ -282,14 +241,11 @@ class FilmGallery {
     }
 
     populateFilters() {
-        // Populate brand filter
         const brandFilter = document.getElementById('brandFilter');
         const brands = [...new Set(this.galleryData.map(item => item.brand).filter(brand => brand && brand !== 'Unknown'))];
         
-        // Clear existing options except "All Brands"
         brandFilter.innerHTML = '<label class="filter-option"><input type="radio" name="brand" value="" checked><span>All Brands</span></label>';
         
-        // Add brand options
         brands.sort().forEach(brand => {
             const label = document.createElement('label');
             label.className = 'filter-option';
@@ -297,14 +253,11 @@ class FilmGallery {
             brandFilter.appendChild(label);
         });
 
-        // Populate format filter
         const formatFilter = document.getElementById('formatFilter');
         const formats = [...new Set(this.galleryData.map(item => item.film_format).filter(format => format))];
         
-        // Clear existing options except "All Formats"
         formatFilter.innerHTML = '<label class="filter-option"><input type="radio" name="format" value="" checked><span>All Formats</span></label>';
         
-        // Add format options
         formats.sort().forEach(format => {
             const label = document.createElement('label');
             label.className = 'filter-option';
@@ -312,14 +265,11 @@ class FilmGallery {
             formatFilter.appendChild(label);
         });
 
-        // Populate process filter
         const processFilter = document.getElementById('processFilter');
         const processes = [...new Set(this.galleryData.map(item => item.process).filter(process => process))];
         
-        // Clear existing options except "All Processes"
         processFilter.innerHTML = '<label class="filter-option"><input type="radio" name="process" value="" checked><span>All Processes</span></label>';
         
-        // Add process options
         processes.sort().forEach(process => {
             const label = document.createElement('label');
             label.className = 'filter-option';
@@ -327,29 +277,56 @@ class FilmGallery {
             processFilter.appendChild(label);
         });
 
-        // Re-attach event listeners for the new radio buttons
-        this.attachFilterEventListeners();
+        const expiryFilter = document.getElementById('expiryFilter');
+        const expiryDates = this.galleryData
+            .map(item => item.expiry_date)
+            .filter(date => date && date !== 'Unknown' && date.length === 6)
+            .map(date => {
+                const year = parseInt(date.substring(0, 4));
+                return Math.floor(year / 10) * 10;
+            });
         
-        // Update initial toggle text for selected options
+        const decades = [...new Set(expiryDates)].sort((a, b) => b - a);
+        
+        const hasUnknownExpiry = this.galleryData.some(item => 
+            !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6
+        );
+        
+        expiryFilter.innerHTML = '<label class="filter-option"><input type="radio" name="expiry" value="" checked><span>Expiry Date</span></label>';
+        
+        decades.forEach(decade => {
+            const label = document.createElement('label');
+            label.className = 'filter-option';
+            label.innerHTML = `<input type="radio" name="expiry" value="${decade}"><span>${decade}s</span><span class="checkmark">✓</span>`;
+            expiryFilter.appendChild(label);
+        });
+        
+        if (hasUnknownExpiry) {
+            const label = document.createElement('label');
+            label.className = 'filter-option';
+            label.innerHTML = `<input type="radio" name="expiry" value="unknown"><span>Unknown</span><span class="checkmark">✓</span>`;
+            expiryFilter.appendChild(label);
+        }
+
+        this.attachFilterEventListeners();
         this.updateInitialToggleText();
     }
 
     updateInitialToggleText() {
-        // Update brand toggle
         const selectedBrand = document.querySelector('input[name="brand"]:checked').value;
         this.updateToggleText('brand', selectedBrand);
         
-        // Update format toggle
         const selectedFormat = document.querySelector('input[name="format"]:checked').value;
         this.updateToggleText('format', selectedFormat);
         
-        // Update process toggle
         const selectedProcess = document.querySelector('input[name="process"]:checked').value;
         this.updateToggleText('process', selectedProcess);
+        
+        const selectedExpiry = document.querySelector('input[name="expiry"]:checked').value;
+        this.updateToggleText('expiry', selectedExpiry);
     }
 
     attachFilterEventListeners() {
-        // Radio button event listeners
         document.querySelectorAll('input[name="brand"]').forEach(radio => {
             radio.addEventListener('change', () => {
                 this.filterGallery();
@@ -371,6 +348,13 @@ class FilmGallery {
                 this.closeDropdownOnMobile('process-section');
             });
         });
+        document.querySelectorAll('input[name="expiry"]').forEach(radio => {
+            radio.addEventListener('change', () => {
+                this.filterGallery();
+                this.updateToggleText('expiry', radio.value);
+                this.closeDropdownOnMobile('expiry-section');
+            });
+        });
     }
 
     updateToggleText(filterType, selectedValue) {
@@ -378,7 +362,6 @@ class FilmGallery {
         const toggleText = toggleButton.querySelector('span:first-child');
         
         if (selectedValue === '') {
-            // Show "All [Type]s" for empty values
             const typeName = filterType.charAt(0).toUpperCase() + filterType.slice(1);
             if (filterType === 'brand') {
                 toggleText.textContent = 'All Brands';
@@ -386,11 +369,21 @@ class FilmGallery {
                 toggleText.textContent = 'All Formats';
             } else if (filterType === 'process') {
                 toggleText.textContent = 'All Processes';
+            } else if (filterType === 'expiry') {
+                toggleText.textContent = 'Expiry Date';
             } else {
                 toggleText.textContent = `All ${typeName}s`;
             }
         } else {
-            toggleText.textContent = selectedValue;
+            if (filterType === 'expiry') {
+                if (selectedValue === 'unknown') {
+                    toggleText.textContent = 'Unknown';
+                } else {
+                    toggleText.textContent = `${selectedValue}s`;
+                }
+            } else {
+                toggleText.textContent = selectedValue;
+            }
         }
     }
 
@@ -399,6 +392,7 @@ class FilmGallery {
         const brandFilter = document.querySelector('input[name="brand"]:checked').value;
         const formatFilter = document.querySelector('input[name="format"]:checked').value;
         const processFilter = document.querySelector('input[name="process"]:checked').value;
+        const expiryFilter = document.querySelector('input[name="expiry"]:checked').value;
 
         this.filteredData = this.galleryData.filter(item => {
             const matchesSearch = !searchTerm || 
@@ -410,7 +404,20 @@ class FilmGallery {
             const matchesFormat = !formatFilter || item.film_format === formatFilter;
             const matchesProcess = !processFilter || item.process === processFilter;
             
-            return matchesSearch && matchesBrand && matchesFormat && matchesProcess;
+            let matchesExpiry = true;
+            if (expiryFilter && expiryFilter !== 'unknown') {
+                if (item.expiry_date && item.expiry_date !== 'Unknown' && item.expiry_date.length === 6) {
+                    const year = parseInt(item.expiry_date.substring(0, 4));
+                    const itemDecade = Math.floor(year / 10) * 10;
+                    matchesExpiry = itemDecade === parseInt(expiryFilter);
+                } else {
+                    matchesExpiry = false;
+                }
+            } else if (expiryFilter === 'unknown') {
+                matchesExpiry = !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6;
+            }
+            
+            return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry;
         });
 
         this.renderGallery();
@@ -433,11 +440,21 @@ class FilmGallery {
                     aValue = (a.process || '').toLowerCase();
                     bValue = (b.process || '').toLowerCase();
                     break;
+                case 'expiry':
+                    const aExpiry = a.expiry_date && a.expiry_date !== 'Unknown' ? a.expiry_date : '000000';
+                    const bExpiry = b.expiry_date && b.expiry_date !== 'Unknown' ? b.expiry_date : '000000';
+                    aValue = aExpiry;
+                    bValue = bExpiry;
+                    break;
                 default:
                     return 0;
             }
             
-            return aValue.localeCompare(bValue);
+            if (sortBy === 'expiry') {
+                return this.currentSort.ascending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
+            } else {
+                return this.currentSort.ascending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
+            }
         });
         
         this.renderGallery();
@@ -453,7 +470,6 @@ class FilmGallery {
         const container = document.getElementById('galleryContainer');
         const noResults = document.getElementById('noResults');
 
-        // Group the filtered data by base filename
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
 
         this.updateCounter();
@@ -536,13 +552,13 @@ class FilmGallery {
         if (brandLower.includes('york photo labs')) return 'york-photo-labs';
         if (brandLower.includes('gaf')) return 'gaf';
         if (brandLower.includes('unknown')) return 'unknown';
-        return 'other';
+        return 'unknown';
     }
 
     // Dynamic text color based on brand accent color luminance
     getTextColorForBrand(brand) {
         const brandClass = this.getBrandClass(brand);
-        if (!brandClass || brandClass === 'other') return '#1A1A1A';
+        if (!brandClass) return '#1A1A1A';
         
         const testElement = document.createElement('div');
         testElement.style.backgroundColor = `var(--accent-${brandClass})`;
@@ -559,21 +575,7 @@ class FilmGallery {
         return luminance > 0.5 ? '#1A1A1A' : '#FFFFFF';
     }
 
-    switchView(view) {
-        const container = document.getElementById('galleryContainer');
-        const gridBtn = document.getElementById('gridView');
-        const listBtn = document.getElementById('listView');
 
-        if (view === 'list') {
-            container.classList.add('list-view');
-            listBtn.classList.add('active');
-            gridBtn.classList.remove('active');
-        } else {
-            container.classList.remove('list-view');
-            gridBtn.classList.add('active');
-            listBtn.classList.remove('active');
-        }
-    }
 
     openLightbox(index) {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
@@ -594,20 +596,25 @@ class FilmGallery {
         
         const lightbox = document.getElementById('lightbox');
         const lightboxTitle = document.getElementById('lightboxTitle');
+        const scrollToTopBtn = document.getElementById('scrollToTop');
         
         lightboxTitle.textContent = displayItem.title;
         
         this.currentIndex = index;
         lightbox.style.display = 'flex';
         
-        // Use showImage to properly initialize all content including scan credit
+        if (scrollToTopBtn) {
+            scrollToTopBtn.classList.remove('visible');
+            scrollToTopBtn.style.pointerEvents = 'none';
+        }
+        
         this.showImage(displayItem);
         
         const prevBtn = document.querySelector('.lightbox-prev');
         const nextBtn = document.querySelector('.lightbox-next');
         
-        prevBtn.onclick = () => this.showPreviousImage();
-        nextBtn.onclick = () => this.showNextImage();
+        prevBtn.onclick = () => this.showPreviousCard();
+        nextBtn.onclick = () => this.showNextCard();
         
         if (this.resetZoom) {
             this.resetZoom();
@@ -620,30 +627,59 @@ class FilmGallery {
 
     closeLightbox() {
         document.getElementById('lightbox').style.display = 'none';
+        
+        const scrollToTopBtn = document.getElementById('scrollToTop');
+        if (scrollToTopBtn) {
+            scrollToTopBtn.style.removeProperty('pointer-events');
+        }
     }
 
 
 
     showImage(item) {
         const lightboxImage = document.getElementById('lightboxImage');
-        const lightboxDetails = document.getElementById('lightboxDetails');
         const lightboxScanCredit = document.getElementById('lightboxScanCredit');
+        const lightboxResolution = document.getElementById('lightboxResolution');
+        const lightboxFileSize = document.getElementById('lightboxFileSize');
         
-        lightboxImage.src = item.imageUrl;
+        if (lightboxImage.src !== item.imageUrl) {
+            lightboxImage.src = item.imageUrl;
+            
+            lightboxImage.onload = () => {
+                this.updateImageMetadata(lightboxImage, item.imageUrl);
+            };
+        }
         lightboxImage.alt = item.title;
         
         const availableImages = [];
         if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
         if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
         
-        let detailsText = item.details;
-        if (availableImages.length > 1) {
-            detailsText += ` (${this.currentImageIndex === 0 ? 'Front' : 'Back'} ${this.currentImageIndex + 1}/${availableImages.length})`;
+
+        
+        const lightboxISO = document.getElementById('lightboxISO');
+        const lightboxFormat = document.getElementById('lightboxFormat');
+        const lightboxProcess = document.getElementById('lightboxProcess');
+        const lightboxExpiry = document.getElementById('lightboxExpiry');
+        
+        lightboxISO.innerHTML = `${item.film_speed_iso} <span>ISO</span>`;
+        lightboxFormat.innerHTML = `${item.film_format} <span>FORMAT</span>`;
+        lightboxProcess.innerHTML = `${item.process} <span>PROCESS</span>`;
+        let formattedExpiry = 'Unknown';
+        if (item.expiry_date && item.expiry_date !== 'Unknown') {
+            const expiry = item.expiry_date;
+            if (expiry.length === 6) {
+                const year = expiry.substring(0, 4);
+                const month = expiry.substring(4, 6);
+                formattedExpiry = `${year}-${month}`;
+            } else {
+                formattedExpiry = expiry;
+            }
         }
-        lightboxDetails.textContent = detailsText;
+        lightboxExpiry.innerHTML = `${formattedExpiry} <span>EXPIRY DATE</span>`;
         
         if (item.author && item.author.trim() !== '') {
-            lightboxScanCredit.textContent = `Scan Credit: ${item.author}`;
+            lightboxScanCredit.textContent = `Scan by ${item.author}`;
             lightboxScanCredit.style.display = 'block';
         } else {
             lightboxScanCredit.style.display = 'none';
@@ -652,8 +688,58 @@ class FilmGallery {
         const prevBtn = document.querySelector('.lightbox-prev');
         const nextBtn = document.querySelector('.lightbox-next');
         
-        prevBtn.style.display = this.currentImageIndex > 0 ? 'block' : 'none';
-        nextBtn.style.display = this.currentImageIndex < availableImages.length - 1 ? 'block' : 'none';
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        prevBtn.style.display = this.currentIndex > 0 ? 'block' : 'none';
+        nextBtn.style.display = this.currentIndex < groupedData.length - 1 ? 'block' : 'none';
+    }
+
+    updateImageMetadata(imageElement, imageUrl) {
+        const lightboxResolution = document.getElementById('lightboxResolution');
+        const lightboxFileSize = document.getElementById('lightboxFileSize');
+        const downloadBtn = document.getElementById('downloadImage');
+        
+        const resolution = `${imageElement.naturalWidth} × ${imageElement.naturalHeight}`;
+        lightboxResolution.textContent = resolution;
+        
+        fetch(imageUrl, { method: 'HEAD' })
+            .then(response => {
+                const contentLength = response.headers.get('content-length');
+                
+                if (contentLength) {
+                    const sizeInBytes = parseInt(contentLength);
+                    const sizeInMB = (sizeInBytes / (1024 * 1024)).toFixed(1);
+                    lightboxFileSize.textContent = `${sizeInMB} MB`;
+                } else {
+                    const estimatedSize = this.estimateFileSize(imageElement.naturalWidth, imageElement.naturalHeight);
+                    lightboxFileSize.textContent = `${estimatedSize} MB`;
+                }
+            })
+            .catch(error => {
+                const estimatedSize = this.estimateFileSize(imageElement.naturalWidth, imageElement.naturalHeight);
+                lightboxFileSize.textContent = `${estimatedSize} MB`;
+            });
+        
+        downloadBtn.style.display = 'block';
+        downloadBtn.onclick = (e) => {
+            e.preventDefault();
+            this.downloadImage(imageUrl);
+        };
+    }
+
+    estimateFileSize(width, height) {
+        const pixels = width * height;
+        const estimatedBytes = pixels * 0.15;
+        const estimatedMB = (estimatedBytes / (1024 * 1024)).toFixed(1);
+        return estimatedMB;
+    }
+
+    downloadImage(imageUrl) {
+        const link = document.createElement('a');
+        link.href = imageUrl;
+        link.download = imageUrl.split('/').pop();
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
     }
 
     showPreviousImage() {
@@ -703,16 +789,7 @@ class FilmGallery {
         }
     }
 
-    showError(message) {
-        const container = document.getElementById('galleryContainer');
-        container.innerHTML = `
-            <div class="error-message">
-                <h3>Error Loading Gallery</h3>
-                <p>${message}</p>
-                <button onclick="location.reload()">Retry</button>
-            </div>
-        `;
-    }
+
 
     getAvailableImages() {
         if (!this.currentGroup) return [];
@@ -726,6 +803,7 @@ class FilmGallery {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
         if (this.currentIndex > 0) {
             this.currentIndex--;
+            this.currentImageIndex = 0;
             this.openLightbox(this.currentIndex);
         }
     }
@@ -734,6 +812,7 @@ class FilmGallery {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
         if (this.currentIndex < groupedData.length - 1) {
             this.currentIndex++;
+            this.currentImageIndex = 0;
             this.openLightbox(this.currentIndex);
         }
     }
@@ -813,15 +892,19 @@ class FilmGallery {
             }
         });
         
+        document.querySelectorAll('input[name="expiry"]').forEach(radio => {
+            if (radio.value === '') {
+                radio.checked = true;
+            }
+        });
+        
         this.updateInitialToggleText();
         this.filterGallery();
         
-        if (this.isMobile()) {
-            document.querySelectorAll('.filter-content').forEach(content => {
-                content.classList.remove('expanded');
-                content.previousElementSibling.classList.add('collapsed');
-            });
-        }
+        document.querySelectorAll('.filter-content').forEach(content => {
+            content.classList.remove('expanded');
+            content.previousElementSibling.classList.add('collapsed');
+        });
     }
 
     updateLastUpdated() {
@@ -847,6 +930,10 @@ class FilmGallery {
         const zoomStep = 0.25;
         const maxZoom = 3;
         const minZoom = 0.5;
+        let lastZoom = 1;
+        let lastX = 0;
+        let lastY = 0;
+        let lastRotation = 0;
 
         const lightboxImage = document.getElementById('lightboxImage');
         const zoomInBtn = document.getElementById('zoomIn');
@@ -856,27 +943,68 @@ class FilmGallery {
         const frontViewBtn = document.getElementById('frontView');
         const backViewBtn = document.getElementById('backView');
 
-        const updateTransform = () => {
-            lightboxImage.style.transform = `scale(${currentZoom}) translate(${currentX}px, ${currentY}px) rotate(${currentRotation}deg)`;
-            
-            zoomInBtn.disabled = currentZoom >= maxZoom;
-            zoomOutBtn.disabled = currentZoom <= minZoom;
-            
-            zoomInBtn.style.opacity = currentZoom >= maxZoom ? '0.5' : '1';
-            zoomOutBtn.style.opacity = currentZoom <= minZoom ? '0.5' : '1';
+        let zoomInDisabled = false;
+        let zoomOutDisabled = false;
+
+        lightboxImage.style.willChange = 'transform';
+        lightboxImage.style.transformOrigin = 'center center';
+        
+        const updateCursor = () => {
+            lightboxImage.style.cursor = 'grab';
         };
+
+        const updateTransform = () => {
+            if (currentZoom !== lastZoom || currentX !== lastX || currentY !== lastY || currentRotation !== lastRotation) {
+                lightboxImage.style.transform = `translate3d(${currentX}px, ${currentY}px, 0) scale(${currentZoom}) rotate(${currentRotation}deg)`;
+                
+                lastZoom = currentZoom;
+                lastX = currentX;
+                lastY = currentY;
+                lastRotation = currentRotation;
+                
+                setTimeout(updateCursor, 0);
+            }
+            
+            const newZoomInDisabled = currentZoom >= maxZoom;
+            const newZoomOutDisabled = currentZoom <= minZoom;
+            
+            if (newZoomInDisabled !== zoomInDisabled) {
+                zoomInDisabled = newZoomInDisabled;
+                zoomInBtn.disabled = zoomInDisabled;
+                zoomInBtn.style.opacity = zoomInDisabled ? '0.5' : '1';
+            }
+            
+            if (newZoomOutDisabled !== zoomOutDisabled) {
+                zoomOutDisabled = newZoomOutDisabled;
+                zoomOutBtn.disabled = zoomOutDisabled;
+                zoomOutBtn.style.opacity = zoomOutDisabled ? '0.5' : '1';
+            }
+        };
+
+        const updateTransformImmediate = () => {
+            lightboxImage.style.transition = 'none';
+            lightboxImage.offsetHeight;
+            updateTransform();
+            setTimeout(() => {
+                lightboxImage.style.transition = 'transform 0.3s ease';
+            }, 50);
+        };
+
+
 
         zoomInBtn.addEventListener('click', () => {
             if (currentZoom < maxZoom) {
-                currentZoom += zoomStep;
-                updateTransform();
+                currentZoom = Math.min(currentZoom + zoomStep, maxZoom);
+                updateTransformImmediate();
+                setTimeout(updateCursor, 0);
             }
         });
 
         zoomOutBtn.addEventListener('click', () => {
             if (currentZoom > minZoom) {
-                currentZoom -= zoomStep;
-                updateTransform();
+                currentZoom = Math.max(currentZoom - zoomStep, minZoom);
+                updateTransformImmediate();
+                setTimeout(updateCursor, 0);
             }
         });
 
@@ -893,7 +1021,12 @@ class FilmGallery {
             currentX = 0;
             currentY = 0;
             currentRotation = 0;
+            lastZoom = 0;
+            lastX = 1;
+            lastY = 1;
+            lastRotation = 1;
             updateTransform();
+            setTimeout(updateCursor, 0);
         });
 
         this.resetZoom = () => {
@@ -901,77 +1034,64 @@ class FilmGallery {
             currentX = 0;
             currentY = 0;
             currentRotation = 0;
+            lastZoom = 0;
+            lastX = 1;
+            lastY = 1;
+            lastRotation = 1;
             updateTransform();
+            setTimeout(updateCursor, 0);
         };
 
-        // Drag functionality
         let isDragging = false;
         let startX = 0;
         let startY = 0;
         let startTranslateX = 0;
         let startTranslateY = 0;
 
-        lightboxImage.addEventListener('mousedown', (e) => {
-            if (currentZoom > 1) {
-                isDragging = true;
-                startX = e.clientX;
-                startY = e.clientY;
-                startTranslateX = currentX;
-                startTranslateY = currentY;
-                lightboxImage.style.cursor = 'grabbing';
-                e.preventDefault();
-            }
-        });
+        const handleDragStart = (e) => {
+            console.log('Drag start detected', e.target);
+            isDragging = true;
+            const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+            const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+            startX = clientX;
+            startY = clientY;
+            startTranslateX = currentX;
+            startTranslateY = currentY;
+            lightboxImage.style.cursor = 'grabbing';
+            e.preventDefault();
+        };
 
-        document.addEventListener('mousemove', (e) => {
-            if (isDragging && currentZoom > 1) {
-                const deltaX = e.clientX - startX;
-                const deltaY = e.clientY - startY;
+        const handleDragMove = (e) => {
+            if (isDragging) {
+                console.log('Drag move detected');
+                const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+                const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+                const deltaX = clientX - startX;
+                const deltaY = clientY - startY;
                 
                 currentX = startTranslateX + deltaX;
                 currentY = startTranslateY + deltaY;
                 
-                updateTransform();
+                requestAnimationFrame(updateTransformImmediate);
+                e.preventDefault();
             }
-        });
+        };
 
-        document.addEventListener('mouseup', () => {
+        const handleDragEnd = () => {
             isDragging = false;
             lightboxImage.style.cursor = 'grab';
-        });
+        };
 
-        // Touch support for mobile
-        lightboxImage.addEventListener('touchstart', (e) => {
-            if (currentZoom > 1) {
-                isDragging = true;
-                const touch = e.touches[0];
-                startX = touch.clientX;
-                startY = touch.clientY;
-                startTranslateX = currentX;
-                startTranslateY = currentY;
-                e.preventDefault();
-            }
-        });
+        lightboxImage.addEventListener('mousedown', handleDragStart);
+        lightboxImage.parentElement.addEventListener('mousedown', handleDragStart);
+        document.addEventListener('mousemove', handleDragMove);
+        document.addEventListener('mouseup', handleDragEnd);
 
-        document.addEventListener('touchmove', (e) => {
-            if (isDragging && currentZoom > 1) {
-                const touch = e.touches[0];
-                const deltaX = touch.clientX - startX;
-                const deltaY = touch.clientY - startY;
-                
-                currentX = startTranslateX + deltaX;
-                currentY = startTranslateY + deltaY;
-                
-                updateTransform();
-                e.preventDefault();
-            }
-        });
+        lightboxImage.addEventListener('touchstart', handleDragStart, { passive: false });
+        lightboxImage.parentElement.addEventListener('touchstart', handleDragStart, { passive: false });
+        document.addEventListener('touchmove', handleDragMove, { passive: false });
+        document.addEventListener('touchend', handleDragEnd);
 
-        document.addEventListener('touchend', () => {
-            isDragging = false;
-        });
-
-        // View controls
         const updateViewButtons = () => {
             if (this.currentGroup) {
                 const hasFront = this.currentGroup.front !== null;
@@ -1009,6 +1129,8 @@ class FilmGallery {
         });
 
         this.updateViewControls = updateViewButtons;
+        
+        setTimeout(updateCursor, 100);
     }
 }
 

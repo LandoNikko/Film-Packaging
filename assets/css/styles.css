@@ -25,9 +25,25 @@
     --accent-shanghai: #FF6347;
     --accent-york-photo-labs: #4169E1;
     --accent-gaf: #FF8C00;
+    --accent-adox: #2E8B57;
+    --accent-alfo: #FF6B35;
+    --accent-bergger: #8B4513;
+    --accent-foma: #4682B4;
+    --accent-hazenfilm: #FF1493;
+    --accent-jch: #32CD32;
+    --accent-klick: #FFD700;
+    --accent-kosmo-foto: #FF4500;
+    --accent-perutz: #9370DB;
+    --accent-rossmann: #FF6347;
+    --accent-sakura: #FF69B4;
+    --accent-santacolor: #20B2AA;
+    --accent-svema: #DC143C;
+    --accent-tasma: #4169E1;
+    --accent-three-film-rolls: #FF8C00;
     --accent-unknown: #808080;
     --font-heading: 'Bebas Neue', sans-serif;
     --font-body: 'Inter', sans-serif;
+    --font-mono: 'Courier Prime', monospace;
 }
 
 * {
@@ -66,10 +82,6 @@ a {
     color: var(--text-color);
     text-decoration: none;
     transition: color 0.3s ease;
-}
-
-a:hover {
-    color: var(--accent-kodak);
 }
 
 header.site-header {
@@ -125,10 +137,6 @@ nav {
     text-decoration: none;
     letter-spacing: 1px;
     transition: color 0.3s ease;
-}
-
-.nav-logo:hover {
-    color: var(--accent-kodak);
 }
 
 footer {

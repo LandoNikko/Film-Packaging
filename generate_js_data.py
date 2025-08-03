@@ -41,6 +41,7 @@ def generate_js_data():
                 'film_format': row.get('film_format', 'Unknown'),
                 'film_speed_iso': row.get('film_speed_iso', 'Unknown'),
                 'process': row.get('process', 'Unknown'),
+                'expiry_date': row.get('expiry_date', 'Unknown'),
                 'item_type': row.get('item_type', 'Unknown'),
                 'author': row.get('author', 'Unknown'),
                 'imageUrl': f'film_packaging/archive/{filename}',

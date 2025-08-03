@@ -7,7 +7,7 @@
     <meta name="description" content="Browse our collection of high-resolution film packaging scans in an interactive gallery">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
@@ -26,8 +26,8 @@
     </nav>
 
     <header class="site-header">
-        <h1>Film Packaging Gallery</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <h1 class="text-heading">Film Packaging Gallery</h1>
+        <p class="text-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <div class="header-decoration">
             <span style="background-color: var(--accent-fujifilm);"></span>
             <span style="background-color: var(--accent-kodak);"></span>
@@ -40,14 +40,10 @@
         </div>
     </header>
 
-    <div class="gallery-container">
+    <div class="container-base gallery-container">
         <aside class="filter-sidebar">
             <div class="sidebar-header">
-                <h3>Filters | <span class="counter-display"><span id="itemCounter">0</span></span></h3>
-                <div class="view-controls-section">
-                    <button id="gridView" class="view-btn active">Grid</button>
-                    <button id="listView" class="view-btn">List</button>
-                </div>
+                <h3 class="text-heading"><span class="clickable-filters" title="Reset all filters">Filters</span> <span class="counter-display"><span id="itemCounter">0</span></span></h3>
             </div>
             
             <div class="search-section">
@@ -56,6 +52,8 @@
                     <span class="search-icon"><i class="ri-search-line"></i></span>
                 </div>
             </div>
+
+            <h3 class="text-heading">Sort By</h3>
 
             <div class="filter-section">
                 <div class="filter-icon-container">
@@ -117,9 +115,29 @@
                     </div>
                 </div>
             </div>
+
+            <div class="filter-section">
+                <div class="filter-icon-container">
+                    <i class="ri-sort-desc filter-icon"></i>
+                </div>
+                <div class="filter-content-wrapper">
+                    <button class="filter-toggle" data-target="expiry-section">
+                        <span>By Expiry Date</span>
+                        <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
+                    </button>
+                    <div class="filter-content" id="expiry-section">
+                        <div class="filter-options" id="expiryFilter">
+                            <label class="filter-option">
+                                <input type="radio" name="expiry" value="" checked>
+                                <span>Expiry Date</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </aside>
 
-        <main class="gallery-main">
+        <main class="container-base gallery-main">
 
         <div id="galleryContainer" class="gallery-grid">
         </div>
@@ -132,41 +150,56 @@
             <div id="noResults" class="no-results" style="display: none;">
             <h3>No items found</h3>
             <p>Try adjusting your filters/search or</p>
-            <button id="resetFilters" class="view-btn" style="margin-top: 1rem;">Reset All Filters</button>
+            <button id="resetFilters" class="btn-base view-btn" style="margin-top: 1rem;">Reset All Filters</button>
         </div>
     </main>
     </div>
 
     <div id="lightbox" class="lightbox">
         <div class="lightbox-content">
-            <button class="lightbox-close">&times;</button>
-            <button class="lightbox-prev">&lt;</button>
-            <button class="lightbox-next">&gt;</button>
+            <button class="lightbox-btn lightbox-close">&times;</button>
             <div class="lightbox-image-container">
                 <img id="lightboxImage" src="" alt="">
                 <div class="lightbox-zoom-controls">
-                    <button class="zoom-btn" id="zoomIn" aria-label="Zoom in">
+                    <button class="lightbox-btn zoom-btn" id="zoomIn" aria-label="Zoom in">
                         <i class="ri-zoom-in-line"></i>
                     </button>
-                    <button class="zoom-btn" id="zoomOut" aria-label="Zoom out">
+                    <button class="lightbox-btn zoom-btn" id="zoomOut" aria-label="Zoom out">
                         <i class="ri-zoom-out-line"></i>
                     </button>
-                    <button class="zoom-btn" id="rotateBtn" aria-label="Rotate 90 degrees">
+                    <button class="lightbox-btn zoom-btn" id="rotateBtn" aria-label="Rotate 90 degrees">
                         <i class="ri-clockwise-2-line"></i>
                     </button>
-                    <button class="zoom-btn" id="zoomReset" aria-label="Reset zoom" style="margin-left:2rem;">
+                    <button class="lightbox-btn zoom-btn" id="zoomReset" aria-label="Reset zoom" style="margin-left:2rem;">
                         <i class="ri-find-replace-line"></i>
                     </button>
                 </div>
                 <div class="lightbox-view-controls">
-                    <button class="view-btn-lightbox" id="frontView">Front View</button>
-                    <button class="view-btn-lightbox" id="backView">Back View</button>
+                    <button class="lightbox-btn view-btn-lightbox" id="frontView">Front View</button>
+                    <button class="lightbox-btn view-btn-lightbox" id="backView">Back View</button>
                 </div>
             </div>
             <div class="lightbox-info">
-                <h3 id="lightboxTitle"></h3>
-                <p id="lightboxDetails"></p>
-                <p id="lightboxScanCredit" class="scan-credit"></p>
+                <button class="lightbox-btn lightbox-info-toggle" id="infoToggle" style="display: none;" title="Toggle Info">
+                    <i class="ri-information-line"></i>
+                </button>
+                <button class="lightbox-btn lightbox-prev">&lt;</button>
+                <button class="lightbox-btn lightbox-next">&gt;</button>
+                <div class="lightbox-info-main">
+                    <h3 id="lightboxTitle"></h3>
+                    <div class="lightbox-item-details">
+                        <div id="lightboxISO"></div>
+                        <div id="lightboxFormat"></div>
+                        <div id="lightboxProcess"></div>
+                        <div id="lightboxExpiry"></div>
+                    </div>
+                </div>
+                <div class="lightbox-info-meta">
+                    <p id="lightboxFileSize" class="image-meta"></p>
+                    <p id="lightboxResolution" class="image-meta"></p>
+                    <p id="lightboxScanCredit" class="image-meta"></p>
+                    <a id="downloadImage" href="#" class="image-meta" style="text-decoration: underline;"><i class="ri-file-download-line"></i> Download Image</a>
+                </div>
             </div>
         </div>
     </div>
