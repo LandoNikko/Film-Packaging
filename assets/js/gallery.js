@@ -1043,27 +1043,70 @@ class FilmGallery {
         };
 
         let isDragging = false;
+        let isPinching = false;
         let startX = 0;
         let startY = 0;
         let startTranslateX = 0;
         let startTranslateY = 0;
+        let initialDistance = 0;
+        let initialZoom = 1;
+
+        const getDistance = (touch1, touch2) => {
+            const dx = touch1.clientX - touch2.clientX;
+            const dy = touch1.clientY - touch2.clientY;
+            return Math.sqrt(dx * dx + dy * dy);
+        };
+
+        const getCenter = (touch1, touch2) => {
+            return {
+                x: (touch1.clientX + touch2.clientX) / 2,
+                y: (touch1.clientY + touch2.clientY) / 2
+            };
+        };
 
         const handleDragStart = (e) => {
-            console.log('Drag start detected', e.target);
-            isDragging = true;
-            const clientX = e.clientX || (e.touches && e.touches[0].clientX);
-            const clientY = e.clientY || (e.touches && e.touches[0].clientY);
-            startX = clientX;
-            startY = clientY;
-            startTranslateX = currentX;
-            startTranslateY = currentY;
-            lightboxImage.style.cursor = 'grabbing';
-            e.preventDefault();
+            if (e.touches && e.touches.length === 2) {
+                isPinching = true;
+                isDragging = false;
+                initialDistance = getDistance(e.touches[0], e.touches[1]);
+                initialZoom = currentZoom;
+                const center = getCenter(e.touches[0], e.touches[1]);
+                startX = center.x;
+                startY = center.y;
+                startTranslateX = currentX;
+                startTranslateY = currentY;
+                e.preventDefault();
+            } else {
+                isDragging = true;
+                isPinching = false;
+                const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+                const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+                startX = clientX;
+                startY = clientY;
+                startTranslateX = currentX;
+                startTranslateY = currentY;
+                lightboxImage.style.cursor = 'grabbing';
+                e.preventDefault();
+            }
         };
 
         const handleDragMove = (e) => {
-            if (isDragging) {
-                console.log('Drag move detected');
+            if (isPinching && e.touches && e.touches.length === 2) {
+                const currentDistance = getDistance(e.touches[0], e.touches[1]);
+                const scale = currentDistance / initialDistance;
+                const newZoom = Math.max(minZoom, Math.min(maxZoom, initialZoom * scale));
+                
+                const center = getCenter(e.touches[0], e.touches[1]);
+                const deltaX = center.x - startX;
+                const deltaY = center.y - startY;
+                
+                currentZoom = newZoom;
+                currentX = startTranslateX + deltaX;
+                currentY = startTranslateY + deltaY;
+                
+                requestAnimationFrame(updateTransformImmediate);
+                e.preventDefault();
+            } else if (isDragging) {
                 const clientX = e.clientX || (e.touches && e.touches[0].clientX);
                 const clientY = e.clientY || (e.touches && e.touches[0].clientY);
                 const deltaX = clientX - startX;
@@ -1079,6 +1122,7 @@ class FilmGallery {
 
         const handleDragEnd = () => {
             isDragging = false;
+            isPinching = false;
             lightboxImage.style.cursor = 'grab';
         };
 

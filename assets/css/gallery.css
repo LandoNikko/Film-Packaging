@@ -482,6 +482,21 @@
 .gallery-item[data-brand*="shanghai"] .brand-header { background-color: var(--accent-shanghai); }
 .gallery-item[data-brand*="york photo labs"] .brand-header { background-color: var(--accent-york-photo-labs); }
 .gallery-item[data-brand*="gaf"] .brand-header { background-color: var(--accent-gaf); }
+.gallery-item[data-brand*="adox"] .brand-header { background-color: var(--accent-adox); }
+.gallery-item[data-brand*="alfo"] .brand-header { background-color: var(--accent-alfo); }
+.gallery-item[data-brand*="bergger"] .brand-header { background-color: var(--accent-bergger); }
+.gallery-item[data-brand*="foma"] .brand-header { background-color: var(--accent-foma); }
+.gallery-item[data-brand*="hazenfilm"] .brand-header { background-color: var(--accent-hazenfilm); }
+.gallery-item[data-brand*="jch"] .brand-header { background-color: var(--accent-jch); }
+.gallery-item[data-brand*="klick"] .brand-header { background-color: var(--accent-klick); }
+.gallery-item[data-brand*="kosmo foto"] .brand-header { background-color: var(--accent-kosmo-foto); }
+.gallery-item[data-brand*="perutz"] .brand-header { background-color: var(--accent-perutz); }
+.gallery-item[data-brand*="rossmann"] .brand-header { background-color: var(--accent-rossmann); }
+.gallery-item[data-brand*="sakura"] .brand-header { background-color: var(--accent-sakura); }
+.gallery-item[data-brand*="santacolor"] .brand-header { background-color: var(--accent-santacolor); }
+.gallery-item[data-brand*="svema"] .brand-header { background-color: var(--accent-svema); }
+.gallery-item[data-brand*="tasma"] .brand-header { background-color: var(--accent-tasma); }
+.gallery-item[data-brand*="three film rolls"] .brand-header { background-color: var(--accent-three-film-rolls); }
 .gallery-item[data-brand*="unknown"] .brand-header { background-color: var(--accent-unknown); }
 
 
@@ -628,6 +643,7 @@
     backface-visibility: hidden;
     perspective: 1000px;
     transition: transform 0.3s ease;
+    pointer-events: auto;
 }
 
 .lightbox-image-container img:active {
@@ -938,17 +954,37 @@
         color: var(--text-color);
     }
 
+    .lightbox-zoom-controls {
+        bottom: 10px;
+        left: 10px;
+        right: auto;
+        transform: none;
+        gap: 5px;
+        z-index: 30;
+    }
+
+    .zoom-btn {
+        width: 35px;
+        height: 35px;
+        font-size: 1rem;
+        pointer-events: auto;
+        touch-action: manipulation;
+    }
+
     .lightbox-view-controls {
         top: 10px;
         left: 10px;
         bottom: auto;
         right: auto;
         gap: 3px;
+        z-index: 30;
     }
 
     .view-btn-lightbox {
         font-size: 0.8rem;
         padding: 6px 10px;
+        pointer-events: auto;
+        touch-action: manipulation;
     }
     
     .lightbox-info {
@@ -956,6 +992,7 @@
         gap: 10px;
         justify-content: center;
         align-items: center;
+        padding-bottom: 80px;
     }
     
     .lightbox-info-main {
@@ -968,7 +1005,7 @@
     
     .lightbox-info-toggle {
         position: absolute;
-        top: 20px;
+        bottom: 25px;
         right: 20px;
         display: block !important;
         width: 40px;
