@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 02 2025
+Last Updated: Aug 05 2025
 
-# of items: 263
+# of items: 287
 ```
 
 -----
@@ -44,8 +44,8 @@ Last Updated: Aug 02 2025
 - [[@recycling.film] Fujifilm Superia Reala (ref: a7de)](#recyclingfilm-fujifilm-superia-reala-ref-a7de)
 - [[@recycling.film] Ilford HP5 Plus (ref: c725)](#recyclingfilm-ilford-hp5-plus-ref-c725)
 - [[@recycling.film] Kodak ColorPlus (ref: 6637)](#recyclingfilm-kodak-colorplus-ref-6637)
-- [[@recycling.film] Kodak Portra (ref: ce56)](#recyclingfilm-kodak-portra-ref-ce56)
-- [[@recycling.film] Kodak Portra (ref: 7d65)](#recyclingfilm-kodak-portra-ref-7d65)
+- [[@recycling.film] Kodak Portra 160 (ref: ce56)](#recyclingfilm-kodak-portra-160-ref-ce56)
+- [[@recycling.film] Kodak Portra 800 (ref: 7d65)](#recyclingfilm-kodak-portra-800-ref-7d65)
 - [[@seklerek] Fujifilm Provia 100F (ref: 356d)](#seklerek-fujifilm-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Velvia 100F (ref: 32d4)](#seklerek-fujifilm-velvia-100f-ref-32d4)
 - [[Henry Gunn] Kodak High Speed Ektachrome (ref: b8f8)](#henry-gunn-kodak-high-speed-ektachrome-ref-b8f8)
@@ -92,6 +92,8 @@ Last Updated: Aug 02 2025
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)](#the-compartmentalist-kodak-ektachrome-x-ref-ae7e)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: aec5)](#the-compartmentalist-kodak-ektachrome-x-ref-aec5)
 - [[The Compartmentalist] Kodak Kodachrome (ref: 8833)](#the-compartmentalist-kodak-kodachrome-ref-8833)
+- [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
@@ -130,6 +132,7 @@ Last Updated: Aug 02 2025
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
 - [[dekuNukem] Kodak Ektachrome (ref: 07c0)](#dekunukem-kodak-ektachrome-ref-07c0)
+- [[dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)](#dekunukem-kodak-ektachrome-e100vs-ref-a8d3)
 - [[dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)](#dekunukem-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[dekuNukem] Kodak Gold (ref: f368)](#dekunukem-kodak-gold-ref-f368)
 - [[dekuNukem] Kodak Gold (ref: 933f)](#dekunukem-kodak-gold-ref-933f)
@@ -149,9 +152,12 @@ Last Updated: Aug 02 2025
 - [[dekuNukem] Lomography Lomochrome Turquoise (ref: 0d90)](#dekunukem-lomography-lomochrome-turquoise-ref-0d90)
 - [[dekuNukem] Polaroid 665 (ref: e054)](#dekunukem-polaroid-665-ref-e054)
 - [[dekuNukem] Polaroid 669 (ref: 3566)](#dekunukem-polaroid-669-ref-3566)
+- [[dekuNukem] Polaroid 87 (ref: 62ef)](#dekunukem-polaroid-87-ref-62ef)
 - [[dekuNukem] Polaroid GridFilm (ref: 8deb)](#dekunukem-polaroid-gridfilm-ref-8deb)
-- [[dekuNukem] Polaroid PolaBlue (ref: df66)](#dekunukem-polaroid-polablue-ref-df66)
-- [[dekuNukem] Polaroid PolaChrome (ref: 3b60)](#dekunukem-polaroid-polachrome-ref-3b60)
+- [[dekuNukem] Polaroid PolaBlue 35mm (ref: df66)](#dekunukem-polaroid-polablue-35mm-ref-df66)
+- [[dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)](#dekunukem-polaroid-polachrome-35mm-ref-3b60)
+- [[dekuNukem] Polaroid PolaPan 35mm (ref: 9825)](#dekunukem-polaroid-polapan-35mm-ref-9825)
+- [[dekuNukem] Polaroid Polacolor 679 (ref: 625c)](#dekunukem-polaroid-polacolor-679-ref-625c)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
 - [[dekuNukem] Three Film Rolls 5207 (ref: 0292)](#dekunukem-three-film-rolls-5207-ref-0292)
@@ -551,7 +557,7 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [@recycling.film] Kodak Portra (ref: ce56)
+#### [@recycling.film] Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -561,10 +567,10 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
-#### [@recycling.film] Kodak Portra (ref: 7d65)
+#### [@recycling.film] Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -574,7 +580,7 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [@seklerek] Fujifilm Provia 100F (ref: 356d)
@@ -753,7 +759,7 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
@@ -1348,6 +1354,32 @@ UUID  : 6239a04366d74208a9010cd231688833
 
 <a href="./archive/00121_000.jpg">
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
+
+```
+Format: 16mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1992-06  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
+```
+
+<a href="./archive/00162_000.jpg">
+	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [The Compartmentalist] ORWO NP 20 SL (ref: b16c)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 1992-12  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : 9791c2074fdd4340a1463312ed77b16c
+```
+
+<a href="./archive/00163_000.jpg">
+	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)
@@ -2047,6 +2079,19 @@ UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 110 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [dekuNukem] Kodak Ektachrome E100VS (ref: a8d3)
+
+```
+Format: 120          |  Process: E-6      
+ISO   : 100          |  Expiry : 2010-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : e8673d04cee440bd9c065a37a485a8d3
+```
+
+<a href="./archive/00160_000.jpg">
+	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [dekuNukem] Kodak Ektacolor Pro Gold (ref: c3f8)
 
 ```
@@ -2399,6 +2444,26 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Pack Film film box outside" loading="lazy" width="500" />
 </a>
 
+#### [dekuNukem] Polaroid 87 (ref: 62ef)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 3000         |  Expiry : 2006-07  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5a63521777ca4f788d01aac5f94862ef
+```
+
+<a href="./archive/00158_000.jpg">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 55178f72127944e898f8804ac2663c79`↓
+
+<a href="./archive/00158_001.jpg">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [dekuNukem] Polaroid GridFilm (ref: 8deb)
 
 ```
@@ -2433,20 +2498,62 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Integral Film film box inside" loading="lazy" width="500" />
 </a>
 
-#### [dekuNukem] Polaroid PolaBlue (ref: df66)
+#### [dekuNukem] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
-ISO   : 12           |  Expiry : 1992-08  
+ISO   : 8            |  Expiry : 1992-08  
 Added : 2025-01-04   |  Author : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [dekuNukem] Polaroid PolaChrome (ref: 3b60)
+
+`UUID: 6f0d7187f2aa4396ab9879964db7a22a`↓
+
+<a href="./archive/00019_001.jpg">
+	<img src="./lowres/00019_001.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 69c6bc7256f542acadde9fa0441c8c8f`↓
+
+<a href="./archive/00019_002.jpg">
+	<img src="./lowres/00019_002.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6a168a96e48f45c5b2e4e730e1644fb4`↓
+
+<a href="./archive/00019_003.jpg">
+	<img src="./lowres/00019_003.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 21253e4311ae4a25b46ba931aa78f266`↓
+
+<a href="./archive/00019_004.jpg">
+	<img src="./lowres/00019_004.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: de72b5b522a749fbb6aa280253eea1bd`↓
+
+<a href="./archive/00019_005.jpg">
+	<img src="./lowres/00019_005.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e48473352ab04761b968bdcae19a1ab5`↓
+
+<a href="./archive/00019_006.jpg">
+	<img src="./lowres/00019_006.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [dekuNukem] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -2456,7 +2563,110 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 1d0b621cf6f44481b941423f04103243`↓
+
+<a href="./archive/00029_001.jpg">
+	<img src="./lowres/00029_001.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: ca6b169f6ec949a4a77874ccee054951`↓
+
+<a href="./archive/00029_002.jpg">
+	<img src="./lowres/00029_002.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 705197bbfdc24b92a581a8070d4ee0d2`↓
+
+<a href="./archive/00029_003.jpg">
+	<img src="./lowres/00029_003.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 67abf5aa56574fafab78e2ade2112475`↓
+
+<a href="./archive/00029_004.jpg">
+	<img src="./lowres/00029_004.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+#### [dekuNukem] Polaroid PolaPan 35mm (ref: 9825)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 125          |  Expiry : 1988-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 24a8ae46c50049afb35fc44e956a9825
+```
+
+<a href="./archive/00159_000.jpg">
+	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
+
+<a href="./archive/00159_001.jpg">
+	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
+
+<a href="./archive/00159_002.jpg">
+	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
+
+<a href="./archive/00159_003.jpg">
+	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
+
+<a href="./archive/00159_004.jpg">
+	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+#### [dekuNukem] Polaroid Polacolor 679 (ref: 625c)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 100          |  Expiry : 1998-06  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5844215c1fc74612b6118648b845625c
+```
+
+<a href="./archive/00161_000.jpg">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
+
+<a href="./archive/00161_001.jpg">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 35d7f44a3b59463fabb387917d8f4808`↓
+
+<a href="./archive/00161_002.jpg">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
+
+<a href="./archive/00161_003.jpg">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
 </a>
 
 #### [dekuNukem] Rollei Infrared (ref: 4f54)
@@ -2961,7 +3171,7 @@ UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                89    
+1     dekuNukem                111   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
@@ -2970,8 +3180,8 @@ Rank  Username                 Contributions
 7     toader                   13    
 8     stefanie                 12    
 9     yc128                    11    
-10    lilyu.xyz                9     
-11    The Compartmentalist     9     
+10    The Compartmentalist     11    
+11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     

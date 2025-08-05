@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 02 2025
+Last Updated: Aug 05 2025
 
-# of items: 263
+# of items: 287
 ```
 
 -----
@@ -45,6 +45,7 @@ Last Updated: Aug 02 2025
 - [[1980] Kodak Ektachrome (ref: 8f62)](#1980-kodak-ektachrome-ref-8f62)
 - [[1983] Kodak Kodachrome (ref: 8833)](#1983-kodak-kodachrome-ref-8833)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
+- [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Kodak Gold (ref: f368)](#1988-kodak-gold-ref-f368)
 - [[1990] Fujifilm Fujicolor Super HR (ref: aaa0)](#1990-fujifilm-fujicolor-super-hr-ref-aaa0)
@@ -53,10 +54,12 @@ Last Updated: Aug 02 2025
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
 - [[1991] Kodak TMAX (ref: 1dff)](#1991-kodak-tmax-ref-1dff)
-- [[1992] Polaroid PolaBlue (ref: df66)](#1992-polaroid-polablue-ref-df66)
-- [[1992] Polaroid PolaChrome (ref: 3b60)](#1992-polaroid-polachrome-ref-3b60)
+- [[1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#1992-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[1992] Polaroid PolaBlue 35mm (ref: df66)](#1992-polaroid-polablue-35mm-ref-df66)
+- [[1992] Polaroid PolaChrome 35mm (ref: 3b60)](#1992-polaroid-polachrome-35mm-ref-3b60)
 - [[1992] Kodak Ektachrome (ref: b21e)](#1992-kodak-ektachrome-ref-b21e)
 - [[1992] Fujifilm Fujichrome Professional 100D (ref: 439d)](#1992-fujifilm-fujichrome-professional-100d-ref-439d)
+- [[1992] ORWO NP 20 SL (ref: b16c)](#1992-orwo-np-20-sl-ref-b16c)
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1994] Fujifilm Fujicolor SuperHG (ref: ee94)](#1994-fujifilm-fujicolor-superhg-ref-ee94)
 - [[1994] York Photo Labs DXG 200 (ref: 4bf8)](#1994-york-photo-labs-dxg-200-ref-4bf8)
@@ -65,6 +68,7 @@ Last Updated: Aug 02 2025
 - [[1996] Polaroid 665 (ref: e054)](#1996-polaroid-665-ref-e054)
 - [[1998] Fujifilm Sensia (ref: a59b)](#1998-fujifilm-sensia-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
+- [[1998] Polaroid Polacolor 679 (ref: 625c)](#1998-polaroid-polacolor-679-ref-625c)
 - [[1998] Fujifilm Fujicolor NPL 160 (ref: d10b)](#1998-fujifilm-fujicolor-npl-160-ref-d10b)
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
@@ -87,6 +91,7 @@ Last Updated: Aug 02 2025
 - [[2006] Polaroid 669 (ref: 3566)](#2006-polaroid-669-ref-3566)
 - [[2006] Fujifilm Velvia 100F (ref: f7fb)](#2006-fujifilm-velvia-100f-ref-f7fb)
 - [[2006] Rossmann Jahreszeiten Pack (ref: 7670)](#2006-rossmann-jahreszeiten-pack-ref-7670)
+- [[2006] Polaroid 87 (ref: 62ef)](#2006-polaroid-87-ref-62ef)
 - [[2006] Kodak Advantix Ultra (ref: 566b)](#2006-kodak-advantix-ultra-ref-566b)
 - [[2006] Jessops Diamond Everyday (ref: 67d3)](#2006-jessops-diamond-everyday-ref-67d3)
 - [[2006] Klick APS Film (ref: 4b88)](#2006-klick-aps-film-ref-4b88)
@@ -98,12 +103,13 @@ Last Updated: Aug 02 2025
 - [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2009] Lloyds Pharmacy Colour Film (ref: 77d9)](#2009-lloyds-pharmacy-colour-film-ref-77d9)
+- [[2010] Kodak Ektachrome E100VS (ref: a8d3)](#2010-kodak-ektachrome-e100vs-ref-a8d3)
 - [[2010] Fujifilm Fujicolor 100 (ref: 013b)](#2010-fujifilm-fujicolor-100-ref-013b)
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
-- [[2013] Kodak Portra (ref: ce56)](#2013-kodak-portra-ref-ce56)
+- [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
 - [[2013] Efiniti UXi super 200 (ref: 471a)](#2013-efiniti-uxi-super-200-ref-471a)
 - [[2018] CineStill 800T (ref: c86a)](#2018-cinestill-800t-ref-c86a)
@@ -118,7 +124,7 @@ Last Updated: Aug 02 2025
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
-- [[2025] Kodak Portra (ref: 7d65)](#2025-kodak-portra-ref-7d65)
+- [[2025] Kodak Portra 800 (ref: 7d65)](#2025-kodak-portra-800-ref-7d65)
 - [[2025] Lomography Lomochrome Turquoise (ref: 0d90)](#2025-lomography-lomochrome-turquoise-ref-0d90)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Lomography Babylon (ref: 7afa)](#2025-lomography-babylon-ref-7afa)
@@ -648,6 +654,47 @@ UUID  : a26daa2cb6e44957af3d978bc67e035f
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [1988] Polaroid PolaPan 35mm (ref: 9825)
+
+```
+Format: 35mm         |  Process: Instant  
+ISO   : 125          |  Expiry : 1988-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 24a8ae46c50049afb35fc44e956a9825
+```
+
+<a href="./archive/00159_000.jpg">
+	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
+
+<a href="./archive/00159_001.jpg">
+	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
+
+<a href="./archive/00159_002.jpg">
+	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
+
+<a href="./archive/00159_003.jpg">
+	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
+
+<a href="./archive/00159_004.jpg">
+	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
 #### [1988] Kodak Technical Pan 6415 (ref: 03be)
 
 ```
@@ -822,20 +869,75 @@ UUID  : 9e4ea1efa5a54938985fdf8901951dff
 	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX 35mm film box leaflet" loading="lazy" height="500" />
 </a>
 
-#### [1992] Polaroid PolaBlue (ref: df66)
+#### [1992] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
+
+```
+Format: 16mm         |  Process: C-41     
+ISO   : 100          |  Expiry : 1992-06  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
+```
+
+<a href="./archive/00162_000.jpg">
+	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
+</a>
+
+#### [1992] Polaroid PolaBlue 35mm (ref: df66)
 
 ```
 Format: 35mm         |  Process: Instant  
-ISO   : 12           |  Expiry : 1992-08  
+ISO   : 8            |  Expiry : 1992-08  
 Added : 2025-01-04   |  Author : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
 <a href="./archive/00019_000.jpg">
-	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" height="500" />
 </a>
 
-#### [1992] Polaroid PolaChrome (ref: 3b60)
+
+`UUID: 6f0d7187f2aa4396ab9879964db7a22a`↓
+
+<a href="./archive/00019_001.jpg">
+	<img src="./lowres/00019_001.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 69c6bc7256f542acadde9fa0441c8c8f`↓
+
+<a href="./archive/00019_002.jpg">
+	<img src="./lowres/00019_002.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 6a168a96e48f45c5b2e4e730e1644fb4`↓
+
+<a href="./archive/00019_003.jpg">
+	<img src="./lowres/00019_003.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 21253e4311ae4a25b46ba931aa78f266`↓
+
+<a href="./archive/00019_004.jpg">
+	<img src="./lowres/00019_004.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: de72b5b522a749fbb6aa280253eea1bd`↓
+
+<a href="./archive/00019_005.jpg">
+	<img src="./lowres/00019_005.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+
+`UUID: e48473352ab04761b968bdcae19a1ab5`↓
+
+<a href="./archive/00019_006.jpg">
+	<img src="./lowres/00019_006.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1992] Polaroid PolaChrome 35mm (ref: 3b60)
 
 ```
 Format: 35mm         |  Process: Instant  
@@ -845,7 +947,35 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
 <a href="./archive/00029_000.jpg">
-	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 1d0b621cf6f44481b941423f04103243`↓
+
+<a href="./archive/00029_001.jpg">
+	<img src="./lowres/00029_001.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: ca6b169f6ec949a4a77874ccee054951`↓
+
+<a href="./archive/00029_002.jpg">
+	<img src="./lowres/00029_002.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 705197bbfdc24b92a581a8070d4ee0d2`↓
+
+<a href="./archive/00029_003.jpg">
+	<img src="./lowres/00029_003.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 67abf5aa56574fafab78e2ade2112475`↓
+
+<a href="./archive/00029_004.jpg">
+	<img src="./lowres/00029_004.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" />
 </a>
 
 #### [1992] Kodak Ektachrome (ref: b21e)
@@ -900,6 +1030,19 @@ UUID  : 5dcdd19ddf654415b7eac69183e7439d
 
 <a href="./archive/00032_002.jpg">
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" height="500" />
+</a>
+
+#### [1992] ORWO NP 20 SL (ref: b16c)
+
+```
+Format: 35mm         |  Process: BW       
+ISO   : 80           |  Expiry : 1992-12  
+Added : 2025-08-05   |  Author : The Compartmentalist
+UUID  : 9791c2074fdd4340a1463312ed77b16c
+```
+
+<a href="./archive/00163_000.jpg">
+	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [1993] Alfo ALFOcolor PR-G (ref: 94b9)
@@ -1034,6 +1177,40 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" />
 </a>
 
+#### [1998] Polaroid Polacolor 679 (ref: 625c)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 100          |  Expiry : 1998-06  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5844215c1fc74612b6118648b845625c
+```
+
+<a href="./archive/00161_000.jpg">
+	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
+
+<a href="./archive/00161_001.jpg">
+	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Pack Film film box outside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: 35d7f44a3b59463fabb387917d8f4808`↓
+
+<a href="./archive/00161_002.jpg">
+	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
+
+`UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
+
+<a href="./archive/00161_003.jpg">
+	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [1998] Fujifilm Fujicolor NPL 160 (ref: d10b)
 
 ```
@@ -1091,7 +1268,7 @@ UUID  : 63b2857f2df549878446cc1963362d93
 
 ```
 Format: 35mm         |  Process: BW       
-ISO   : Unknown      |  Expiry : 2000-06  
+ISO   : 0.06         |  Expiry : 2000-06  
 Added : 2025-07-29   |  Author : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
@@ -1453,6 +1630,26 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2006] Polaroid 87 (ref: 62ef)
+
+```
+Format: Pack Film    |  Process: Instant  
+ISO   : 3000         |  Expiry : 2006-07  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : 5a63521777ca4f788d01aac5f94862ef
+```
+
+<a href="./archive/00158_000.jpg">
+	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Pack Film film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: 55178f72127944e898f8804ac2663c79`↓
+
+<a href="./archive/00158_001.jpg">
+	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Pack Film film box inside" loading="lazy" height="500" />
+</a>
+
 #### [2006] Kodak Advantix Ultra (ref: 566b)
 
 ```
@@ -1638,6 +1835,19 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [2010] Kodak Ektachrome E100VS (ref: a8d3)
+
+```
+Format: 120          |  Process: E-6      
+ISO   : 100          |  Expiry : 2010-04  
+Added : 2025-08-03   |  Author : dekuNukem
+UUID  : e8673d04cee440bd9c065a37a485a8d3
+```
+
+<a href="./archive/00160_000.jpg">
+	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2010] Fujifilm Fujicolor 100 (ref: 013b)
 
 ```
@@ -1717,7 +1927,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [2013] Kodak Portra (ref: ce56)
+#### [2013] Kodak Portra 160 (ref: ce56)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -1727,7 +1937,7 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
 <a href="./archive/00089_000.jpg">
-	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" width="500" />
+	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2013] Ilford SFX 200 (ref: 6057)
@@ -1989,7 +2199,7 @@ UUID  : 78d1111d1b234dcfb272c00d7935920f
 	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 120 film box inside" loading="lazy" width="500" />
 </a>
 
-#### [2025] Kodak Portra (ref: 7d65)
+#### [2025] Kodak Portra 800 (ref: 7d65)
 
 ```
 Format: 35mm         |  Process: C-41     
@@ -1999,7 +2209,7 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
 <a href="./archive/00088_000.jpg">
-	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 35mm film box outside" loading="lazy" height="500" />
+	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2025] Lomography Lomochrome Turquoise (ref: 0d90)
@@ -2961,7 +3171,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 Rank  Username                 Contributions
 ---------------------------------------------
-1     dekuNukem                89    
+1     dekuNukem                111   
 2     Pelicram                 39    
 3     Nano_Burger              18    
 4     @ob.skura                16    
@@ -2970,8 +3180,8 @@ Rank  Username                 Contributions
 7     toader                   13    
 8     stefanie                 12    
 9     yc128                    11    
-10    lilyu.xyz                9     
-11    The Compartmentalist     9     
+10    The Compartmentalist     11    
+11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     

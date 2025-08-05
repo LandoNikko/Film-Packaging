@@ -31,7 +31,13 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 16,1,film_box_inside,Ilford,HP5 Plus,120,400,BW,202511,1736012719,72114f54b27f19218eb3633195e26cb9,1d938d2d844d498caf9fe2bc83618dda,00016_001.jpg,dekuNukem
 17,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,E-2,196301,1736012891,2290616ea75d47f89f83ffae0b7f3312,ec7cf78858fc48c59e5a0875ec74ce7f,00017_000.jpg,dekuNukem
 18,0,film_box_outside,Polaroid,665,Pack Film,80,Instant,199608,1736023755,1bcecb1b015e966a2c56b57937610221,311d896d68b74b1193afcfa129c5e054,00018_000.jpg,dekuNukem
-19,0,film_box_outside,Polaroid,PolaBlue,35mm,12,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
+19,0,film_box_outside,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1736023839,859db4fa936272430f29a27d3d3cb689,8236180d686f4e9ca4aa8e6fc397df66,00019_000.jpg,dekuNukem
+19,1,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271877,68885cc5c89b33c14b10aef5bdb1143d,6f0d7187f2aa4396ab9879964db7a22a,00019_001.jpg,dekuNukem
+19,2,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271880,dc0ea81b45be3eab4e7145c5464daf9e,69c6bc7256f542acadde9fa0441c8c8f,00019_002.jpg,dekuNukem
+19,3,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271886,ac6707774fd3f9b9efb7bc7859c70234,6a168a96e48f45c5b2e4e730e1644fb4,00019_003.jpg,dekuNukem
+19,4,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271887,93e65f5cd6b19124a608cf55528ccda5,21253e4311ae4a25b46ba931aa78f266,00019_004.jpg,dekuNukem
+19,5,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271889,d7a57dc00df9d0350cabb26309c04538,de72b5b522a749fbb6aa280253eea1bd,00019_005.jpg,dekuNukem
+19,6,film_box_leaflet,Polaroid,PolaBlue 35mm,35mm,8,Instant,199208,1754271891,b47f7ef97e14d914765547787ba526f0,e48473352ab04761b968bdcae19a1ab5,00019_006.jpg,dekuNukem
 20,0,film_box_outside,Polaroid,669,Pack Film,80,Instant,200603,1736023886,b0cd45b17c81925263d5d7993a2202a4,bb62de3a22c04f699c780aeae7c83566,00020_000.jpg,dekuNukem
 21,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202611,1736023928,5f33dbc02c379946e4359cc9eb88a597,e8aefc10fa0d43cebbac73bdcf10933f,00021_000.jpg,dekuNukem
 22,0,film_box_outside,Fujifilm,Pro 400H,120,400,C-41,201809,1736023971,49a08247ec78404771de7e39ebb6c7a9,0d89ecf11f3c46deb52171aa909566e3,00022_000.jpg,dekuNukem
@@ -46,7 +52,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 27,2,film_box_leaflet,Kodak,Ektacolor Pro Gold,220,160,C-41,200007,1736024586,15167b9ca91f10e70ea76d1dab7cf407,c13296cf46f04c1dba4ef93110f3ca71,00027_002.jpg,dekuNukem
 27,3,film_box_leaflet,Kodak,Ektacolor Pro Gold,220,160,C-41,200007,1736024592,3f90912ae1dcdc4af530b6c5d2e7d3ea,53e024b9a272410888a6d44549f7ceb0,00027_003.jpg,dekuNukem
 28,0,film_box_outside,Kodak,Tri-X,120,400,BW,202512,1736024650,45ee2f6b24a06945012c0f9f7ae4b7bd,f7f99b9d46a4491c9cbfda4f030f88c5,00028_000.jpg,dekuNukem
-29,0,film_box_outside,Polaroid,PolaChrome,35mm,40,Instant,199209,1736046040,09cfddc8dd7ae52d17cf02ac07a839f6,b0041b1e44a64f6591d49e918e033b60,00029_000.jpg,dekuNukem
+29,0,film_box_outside,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1736046040,09cfddc8dd7ae52d17cf02ac07a839f6,b0041b1e44a64f6591d49e918e033b60,00029_000.jpg,dekuNukem
+29,1,film_box_leaflet,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1754313576,7f34e3c80f217205b9cd968846c8180f,1d0b621cf6f44481b941423f04103243,00029_001.jpg,dekuNukem
+29,2,film_box_leaflet,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1754313578,1f2d4661616a42e54b8fea84b447b5df,ca6b169f6ec949a4a77874ccee054951,00029_002.jpg,dekuNukem
+29,3,film_box_leaflet,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1754313581,687d8235666af6d767355ffa74948db4,705197bbfdc24b92a581a8070d4ee0d2,00029_003.jpg,dekuNukem
+29,4,film_box_leaflet,Polaroid,PolaChrome 35mm,35mm,40,Instant,199209,1754313583,b74a771df38627ff6c34621e2b3a8555,67abf5aa56574fafab78e2ade2112475,00029_004.jpg,dekuNukem
 30,0,film_box_outside,Rollei,Infrared,120,200,BW,202708,1736046075,eb1ea2f258d651e5036a96b6be331bfc,b7bb7d65979543d0a8e5c9179d734f54,00030_000.jpg,dekuNukem
 31,0,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046197,5f1b719a68bd00716ca5d8577ab310c1,4f1aabf29f724c9ea3b2bee414b08deb,00031_000.jpg,dekuNukem
 31,1,film_box_outside,Polaroid,GridFilm,Integral Film,640,Instant,200610,1736046204,8c0a0413f57a2a74c7808fbac96c0d1a,1dda008c9a844e1b9b64527511fdc282,00031_001.jpg,dekuNukem
@@ -145,8 +155,8 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 85,1,film_box_inside,CineStill,800T,35mm,800,C-41,202609,1753147346,8f60346377c883e78f43fa3d50fdbb0c,fbd9b946fd4d46f8a45a46112dcd16ae,00085_001.jpg,@SirBrentsworth
 86,0,film_box_outside,Kodak,Gold,35mm,200,C-41,202704,1753147686,968a9e9686fc431f793eb296862fbbef,856af2ca15fd4a0bad0df6eb29a2855e,00086_000.jpg,@SirBrentsworth
 87,0,film_box_outside,Fujifilm,Superia Reala,35mm,100,C-41,200704,1753717134,b158259530002d50f2cd627759efab94,bab5fa204b25431a9872c4ce8e9aa7de,00087_000.jpg,@recycling.film
-88,0,film_box_outside,Kodak,Portra,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film
-89,0,film_box_outside,Kodak,Portra,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
+88,0,film_box_outside,Kodak,Portra 800,35mm,800,C-41,202506,1753717168,da2ad339cc4f9bd279844809c2ec7576,7ebac9d7fb8c4ff9b7fbabcaec1d7d65,00088_000.jpg,@recycling.film
+89,0,film_box_outside,Kodak,Portra 160,35mm,160,C-41,201308,1753717208,172b90d1c20e0d94009226ce47ce704b,9131fb90db70475dbad5f63f1448ce56,00089_000.jpg,@recycling.film
 90,0,film_box_outside,Ilford,HP5 Plus,35mm,400,BW,202208,1753717259,b5bba9a78992d38ff924146a1c7f8434,fcbc3377fa3d4ca9b58779f86ed7c725,00090_000.jpg,@recycling.film
 91,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,202608,1753717282,5419c8a441057cbc926e90686e3b829c,bd00cd25958d4108a7501bf4be9d6637,00091_000.jpg,@recycling.film
 92,0,film_box_outside,Foma,Fomapan,35mm,200,BW,202801,1753731469,20ff99b8b0298fabd12e8bf5a84503cd,c3d51159b481435b90dbe2411de784a5,00092_000.jpg,lilyu.xyz
@@ -173,9 +183,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 104,0,film_box_outside,Kodak,TMAX,35mm,3200,BW,199107,1753806754,ac5429feb30a24ba6c40190526b17391,9e4ea1efa5a54938985fdf8901951dff,00104_000.jpg,Nano_Burger
 104,1,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806756,234ca8fe1ca792fd25d9edd22fccddc7,b9d1b08379d9482bbc799101f6881f12,00104_001.jpg,Nano_Burger
 104,2,film_box_leaflet,Kodak,TMAX,35mm,3200,BW,199107,1753806758,1ff153d650b4779322e2e05afbc2b19b,a6740f1fc4df4b80a8a4dee83a26c04b,00104_002.jpg,Nano_Burger
-105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger
-105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger
-105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,Unknown,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
+105,0,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806928,2f2ecdfadc0e5287ff6b6903f47b0483,396a3645cb9a40a4b0a6dd2fd854e66e,00105_000.jpg,Nano_Burger
+105,1,film_box_outside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806930,af2e66b90c07f0781b43de22e0ea7971,bab6cc70d0044171a1afcf33b6cb5556,00105_001.jpg,Nano_Burger
+105,2,film_box_inside,Kodak,Rapid Process Copy Film,35mm,0.06,BW,200006,1753806932,4462f9084b30b81925a55853d6e3a146,fc2e102fecae4f2dbd04fd341fdb7afd,00105_002.jpg,Nano_Burger
 106,0,film_box_outside,Kodak,Technical Pan,35mm,25,BW,199504,1753807209,edf0e6c4d6dab0f5413bac5d5ac388cc,e65b4252384141028ee037892c6bf4cf,00106_000.jpg,Nano_Burger
 106,1,film_box_inside,Kodak,Technical Pan,35mm,25,BW,199504,1753807211,63ecb32036c0bc56a4b21add8f7ccc44,fd713c7576534f62832529c13f74996b,00106_001.jpg,Nano_Burger
 107,0,film_box_outside,Kodak,High Speed Ektachrome,35mm,125,E-4,197701,1753826107,fea879cbc8e97ee86f99a9b5baf6053f,86470a73e4b5436b97ffb272be6bb8f8,00107_000.jpg,Henry Gunn
@@ -262,3 +272,17 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 157,1,film_box_outside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120159,cd206563bad1a85f47282de26471aede,b9ec4052b0d548ef90f77d7fc99d0ccb,00157_001.jpg,toader
 157,2,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120162,a9c22b3816082f27021c2cbfa5d43ac8,95b81cc72d3646d6966a2341510333aa,00157_002.jpg,toader
 157,3,film_box_inside,Polaroid,Color 600 Film Round Frame,Integral Film,640,Instant,202412,1754120165,b4a779e913298da563415977be144fff,038f964e849d4fd1a0c6f1aeb6dd4b0e,00157_003.jpg,toader
+158,0,film_box_outside,Polaroid,87,Pack Film,3000,Instant,200607,1754246674,2a1cacca4d52591a209443df17ef1082,5a63521777ca4f788d01aac5f94862ef,00158_000.jpg,dekuNukem
+158,1,film_box_inside,Polaroid,87,Pack Film,3000,Instant,200607,1754246676,a55d1dfe3e9fa40d00023dbf1eb19336,55178f72127944e898f8804ac2663c79,00158_001.jpg,dekuNukem
+159,0,film_box_outside,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246725,a3882561c3d017185121a9af85dc46c5,24a8ae46c50049afb35fc44e956a9825,00159_000.jpg,dekuNukem
+159,1,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246729,436d69e5a74cf96f2d586aca15010d09,a650b451e12b4e1fabb05b4f1f23fb29,00159_001.jpg,dekuNukem
+159,2,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246734,32042712b543a5a509c034fe5d17843f,30abcb19f7ce46d39021fb057efb95f6,00159_002.jpg,dekuNukem
+159,3,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246736,2b32d3bd7e848353d7fa5385b8181a55,61e5cb43037441ca9a06dd2a4883833c,00159_003.jpg,dekuNukem
+159,4,film_box_leaflet,Polaroid,PolaPan 35mm,35mm,125,Instant,198804,1754246739,9637b9481082ba050dce3f207ea5082d,d4369d4ac7bc432cb5bf9acdb0d835d7,00159_004.jpg,dekuNukem
+160,0,film_box_outside,Kodak,Ektachrome E100VS,120,100,E-6,201004,1754246786,25f3caecc18b1f4d7b343e10813cb265,e8673d04cee440bd9c065a37a485a8d3,00160_000.jpg,dekuNukem
+161,0,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754246997,5c747d08a6d8607ed325031cb5e13829,5844215c1fc74612b6118648b845625c,00161_000.jpg,dekuNukem
+161,1,film_box_outside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247000,13e923bedc057ac6d69cb9de6d66ff6e,cca2cc887edb44adb3b00fc9b6cb0dfd,00161_001.jpg,dekuNukem
+161,2,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247004,3f3eb9a7a39dfc57e5fef2c8efe7c46c,35d7f44a3b59463fabb387917d8f4808,00161_002.jpg,dekuNukem
+161,3,film_box_inside,Polaroid,Polacolor 679,Pack Film,100,Instant,199806,1754247009,2c98a302b4608e4356737f3eab61b680,cc5370f8b582460ebd5a9e27380bd3d2,00161_003.jpg,dekuNukem
+162,0,film_box_outside,Minolta,Minolta 16 Color Film For Prints,16mm,100,C-41,199206,1754377746,9b437d6cfc11f96bb5d0ff4c35071636,a2cfc71ac0e24ea58f4e3350423aa2ff,00162_000.jpg,The Compartmentalist
+163,0,film_box_outside,ORWO,NP 20 SL,35mm,80,BW,199212,1754377817,44a5c7123fd19e04c598191d99698c07,9791c2074fdd4340a1463312ed77b16c,00163_000.jpg,The Compartmentalist
