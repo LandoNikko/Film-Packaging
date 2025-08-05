@@ -21,6 +21,19 @@ class FilmGallery {
         this.renderGallery();
         this.showLoading(false);
         
+        // Dynamic URL handling for lightbox navigation
+        this.handleUrlHash();
+        window.addEventListener('hashchange', () => this.handleUrlHash());
+        window.addEventListener('popstate', (event) => {
+            if (event.state && event.state.filename) {
+                this.handleUrlHash();
+            } else if (window.location.hash) {
+                this.handleUrlHash();
+            } else {
+                this.closeLightbox();
+            }
+        });
+        
         if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
             this.checkForUpdates();
             this.startAutoRefresh();
@@ -577,7 +590,25 @@ class FilmGallery {
 
 
 
-    openLightbox(index) {
+    handleUrlHash() {
+        const hash = window.location.hash.substring(1);
+        if (!hash) return;
+        
+        const targetItem = this.galleryData.find(item => item.filename === hash);
+        if (!targetItem) return;
+        
+        const groupedData = this.groupItemsByBaseFilename(this.filteredData);
+        const targetGroupIndex = groupedData.findIndex(group => {
+            return (group.front && group.front.filename === hash) || 
+                   (group.back && group.back.filename === hash);
+        });
+        
+        if (targetGroupIndex !== -1) {
+            this.openLightbox(targetGroupIndex, hash);
+        }
+    }
+
+    openLightbox(index, specificFilename = null) {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
         const group = groupedData[index];
         
@@ -592,6 +623,13 @@ class FilmGallery {
         
         if (availableImages.length === 0) return;
         
+        if (specificFilename) {
+            const specificIndex = availableImages.findIndex(img => img.filename === specificFilename);
+            if (specificIndex !== -1) {
+                this.currentImageIndex = specificIndex;
+            }
+        }
+        
         const displayItem = availableImages[this.currentImageIndex];
         
         const lightbox = document.getElementById('lightbox');
@@ -602,6 +640,8 @@ class FilmGallery {
         
         this.currentIndex = index;
         lightbox.style.display = 'flex';
+        
+        this.updateUrl(displayItem.filename);
         
         if (scrollToTopBtn) {
             scrollToTopBtn.classList.remove('visible');
@@ -625,8 +665,21 @@ class FilmGallery {
         }
     }
 
+    updateUrl(filename) {
+        const newUrl = `${window.location.pathname}#${filename}`;
+        const currentUrl = window.location.href;
+        
+        if (!currentUrl.includes(`#${filename}`)) {
+            window.history.pushState({ filename }, '', newUrl);
+        }
+    }
+
     closeLightbox() {
         document.getElementById('lightbox').style.display = 'none';
+        
+        if (window.location.hash) {
+            window.history.pushState({}, '', window.location.pathname);
+        }
         
         const scrollToTopBtn = document.getElementById('scrollToTop');
         if (scrollToTopBtn) {
@@ -651,11 +704,11 @@ class FilmGallery {
         }
         lightboxImage.alt = item.title;
         
+        this.updateUrl(item.filename);
+        
         const availableImages = [];
         if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
         if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
-        
-
         
         const lightboxISO = document.getElementById('lightboxISO');
         const lightboxFormat = document.getElementById('lightboxFormat');
@@ -689,8 +742,8 @@ class FilmGallery {
         const nextBtn = document.querySelector('.lightbox-next');
         
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
-        prevBtn.style.display = this.currentIndex > 0 ? 'block' : 'none';
-        nextBtn.style.display = this.currentIndex < groupedData.length - 1 ? 'block' : 'none';
+        prevBtn.style.display = 'block';
+        nextBtn.style.display = 'block';
     }
 
     updateImageMetadata(imageElement, imageUrl) {
@@ -803,18 +856,22 @@ class FilmGallery {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
         if (this.currentIndex > 0) {
             this.currentIndex--;
-            this.currentImageIndex = 0;
-            this.openLightbox(this.currentIndex);
+        } else {
+            this.currentIndex = groupedData.length - 1;
         }
+        this.currentImageIndex = 0;
+        this.openLightbox(this.currentIndex);
     }
 
     showNextCard() {
         const groupedData = this.groupItemsByBaseFilename(this.filteredData);
         if (this.currentIndex < groupedData.length - 1) {
             this.currentIndex++;
-            this.currentImageIndex = 0;
-            this.openLightbox(this.currentIndex);
+        } else {
+            this.currentIndex = 0;
         }
+        this.currentImageIndex = 0;
+        this.openLightbox(this.currentIndex);
     }
 
     setupScrollToTop() {
@@ -840,7 +897,7 @@ class FilmGallery {
             isScrollingUp = currentScrollY < lastScrollY;
             lastScrollY = currentScrollY;
 
-            if (currentScrollY > 300 && isScrollingUp) {
+            if (currentScrollY > 200 && isScrollingUp) {
                 scrollToTopBtn.classList.add('visible');
             } else {
                 scrollToTopBtn.classList.remove('visible');
