@@ -629,6 +629,7 @@
     justify-content: center;
     transform: translateZ(0);
     cursor: grab;
+    pointer-events: auto;
 }
 
 .lightbox-image-container img {
@@ -658,6 +659,7 @@
     display: flex;
     gap: 10px;
     z-index: 20;
+    pointer-events: auto;
 }
 
 .lightbox-view-controls {
@@ -668,12 +670,15 @@
     flex-direction: column;
     gap: 5px;
     z-index: 20;
+    pointer-events: auto;
 }
 
 .view-btn-lightbox {
     font-size: 0.9rem;
     padding: 8px 12px;
     font-weight: 500;
+    pointer-events: auto;
+    touch-action: manipulation;
 }
 
 .view-btn-lightbox.active {
@@ -688,6 +693,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    pointer-events: auto;
+    touch-action: manipulation;
 }
 
 .lightbox-info {
@@ -846,21 +853,6 @@
         padding: 0;
     }
 
-    .sidebar-header {
-        flex-direction: row;
-        gap: 1rem;
-        align-items: center;
-        justify-content: space-between;
-        margin-bottom: 1rem;
-    }
-
-    .sidebar-header h3 {
-        font-size: 1.2rem;
-        margin: 0;
-    }
-
-
-
     .search-section {
         margin-bottom: 1rem;
     }
@@ -877,6 +869,8 @@
     .filter-section {
         margin-bottom: 1rem;
         position: relative;
+        display: flex;
+        align-items: flex-start;
     }
 
     .filter-toggle {
@@ -885,6 +879,11 @@
     }
 
     .filter-content {
+        position: relative;
+    }
+    
+    .filter-content-wrapper {
+        flex: 1;
         position: relative;
     }
 
@@ -898,9 +897,10 @@
         background-color: var(--card-bg);
         border: 2px solid var(--border-color);
         border-top: none;
-        max-height: 200px;
+        max-height: 400px;
         overflow-y: auto;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 100%;
     }
 
     .gallery-main .gallery-grid {
@@ -941,7 +941,6 @@
         opacity: 0;
         visibility: hidden;
         transition: all 0.3s ease;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
 
     .scroll-to-top.visible {
@@ -992,7 +991,7 @@
         gap: 10px;
         justify-content: center;
         align-items: center;
-        padding-bottom: 80px;
+        padding-bottom: 90px;
     }
     
     .lightbox-info-main {
