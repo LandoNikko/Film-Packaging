@@ -5,104 +5,196 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Packaging Archive | High-resolution scans of photographic film packaging</title>
     <meta name="description" content="High-resolution scans of photographic film packaging">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div>
-        <span>🧪 Testing UI and functionality. Patience please.</span>
-    </div>
-
-    <div>
-      
-      <h1 id="film-packaging-archive">Film Packaging Archive</h1>
-
-      <p>Welcome! Here you can find high-resolution scans of:</p>
-
-      <ul>
-        <li>Photographic Film Packaging</li>
-        <li>In-box Instruction Manuals / Leaflets / Processing Envelopes</li>
-        <li>Old &amp; new, popular &amp; obscure.</li>
-      </ul>
-
-      <p><img src="resources/title.jpg" alt="title" /></p>
-
-      <h2 id="why">Why</h2>
-
-      <p>Film packaging captures the evolution of photography, technology, and design trends.</p>
-
-      <p>Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.</p>
-
-      <h2 id="i-want-to-contribute">I Want to Contribute!</h2>
-
-      <p>Thanks! <a href="contribution_guide.md">Please follow the contribution guide</a>.</p>
-
-      <p>This project is fully open-source. <a href="https://github.com/dekuNukem/Film-Packaging">Click me for GitHub repo.</a></p>
-
-      <h2 id="browse-archive">Browse Archive</h2>
-
-      <p>👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇</p>
-
-      <p>👉👉 <a href="film_packaging/by_brand.md"><strong>CLICK ME TO SEE FULL LIST!</strong></a> 👈👈</p>
-
-      <p>☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️</p>
-
-      <div>
-        <div>
-          <pre><code>Last Updated: Jul 28 2025
-# of items: 150
-</code></pre>
+    <nav>
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">Film Packaging Archive</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contribution_guide.md">Contribute</a></li>
+            </ul>
         </div>
-      </div>
+    </nav>
 
-      <p>Or Sort by…</p>
+    <main class="main-content">
+        <div class="container">
+            <header class="site-header">
+                <h1 class="text-heading">Film Packaging Archive</h1>
+                <p class="text-body">High-resolution scans of photographic film packaging</p>
+                <div class="hero-image">
+                    <img src="resources/title.jpg" alt="Film packaging collection" />
+                </div>
+                <div class="header-decoration">
+                    <span style="background-color: var(--accent-ilford);"></span>
+                    <span style="background-color: var(--accent-kodak);"></span>
+                    <span style="background-color: var(--accent-fujifilm);"></span>
+                    <span style="background-color: var(--accent-agfa);"></span>
+                </div>
+            </header>
 
-      <ul>
-        <li><a href="film_packaging/by_brand.md">Brand</a></li>
-        <li>Film Format (Coming soon)</li>
-        <li>ISO (Coming soon)</li>
-        <li>Photographic Process (Coming soon)</li>
-        <li>Expiry Date (Coming soon)</li>
-      </ul>
+            <section class="content-section">
+                <h2>Welcome to the Archive</h2>
+                <p>Discover high-resolution scans of:</p>
+                <ul class="feature-list">
+                    <li><i class="ri-film-line"></i> Photographic Film Packaging</li>
+                    <li><i class="ri-file-text-line"></i> In-box Instruction Manuals & Leaflets</li>
+                    <li><i class="ri-envelope-line"></i> Processing Envelopes</li>
+                    <li><i class="ri-time-line"></i> Old & new, popular & obscure</li>
+                </ul>
+            </section>
 
-      <p>The collection is by no means complete or exhaustive, but it's a start!</p>
+            <div class="fold-line"></div>
 
-      <h2 id="database">Database</h2>
+            <section class="content-section">
+                <h2>Why This Archive?</h2>
+                <div class="why-grid">
+                    <div class="why-card">
+                        <i class="ri-history-line"></i>
+                        <h3>Historical Documentation</h3>
+                        <p>Film packaging captures the evolution of photography, technology, and design trends.</p>
+                    </div>
+                    <div class="why-card">
+                        <i class="ri-palette-line"></i>
+                        <h3>Design Inspiration</h3>
+                        <p>Its preservation helps inspire modern designs and support research of branding and cultural aesthetics.</p>
+                    </div>
+                    <div class="why-card">
+                        <i class="ri-archive-line"></i>
+                        <h3>Cultural Preservation</h3>
+                        <p>Documenting history through the lens of photographic packaging and branding.</p>
+                    </div>
+                </div>
+            </section>
 
-      <p><a href="film_packaging/database.csv">Available as CSV file</a></p>
+            <div class="fold-line"></div>
 
-      <h2 id="contributor-list">Contributor List</h2>
+            <section class="content-section">
+                <h2>Browse the Collection</h2>
+                <div class="browse-cta">
+                    <p class="cta-subtitle">Currently featuring <strong>150+ items</strong> from various brands and eras</p>
+                </div>
+                
+                <div class="sort-options">
+                    <h3>Sort by:</h3>
+                    <div class="sort-grid">
+                        <a href="gallery.html" class="sort-card">
+                            <i class="ri-price-tag-3-line"></i>
+                            <span>Brand</span>
+                        </a>
+                        <a href="gallery.html" class="sort-card">
+                            <i class="ri-layout-line"></i>
+                            <span>Film Format</span>
+                        </a>
+                        <a href="gallery.html" class="sort-card">
+                            <i class="ri-speed-line"></i>
+                            <span>ISO</span>
+                        </a>
+                        <a href="gallery.html" class="sort-card">
+                            <i class="ri-camera-line"></i>
+                            <span>Process</span>
+                        </a>
+                        <a href="gallery.html" class="sort-card">
+                            <i class="ri-calendar-line"></i>
+                            <span>Expiry Date</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="browse-cta">
+                    <a href="gallery.html" class="cta-button">
+                        <i class="ri-gallery-line"></i>
+                        Explore Gallery
+                    </a>
+                </div>
+            </section>
 
-      <div>
-        <div>
-          <pre><code>Username            Contributions       
-----------------------------------------
-dekuNukem           89                  
-@ob.skura           16                  
-b0baspace           14                  
-@SirBrentsworth     13                  
-benikum             6                   
-@recycling.film     5                   
-yc128               4                   
-@seklerek           2                   
-Yrikonchik          1                   
-</code></pre>
+            <div class="fold-line"></div>
+
+            <section class="content-section">
+                <h2>Database & Resources</h2>
+                <div class="resource-grid">
+                    <a href="film_packaging/database.csv" class="resource-card">
+                        <i class="ri-database-2-line"></i>
+                        <h3>CSV Database</h3>
+                        <p>Download the complete dataset</p>
+                    </a>
+                    <a href="contribution_guide.md" class="resource-card">
+                        <i class="ri-add-line"></i>
+                        <h3>Contribute</h3>
+                        <p>Add your own scans</p>
+                    </a>
+                </div>
+            </section>
+
+            <div class="fold-line"></div>
+
+            <section class="content-section">
+                <h2>Top Contributors</h2>
+                <div class="contributors-grid">
+                    <div class="contributor-card">
+                        <div class="contributor-info">
+                            <h3>dekuNukem</h3>
+                            <span class="contribution-count">89 contributions</span>
+                        </div>
+                    </div>
+                    <div class="contributor-card">
+                        <div class="contributor-info">
+                            <h3>@ob.skura</h3>
+                            <span class="contribution-count">16 contributions</span>
+                        </div>
+                    </div>
+                    <div class="contributor-card">
+                        <div class="contributor-info">
+                            <h3>b0baspace</h3>
+                            <span class="contribution-count">14 contributions</span>
+                        </div>
+                    </div>
+                    <div class="contributor-card">
+                        <div class="contributor-info">
+                            <h3>@SirBrentsworth</h3>
+                            <span class="contribution-count">13 contributions</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="fold-line"></div>
+
+            <section class="content-section">
+                <h2>Get in Touch</h2>
+                <div class="contact-grid">
+                    <a href="https://discord.gg/yvBx7dVG4B" class="contact-card">
+                        <i class="ri-discord-line"></i>
+                        <h3>Discord Community</h3>
+                        <p>Join the discussion</p>
+                    </a>
+                    <a href="mailto:skate.huddle-6r@icloud.com" class="contact-card">
+                        <i class="ri-mail-line"></i>
+                        <h3>Email</h3>
+                        <p>skate.huddle-6r@icloud.com</p>
+                    </a>
+                </div>
+            </section>
+
+            <section class="content-section">
+                <h2>Disclaimer</h2>
+                <div class="disclaimer-box">
+                    <p>The images are provided for reference and educational purposes. The designs may be protected under copyright and trademark laws. Use at your own risk.</p>
+                </div>
+            </section>
         </div>
-      </div>
+    </main>
 
-      <h2 id="disclaimer">Disclaimer</h2>
-
-      <p>The images are provided for reference and educational purposes.</p>
-
-      <p>The designs may be protected under copyright and trademark laws. Use at your own risk.</p>
-
-      <h2 id="questions-or-comments">Questions or Comments?</h2>
-
-      <p>Get in touch by joining <a href="https://discord.gg/yvBx7dVG4B">the Discord chatroom</a>, or email <code>skate.huddle-6r@icloud.com</code> !</p>
-
-      
-      <div>
-        This site is open source. <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this page</a>.
-      </div>
-      
-    </div>
+    <footer class="footer">
+        <div class="container">
+            <p>This site is open source. <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this page</a>.</p>
+        </div>
+    </footer>
 </body>
 </html> 

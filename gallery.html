@@ -18,25 +18,23 @@
             <a href="index.html" class="nav-logo">FP Archive</a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="film_packaging/by_brand.md">Browse</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contribution_guide.md">Contribute</a></li>
-                <li><a href="https://github.com/dekuNukem/Film-Packaging">GitHub</a></li>
             </ul>
         </div>
     </nav>
 
-    <header class="site-header">
+    <header class="site-header" style="margin-bottom: 2rem;">
         <h1 class="text-heading">Film Packaging Gallery</h1>
-        <p class="text-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="text-body">
+            Explore film packages from <span id="totalBrands"></span>+ brands across <span id="totalFormats"></span> formats and <span id="totalProcesses"></span> development processes, with expiry dates going back to <span id="oldestExpiry"></span>.
+        </p>
+        <p class="text-body">This gallery grows on user scans. Yours could be next. See how you can <a href="contribution_guide.md">contribute here</a>.</p>
         <div class="header-decoration">
-            <span style="background-color: var(--accent-fujifilm);"></span>
-            <span style="background-color: var(--accent-kodak);"></span>
             <span style="background-color: var(--accent-ilford);"></span>
+            <span style="background-color: var(--accent-kodak);"></span>
+            <span style="background-color: var(--accent-fujifilm);"></span>
             <span style="background-color: var(--accent-agfa);"></span>
-            <span style="background-color: var(--accent-polaroid);"></span>
-            <span style="background-color: var(--accent-cinestill);"></span>
-            <span style="background-color: var(--accent-rollei);"></span>
-            <span style="background-color: var(--accent-lomography);"></span>
         </div>
     </header>
 
@@ -68,7 +66,7 @@
                         <div class="filter-options" id="brandFilter">
                             <label class="filter-option">
                                 <input type="radio" name="brand" value="" checked>
-                                <span>All Brands</span>
+                                <span>Brands</span>
                                 <span class="checkmark">✓</span>
                             </label>
                         </div>
@@ -89,7 +87,7 @@
                         <div class="filter-options" id="formatFilter">
                             <label class="filter-option">
                                 <input type="radio" name="format" value="" checked>
-                                <span>All Formats</span>
+                                <span>Formats</span>
                             </label>
                         </div>
                     </div>
@@ -109,7 +107,7 @@
                         <div class="filter-options" id="processFilter">
                             <label class="filter-option">
                                 <input type="radio" name="process" value="" checked>
-                                <span>All Processes</span>
+                                <span>Processes</span>
                             </label>
                         </div>
                     </div>
@@ -122,7 +120,7 @@
                 </div>
                 <div class="filter-content-wrapper">
                     <button class="filter-toggle" data-target="expiry-section">
-                        <span>By Expiry Date</span>
+                        <span>Expiry Dates</span>
                         <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
                     </button>
                     <div class="filter-content" id="expiry-section">

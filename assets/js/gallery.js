@@ -166,6 +166,7 @@ class FilmGallery {
         this.filteredData = [];
         await this.loadGalleryData();
         this.populateFilters();
+        this.updateHeaderStats();
         this.renderGallery();
         this.showLoading(false);
     }
@@ -305,7 +306,7 @@ class FilmGallery {
             !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6
         );
         
-        expiryFilter.innerHTML = '<label class="filter-option"><input type="radio" name="expiry" value="" checked><span>Expiry Date</span></label>';
+        expiryFilter.innerHTML = '<label class="filter-option"><input type="radio" name="expiry" value="" checked><span>All Expiry Dates</span></label>';
         
         decades.forEach(decade => {
             const label = document.createElement('label');
@@ -323,6 +324,47 @@ class FilmGallery {
 
         this.attachFilterEventListeners();
         this.updateInitialToggleText();
+        this.updateHeaderStats();
+    }
+
+    updateHeaderStats() {
+        // Calculate total unique brands (rounded to nearest 5)
+        const uniqueBrands = [...new Set(this.galleryData.map(item => item.brand).filter(brand => brand && brand !== 'Unknown'))];
+        const totalBrands = Math.ceil(uniqueBrands.length / 5) * 5;
+        
+        // Calculate total unique formats
+        const uniqueFormats = [...new Set(this.galleryData.map(item => item.film_format).filter(format => format && format !== 'Unknown'))];
+        const totalFormats = uniqueFormats.length;
+        
+        // Calculate total unique processes
+        const uniqueProcesses = [...new Set(this.galleryData.map(item => item.process).filter(process => process && process !== 'Unknown'))];
+        const totalProcesses = uniqueProcesses.length;
+        
+        // Find oldest expiry date
+        const validExpiryDates = this.galleryData
+            .map(item => item.expiry_date)
+            .filter(date => date && date !== 'Unknown' && date.length === 6)
+            .map(date => {
+                const year = parseInt(date.substring(0, 4));
+                const month = parseInt(date.substring(4, 6));
+                return { year, month, original: date };
+            })
+            .sort((a, b) => {
+                if (a.year !== b.year) return a.year - b.year;
+                return a.month - b.month;
+            });
+        
+        let oldestExpiry = 'Unknown';
+        if (validExpiryDates.length > 0) {
+            const oldest = validExpiryDates[0];
+            oldestExpiry = oldest.year.toString();
+        }
+        
+        // Update the DOM elements
+        document.getElementById('totalBrands').textContent = totalBrands;
+        document.getElementById('totalFormats').textContent = totalFormats;
+        document.getElementById('totalProcesses').textContent = totalProcesses;
+        document.getElementById('oldestExpiry').textContent = oldestExpiry;
     }
 
     updateInitialToggleText() {
@@ -377,13 +419,13 @@ class FilmGallery {
         if (selectedValue === '') {
             const typeName = filterType.charAt(0).toUpperCase() + filterType.slice(1);
             if (filterType === 'brand') {
-                toggleText.textContent = 'All Brands';
+                toggleText.textContent = 'Brands';
             } else if (filterType === 'format') {
-                toggleText.textContent = 'All Formats';
+                toggleText.textContent = 'Formats';
             } else if (filterType === 'process') {
-                toggleText.textContent = 'All Processes';
+                toggleText.textContent = 'Processes';
             } else if (filterType === 'expiry') {
-                toggleText.textContent = 'Expiry Date';
+                toggleText.textContent = 'Expiry Dates';
             } else {
                 toggleText.textContent = `All ${typeName}s`;
             }
