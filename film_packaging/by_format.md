@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 07 2025
 
-# of items: 287
+# of items: 293
 ```
 
 -----
@@ -79,6 +79,7 @@ Last Updated: Aug 05 2025
 - [[35mm] Alfo ALFOcolor PR-G (ref: 94b9)](#35mm-alfo-alfocolor-pr-g-ref-94b9)
 - [[35mm] Alien Film 5222/XX (ref: 3e49)](#35mm-alien-film-5222xx-ref-3e49)
 - [[35mm] Bergger Pancro400 (ref: f619)](#35mm-bergger-pancro400-ref-f619)
+- [[35mm] Boots Colour Print Film (ref: a30f)](#35mm-boots-colour-print-film-ref-a30f)
 - [[35mm] CineStill 800T (ref: b3ff)](#35mm-cinestill-800t-ref-b3ff)
 - [[35mm] Efiniti UXi super 200 (ref: 471a)](#35mm-efiniti-uxi-super-200-ref-471a)
 - [[35mm] Foma Fomapan (ref: 0030)](#35mm-foma-fomapan-ref-0030)
@@ -92,13 +93,16 @@ Last Updated: Aug 05 2025
 - [[35mm] Fujifilm NPS (ref: 5e85)](#35mm-fujifilm-nps-ref-5e85)
 - [[35mm] Fujifilm Neopan SS Rapid (ref: 9db3)](#35mm-fujifilm-neopan-ss-rapid-ref-9db3)
 - [[35mm] Fujifilm Provia 100F (ref: 356d)](#35mm-fujifilm-provia-100f-ref-356d)
+- [[35mm] Fujifilm Provia 100F (ref: df27)](#35mm-fujifilm-provia-100f-ref-df27)
 - [[35mm] Fujifilm Sensia (ref: a59b)](#35mm-fujifilm-sensia-ref-a59b)
 - [[35mm] Fujifilm Superia Reala (ref: a7de)](#35mm-fujifilm-superia-reala-ref-a7de)
+- [[35mm] Fujifilm Superia X-Tra (ref: 6b8a)](#35mm-fujifilm-superia-x-tra-ref-6b8a)
 - [[35mm] Fujifilm Velvia (ref: 3182)](#35mm-fujifilm-velvia-ref-3182)
 - [[35mm] Fujifilm Velvia 100F (ref: 32d4)](#35mm-fujifilm-velvia-100f-ref-32d4)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Hazenfilm Sorolla Chrome (ref: 889f)](#35mm-hazenfilm-sorolla-chrome-ref-889f)
+- [[35mm] Hope Film Bubble (ref: 41f4)](#35mm-hope-film-bubble-ref-41f4)
 - [[35mm] Ilford Delta (ref: 9b54)](#35mm-ilford-delta-ref-9b54)
 - [[35mm] Ilford HP5 Plus (ref: c725)](#35mm-ilford-hp5-plus-ref-c725)
 - [[35mm] Ilford HP5 Plus (ref: df49)](#35mm-ilford-hp5-plus-ref-df49)
@@ -154,6 +158,7 @@ Last Updated: Aug 05 2025
 - [[35mm] Polaroid PolaChrome 35mm (ref: 3b60)](#35mm-polaroid-polachrome-35mm-ref-3b60)
 - [[35mm] Polaroid PolaPan 35mm (ref: 9825)](#35mm-polaroid-polapan-35mm-ref-9825)
 - [[35mm] Porst Color N21 (ref: 494a)](#35mm-porst-color-n21-ref-494a)
+- [[35mm] Reto Amber D400 (ref: 08ad)](#35mm-reto-amber-d400-ref-08ad)
 - [[35mm] Rollei Infrared (ref: eae2)](#35mm-rollei-infrared-ref-eae2)
 - [[35mm] Rollei RPX 400 (ref: 2155)](#35mm-rollei-rpx-400-ref-2155)
 - [[35mm] Rollei SUPERPAN (ref: ee8f)](#35mm-rollei-superpan-ref-ee8f)
@@ -897,6 +902,13 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" />
 </a>
 
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [120] Rollei Retro 80S (ref: e6c0)
 
 ```
@@ -1236,6 +1248,19 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] CineStill 800T (ref: b3ff)
 
 ```
@@ -1461,6 +1486,19 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [35mm] Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Fujifilm Sensia (ref: a59b)
 
 ```
@@ -1492,6 +1530,19 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 
 <a href="./archive/00087_000.jpg">
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [35mm] Fujifilm Velvia (ref: 3182)
@@ -1585,6 +1636,19 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 
 <a href="./archive/00137_000.jpg">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [35mm] Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [35mm] Ilford Delta (ref: 9b54)
@@ -2638,6 +2702,19 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" />
 </a>
 
+#### [35mm] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [35mm] Rollei Infrared (ref: eae2)
 
 ```
@@ -3176,18 +3253,20 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    Yrikonchik               1     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
+18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

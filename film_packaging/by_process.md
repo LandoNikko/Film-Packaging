@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 07 2025
 
-# of items: 287
+# of items: 293
 ```
 
 -----
@@ -92,6 +92,7 @@ Last Updated: Aug 05 2025
 - [[C-41] Agfa ULTRA 50 (ref: 4faa)](#c-41-agfa-ultra-50-ref-4faa)
 - [[C-41] Agfa Vista (ref: d3af)](#c-41-agfa-vista-ref-d3af)
 - [[C-41] Alfo ALFOcolor PR-G (ref: 94b9)](#c-41-alfo-alfocolor-pr-g-ref-94b9)
+- [[C-41] Boots Colour Print Film (ref: a30f)](#c-41-boots-colour-print-film-ref-a30f)
 - [[C-41] CineStill 800T (ref: c86a)](#c-41-cinestill-800t-ref-c86a)
 - [[C-41] CineStill 800T (ref: b3ff)](#c-41-cinestill-800t-ref-b3ff)
 - [[C-41] Efiniti UXi super 200 (ref: 471a)](#c-41-efiniti-uxi-super-200-ref-471a)
@@ -106,10 +107,12 @@ Last Updated: Aug 05 2025
 - [[C-41] Fujifilm NPS (ref: 5e85)](#c-41-fujifilm-nps-ref-5e85)
 - [[C-41] Fujifilm Pro 400H (ref: 66e3)](#c-41-fujifilm-pro-400h-ref-66e3)
 - [[C-41] Fujifilm Superia Reala (ref: a7de)](#c-41-fujifilm-superia-reala-ref-a7de)
+- [[C-41] Fujifilm Superia X-Tra (ref: 6b8a)](#c-41-fujifilm-superia-x-tra-ref-6b8a)
 - [[C-41] Harman Phoenix (ref: 8eb4)](#c-41-harman-phoenix-ref-8eb4)
 - [[C-41] Harman Phoenix (ref: 637f)](#c-41-harman-phoenix-ref-637f)
 - [[C-41] Harman Phoenix II (ref: f686)](#c-41-harman-phoenix-ii-ref-f686)
 - [[C-41] Harman Phoenix II (ref: 40df)](#c-41-harman-phoenix-ii-ref-40df)
+- [[C-41] Hope Film Bubble (ref: 41f4)](#c-41-hope-film-bubble-ref-41f4)
 - [[C-41] Jessops Diamond Everyday (ref: 67d3)](#c-41-jessops-diamond-everyday-ref-67d3)
 - [[C-41] Klick APS Film (ref: 4b88)](#c-41-klick-aps-film-ref-4b88)
 - [[C-41] Klick XD200 (ref: 44d7)](#c-41-klick-xd200-ref-44d7)
@@ -139,6 +142,7 @@ Last Updated: Aug 05 2025
 - [[C-41] Lomography Lomochrome Turquoise (ref: 0d90)](#c-41-lomography-lomochrome-turquoise-ref-0d90)
 - [[C-41] Lomography Tiger (ref: 26dd)](#c-41-lomography-tiger-ref-26dd)
 - [[C-41] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#c-41-minolta-minolta-16-color-film-for-prints-ref-a2ff)
+- [[C-41] Reto Amber D400 (ref: 08ad)](#c-41-reto-amber-d400-ref-08ad)
 - [[C-41] Rossmann Jahreszeiten Pack (ref: 7670)](#c-41-rossmann-jahreszeiten-pack-ref-7670)
 - [[C-41] Sakura Sakuracolor II (ref: 4f7d)](#c-41-sakura-sakuracolor-ii-ref-4f7d)
 - [[C-41] SantaColor SantaColor (ref: cb58)](#c-41-santacolor-santacolor-ref-cb58)
@@ -153,6 +157,7 @@ Last Updated: Aug 05 2025
 - [[E-4] Kodak High Speed Ektachrome (ref: b8f8)](#e-4-kodak-high-speed-ektachrome-ref-b8f8)
 - [[E-6] Fujifilm Fujichrome Professional 100D (ref: 439d)](#e-6-fujifilm-fujichrome-professional-100d-ref-439d)
 - [[E-6] Fujifilm Provia 100F (ref: 356d)](#e-6-fujifilm-provia-100f-ref-356d)
+- [[E-6] Fujifilm Provia 100F (ref: df27)](#e-6-fujifilm-provia-100f-ref-df27)
 - [[E-6] Fujifilm Sensia (ref: a59b)](#e-6-fujifilm-sensia-ref-a59b)
 - [[E-6] Fujifilm Velvia (ref: 3182)](#e-6-fujifilm-velvia-ref-3182)
 - [[E-6] Fujifilm Velvia 100F (ref: f7fb)](#e-6-fujifilm-velvia-100f-ref-f7fb)
@@ -1188,6 +1193,13 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" />
 </a>
 
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [BW] Rollei RPX 400 (ref: 2155)
 
 ```
@@ -1431,6 +1443,19 @@ UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 
 <a href="./archive/00151_000.jpg">
 	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [C-41] CineStill 800T (ref: c86a)
@@ -1685,6 +1710,19 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [C-41] Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Harman Phoenix (ref: 8eb4)
 
 ```
@@ -1763,6 +1801,19 @@ UUID  : f12ed23e31e14008a969fe05f29940df
 
 <a href="./archive/00110_001.jpg">
 	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [C-41] Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [C-41] Jessops Diamond Everyday (ref: 67d3)
@@ -2212,6 +2263,19 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" />
 </a>
 
+#### [C-41] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [C-41] Rossmann Jahreszeiten Pack (ref: 7670)
 
 ```
@@ -2434,6 +2498,19 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 
 <a href="./archive/00055_000.jpg">
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [E-6] Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [E-6] Fujifilm Sensia (ref: a59b)
@@ -3176,18 +3253,20 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    Yrikonchik               1     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
+18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

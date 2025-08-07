@@ -15,13 +15,16 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 07 2025
 
-# of items: 287
+# of items: 293
 ```
 
 -----
 
+- [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
+- [[@Hol.m35] Fujifilm Superia X-Tra (ref: 6b8a)](#holm35-fujifilm-superia-x-tra-ref-6b8a)
+- [[@Hol.m35] Hope Film Bubble (ref: 41f4)](#holm35-hope-film-bubble-ref-41f4)
 - [[@SirBrentsworth] CineStill 800T (ref: b3ff)](#sirbrentsworth-cinestill-800t-ref-b3ff)
 - [[@SirBrentsworth] Ilford HP5 Plus (ref: df49)](#sirbrentsworth-ilford-hp5-plus-ref-df49)
 - [[@SirBrentsworth] Kentmere PAN (ref: c907)](#sirbrentsworth-kentmere-pan-ref-c907)
@@ -88,6 +91,7 @@ Last Updated: Aug 05 2025
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujicolor Professional (ref: 28da)](#the-compartmentalist-fujifilm-fujicolor-professional-ref-28da)
 - [[The Compartmentalist] Fujifilm Neopan SS Rapid (ref: 9db3)](#the-compartmentalist-fujifilm-neopan-ss-rapid-ref-9db3)
+- [[The Compartmentalist] Fujifilm Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-provia-100f-ref-df27)
 - [[The Compartmentalist] Fujifilm Sensia (ref: a59b)](#the-compartmentalist-fujifilm-sensia-ref-a59b)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: ae7e)](#the-compartmentalist-kodak-ektachrome-x-ref-ae7e)
 - [[The Compartmentalist] Kodak Ektachrome-X (ref: aec5)](#the-compartmentalist-kodak-ektachrome-x-ref-aec5)
@@ -95,6 +99,7 @@ Last Updated: Aug 05 2025
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)](#the-compartmentalist-sakura-sakuracolor-ii-ref-4f7d)
+- [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
 - [[b0baspace] Fujifilm NPS (ref: 5e85)](#b0baspace-fujifilm-nps-ref-5e85)
@@ -186,6 +191,45 @@ Last Updated: Aug 05 2025
 
 
 -----
+
+#### [@Hol.m35] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@Hol.m35] Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [@Hol.m35] Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
+</a>
 
 #### [@SirBrentsworth] CineStill 800T (ref: b3ff)
 
@@ -1297,6 +1341,19 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### [The Compartmentalist] Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [The Compartmentalist] Fujifilm Sensia (ref: a59b)
 
 ```
@@ -1382,6 +1439,13 @@ UUID  : 9791c2074fdd4340a1463312ed77b16c
 	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" />
 </a>
 
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [The Compartmentalist] Sakura Sakuracolor II (ref: 4f7d)
 
 ```
@@ -1393,6 +1457,19 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 
 <a href="./archive/00122_000.jpg">
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [TheSelousScout] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [Yrikonchik] Fujifilm 200 (ref: 5b41)
@@ -3176,18 +3253,20 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    Yrikonchik               1     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
+18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

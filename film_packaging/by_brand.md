@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 07 2025
 
-# of items: 287
+# of items: 293
 ```
 
 -----
@@ -37,6 +37,7 @@ Last Updated: Aug 05 2025
 - [Alien Film 5222/XX (ref: 3e49)](#alien-film-5222xx-ref-3e49)
 - [Bergger Pancro400 (ref: ad7b)](#bergger-pancro400-ref-ad7b)
 - [Bergger Pancro400 (ref: f619)](#bergger-pancro400-ref-f619)
+- [Boots Colour Print Film (ref: a30f)](#boots-colour-print-film-ref-a30f)
 - [CineStill 800T (ref: c86a)](#cinestill-800t-ref-c86a)
 - [CineStill 800T (ref: b3ff)](#cinestill-800t-ref-b3ff)
 - [Efiniti UXi super 200 (ref: 471a)](#efiniti-uxi-super-200-ref-471a)
@@ -60,8 +61,10 @@ Last Updated: Aug 05 2025
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [Fujifilm Pro 400H (ref: 66e3)](#fujifilm-pro-400h-ref-66e3)
 - [Fujifilm Provia 100F (ref: 356d)](#fujifilm-provia-100f-ref-356d)
+- [Fujifilm Provia 100F (ref: df27)](#fujifilm-provia-100f-ref-df27)
 - [Fujifilm Sensia (ref: a59b)](#fujifilm-sensia-ref-a59b)
 - [Fujifilm Superia Reala (ref: a7de)](#fujifilm-superia-reala-ref-a7de)
+- [Fujifilm Superia X-Tra (ref: 6b8a)](#fujifilm-superia-x-tra-ref-6b8a)
 - [Fujifilm Velvia (ref: 3182)](#fujifilm-velvia-ref-3182)
 - [Fujifilm Velvia 100F (ref: f7fb)](#fujifilm-velvia-100f-ref-f7fb)
 - [Fujifilm Velvia 100F (ref: 32d4)](#fujifilm-velvia-100f-ref-32d4)
@@ -71,6 +74,7 @@ Last Updated: Aug 05 2025
 - [Harman Phoenix II (ref: f686)](#harman-phoenix-ii-ref-f686)
 - [Harman Phoenix II (ref: 40df)](#harman-phoenix-ii-ref-40df)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
+- [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
 - [Ilford Delta (ref: eb8d)](#ilford-delta-ref-eb8d)
 - [Ilford Delta (ref: 920f)](#ilford-delta-ref-920f)
 - [Ilford Delta (ref: 9b54)](#ilford-delta-ref-9b54)
@@ -167,6 +171,7 @@ Last Updated: Aug 05 2025
 - [Polaroid PolaPan 35mm (ref: 9825)](#polaroid-polapan-35mm-ref-9825)
 - [Polaroid Polacolor 679 (ref: 625c)](#polaroid-polacolor-679-ref-625c)
 - [Porst Color N21 (ref: 494a)](#porst-color-n21-ref-494a)
+- [Reto Amber D400 (ref: 08ad)](#reto-amber-d400-ref-08ad)
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
 - [Rollei RPX 400 (ref: 2155)](#rollei-rpx-400-ref-2155)
@@ -436,6 +441,19 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### CineStill 800T (ref: c86a)
@@ -863,6 +881,19 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
 </a>
 
+#### Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Fujifilm Sensia (ref: a59b)
 
 ```
@@ -894,6 +925,19 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 
 <a href="./archive/00087_000.jpg">
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Superia Reala 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### Fujifilm Velvia (ref: 3182)
@@ -1088,6 +1132,19 @@ UUID  : 462e32d45cd740cf866732a73a00889f
 
 <a href="./archive/00137_000.jpg">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### Ilford Delta (ref: eb8d)
@@ -2926,6 +2983,19 @@ UUID  : e08418889f714c9dbda0858718e0494a
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" />
 </a>
 
+#### Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### Rollei Infrared (ref: eae2)
 
 ```
@@ -2957,6 +3027,13 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 
 <a href="./archive/00030_000.jpg">
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" />
+</a>
+
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
 </a>
 
 #### Rollei RPX 400 (ref: 2155)
@@ -3176,18 +3253,20 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    Yrikonchik               1     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
+18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?

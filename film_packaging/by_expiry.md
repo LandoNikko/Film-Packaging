@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Aug 05 2025
+Last Updated: Aug 07 2025
 
-# of items: 287
+# of items: 293
 ```
 
 -----
@@ -108,6 +108,7 @@ Last Updated: Aug 05 2025
 - [[2012] Fujifilm Fujicolor Professional (ref: 28da)](#2012-fujifilm-fujicolor-professional-ref-28da)
 - [[2012] Kodak Kodacolor VR Plus (ref: f8bf)](#2012-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[2012] Ilford HP5 Plus (ref: 11a8)](#2012-ilford-hp5-plus-ref-11a8)
+- [[2013] Boots Colour Print Film (ref: a30f)](#2013-boots-colour-print-film-ref-a30f)
 - [[2013] Efke IR 820 (ref: 43c9)](#2013-efke-ir-820-ref-43c9)
 - [[2013] Kodak Portra 160 (ref: ce56)](#2013-kodak-portra-160-ref-ce56)
 - [[2013] Ilford SFX 200 (ref: 6057)](#2013-ilford-sfx-200-ref-6057)
@@ -121,6 +122,7 @@ Last Updated: Aug 05 2025
 - [[2024] Shanghai GP3 (ref: 52aa)](#2024-shanghai-gp3-ref-52aa)
 - [[2024] Ilford Delta (ref: eb8d)](#2024-ilford-delta-ref-eb8d)
 - [[2024] Polaroid Color 600 Film Round Frame (ref: d985)](#2024-polaroid-color-600-film-round-frame-ref-d985)
+- [[2024] Reto Amber D400 (ref: 08ad)](#2024-reto-amber-d400-ref-08ad)
 - [[2025] JCH Streetpan (ref: 6e58)](#2025-jch-streetpan-ref-6e58)
 - [[2025] Polaroid Color SX-70 Film (ref: dc7f)](#2025-polaroid-color-sx-70-film-ref-dc7f)
 - [[2025] Ilford Delta (ref: 920f)](#2025-ilford-delta-ref-920f)
@@ -134,6 +136,7 @@ Last Updated: Aug 05 2025
 - [[2025] Harman Phoenix (ref: 8eb4)](#2025-harman-phoenix-ref-8eb4)
 - [[2025] Kodak Tri-X (ref: 88c5)](#2025-kodak-tri-x-ref-88c5)
 - [[2025] Three Film Rolls 5207 (ref: 0292)](#2025-three-film-rolls-5207-ref-0292)
+- [[2026] Fujifilm Superia X-Tra (ref: 6b8a)](#2026-fujifilm-superia-x-tra-ref-6b8a)
 - [[2026] Lomography Fantome (ref: 4340)](#2026-lomography-fantome-ref-4340)
 - [[2026] Rollei Retro 80S (ref: e6c0)](#2026-rollei-retro-80s-ref-e6c0)
 - [[2026] Bergger Pancro400 (ref: ad7b)](#2026-bergger-pancro400-ref-ad7b)
@@ -154,8 +157,10 @@ Last Updated: Aug 05 2025
 - [[2026] Kodak Ektar (ref: 3498)](#2026-kodak-ektar-ref-3498)
 - [[2026] Kodak Tri-X (ref: c671)](#2026-kodak-tri-x-ref-c671)
 - [[2026] Lomography Tiger (ref: 26dd)](#2026-lomography-tiger-ref-26dd)
+- [[2026] Fujifilm Provia 100F (ref: df27)](#2026-fujifilm-provia-100f-ref-df27)
 - [[2026] Kodak Gold (ref: 933f)](#2026-kodak-gold-ref-933f)
 - [[2026] Bergger Pancro400 (ref: f619)](#2026-bergger-pancro400-ref-f619)
+- [[2026] Hope Film Bubble (ref: 41f4)](#2026-hope-film-bubble-ref-41f4)
 - [[2026] Wolfen NC500 (ref: 91c1)](#2026-wolfen-nc500-ref-91c1)
 - [[2027] Kodak Ektachrome E100 (ref: ae10)](#2027-kodak-ektachrome-e100-ref-ae10)
 - [[2027] Foma Fomapan (ref: 3e4f)](#2027-foma-fomapan-ref-3e4f)
@@ -1907,6 +1912,19 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" />
 </a>
 
+#### [2013] Boots Colour Print Film (ref: a30f)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2013-02  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : bd601340027a4c9daa7e219b414fa30f
+```
+
+<a href="./archive/00166_000.jpg">
+	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2013] Efke IR 820 (ref: 43c9)
 
 ```
@@ -2123,6 +2141,19 @@ UUID  : e798fdd114be4a018cb7651bba94d985
 
 <a href="./archive/00157_003.jpg">
 	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Integral Film film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2024] Reto Amber D400 (ref: 08ad)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2024-12  
+Added : 2025-08-07   |  Author : TheSelousScout
+UUID  : 075938ec54de4c4bbee63671e4c208ad
+```
+
+<a href="./archive/00168_000.jpg">
+	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2025] JCH Streetpan (ref: 6e58)
@@ -2348,6 +2379,19 @@ UUID  : 4de0f5e76dd748c488fa81be23340292
 
 <a href="./archive/00059_000.jpg">
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" height="500" />
+</a>
+
+#### [2026] Fujifilm Superia X-Tra (ref: 6b8a)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 400          |  Expiry : 2026-01  
+Added : 2025-08-07   |  Author : @Hol.m35 
+UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
+```
+
+<a href="./archive/00165_000.jpg">
+	<img src="./lowres/00165_000.jpg" alt="Fujifilm Superia X-Tra 35mm film box outside" loading="lazy" height="500" />
 </a>
 
 #### [2026] Lomography Fantome (ref: 4340)
@@ -2666,6 +2710,19 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" height="500" />
 </a>
 
+#### [2026] Fujifilm Provia 100F (ref: df27)
+
+```
+Format: 35mm         |  Process: E-6      
+ISO   : 100          |  Expiry : 2026-10  
+Added : 2025-08-07   |  Author : The Compartmentalist
+UUID  : 480a75f9978b4fba84c81a8a9e95df27
+```
+
+<a href="./archive/00167_000.jpg">
+	<img src="./lowres/00167_000.jpg" alt="Fujifilm Provia 100F 35mm film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2026] Kodak Gold (ref: 933f)
 
 ```
@@ -2697,6 +2754,19 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 
 <a href="./archive/00123_001.jpg">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" height="500" />
+</a>
+
+#### [2026] Hope Film Bubble (ref: 41f4)
+
+```
+Format: 35mm         |  Process: C-41     
+ISO   : 200          |  Expiry : 2026-12  
+Added : 2025-08-06   |  Author : @Hol.m35 
+UUID  : b09848420a1a4d76b099d82d76bc41f4
+```
+
+<a href="./archive/00164_000.jpg">
+	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" />
 </a>
 
 #### [2026] Wolfen NC500 (ref: 91c1)
@@ -2950,6 +3020,13 @@ UUID  : b7bb7d65979543d0a8e5c9179d734f54
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" />
 </a>
 
+
+`UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
+
+<a href="./archive/00030_001.jpg">
+	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" height="500" />
+</a>
+
 #### [2027] Wolfen NP100 (ref: 71a6)
 
 ```
@@ -3176,18 +3253,20 @@ Rank  Username                 Contributions
 3     Nano_Burger              18    
 4     @ob.skura                16    
 5     b0baspace                14    
-6     @SirBrentsworth          13    
-7     toader                   13    
-8     stefanie                 12    
-9     yc128                    11    
-10    The Compartmentalist     11    
+6     The Compartmentalist     13    
+7     @SirBrentsworth          13    
+8     toader                   13    
+9     stefanie                 12    
+10    yc128                    11    
 11    lilyu.xyz                9     
 12    benikum                  6     
 13    @recycling.film          5     
 14    Henry Gunn               4     
-15    @seklerek                2     
-16    @ftfilmphotos            2     
-17    Yrikonchik               1     
+15    @Hol.m35                 3     
+16    @seklerek                2     
+17    @ftfilmphotos            2     
+18    Yrikonchik               1     
+19    TheSelousScout           1     
 ```
 
 ## Questions or Comments?
