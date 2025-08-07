@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 290
+// Total items: 296
 
 const GALLERY_DATA = [
   {
@@ -853,6 +853,20 @@ const GALLERY_DATA = [
     "item_type": "film_box_outside",
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00030_000.jpg",
+    "title": "Rollei Infrared",
+    "details": "120 • ISO 200 • BW • film_box_outside"
+  },
+  {
+    "filename": "00030_001.jpg",
+    "brand": "Rollei",
+    "product": "Infrared",
+    "film_format": "120",
+    "film_speed_iso": "200",
+    "process": "BW",
+    "expiry_date": "202708",
+    "item_type": "film_box_outside",
+    "author": "The Compartmentalist",
+    "imageUrl": "film_packaging/archive/00030_001.jpg",
     "title": "Rollei Infrared",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -4060,6 +4074,76 @@ const GALLERY_DATA = [
     "imageUrl": "film_packaging/archive/00163_000.jpg",
     "title": "ORWO NP 20 SL",
     "details": "35mm • ISO 80 • BW • film_box_outside"
+  },
+  {
+    "filename": "00164_000.jpg",
+    "brand": "Hope Film",
+    "product": "Bubble",
+    "film_format": "35mm",
+    "film_speed_iso": "200",
+    "process": "C-41",
+    "expiry_date": "202612",
+    "item_type": "film_box_outside",
+    "author": "@Hol.m35",
+    "imageUrl": "film_packaging/archive/00164_000.jpg",
+    "title": "Hope Film Bubble",
+    "details": "35mm • ISO 200 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00165_000.jpg",
+    "brand": "Fujifilm",
+    "product": "Superia X-Tra",
+    "film_format": "35mm",
+    "film_speed_iso": "400",
+    "process": "C-41",
+    "expiry_date": "202601",
+    "item_type": "film_box_outside",
+    "author": "@Hol.m35",
+    "imageUrl": "film_packaging/archive/00165_000.jpg",
+    "title": "Fujifilm Superia X-Tra",
+    "details": "35mm • ISO 400 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00166_000.jpg",
+    "brand": "Boots",
+    "product": "Colour Print Film",
+    "film_format": "35mm",
+    "film_speed_iso": "200",
+    "process": "C-41",
+    "expiry_date": "201302",
+    "item_type": "film_box_outside",
+    "author": "@Hol.m35",
+    "imageUrl": "film_packaging/archive/00166_000.jpg",
+    "title": "Boots Colour Print Film",
+    "details": "35mm • ISO 200 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00167_000.jpg",
+    "brand": "Fujifilm",
+    "product": "Provia 100F",
+    "film_format": "35mm",
+    "film_speed_iso": "100",
+    "process": "E-6",
+    "expiry_date": "202610",
+    "item_type": "film_box_outside",
+    "author": "The Compartmentalist",
+    "imageUrl": "film_packaging/archive/00167_000.jpg",
+    "title": "Fujifilm Provia 100F",
+    "details": "35mm • ISO 100 • E-6 • film_box_outside"
+  },
+  {
+    "filename": "00168_000.jpg",
+    "brand": "Reto",
+    "product": "Amber D400",
+    "film_format": "35mm",
+    "film_speed_iso": "400",
+    "process": "C-41",
+    "expiry_date": "202412",
+    "item_type": "film_box_outside",
+    "author": "TheSelousScout",
+    "imageUrl": "film_packaging/archive/00168_000.jpg",
+    "title": "Reto Amber D400",
+    "details": "35mm • ISO 400 • C-41 • film_box_outside"
   }
 ];
 
