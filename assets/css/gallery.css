@@ -6,6 +6,10 @@
 
 
 
+.gallery-page .nav-logo-text--mobile {
+    display: none;
+}
+
 .gallery-page .header-decoration {
     display: flex;
     justify-content: center;
@@ -32,11 +36,12 @@
 
 .gallery-main {
     width: 100%;
+    margin-top: 20px;
 }
 
 .filter-sidebar {
     position: sticky;
-    top: 20px;
+    top: calc(var(--site-nav-offset, var(--site-nav-height, 4.75rem)) + 20px);
     left: 20px;
     width: 330px;
     background-color: var(--controls-bg);
@@ -47,6 +52,7 @@
     overflow-y: auto;
     z-index: 100;
     margin-left: -350px;
+    transition: top 0.25s ease;
 }
 
 .sidebar-header {
@@ -463,22 +469,41 @@
 
 /* Loading */
 .loading {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
     text-align: center;
-    padding: 60px 20px;
+    padding: 20px;
+    background: color-mix(in srgb, var(--bg-color) 92%, transparent);
+    color: var(--text-color);
+}
+
+.loading.is-active {
+    display: flex;
 }
 
 .spinner {
     width: 40px;
     height: 40px;
-    border: 4px solid #f3f3f3;
-    border-top: 4px solid var(--text-color);
-    animation: spin 1s linear infinite;
-    margin: 0 auto 20px;
+    border: 4px solid rgba(0, 0, 0, 0.08);
+    border-top-color: var(--text-color);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    flex-shrink: 0;
+}
+
+.loading p {
+    margin: 0;
+    font-weight: 600;
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    to { transform: rotate(360deg); }
 }
 
 /* No Results */
@@ -505,13 +530,7 @@
     display: none;
     align-items: center;
     justify-content: center;
-    z-index: 1000;
-    animation: fadeIn 0.3s ease;
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
+    z-index: 1200;
 }
 
 .lightbox.active {
@@ -549,10 +568,19 @@
     position: absolute;
     top: 15px;
     right: 20px;
-    font-size: 2rem;
     width: 40px;
     height: 40px;
     z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    line-height: 1;
+}
+
+.lightbox-close i {
+    font-size: 1.5rem;
+    line-height: 1;
 }
 
 .lightbox-prev,
@@ -674,6 +702,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .lightbox-info-meta {
@@ -695,6 +724,8 @@
     color: var(--text-color);
     margin-bottom: 0;
     font-size: 3rem;
+    text-align: center;
+    width: 100%;
 }
 
 .lightbox-info p {
@@ -778,6 +809,28 @@
         gap: 1rem;
         padding: 1rem;
         margin: 0;
+        padding-left: 1rem;
+    }
+
+    #mobileFiltersPanel .filter-sidebar {
+        position: static;
+        width: 100%;
+        left: auto;
+        top: auto;
+        margin: 0;
+        max-height: none;
+        overflow-y: visible;
+        background-color: transparent;
+        border: 0;
+        padding: 0;
+    }
+
+    #mobileFiltersPanel .filter-sidebar .sidebar-header {
+        display: none;
+    }
+
+    .gallery-container > .filter-sidebar {
+        display: none;
     }
 
     .filter-sidebar {
@@ -873,33 +926,21 @@
         gap: 1rem;
     }
 
+    .gallery-page {
+        --site-nav-height: 5.5rem;
+    }
+
+    .gallery-page .nav-logo-text--desktop {
+        display: none;
+    }
+
+    .gallery-page .nav-logo-text--mobile {
+        display: inline;
+    }
+
     .scroll-to-top {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        width: 50px;
-        height: 50px;
-        background-color: var(--card-bg);
-        border: 2px solid var(--border-primary);
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        cursor: pointer;
-        z-index: 1000;
-        opacity: 0;
-        visibility: hidden;
-        transition: all 0.3s ease;
-    }
-
-    .scroll-to-top.visible {
-        opacity: 1;
-        visibility: visible;
-    }
-
-    .scroll-to-top i {
-        font-size: 1.5rem;
-        color: var(--text-color);
+        right: max(12px, env(safe-area-inset-right));
+        bottom: max(12px, env(safe-area-inset-bottom));
     }
 
     .lightbox-zoom-controls {
@@ -945,6 +986,7 @@
     
     .lightbox-info-main {
         align-items: center;
+        width: 100%;
     }
     
     .lightbox-info-meta {
@@ -976,4 +1018,10 @@
         height: 100%;
     }
 
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .spinner {
+        animation: none;
+    }
 }

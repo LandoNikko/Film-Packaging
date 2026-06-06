@@ -12,10 +12,20 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
 </head>
-<body class="gallery-page">
-    <nav>
+<body class="gallery-page site-nav-fixed">
+    <nav id="siteNav" aria-label="Main navigation">
         <div class="nav-container">
-            <a href="index.html" class="nav-logo">FP Archive</a>
+            <button type="button" class="mobile-filters-toggle" id="mobileFiltersToggle" aria-expanded="false" aria-controls="mobileFiltersMenu" aria-label="Open filters menu">
+                <i class="ri-filter-3-line" aria-hidden="true"></i>
+                <span>Filters</span>
+            </button>
+            <span class="nav-logo nav-logo--static">
+                <span class="nav-logo-text nav-logo-text--desktop">Film Packaging Archive</span>
+                <span class="nav-logo-text nav-logo-text--mobile">Gallery</span>
+            </span>
+            <button type="button" class="mobile-menu-toggle" id="mobileMenuToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open navigation menu">
+                <i class="ri-menu-line" aria-hidden="true"></i>
+            </button>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
@@ -24,22 +34,31 @@
         </div>
     </nav>
 
-    <header class="site-header" style="margin-bottom: 2rem;">
-        <h1 class="text-heading">Film Packaging Gallery</h1>
-        <p class="text-body">
-            Explore film packages from <span id="totalBrands"></span>+ brands across <span id="totalFormats"></span> formats and <span id="totalProcesses"></span> development processes, with expiry dates going back to <span id="oldestExpiry"></span>.
-        </p>
-        <p class="text-body">This gallery grows on user scans. Yours could be next. See how you can <a href="contribution_guide.md">contribute here</a>.</p>
-        <div class="header-decoration">
-            <span style="background-color: var(--accent-ilford);"></span>
-            <span style="background-color: var(--accent-kodak);"></span>
-            <span style="background-color: var(--accent-fujifilm);"></span>
-            <span style="background-color: var(--accent-agfa);"></span>
-        </div>
-    </header>
+    <div id="mobileMenuBackdrop" class="mobile-menu-backdrop" hidden></div>
+    <aside id="mobileMenu" class="mobile-menu mobile-nav-menu" aria-hidden="true" hidden>
+        <button type="button" class="mobile-menu-return" aria-label="Return to gallery">
+            <i class="ri-arrow-go-back-line" aria-hidden="true"></i>
+            Return
+        </button>
+        <nav class="mobile-menu-nav mobile-menu-nav--centered" aria-label="Mobile navigation">
+            <span class="mobile-menu-logo">Gallery</span>
+            <a href="index.html">Home</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contribution_guide.md">Contribute</a>
+        </nav>
+    </aside>
+
+    <div id="mobileFiltersBackdrop" class="mobile-menu-backdrop mobile-filters-backdrop" hidden></div>
+    <aside id="mobileFiltersMenu" class="mobile-menu mobile-filters-menu" aria-hidden="true" hidden>
+        <button type="button" class="mobile-menu-return" aria-label="Return to gallery">
+            <i class="ri-arrow-go-back-line" aria-hidden="true"></i>
+            Return
+        </button>
+        <div class="mobile-menu-filters" id="mobileFiltersPanel"></div>
+    </aside>
 
     <div class="container-base gallery-container">
-        <aside class="filter-sidebar">
+        <aside class="filter-sidebar" id="filterSidebar">
             <div class="sidebar-header">
                 <h3 class="text-heading"><span class="clickable-filters" title="Reset all filters">Filters</span> <span class="counter-display"><span id="itemCounter">0</span></span></h3>
             </div>
@@ -140,11 +159,6 @@
         <div id="galleryContainer" class="gallery-grid">
         </div>
     
-    <div id="loadingIndicator" class="loading">
-        <div class="spinner"></div>
-        <p>Loading gallery...</p>
-    </div>
-    
             <div id="noResults" class="no-results" style="display: none;">
             <h3>No items found</h3>
             <p>Try adjusting your filters/search or</p>
@@ -153,9 +167,16 @@
     </main>
     </div>
 
+    <div id="loadingIndicator" class="loading" role="status" aria-live="polite" aria-busy="false" hidden>
+        <div class="spinner" aria-hidden="true"></div>
+        <p>Loading gallery...</p>
+    </div>
+
     <div id="lightbox" class="lightbox">
         <div class="lightbox-content">
-            <button class="lightbox-btn lightbox-close">&times;</button>
+            <button type="button" class="lightbox-btn lightbox-close" aria-label="Close">
+                <i class="ri-close-line" aria-hidden="true"></i>
+            </button>
             <div class="lightbox-image-container">
                 <img id="lightboxImage" src="" alt="">
                 <div class="lightbox-zoom-controls">
@@ -203,8 +224,8 @@
     </div>
 
     <!-- Scroll to top button -->
-    <button id="scrollToTop" class="scroll-to-top" aria-label="Scroll to top">
-        <i class="ri-arrow-up-line"></i>
+    <button id="scrollToTop" class="scroll-to-top" type="button" aria-label="Back to top" title="Back to top" hidden>
+        <i class="ri-arrow-up-line" aria-hidden="true"></i>
     </button>
 
     <footer>
@@ -254,6 +275,9 @@
         </div>
     </footer>
 
+    <script src="assets/js/archive-utils.js"></script>
+    <script src="assets/js/nav.js"></script>
+    <script src="assets/js/scroll-chrome.js"></script>
     <script src="assets/js/gallery-data.js"></script>
     <script src="assets/js/gallery.js"></script>
 </body>

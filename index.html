@@ -6,15 +6,19 @@
     <title>Film Packaging Archive | High-resolution scans of photographic film packaging</title>
     <meta name="description" content="High-resolution scans of photographic film packaging">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/gallery.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
 </head>
-<body>
-    <nav>
+<body class="site-nav-fixed">
+    <nav id="siteNav" aria-label="Main navigation">
         <div class="nav-container">
-            <a href="index.html" class="nav-logo">Film Packaging Archive</a>
+            <span class="nav-logo nav-logo--static">Film Packaging Archive</span>
+            <button type="button" class="mobile-menu-toggle" id="mobileMenuToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open navigation menu">
+                <i class="ri-menu-line" aria-hidden="true"></i>
+            </button>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
@@ -23,14 +27,35 @@
         </div>
     </nav>
 
+    <div id="mobileMenuBackdrop" class="mobile-menu-backdrop" hidden></div>
+    <aside id="mobileMenu" class="mobile-menu mobile-nav-menu" aria-hidden="true" hidden>
+        <button type="button" class="mobile-menu-return" aria-label="Return to page">
+            <i class="ri-arrow-go-back-line" aria-hidden="true"></i>
+            Return
+        </button>
+        <nav class="mobile-menu-nav mobile-menu-nav--centered" aria-label="Mobile navigation">
+            <span class="mobile-menu-logo">Film Packaging Archive</span>
+            <a href="index.html">Home</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contribution_guide.md">Contribute</a>
+        </nav>
+    </aside>
+
     <main class="main-content">
         <div class="container">
             <header class="site-header">
                 <h1 class="text-heading">Film Packaging Archive</h1>
-                <p class="text-body">High-resolution scans of photographic film packaging</p>
-                <div class="hero-image">
-                    <img src="resources/title.jpg" alt="Film packaging collection" />
+                <p class="text-body">
+                    Open source archive of scanned film packages from <span id="totalBrands"></span>+ brands across <span id="totalFormats"></span> formats and <span id="totalProcesses"></span> development processes, with expiry dates going back to <span id="oldestExpiry"></span>.
+                </p>
+
+                <div class="browse-cta">
+                    <a href="gallery.html" class="cta-button">
+                        <i class="ri-gallery-line"></i>
+                        Explore Gallery
+                    </a>
                 </div>
+
                 <div class="header-decoration">
                     <span style="background-color: var(--accent-ilford);"></span>
                     <span style="background-color: var(--accent-kodak);"></span>
@@ -39,79 +64,14 @@
                 </div>
             </header>
 
-            <section class="content-section">
-                <h2>Welcome to the Archive</h2>
-                <p>Discover high-resolution scans of:</p>
-                <ul class="feature-list">
-                    <li><i class="ri-film-line"></i> Photographic Film Packaging</li>
-                    <li><i class="ri-file-text-line"></i> In-box Instruction Manuals & Leaflets</li>
-                    <li><i class="ri-envelope-line"></i> Processing Envelopes</li>
-                    <li><i class="ri-time-line"></i> Old & new, popular & obscure</li>
-                </ul>
-            </section>
-
-            <div class="fold-line"></div>
-
-            <section class="content-section">
-                <h2>Why This Archive?</h2>
-                <div class="why-grid">
-                    <div class="why-card">
-                        <i class="ri-history-line"></i>
-                        <h3>Historical Documentation</h3>
-                        <p>Film packaging captures the evolution of photography, technology, and design trends.</p>
-                    </div>
-                    <div class="why-card">
-                        <i class="ri-palette-line"></i>
-                        <h3>Design Inspiration</h3>
-                        <p>Its preservation helps inspire modern designs and support research of branding and cultural aesthetics.</p>
-                    </div>
-                    <div class="why-card">
-                        <i class="ri-archive-line"></i>
-                        <h3>Cultural Preservation</h3>
-                        <p>Documenting history through the lens of photographic packaging and branding.</p>
-                    </div>
+            <section class="content-section home-showcase-section">
+                <div class="home-showcase-heading">
+                    <h2><strong id="heroItemCount">500+</strong> unique film packages</h2>
+                    <button type="button" class="home-showcase-refresh" id="homeShowcaseRefresh" aria-label="Refresh showcase">
+                        <i class="ri-refresh-line" aria-hidden="true"></i>
+                    </button>
                 </div>
-            </section>
-
-            <div class="fold-line"></div>
-
-            <section class="content-section">
-                <h2>Browse the Collection</h2>
-                <div class="browse-cta">
-                    <p class="cta-subtitle">Currently featuring <strong id="heroItemCount">500+</strong> items from various brands and eras</p>
-                </div>
-                
-                <div class="sort-options">
-                    <h3>Sort by:</h3>
-                    <div class="sort-grid">
-                        <a href="gallery.html" class="sort-card">
-                            <i class="ri-price-tag-3-line"></i>
-                            <span>Brand</span>
-                        </a>
-                        <a href="gallery.html" class="sort-card">
-                            <i class="ri-layout-line"></i>
-                            <span>Film Format</span>
-                        </a>
-                        <a href="gallery.html" class="sort-card">
-                            <i class="ri-speed-line"></i>
-                            <span>ISO</span>
-                        </a>
-                        <a href="gallery.html" class="sort-card">
-                            <i class="ri-camera-line"></i>
-                            <span>Process</span>
-                        </a>
-                        <a href="gallery.html" class="sort-card">
-                            <i class="ri-calendar-line"></i>
-                            <span>Expiry Date</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="browse-cta">
-                    <a href="gallery.html" class="cta-button">
-                        <i class="ri-gallery-line"></i>
-                        Explore Gallery
-                    </a>
-                </div>
+                <div class="gallery-grid" id="homeShowcaseGrid"></div>
             </section>
 
             <div class="fold-line"></div>
@@ -171,38 +131,19 @@
             <p>This site is open source. <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this page</a>.</p>
         </div>
     </footer>
+
+    <button id="scrollToTop" class="scroll-to-top" type="button" aria-label="Back to top" title="Back to top" hidden>
+        <i class="ri-arrow-up-line" aria-hidden="true"></i>
+    </button>
+
+    <script src="assets/js/archive-utils.js"></script>
+    <script src="assets/js/nav.js"></script>
+    <script src="assets/js/scroll-chrome.js"></script>
     <script src="assets/js/gallery-data.js"></script>
     <script>
-        (function () {
-            if (typeof GALLERY_DATA === 'undefined') return;
-
-            // Item count
-            const countEl = document.getElementById('heroItemCount');
-            if (countEl) {
-                const total = GALLERY_DATA.length;
-                const rounded = Math.floor(total / 100) * 100;
-                countEl.textContent = rounded + '+';
-            }
-
-            // Top contributors
-            const grid = document.getElementById('contributorsGrid');
-            if (grid) {
-                const counts = {};
-                GALLERY_DATA.forEach(function (item) {
-                    const a = item.author || 'Unknown';
-                    counts[a] = (counts[a] || 0) + 1;
-                });
-                const top = Object.entries(counts)
-                    .sort(function (a, b) { return b[1] - a[1]; })
-                    .slice(0, 8);
-                grid.innerHTML = top.map(function (entry) {
-                    return '<div class="contributor-card"><div class="contributor-info">' +
-                        '<h3>' + entry[0] + '</h3>' +
-                        '<span class="contribution-count">' + entry[1] + ' contributions</span>' +
-                        '</div></div>';
-                }).join('');
-            }
-        })();
+        if (typeof GALLERY_DATA !== 'undefined' && window.ArchiveUtils) {
+            ArchiveUtils.applyHomePageStats(GALLERY_DATA);
+        }
     </script>
 </body>
 </html> 
