@@ -1,0 +1,53 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/dekuNukem/Film-Packaging.git || true
+
+      - name: Fetch upstream
+        run: git fetch upstream
+
+      - name: Merge upstream (keep local overrides on conflicts)
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git merge upstream/master -X ours \
+            -m "Sync upstream/master — kept local overrides [skip ci]" || echo "Nothing to merge"
+
+      - name: Remove upstream pycache artifacts
+        run: |
+          git rm -r --cached film_packaging/__pycache__ 2>/dev/null || true
+          find . -name "*.pyc" -delete
+          find . -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true
+          git commit -m "Remove pycache from tracking [skip ci]" || true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Regenerate gallery data
+        run: python generate_js_data.py
+
+      - name: Commit and push
+        run: |
+          git add assets/js/gallery-data.js
+          git commit -m "Auto-sync upstream + regenerate gallery data [skip ci]" || echo "No changes to commit"
+          git push

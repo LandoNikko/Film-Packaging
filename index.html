@@ -78,7 +78,7 @@
             <section class="content-section">
                 <h2>Browse the Collection</h2>
                 <div class="browse-cta">
-                    <p class="cta-subtitle">Currently featuring <strong>150+ items</strong> from various brands and eras</p>
+                    <p class="cta-subtitle">Currently featuring <strong id="heroItemCount">500+</strong> items from various brands and eras</p>
                 </div>
                 
                 <div class="sort-options">
@@ -136,32 +136,7 @@
 
             <section class="content-section">
                 <h2>Top Contributors</h2>
-                <div class="contributors-grid">
-                    <div class="contributor-card">
-                        <div class="contributor-info">
-                            <h3>dekuNukem</h3>
-                            <span class="contribution-count">89 contributions</span>
-                        </div>
-                    </div>
-                    <div class="contributor-card">
-                        <div class="contributor-info">
-                            <h3>@ob.skura</h3>
-                            <span class="contribution-count">16 contributions</span>
-                        </div>
-                    </div>
-                    <div class="contributor-card">
-                        <div class="contributor-info">
-                            <h3>b0baspace</h3>
-                            <span class="contribution-count">14 contributions</span>
-                        </div>
-                    </div>
-                    <div class="contributor-card">
-                        <div class="contributor-info">
-                            <h3>@SirBrentsworth</h3>
-                            <span class="contribution-count">13 contributions</span>
-                        </div>
-                    </div>
-                </div>
+                <div class="contributors-grid" id="contributorsGrid"></div>
             </section>
 
             <div class="fold-line"></div>
@@ -196,5 +171,38 @@
             <p>This site is open source. <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this page</a>.</p>
         </div>
     </footer>
+    <script src="assets/js/gallery-data.js"></script>
+    <script>
+        (function () {
+            if (typeof GALLERY_DATA === 'undefined') return;
+
+            // Item count
+            const countEl = document.getElementById('heroItemCount');
+            if (countEl) {
+                const total = GALLERY_DATA.length;
+                const rounded = Math.floor(total / 100) * 100;
+                countEl.textContent = rounded + '+';
+            }
+
+            // Top contributors
+            const grid = document.getElementById('contributorsGrid');
+            if (grid) {
+                const counts = {};
+                GALLERY_DATA.forEach(function (item) {
+                    const a = item.author || 'Unknown';
+                    counts[a] = (counts[a] || 0) + 1;
+                });
+                const top = Object.entries(counts)
+                    .sort(function (a, b) { return b[1] - a[1]; })
+                    .slice(0, 8);
+                grid.innerHTML = top.map(function (entry) {
+                    return '<div class="contributor-card"><div class="contributor-info">' +
+                        '<h3>' + entry[0] + '</h3>' +
+                        '<span class="contribution-count">' + entry[1] + ' contributions</span>' +
+                        '</div></div>';
+                }).join('');
+            }
+        })();
+    </script>
 </body>
 </html> 

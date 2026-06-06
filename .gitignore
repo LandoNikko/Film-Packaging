@@ -1,2 +1,7 @@
 film_packaging/to_add
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
