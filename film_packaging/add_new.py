@@ -10,7 +10,7 @@ import hashlib
 from PIL import Image
 from shared import *
 
-author_name_this_session = AUTHOR_NAME_MYSELF
+author_name_this_session = "Unknown"
 database_entries = []
 
 def get_md5_str(filepath):
@@ -37,14 +37,28 @@ def get_answer(question, accept_empty=False):
         if accept_empty or len(response) > 0:
             return response
 
+def format_two_columns(items):
+    MAX_COL_WIDTH = 50
+    col_width = min(max((len(f"{i}:  {item}") for i, item in enumerate(items)), default=0) + 4, MAX_COL_WIDTH)
+    half = (len(items) + 1) // 2
+    lines = []
+    for row in range(half):
+        left_i = row
+        left = f"{left_i}:  {items[left_i]}"
+        right_i = row + half
+        if right_i < len(items):
+            right = f"{right_i}:  {items[right_i]}"
+            lines.append(f"{left:<{col_width}}{right}")
+        else:
+            lines.append(left)
+    return "\n".join(lines) + "\n"
+
 def ask_with_listing_existing_options(db_key):
     all_options = set()
     for item in database_entries:
         all_options.add(item[db_key])
     all_options = sorted([str(x) for x in all_options])
-    option_list_str = ""
-    for index, item in enumerate(all_options):
-        option_list_str += f"{index}:  {item}\n"
+    option_list_str = format_two_columns(all_options)
     question_to_ask = f"\nWhat is {colored(db_key, alert_color)}?\nSelect existing option or type a new entry\n{option_list_str}"
     user_answer = get_answer(question_to_ask)
     try:
@@ -61,7 +75,7 @@ def ask_attribute(db_key):
     if key_attri.list_existing:
         return ask_with_listing_existing_options(db_key)
     else:
-        return get_answer(f"What is {colored(db_key, alert_color)}? ({key_attri.notes})\n")
+        return get_answer(f"What is {colored(db_key, alert_color)}? ({key_attri.notes})\n", accept_empty=key_attri.accept_empty)
 
 import subprocess
 
@@ -123,9 +137,22 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-this_author = get_answer("Author name this session? (Press Enter for myself)\nAdd args to reverse order\n", accept_empty=True)
-if len(this_author) > 0:
-    author_name_this_session = this_author
+did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
+
+latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
+all_authors = sorted(set(item[ITEM_AUTHOR_KEY] for item in database_entries))
+author_list_str = format_two_columns(all_authors)
+user_answer = get_answer(
+    f"Author name this session? (Press Enter for {latest_author})\n{author_list_str}",
+    accept_empty=True
+)
+if len(user_answer) == 0:
+    author_name_this_session = latest_author
+else:
+    try:
+        author_name_this_session = all_authors[int(user_answer)]
+    except (ValueError, IndexError):
+        author_name_this_session = user_answer
 
 convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)

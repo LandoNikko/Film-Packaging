@@ -28,9 +28,10 @@ def make_subtitle(this_entry, foretext_key=None, foretext_func=None):
     return f"{front_bit}{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} (ref: {this_entry[ITEM_UUID_KEY][-4:]})"
 
 def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
-    side, length = get_longest_side(this_lowres_path)
-    output = f"\n<a href=\"{this_image_path}\">"
-    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" {side}=\"{length}\" />"
+    display_width, display_height = get_resized_dimensions(this_lowres_path, max_size=500)
+    # output = f"\n<a href=\"{this_image_path}\">"
+    output = f'\n<a href="{this_image_path}" target="_blank">'
+    output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" width=\"{display_width}\" height=\"{display_height}\">"
     output += f"\n</a>\n"
     return output
 
@@ -72,9 +73,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: 
-
-# of items: 
+Last Updated:
+Unique items:
+Total scans :
 ```
 
 -----
@@ -118,22 +119,28 @@ def render_two_cols(info: dict, col_width: int = 21) -> str:
         added_fmt = ""
 
     # Field values
-    fmt = info.get(ITEM_FORMAT_KEY, "")
-    proc = info.get(ITEM_PROCESS_KEY, "")
-    iso = info.get(ITEM_ISO_KEY, "")
-    author = info.get(ITEM_AUTHOR_KEY, "")
-    uuid = info.get(ITEM_UUID_KEY, "")
+    fmt = info.get(ITEM_FORMAT_KEY, "").strip()
+    proc = info.get(ITEM_PROCESS_KEY, "").strip()
+    iso = info.get(ITEM_ISO_KEY, "").strip()
+    author = info.get(ITEM_AUTHOR_KEY, "").strip()
+    uuid = info.get(ITEM_UUID_KEY, "").strip()
+    box_type = info.get(ITEM_SUB_TYPE_KEY, "").strip()
+    quantity = info.get(ITEM_QUANTITY_KEY, "").strip()
+    notes = info.get(ITEM_NOTES_KEY, "").strip()
 
     # Helper to make one column padded to col_width
     def col(label, value):
         return f"{label}: {value}".ljust(col_width)
 
-    # Build the lines
-    line1 = col("Format", fmt) + col("|  Process", proc)
-    line2 = col("ISO   ", iso) + col("|  Expiry ", exp_fmt)
-    line3 = col("Added ", added_fmt) + col("|  Author ", author)
-    line4 = f"UUID  : {uuid}\n"
-    return "\n".join([line1, line2, line3, line4])
+    line_list = []
+    line_list.append(col("Format", fmt) + col("|  Process ", proc))
+    line_list.append(col("ISO   ", iso) + col("|  Expiry  ", exp_fmt))
+    line_list.append(col("Type  ", box_type) + col("|  Quantity", quantity))
+    line_list.append(col("Added ", added_fmt) + col("|  Author  ", author))
+    line_list.append(f"UUID  : {uuid}")
+    if len(notes):
+        line_list.append(f"Notes : {notes}")
+    return "\n".join(line_list).strip()
 
 # -----------
 
@@ -162,7 +169,7 @@ def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
             description += f"#### {make_subtitle(item, foretext_key=ftk, foretext_func=ftf)}\n"
             description += "\n```\n"
             description += render_two_cols(item)
-            description += "```\n"
+            description += "\n```\n"
             description += make_lazy_load_image_link(lowres_path, image_path, item)
         else:
             description += f"\n`UUID: {item[ITEM_UUID_KEY]}`↓\n"
@@ -198,22 +205,37 @@ try:
 except Exception as e:
     print("csv read exception:", e)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("BRAND", sorted_db_by_brand)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("BRAND", sorted_db)
 write_to_file("./by_brand.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIRY_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("EXPIRY DATE", sorted_db_by_brand, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_EXPIRY_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("EXPIRY DATE", sorted_db, ftk=ITEM_EXPIRY_KEY, ftf=expiry_func)
 write_to_file("./by_expiry.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("FILM FORMAT", sorted_db_by_brand, ftk=ITEM_FORMAT_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_FORMAT_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("FILM FORMAT", sorted_db, ftk=ITEM_FORMAT_KEY, ftf=None)
 write_to_file("./by_format.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("PROCESS TYPE", sorted_db_by_brand, ftk=ITEM_PROCESS_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_PROCESS_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("PROCESS TYPE", sorted_db, ftk=ITEM_PROCESS_KEY, ftf=None)
 write_to_file("./by_process.md", out_str)
 
-sorted_db_by_brand = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
-out_str = make_md("CONTRIBUTOR", sorted_db_by_brand, ftk=ITEM_AUTHOR_KEY, ftf=None)
+sorted_db = sorted(database_entries, key=operator.itemgetter(ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY))
+out_str = make_md("CONTRIBUTOR", sorted_db, ftk=ITEM_AUTHOR_KEY, ftf=None)
 write_to_file("./by_user.md", out_str)
+
+from datetime import datetime
+
+def timestamp_to_date(ts):
+    try:
+        ts = int(ts)
+        if not isinstance(ts, (int, float)) or ts <= 0:
+            return "unknown"
+        return datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
+    except Exception:
+        return "unknown"
+
+sorted_db = sorted(database_entries, key=operator.itemgetter(DATE_ADDED_KEY, ITEM_AUTHOR_KEY, ITEM_BRAND_KEY, ITEM_PRODUCT_NAME_KEY, ITEM_EXPIRY_KEY, ITEM_INDEX_KEY, ITEM_SUBINDEX_KEY), reverse=True)
+out_str = make_md("DATE ADDED", sorted_db, ftk=DATE_ADDED_KEY, ftf=timestamp_to_date)
+write_to_file("./by_recent.md", out_str)

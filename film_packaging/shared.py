@@ -16,6 +16,11 @@ ITEM_EXPIRY_KEY = 'expiry_date'
 CHECKSUM_KEY = "md5"
 ITEM_FILE_NAME_KEY = 'filename'
 ITEM_AUTHOR_KEY = "author"
+
+ITEM_NOTES_KEY = 'notes'
+ITEM_SUB_TYPE_KEY = 'item_subtype' # single_pack, multipack_3, bulk_roll, etc
+ITEM_QUANTITY_KEY = 'quantity' # 24exp, 36exp, 100ft, etc
+
 alert_color = 'cyan'
 
 database_csv_path = "./database.csv"
@@ -32,6 +37,7 @@ class my_attribute:
         self.no_need_to_ask = False
         self.list_existing = False
         self.notes = ""
+        self.accept_empty = False
 
     def __str__(self):
         return (
@@ -65,6 +71,22 @@ this_key.display_name = "Item Type"
 this_key.no_need_to_ask = False
 this_key.list_existing = True
 this_key.notes = "single_box_outside, single_box_outside, leaflet, etc"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_SUB_TYPE_KEY
+this_key.display_name = "Box Type"
+this_key.no_need_to_ask = False
+this_key.list_existing = True
+this_key.notes = ""
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_QUANTITY_KEY
+this_key.display_name = "Quantity"
+this_key.no_need_to_ask = False
+this_key.list_existing = True
+this_key.notes = "24exp, 100ft, etc"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
@@ -113,6 +135,15 @@ this_key.display_name = "Expiry"
 this_key.no_need_to_ask = False
 this_key.list_existing = False
 this_key.notes = "YYYYMM"
+record_key_list.append(this_key)
+
+this_key = my_attribute()
+this_key.db_name = ITEM_NOTES_KEY
+this_key.display_name = "Additional Notes"
+this_key.no_need_to_ask = False
+this_key.list_existing = False
+this_key.accept_empty = True
+this_key.notes = "press enter if none"
 record_key_list.append(this_key)
 
 this_key = my_attribute()
@@ -181,7 +212,6 @@ def save_csv(entries, csv_path=database_csv_path):
     csv_writer.writerows(entries)
     csv_out_file.close()
 
-
 from PIL import Image
 
 def get_image_dimensions(file_path):
@@ -191,14 +221,20 @@ def get_image_dimensions(file_path):
     except Exception:
         return (0, 0)
 
-def get_longest_side(file_path):
+def get_resized_dimensions(file_path, max_size=500):
     width, height = get_image_dimensions(file_path)
-    
-    if width >= height:
-        longest_side = "width"
-        length = min(width, 500)
-    else:
-        longest_side = "height"
-        length = min(height, 500)
 
-    return longest_side, length
+    if width == 0 or height == 0:
+        return (0, 0)
+
+    longest_side = max(width, height)
+
+    # No resizing needed
+    if longest_side <= max_size:
+        return (width, height)
+
+    scale = max_size / longest_side
+    new_width = int(width * scale)
+    new_height = int(height * scale)
+
+    return (new_width, new_height)
