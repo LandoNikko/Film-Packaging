@@ -4,6 +4,7 @@ class FilmGallery {
         this.filteredData = [];
         this.currentIndex = 0;
         this.currentSort = { type: null, ascending: true };
+        this.defaultSort = { type: 'brand', ascending: true };
         
         this.init();
     }
@@ -20,6 +21,7 @@ class FilmGallery {
             this.populateFilters();
             this.sortGallery('brand');
             this.renderGallery();
+            this.updateResetButtonVisibility();
         } finally {
             this.showLoading(false);
         }
@@ -120,6 +122,8 @@ class FilmGallery {
         }, { passive: false });
         
         document.querySelector('.lightbox-close').addEventListener('click', () => this.closeLightbox());
+
+        document.getElementById('lightboxRandom').addEventListener('click', () => this.showRandomCard());
         
         const infoToggle = document.getElementById('infoToggle');
         const lightboxInfoMeta = document.querySelector('.lightbox-info-meta');
@@ -142,13 +146,23 @@ class FilmGallery {
             }
         });
 
+        // Hotkeys
         document.addEventListener('keydown', (e) => {
+            const lightboxOpen = document.body.classList.contains('lightbox-open');
+            const typingInField = e.target.matches('input, textarea, select, [contenteditable="true"]');
+
             if (e.key === 'Escape') this.closeLightbox();
+            if (!lightboxOpen || typingInField) return;
+
             if (e.key === 'ArrowLeft') {
                 this.showPreviousCard();
             }
             if (e.key === 'ArrowRight') {
                 this.showNextCard();
+            }
+            if ((e.key === 'r' || e.key === 'R') && !e.ctrlKey && !e.metaKey && !e.altKey) {
+                e.preventDefault();
+                this.showRandomCard();
             }
         });
 
@@ -157,7 +171,7 @@ class FilmGallery {
         };
 
         document.getElementById('resetFilters').addEventListener('click', resetFiltersHandler);
-        document.querySelector('.clickable-filters').addEventListener('click', resetFiltersHandler);
+        document.getElementById('sidebarResetFilters').addEventListener('click', resetFiltersHandler);
 
         this.setupZoomControls();
     }
@@ -210,7 +224,7 @@ class FilmGallery {
             newScript.onload = () => {
                 if (typeof GALLERY_DATA !== 'undefined' && currentLength !== GALLERY_DATA.length) {
                     this.refreshGallery();
-                    this.updateLastUpdated();
+                    window.SiteFooter?.updateLastUpdated();
                 }
             };
             newScript.onerror = () => {
@@ -227,40 +241,44 @@ class FilmGallery {
         this.filteredData = [...this.galleryData];
     }
 
+    getSelectedFilterValues(name) {
+        return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map((input) => input.value);
+    }
+
     populateFilters() {
         const brandFilter = document.getElementById('brandFilter');
         const brands = [...new Set(this.galleryData.map(item => item.brand).filter(brand => brand && brand !== 'Unknown'))];
-        
-        brandFilter.innerHTML = '<label class="filter-option"><input type="radio" name="brand" value="" checked><span>All Brands</span></label>';
-        
+
+        brandFilter.innerHTML = '';
+
         brands.sort().forEach(brand => {
             const label = document.createElement('label');
             label.className = 'filter-option';
-            label.innerHTML = `<input type="radio" name="brand" value="${brand}"><span>${brand}</span><span class="checkmark">✓</span>`;
+            label.innerHTML = `<input type="checkbox" name="brand" value="${brand}"><span>${brand}</span><span class="checkmark">✓</span>`;
             brandFilter.appendChild(label);
         });
 
         const formatFilter = document.getElementById('formatFilter');
         const formats = [...new Set(this.galleryData.map(item => item.film_format).filter(format => format))];
-        
-        formatFilter.innerHTML = '<label class="filter-option"><input type="radio" name="format" value="" checked><span>All Formats</span></label>';
-        
+
+        formatFilter.innerHTML = '';
+
         formats.sort().forEach(format => {
             const label = document.createElement('label');
             label.className = 'filter-option';
-            label.innerHTML = `<input type="radio" name="format" value="${format}"><span>${format}</span><span class="checkmark">✓</span>`;
+            label.innerHTML = `<input type="checkbox" name="format" value="${format}"><span>${format}</span><span class="checkmark">✓</span>`;
             formatFilter.appendChild(label);
         });
 
         const processFilter = document.getElementById('processFilter');
         const processes = [...new Set(this.galleryData.map(item => item.process).filter(process => process))];
-        
-        processFilter.innerHTML = '<label class="filter-option"><input type="radio" name="process" value="" checked><span>All Processes</span></label>';
-        
+
+        processFilter.innerHTML = '';
+
         processes.sort().forEach(process => {
             const label = document.createElement('label');
             label.className = 'filter-option';
-            label.innerHTML = `<input type="radio" name="process" value="${process}"><span>${process}</span><span class="checkmark">✓</span>`;
+            label.innerHTML = `<input type="checkbox" name="process" value="${process}"><span>${process}</span><span class="checkmark">✓</span>`;
             processFilter.appendChild(label);
         });
 
@@ -272,26 +290,26 @@ class FilmGallery {
                 const year = parseInt(date.substring(0, 4));
                 return Math.floor(year / 10) * 10;
             });
-        
+
         const decades = [...new Set(expiryDates)].sort((a, b) => b - a);
-        
-        const hasUnknownExpiry = this.galleryData.some(item => 
+
+        const hasUnknownExpiry = this.galleryData.some(item =>
             !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6
         );
-        
-        expiryFilter.innerHTML = '<label class="filter-option"><input type="radio" name="expiry" value="" checked><span>All Expiry Dates</span></label>';
-        
+
+        expiryFilter.innerHTML = '';
+
         decades.forEach(decade => {
             const label = document.createElement('label');
             label.className = 'filter-option';
-            label.innerHTML = `<input type="radio" name="expiry" value="${decade}"><span>${decade}s</span><span class="checkmark">✓</span>`;
+            label.innerHTML = `<input type="checkbox" name="expiry" value="${decade}"><span>${decade}s</span><span class="checkmark">✓</span>`;
             expiryFilter.appendChild(label);
         });
-        
+
         if (hasUnknownExpiry) {
             const label = document.createElement('label');
             label.className = 'filter-option';
-            label.innerHTML = `<input type="radio" name="expiry" value="unknown"><span>Unknown</span><span class="checkmark">✓</span>`;
+            label.innerHTML = `<input type="checkbox" name="expiry" value="unknown"><span>Unknown</span><span class="checkmark">✓</span>`;
             expiryFilter.appendChild(label);
         }
 
@@ -307,117 +325,117 @@ class FilmGallery {
     }
 
     updateInitialToggleText() {
-        const selectedBrand = document.querySelector('input[name="brand"]:checked').value;
-        this.updateToggleText('brand', selectedBrand);
-        
-        const selectedFormat = document.querySelector('input[name="format"]:checked').value;
-        this.updateToggleText('format', selectedFormat);
-        
-        const selectedProcess = document.querySelector('input[name="process"]:checked').value;
-        this.updateToggleText('process', selectedProcess);
-        
-        const selectedExpiry = document.querySelector('input[name="expiry"]:checked').value;
-        this.updateToggleText('expiry', selectedExpiry);
+        ['brand', 'format', 'process', 'expiry'].forEach((filterType) => {
+            this.updateToggleText(filterType);
+        });
     }
 
     attachFilterEventListeners() {
-        document.querySelectorAll('input[name="brand"]').forEach(radio => {
-            radio.addEventListener('change', () => {
-                this.filterGallery();
-                this.updateToggleText('brand', radio.value);
-                this.closeDropdownOnMobile('brand-section');
-            });
-        });
-        document.querySelectorAll('input[name="format"]').forEach(radio => {
-            radio.addEventListener('change', () => {
-                this.filterGallery();
-                this.updateToggleText('format', radio.value);
-                this.closeDropdownOnMobile('format-section');
-            });
-        });
-        document.querySelectorAll('input[name="process"]').forEach(radio => {
-            radio.addEventListener('change', () => {
-                this.filterGallery();
-                this.updateToggleText('process', radio.value);
-                this.closeDropdownOnMobile('process-section');
-            });
-        });
-        document.querySelectorAll('input[name="expiry"]').forEach(radio => {
-            radio.addEventListener('change', () => {
-                this.filterGallery();
-                this.updateToggleText('expiry', radio.value);
-                this.closeDropdownOnMobile('expiry-section');
+        ['brand', 'format', 'process', 'expiry'].forEach((filterType) => {
+            document.querySelectorAll(`input[name="${filterType}"]`).forEach((checkbox) => {
+                checkbox.addEventListener('change', () => {
+                    this.filterGallery();
+                    this.updateToggleText(filterType);
+                });
             });
         });
     }
 
-    updateToggleText(filterType, selectedValue) {
+    updateToggleText(filterType) {
+        const selected = this.getSelectedFilterValues(filterType);
         const toggleButton = document.querySelector(`[data-target="${filterType}-section"]`);
         const toggleText = toggleButton.querySelector('span:first-child');
-        
-        if (selectedValue === '') {
-            const typeName = filterType.charAt(0).toUpperCase() + filterType.slice(1);
-            if (filterType === 'brand') {
-                toggleText.textContent = 'Brands';
-            } else if (filterType === 'format') {
-                toggleText.textContent = 'Formats';
-            } else if (filterType === 'process') {
-                toggleText.textContent = 'Processes';
-            } else if (filterType === 'expiry') {
-                toggleText.textContent = 'Expiry Dates';
+        const defaultLabels = {
+            brand: 'Brands',
+            format: 'Formats',
+            process: 'Processes',
+            expiry: 'Expiry Dates'
+        };
+
+        if (selected.length === 0) {
+            toggleText.textContent = defaultLabels[filterType];
+        } else if (selected.length === 1) {
+            const value = selected[0];
+            if (filterType === 'expiry') {
+                toggleText.textContent = value === 'unknown' ? 'Unknown' : `${value}s`;
             } else {
-                toggleText.textContent = `All ${typeName}s`;
+                toggleText.textContent = value;
             }
         } else {
-            if (filterType === 'expiry') {
-                if (selectedValue === 'unknown') {
-                    toggleText.textContent = 'Unknown';
-                } else {
-                    toggleText.textContent = `${selectedValue}s`;
-                }
-            } else {
-                toggleText.textContent = selectedValue;
-            }
+            toggleText.textContent = `${selected.length} selected`;
         }
+    }
+
+    matchesExpiryFilter(item, selectedExpiries) {
+        if (selectedExpiries.length === 0) return true;
+
+        const isUnknownItem = !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6;
+        if (isUnknownItem) {
+            return selectedExpiries.includes('unknown');
+        }
+
+        const year = parseInt(item.expiry_date.substring(0, 4), 10);
+        const itemDecade = String(Math.floor(year / 10) * 10);
+        return selectedExpiries.includes(itemDecade);
     }
 
     filterGallery() {
         const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-        const brandFilter = document.querySelector('input[name="brand"]:checked').value;
-        const formatFilter = document.querySelector('input[name="format"]:checked').value;
-        const processFilter = document.querySelector('input[name="process"]:checked').value;
-        const expiryFilter = document.querySelector('input[name="expiry"]:checked').value;
+        const selectedBrands = this.getSelectedFilterValues('brand');
+        const selectedFormats = this.getSelectedFilterValues('format');
+        const selectedProcesses = this.getSelectedFilterValues('process');
+        const selectedExpiries = this.getSelectedFilterValues('expiry');
 
         this.filteredData = this.galleryData.filter(item => {
-            const matchesSearch = !searchTerm || 
+            const matchesSearch = !searchTerm ||
                 item.title.toLowerCase().includes(searchTerm) ||
                 item.brand.toLowerCase().includes(searchTerm) ||
                 item.product.toLowerCase().includes(searchTerm);
-            
-            const matchesBrand = !brandFilter || item.brand === brandFilter;
-            const matchesFormat = !formatFilter || item.film_format === formatFilter;
-            const matchesProcess = !processFilter || item.process === processFilter;
-            
-            let matchesExpiry = true;
-            if (expiryFilter && expiryFilter !== 'unknown') {
-                if (item.expiry_date && item.expiry_date !== 'Unknown' && item.expiry_date.length === 6) {
-                    const year = parseInt(item.expiry_date.substring(0, 4));
-                    const itemDecade = Math.floor(year / 10) * 10;
-                    matchesExpiry = itemDecade === parseInt(expiryFilter);
-                } else {
-                    matchesExpiry = false;
-                }
-            } else if (expiryFilter === 'unknown') {
-                matchesExpiry = !item.expiry_date || item.expiry_date === 'Unknown' || item.expiry_date.length !== 6;
-            }
-            
+
+            const matchesBrand = selectedBrands.length === 0 || selectedBrands.includes(item.brand);
+            const matchesFormat = selectedFormats.length === 0 || selectedFormats.includes(item.film_format);
+            const matchesProcess = selectedProcesses.length === 0 || selectedProcesses.includes(item.process);
+            const matchesExpiry = this.matchesExpiryFilter(item, selectedExpiries);
+
             return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry;
         });
 
-        this.renderGallery();
+        if (this.currentSort.type) {
+            this.sortGallery(this.currentSort.type);
+        } else {
+            this.renderGallery();
+            this.updateResetButtonVisibility();
+        }
+    }
+
+    hasActiveFilters() {
+        const searchTerm = document.getElementById('searchInput')?.value.trim();
+        if (searchTerm) return true;
+
+        const filterNames = ['brand', 'format', 'process', 'expiry'];
+        for (const name of filterNames) {
+            if (this.getSelectedFilterValues(name).length > 0) return true;
+        }
+
+        return this.currentSort.type !== this.defaultSort.type
+            || this.currentSort.ascending !== this.defaultSort.ascending;
+    }
+
+    updateResetButtonVisibility() {
+        const btn = document.getElementById('sidebarResetFilters');
+        const actions = document.querySelector('.filter-sidebar-actions');
+        if (!btn || !actions) return;
+
+        const active = this.hasActiveFilters();
+        btn.hidden = !active;
+        actions.classList.toggle('has-active-filters', active);
     }
 
     sortGallery(sortBy) {
+        if (sortBy) {
+            this.currentSort.type = sortBy;
+        }
+
         this.filteredData.sort((a, b) => {
             let aValue, bValue;
             
@@ -450,8 +468,29 @@ class FilmGallery {
                 return this.currentSort.ascending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
             }
         });
-        
+
+        this.updateSortIcons();
         this.renderGallery();
+        this.updateResetButtonVisibility();
+    }
+
+    updateSortIcons() {
+        document.querySelectorAll('.filter-section').forEach((section) => {
+            const icon = section.querySelector('.filter-icon');
+            const toggle = section.querySelector('.filter-toggle');
+            if (!icon || !toggle) return;
+
+            const filterType = toggle.getAttribute('data-target').replace('-section', '');
+            const isActive = this.currentSort.type === filterType;
+            let iconName = 'ri-sort-desc';
+
+            if (isActive) {
+                iconName = this.currentSort.ascending ? 'ri-sort-desc' : 'ri-sort-asc';
+            }
+
+            icon.className = `filter-icon ${iconName}`;
+            icon.style.opacity = isActive ? '1' : '0.35';
+        });
     }
 
     updateCounter() {
@@ -477,8 +516,9 @@ class FilmGallery {
         noResults.style.display = 'none';
         
         container.innerHTML = groupedData.map((group, index) => {
-            const brandClass = this.getBrandClass(group.metadata.brand);
-            const textColor = this.getTextColorForBrand(group.metadata.brand);
+            const brandColor = window.BrandColors?.resolveBrand(group.metadata.brand);
+            const textColor = window.BrandColors?.textColorForBrand(group.metadata.brand) || '#1A1A1A';
+            const brandBackground = brandColor?.color || '#808080';
             const iso = group.metadata.film_speed_iso || '100';
             const format = group.metadata.film_format || '35mm';
             const process = group.metadata.process || 'C-41';
@@ -501,7 +541,7 @@ class FilmGallery {
                         <img src="${thumbnailUrl}" alt="${group.metadata.title}" loading="lazy" 
                              onerror="this.onerror=null; this.src='${thumbnailItem.imageUrl}';">
                     </div>
-                    <div class="brand-header" style="color: ${textColor};">${group.metadata.brand}</div>
+                    <div class="brand-header" style="color: ${textColor}; background-color: ${brandBackground};">${group.metadata.brand}</div>
                     <div class="gallery-item-info">
                         <h2 class="gallery-item-title">${group.metadata.product}</h2>
                         <div class="gallery-item-details">
@@ -521,55 +561,6 @@ class FilmGallery {
             });
         });
     }
-
-    getBrandClass(brand) {
-        const brandLower = brand.toLowerCase();
-        if (brandLower.includes('fujifilm')) return 'fujifilm';
-        if (brandLower.includes('kodak')) return 'kodak';
-        if (brandLower.includes('ilford')) return 'ilford';
-        if (brandLower.includes('agfa')) return 'agfa';
-        if (brandLower.includes('cinestill')) return 'cinestill';
-        if (brandLower.includes('alien film')) return 'alien-film';
-        if (brandLower.includes('efiniti')) return 'efiniti';
-        if (brandLower.includes('harman')) return 'harman';
-        if (brandLower.includes('rollei')) return 'rollei';
-        if (brandLower.includes('lomography')) return 'lomography';
-        if (brandLower.includes('lloyds pharmacy')) return 'lloyds-pharmacy';
-        if (brandLower.includes('kentmere')) return 'kentmere';
-        if (brandLower.includes('polaroid')) return 'polaroid';
-        if (brandLower.includes('konica')) return 'konica';
-        if (brandLower.includes('efke')) return 'efke';
-        if (brandLower.includes('jessops')) return 'jessops';
-        if (brandLower.includes('porst')) return 'porst';
-        if (brandLower.includes('wolfen')) return 'wolfen';
-        if (brandLower.includes('shanghai')) return 'shanghai';
-        if (brandLower.includes('york photo labs')) return 'york-photo-labs';
-        if (brandLower.includes('gaf')) return 'gaf';
-        if (brandLower.includes('unknown')) return 'unknown';
-        return 'unknown';
-    }
-
-    // Dynamic text color based on brand accent color luminance
-    getTextColorForBrand(brand) {
-        const brandClass = this.getBrandClass(brand);
-        if (!brandClass) return '#1A1A1A';
-        
-        const testElement = document.createElement('div');
-        testElement.style.backgroundColor = `var(--accent-${brandClass})`;
-        document.body.appendChild(testElement);
-        const computedColor = getComputedStyle(testElement).backgroundColor;
-        document.body.removeChild(testElement);
-        
-        const rgb = computedColor.match(/\d+/g);
-        if (!rgb || rgb.length < 3) return '#1A1A1A';
-        
-        const [r, g, b] = rgb.map(Number);
-        const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-        
-        return luminance > 0.5 ? '#1A1A1A' : '#FFFFFF';
-    }
-
-
 
     handleUrlHash() {
         const hash = window.location.hash.substring(1);
@@ -863,6 +854,34 @@ class FilmGallery {
         this.openLightbox(this.currentIndex);
     }
 
+    showRandomCard() {
+        this.playRandomDiceAnimation();
+
+        const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
+        if (groupedData.length <= 1) return;
+
+        let randomIndex = this.currentIndex;
+        while (randomIndex === this.currentIndex) {
+            randomIndex = Math.floor(Math.random() * groupedData.length);
+        }
+
+        this.currentImageIndex = 0;
+        this.openLightbox(randomIndex);
+    }
+
+    playRandomDiceAnimation() {
+        const btn = document.getElementById('lightboxRandom');
+        const icon = btn?.querySelector('i');
+        if (!icon) return;
+
+        icon.classList.remove('is-jumping');
+        void icon.offsetWidth;
+        icon.classList.add('is-jumping');
+        icon.addEventListener('animationend', () => {
+            icon.classList.remove('is-jumping');
+        }, { once: true });
+    }
+
     closeDropdownOnMobile(sectionId) {
         if (this.isMobile()) {
             const content = document.getElementById(sectionId);
@@ -877,31 +896,12 @@ class FilmGallery {
 
     resetAllFilters() {
         document.getElementById('searchInput').value = '';
-        
-        document.querySelectorAll('input[name="brand"]').forEach(radio => {
-            if (radio.value === '') {
-                radio.checked = true;
-            }
+
+        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"]').forEach((input) => {
+            input.checked = false;
         });
-        
-        document.querySelectorAll('input[name="format"]').forEach(radio => {
-            if (radio.value === '') {
-                radio.checked = true;
-            }
-        });
-        
-        document.querySelectorAll('input[name="process"]').forEach(radio => {
-            if (radio.value === '') {
-                radio.checked = true;
-            }
-        });
-        
-        document.querySelectorAll('input[name="expiry"]').forEach(radio => {
-            if (radio.value === '') {
-                radio.checked = true;
-            }
-        });
-        
+
+        this.currentSort = { ...this.defaultSort };
         this.updateInitialToggleText();
         this.filterGallery();
         
@@ -909,21 +909,8 @@ class FilmGallery {
             content.classList.remove('expanded');
             content.previousElementSibling.classList.add('collapsed');
         });
-    }
 
-    updateLastUpdated() {
-        const now = new Date();
-        const options = { 
-            year: 'numeric', 
-            month: 'long', 
-            day: 'numeric'
-        };
-        const formattedDate = now.toLocaleDateString('en-US', options);
-        
-        const lastUpdatedElement = document.getElementById('lastUpdated');
-        if (lastUpdatedElement) {
-            lastUpdatedElement.textContent = formattedDate;
-        }
+        this.updateResetButtonVisibility();
     }
 
     setupZoomControls() {

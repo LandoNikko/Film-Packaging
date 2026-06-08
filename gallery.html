@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Packaging Gallery | Browse High-Resolution Scans</title>
     <meta name="description" content="Browse our collection of high-resolution film packaging scans in an interactive gallery">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
 </head>
@@ -19,9 +20,12 @@
                 <i class="ri-filter-3-line" aria-hidden="true"></i>
                 <span>Filters</span>
             </button>
-            <span class="nav-logo nav-logo--static">
-                <span class="nav-logo-text nav-logo-text--desktop">Film Packaging Archive</span>
-                <span class="nav-logo-text nav-logo-text--mobile">Gallery</span>
+            <span class="nav-logo nav-logo--static site-logo">
+                <span class="site-logo-mark-wrap" aria-hidden="true">
+                    <img class="site-logo-mark site-logo-mark--default" src="assets/logo.png" alt="" width="32" height="32">
+                    <img class="site-logo-mark site-logo-mark--hover" src="assets/logo_hover.png" alt="" width="32" height="32">
+                </span>
+                <span class="nav-logo-text">Film Packaging Archive</span>
             </span>
             <button type="button" class="mobile-menu-toggle" id="mobileMenuToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open navigation menu">
                 <i class="ri-menu-line" aria-hidden="true"></i>
@@ -29,7 +33,7 @@
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contribution_guide.md">Contribute</a></li>
+                <li><a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
             </ul>
         </div>
     </nav>
@@ -44,7 +48,7 @@
             <span class="mobile-menu-logo">Gallery</span>
             <a href="index.html">Home</a>
             <a href="gallery.html">Gallery</a>
-            <a href="contribution_guide.md">Contribute</a>
+            <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a>
         </nav>
     </aside>
 
@@ -60,17 +64,19 @@
     <div class="container-base gallery-container">
         <aside class="filter-sidebar" id="filterSidebar">
             <div class="sidebar-header">
-                <h3 class="text-heading"><span class="clickable-filters" title="Reset all filters">Filters</span> <span class="counter-display"><span id="itemCounter">0</span></span></h3>
+                <h3 class="text-heading"><span>Filters</span></h3>
             </div>
             
             <div class="search-section">
                 <div class="search-container">
-                    <input type="text" id="searchInput" placeholder="Search by film name...">
+                    <input type="text" id="searchInput" placeholder="Type to search...">
                     <span class="search-icon"><i class="ri-search-line"></i></span>
                 </div>
             </div>
 
-            <h3 class="text-heading">Sort By</h3>
+            <div class="sidebar-header">
+                <h3 class="text-heading"><span>Sort By</span> <span class="counter-display"><span id="itemCounter">0</span></span></h3>
+            </div>
 
             <div class="filter-section">
                 <div class="filter-icon-container">
@@ -82,13 +88,7 @@
                         <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
                     </button>
                     <div class="filter-content" id="brand-section">
-                        <div class="filter-options" id="brandFilter">
-                            <label class="filter-option">
-                                <input type="radio" name="brand" value="" checked>
-                                <span>Brands</span>
-                                <span class="checkmark">✓</span>
-                            </label>
-                        </div>
+                        <div class="filter-options" id="brandFilter"></div>
                     </div>
                 </div>
             </div>
@@ -103,12 +103,7 @@
                         <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
                     </button>
                     <div class="filter-content" id="format-section">
-                        <div class="filter-options" id="formatFilter">
-                            <label class="filter-option">
-                                <input type="radio" name="format" value="" checked>
-                                <span>Formats</span>
-                            </label>
-                        </div>
+                        <div class="filter-options" id="formatFilter"></div>
                     </div>
                 </div>
             </div>
@@ -123,12 +118,7 @@
                         <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
                     </button>
                     <div class="filter-content" id="process-section">
-                        <div class="filter-options" id="processFilter">
-                            <label class="filter-option">
-                                <input type="radio" name="process" value="" checked>
-                                <span>Processes</span>
-                            </label>
-                        </div>
+                        <div class="filter-options" id="processFilter"></div>
                     </div>
                 </div>
             </div>
@@ -143,14 +133,20 @@
                         <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
                     </button>
                     <div class="filter-content" id="expiry-section">
-                        <div class="filter-options" id="expiryFilter">
-                            <label class="filter-option">
-                                <input type="radio" name="expiry" value="" checked>
-                                <span>Expiry Date</span>
-                            </label>
-                        </div>
+                        <div class="filter-options" id="expiryFilter"></div>
                     </div>
                 </div>
+            </div>
+
+            <div class="filter-sidebar-actions">
+                <button type="button" id="sidebarResetFilters" class="lightbox-btn filter-reset-btn" aria-label="Reset all filters" hidden>
+                    <i class="ri-device-recover-line" aria-hidden="true"></i>
+                    Reset Filters
+                </button>
+                <button type="button" class="cta-button mobile-filters-search" aria-label="Apply search and return to gallery">
+                    <i class="ri-search-line" aria-hidden="true"></i>
+                    Search
+                </button>
             </div>
         </aside>
 
@@ -162,7 +158,7 @@
             <div id="noResults" class="no-results" style="display: none;">
             <h3>No items found</h3>
             <p>Try adjusting your filters/search or</p>
-            <button id="resetFilters" class="btn-base view-btn" style="margin-top: 1rem;">Reset All Filters</button>
+            <button id="resetFilters" class="btn-base view-btn" style="margin-top: 1rem;">Try Again</button>
         </div>
     </main>
     </div>
@@ -180,17 +176,17 @@
             <div class="lightbox-image-container">
                 <img id="lightboxImage" src="" alt="">
                 <div class="lightbox-zoom-controls">
-                    <button class="lightbox-btn zoom-btn" id="zoomIn" aria-label="Zoom in">
+                    <button class="lightbox-btn zoom-btn" id="zoomIn" aria-label="Zoom in" title="Zoom in">
                         <i class="ri-zoom-in-line"></i>
                     </button>
-                    <button class="lightbox-btn zoom-btn" id="zoomOut" aria-label="Zoom out">
+                    <button class="lightbox-btn zoom-btn" id="zoomOut" aria-label="Zoom out" title="Zoom out">
                         <i class="ri-zoom-out-line"></i>
                     </button>
-                    <button class="lightbox-btn zoom-btn" id="rotateBtn" aria-label="Rotate 90 degrees">
+                    <button class="lightbox-btn zoom-btn" id="rotateBtn" aria-label="Rotate 90 degrees" title="Rotate 90°">
                         <i class="ri-clockwise-2-line"></i>
                     </button>
-                    <button class="lightbox-btn zoom-btn" id="zoomReset" aria-label="Reset zoom" style="margin-left:2rem;">
-                        <i class="ri-find-replace-line"></i>
+                    <button class="lightbox-btn zoom-btn" id="zoomReset" aria-label="Reset zoom" title="Reset view" style="margin-left:2rem;">
+                        <i class="ri-aspect-ratio-line"></i>
                     </button>
                 </div>
                 <div class="lightbox-view-controls">
@@ -213,11 +209,16 @@
                         <div id="lightboxExpiry"></div>
                     </div>
                 </div>
-                <div class="lightbox-info-meta">
-                    <p id="lightboxFileSize" class="image-meta"></p>
-                    <p id="lightboxResolution" class="image-meta"></p>
-                    <p id="lightboxScanCredit" class="image-meta"></p>
-                    <a id="downloadImage" href="#" class="image-meta" style="text-decoration: underline;"><i class="ri-file-download-line"></i> Download Image</a>
+                <div class="lightbox-info-side">
+                    <button type="button" class="lightbox-btn lightbox-random-btn" id="lightboxRandom" aria-label="Random entry" title="Random (R)">
+                        <i class="ri-dice-line" aria-hidden="true"></i>
+                    </button>
+                    <div class="lightbox-info-meta">
+                        <p id="lightboxFileSize" class="image-meta"></p>
+                        <p id="lightboxResolution" class="image-meta"></p>
+                        <p id="lightboxScanCredit" class="image-meta"></p>
+                        <a id="downloadImage" href="#" class="image-meta" style="text-decoration: underline;"><i class="ri-file-download-line"></i> Download Image</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -228,56 +229,13 @@
         <i class="ri-arrow-up-line" aria-hidden="true"></i>
     </button>
 
-    <footer>
-        <div class="footer-content">
-            <div class="footer-section">
-                <h3>Connect</h3>
-                <div class="footer-links">
-                    <a href="https://github.com/dekuNukem/Film-Packaging">
-                        <i class="ri-github-fill"></i>
-                        GitHub Repository
-                    </a>
-                    <a href="https://discord.gg/yvBx7dVG4B">
-                        <i class="ri-discord-fill"></i>
-                        Discord Community
-                    </a>
-                    <a href="mailto:skate.huddle-6r@icloud.com">
-                        <i class="ri-mail-fill"></i>
-                        Contact Email
-                    </a>
-                </div>
-            </div>
-            
-            <div class="footer-section">
-                <h3>Contribute</h3>
-                <div class="footer-links">
-                    <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">
-                        <i class="ri-edit-fill"></i>
-                        Improve this Site
-                    </a>
-                    <a href="contribution_guide.md">
-                        <i class="ri-file-text-fill"></i>
-                        Contribution Guide
-                    </a>
-                </div>
-            </div>
-            
-            <div class="footer-section">
-                <h3>Info</h3>
-                <p class="footer-info">
-                    Last Updated: <span id="lastUpdated">July 28, 2025</span>
-                </p>
-                <p class="footer-disclaimer">
-                    Images provided for reference and educational purposes.<br>
-                    Designs may be protected under copyright and trademark laws.
-                </p>
-            </div>
-        </div>
-    </footer>
+    <footer id="siteFooter"></footer>
 
+    <script src="assets/js/site-footer.js"></script>
     <script src="assets/js/archive-utils.js"></script>
     <script src="assets/js/nav.js"></script>
     <script src="assets/js/scroll-chrome.js"></script>
+    <script src="assets/js/brand-colors.js"></script>
     <script src="assets/js/gallery-data.js"></script>
     <script src="assets/js/gallery.js"></script>
 </body>

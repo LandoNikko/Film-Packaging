@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Packaging Archive | High-resolution scans of photographic film packaging</title>
     <meta name="description" content="High-resolution scans of photographic film packaging">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
@@ -15,14 +16,20 @@
 <body class="site-nav-fixed">
     <nav id="siteNav" aria-label="Main navigation">
         <div class="nav-container">
-            <span class="nav-logo nav-logo--static">Film Packaging Archive</span>
+            <span class="nav-logo nav-logo--static site-logo">
+                <span class="site-logo-mark-wrap" aria-hidden="true">
+                    <img class="site-logo-mark site-logo-mark--default" src="assets/logo.png" alt="" width="32" height="32">
+                    <img class="site-logo-mark site-logo-mark--hover" src="assets/logo_hover.png" alt="" width="32" height="32">
+                </span>
+                <span class="nav-logo-text">Film Packaging Archive</span>
+            </span>
             <button type="button" class="mobile-menu-toggle" id="mobileMenuToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open navigation menu">
                 <i class="ri-menu-line" aria-hidden="true"></i>
             </button>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contribution_guide.md">Contribute</a></li>
+                <li><a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
             </ul>
         </div>
     </nav>
@@ -34,19 +41,30 @@
             Return
         </button>
         <nav class="mobile-menu-nav mobile-menu-nav--centered" aria-label="Mobile navigation">
-            <span class="mobile-menu-logo">Film Packaging Archive</span>
+            <span class="mobile-menu-logo site-logo">
+                <img class="site-logo-mark" src="assets/logo.png" alt="" aria-hidden="true" width="32" height="32">
+                Film Packaging Archive
+            </span>
             <a href="index.html">Home</a>
             <a href="gallery.html">Gallery</a>
-            <a href="contribution_guide.md">Contribute</a>
+            <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a>
         </nav>
     </aside>
 
     <main class="main-content">
         <div class="container">
             <header class="site-header">
-                <h1 class="text-heading">Film Packaging Archive</h1>
+                <h1 class="site-header-logo">
+                    <span class="nav-logo nav-logo--static site-logo">
+                        <span class="site-logo-mark-wrap" aria-hidden="true">
+                            <img class="site-logo-mark site-logo-mark--default" src="assets/logo.png" alt="" width="32" height="32">
+                            <img class="site-logo-mark site-logo-mark--hover" src="assets/logo_hover.png" alt="" width="32" height="32">
+                        </span>
+                        <span class="nav-logo-text">Film Packaging Archive</span>
+                    </span>
+                </h1>
                 <p class="text-body">
-                    Open source archive of scanned film packages from <span id="totalBrands"></span>+ brands across <span id="totalFormats"></span> formats and <span id="totalProcesses"></span> development processes, with expiry dates going back to <span id="oldestExpiry"></span>.
+                    Open source community-driven archive of scanned film packages from <span id="totalBrands"></span>+ brands across <span id="totalFormats"></span> formats and <span id="totalProcesses"></span> development processes, with expiry dates going back to <span id="oldestExpiry"></span>.
                 </p>
 
                 <div class="browse-cta">
@@ -66,9 +84,9 @@
 
             <section class="content-section home-showcase-section">
                 <div class="home-showcase-heading">
-                    <h2><strong id="heroItemCount">500+</strong> unique film packages</h2>
-                    <button type="button" class="home-showcase-refresh" id="homeShowcaseRefresh" aria-label="Refresh showcase">
-                        <i class="ri-refresh-line" aria-hidden="true"></i>
+                    <h2><strong id="heroItemCount">500+</strong> unique film packages archived</h2>
+                    <button type="button" class="home-showcase-refresh lightbox-btn lightbox-random-btn" id="homeShowcaseRefresh" aria-label="Random showcase" title="Random showcase">
+                        <i class="ri-dice-line" aria-hidden="true"></i>
                     </button>
                 </div>
                 <div class="gallery-grid" id="homeShowcaseGrid"></div>
@@ -77,17 +95,26 @@
             <div class="fold-line"></div>
 
             <section class="content-section">
-                <h2>Database & Resources</h2>
-                <div class="resource-grid">
+                <div class="about-actions">
+                    <a href="https://discord.gg/yvBx7dVG4B" class="resource-card">
+                        <i class="ri-discord-line"></i>
+                        <h3>Discord</h3>
+                        <p>Community discussion</p>
+                    </a>
                     <a href="film_packaging/database.csv" class="resource-card">
                         <i class="ri-database-2-line"></i>
-                        <h3>CSV Database</h3>
-                        <p>Download the complete dataset</p>
+                        <h3>Download dataset</h3>
+                        <p>(CSV)</p>
                     </a>
-                    <a href="contribution_guide.md" class="resource-card">
+                    <a href="https://github.com/dekuNukem/Film-Packaging/archive/refs/heads/master.zip" class="resource-card">
+                        <i class="ri-folder-zip-line"></i>
+                        <h3>Download full repository</h3>
+                        <p>High-res scans are in film_packaging/archive/<br>(~3.5GB)</p>
+                    </a>
+                    <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer" class="resource-card">
                         <i class="ri-add-line"></i>
                         <h3>Contribute</h3>
-                        <p>Add your own scans</p>
+                        <p>Submit your own scans</p>
                     </a>
                 </div>
             </section>
@@ -95,47 +122,24 @@
             <div class="fold-line"></div>
 
             <section class="content-section">
-                <h2>Top Contributors</h2>
+                <div class="about-text text-body" style="margin-bottom: 2rem;">
+                    <p>Film packaging captures the evolution of photography, technology, and design trends.</p>
+                    <p>Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.</p>
+                </div>
+                <h2>Thank you</h2>
                 <div class="contributors-grid" id="contributorsGrid"></div>
             </section>
 
-            <div class="fold-line"></div>
-
-            <section class="content-section">
-                <h2>Get in Touch</h2>
-                <div class="contact-grid">
-                    <a href="https://discord.gg/yvBx7dVG4B" class="contact-card">
-                        <i class="ri-discord-line"></i>
-                        <h3>Discord Community</h3>
-                        <p>Join the discussion</p>
-                    </a>
-                    <a href="mailto:skate.huddle-6r@icloud.com" class="contact-card">
-                        <i class="ri-mail-line"></i>
-                        <h3>Email</h3>
-                        <p>skate.huddle-6r@icloud.com</p>
-                    </a>
-                </div>
-            </section>
-
-            <section class="content-section">
-                <h2>Disclaimer</h2>
-                <div class="disclaimer-box">
-                    <p>The images are provided for reference and educational purposes. The designs may be protected under copyright and trademark laws. Use at your own risk.</p>
-                </div>
-            </section>
         </div>
     </main>
 
-    <footer class="footer">
-        <div class="container">
-            <p>This site is open source. <a href="https://github.com/dekuNukem/Film-Packaging/edit/master/README.md">Improve this page</a>.</p>
-        </div>
-    </footer>
+    <footer id="siteFooter"></footer>
 
     <button id="scrollToTop" class="scroll-to-top" type="button" aria-label="Back to top" title="Back to top" hidden>
         <i class="ri-arrow-up-line" aria-hidden="true"></i>
     </button>
 
+    <script src="assets/js/site-footer.js"></script>
     <script src="assets/js/archive-utils.js"></script>
     <script src="assets/js/nav.js"></script>
     <script src="assets/js/scroll-chrome.js"></script>

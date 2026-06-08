@@ -13,6 +13,7 @@
         const lightboxOpen = document.body.classList.contains('lightbox-open');
         const height = nav.offsetHeight;
         document.body.style.setProperty('--site-nav-height', `${height}px`);
+        // Keep body padding fixed
         document.body.style.setProperty(
             '--site-nav-offset',
             navCollapsed && !lightboxOpen ? '0px' : `${height}px`

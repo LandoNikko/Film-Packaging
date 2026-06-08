@@ -5,7 +5,6 @@
         const toggle = document.getElementById(config.toggleId);
         const menu = document.getElementById(config.menuId);
         const backdrop = document.getElementById(config.backdropId);
-        const closeBtn = menu?.querySelector('.mobile-menu-return');
 
         if (!toggle || !menu || !backdrop) return null;
 
@@ -50,7 +49,12 @@
         };
 
         toggle.addEventListener('click', panel.open);
-        closeBtn?.addEventListener('click', panel.close);
+        menu.addEventListener('click', (event) => {
+            const closeTrigger = event.target.closest('.mobile-menu-return, .mobile-filters-search');
+            if (closeTrigger && menu.contains(closeTrigger)) {
+                panel.close();
+            }
+        });
         backdrop.addEventListener('click', panel.close);
 
         menu.querySelectorAll('.mobile-menu-nav a').forEach((link) => {
@@ -117,14 +121,6 @@
 
         relocateFilters();
         mobileQuery.addEventListener('change', relocateFilters);
-
-        if (filtersPanel) {
-            sidebar.addEventListener('change', (event) => {
-                if (!event.target.matches('input[type="radio"]')) return;
-                if (!filtersPanel.menu.classList.contains('is-open')) return;
-                filtersPanel.close();
-            });
-        }
     }
 
     setupMobileFiltersPanel();

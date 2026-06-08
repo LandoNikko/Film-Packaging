@@ -6,23 +6,6 @@
 
 
 
-.gallery-page .nav-logo-text--mobile {
-    display: none;
-}
-
-.gallery-page .header-decoration {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    height: 6px;
-    margin: 2rem auto 0;
-}
-
-.gallery-page .header-decoration span {
-    width: 60px;
-    height: 100%;
-}
-
 .container-base {
     position: relative;
     max-width: 1200px;
@@ -90,7 +73,39 @@
     padding-bottom: 1rem;
 }
 
+.filter-sidebar-actions {
+    margin-top: 1.5rem;
+    display: none;
+}
 
+.filter-sidebar-actions.has-active-filters {
+    display: block;
+}
+
+.filter-sidebar-actions .mobile-filters-search {
+    display: none;
+}
+
+.filter-reset-btn[hidden] {
+    display: none;
+}
+
+.filter-reset-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    height: 40px;
+    padding: 0 0.75rem;
+    font-size: 0.875rem;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.filter-reset-btn i {
+    font-size: 1.125rem;
+    line-height: 1;
+}
 
 .filter-section {
     margin-bottom: 1rem;
@@ -139,11 +154,6 @@
     opacity: 1;
 }
 
-.filter-toggle:hover {
-    background-color: var(--text-color);
-    color: var(--card-bg);
-}
-
 .filter-toggle.collapsed .toggle-icon {
     transform: rotate(0deg);
 }
@@ -166,6 +176,8 @@
 .filter-options {
     display: flex;
     flex-direction: column;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 .filter-option {
@@ -177,13 +189,15 @@
     transition: all 0.2s ease;
     border: 1px solid transparent;
     position: relative;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 .filter-option:hover {
     border-color: var(--border-primary);
 }
 
-.filter-option input[type="radio"] {
+.filter-option input[type="checkbox"] {
     position: absolute;
     opacity: 0;
     pointer-events: none;
@@ -197,16 +211,16 @@
     margin: 0 0.5rem;
 }
 
-.filter-option input[type="radio"]:checked ~ span {
+.filter-option input[type="checkbox"]:checked ~ span {
     font-weight: 700;
     color: var(--card-bg);
 }
 
-.filter-option input[type="radio"]:checked ~ .checkmark {
+.filter-option input[type="checkbox"]:checked ~ .checkmark {
     display: block;
 }
 
-.filter-option:has(input[type="radio"]:checked) {
+.filter-option:has(input[type="checkbox"]:checked) {
     background-color: var(--text-color);
     color: var(--card-bg);
 }
@@ -247,21 +261,6 @@
 
 
 
-.counter-display {
-    font-family: var(--font-body);
-    font-size: 0.9rem;
-    color: var(--text-color);
-    padding: 0.5rem 0.75rem;
-    background-color: var(--card-bg);
-    border: 2px solid var(--border-primary);
-    margin-right: 0.5rem;
-    white-space: nowrap;
-}
-
-.counter-display span {
-    font-weight: 700;
-}
-
 .btn-base {
     font-family: var(--font-heading);
     border: 2px solid var(--border-primary);
@@ -269,12 +268,6 @@
     color: var(--text-color);
     cursor: pointer;
     transition: all 0.2s ease;
-}
-
-.btn-base:hover,
-.btn-base.active {
-    background-color: var(--text-color);
-    color: var(--card-bg);
 }
 
 .view-btn {
@@ -405,12 +398,6 @@
     font-size: 0.75rem;
 }
 
-.gallery-item-details .view-type {
-    color: #888;
-    display: block;
-    font-size: 0.75rem;
-}
-
 .brand-header {
     display: flex;
     align-items: center;
@@ -423,49 +410,6 @@
     letter-spacing: 0.5px;
     border-top: 2px solid var(--border-primary);
 }
-
-/* Brand-specific background colors using CSS custom properties */
-.gallery-item[data-brand*="fujifilm"] .brand-header { background-color: var(--accent-fujifilm); }
-.gallery-item[data-brand*="kodak"] .brand-header { background-color: var(--accent-kodak); }
-.gallery-item[data-brand*="ilford"] .brand-header { background-color: var(--accent-ilford); }
-.gallery-item[data-brand*="agfa"] .brand-header { background-color: var(--accent-agfa); }
-.gallery-item[data-brand*="cinestill"] .brand-header { background-color: var(--accent-cinestill); }
-.gallery-item[data-brand*="alien film"] .brand-header { background-color: var(--accent-alien-film); }
-.gallery-item[data-brand*="efiniti"] .brand-header { background-color: var(--accent-efiniti); }
-.gallery-item[data-brand*="harman"] .brand-header { background-color: var(--accent-harman); }
-.gallery-item[data-brand*="rollei"] .brand-header { background-color: var(--accent-rollei); }
-.gallery-item[data-brand*="lomography"] .brand-header { background-color: var(--accent-lomography); }
-.gallery-item[data-brand*="lloyds pharmacy"] .brand-header { background-color: var(--accent-lloyds-pharmacy); }
-.gallery-item[data-brand*="kentmere"] .brand-header { background-color: var(--accent-kentmere); }
-.gallery-item[data-brand*="polaroid"] .brand-header { background-color: var(--accent-polaroid); }
-.gallery-item[data-brand*="konica"] .brand-header { background-color: var(--accent-konica); }
-.gallery-item[data-brand*="efke"] .brand-header { background-color: var(--accent-efke); }
-.gallery-item[data-brand*="jessops"] .brand-header { background-color: var(--accent-jessops); }
-.gallery-item[data-brand*="porst"] .brand-header { background-color: var(--accent-porst); }
-.gallery-item[data-brand*="wolfen"] .brand-header { background-color: var(--accent-wolfen); }
-.gallery-item[data-brand*="shanghai"] .brand-header { background-color: var(--accent-shanghai); }
-.gallery-item[data-brand*="york photo labs"] .brand-header { background-color: var(--accent-york-photo-labs); }
-.gallery-item[data-brand*="gaf"] .brand-header { background-color: var(--accent-gaf); }
-.gallery-item[data-brand*="adox"] .brand-header { background-color: var(--accent-adox); }
-.gallery-item[data-brand*="alfo"] .brand-header { background-color: var(--accent-alfo); }
-.gallery-item[data-brand*="bergger"] .brand-header { background-color: var(--accent-bergger); }
-.gallery-item[data-brand*="foma"] .brand-header { background-color: var(--accent-foma); }
-.gallery-item[data-brand*="hazenfilm"] .brand-header { background-color: var(--accent-hazenfilm); }
-.gallery-item[data-brand*="jch"] .brand-header { background-color: var(--accent-jch); }
-.gallery-item[data-brand*="klick"] .brand-header { background-color: var(--accent-klick); }
-.gallery-item[data-brand*="kosmo foto"] .brand-header { background-color: var(--accent-kosmo-foto); }
-.gallery-item[data-brand*="perutz"] .brand-header { background-color: var(--accent-perutz); }
-.gallery-item[data-brand*="rossmann"] .brand-header { background-color: var(--accent-rossmann); }
-.gallery-item[data-brand*="sakura"] .brand-header { background-color: var(--accent-sakura); }
-.gallery-item[data-brand*="santacolor"] .brand-header { background-color: var(--accent-santacolor); }
-.gallery-item[data-brand*="svema"] .brand-header { background-color: var(--accent-svema); }
-.gallery-item[data-brand*="tasma"] .brand-header { background-color: var(--accent-tasma); }
-.gallery-item[data-brand*="three film rolls"] .brand-header { background-color: var(--accent-three-film-rolls); }
-.gallery-item[data-brand*="minolta"] .brand-header { background-color: var(--accent-minolta); }
-.gallery-item[data-brand*="orwo"] .brand-header { background-color: var(--accent-orwo); }
-.gallery-item[data-brand*="unknown"] .brand-header { background-color: var(--accent-unknown); }
-
-
 
 /* Loading */
 .loading {
@@ -557,11 +501,6 @@
     cursor: pointer;
     transition: background 0.3s;
     font-family: var(--font-body);
-}
-
-.lightbox-btn:hover {
-    background: var(--text-color);
-    color: var(--card-bg);
 }
 
 .lightbox-close {
@@ -669,11 +608,6 @@
     touch-action: manipulation;
 }
 
-.view-btn-lightbox.active {
-    background: var(--text-color);
-    color: var(--card-bg);
-}
-
 .zoom-btn {
     font-size: 1.2rem;
     width: 40px;
@@ -705,11 +639,47 @@
     width: 100%;
 }
 
-.lightbox-info-meta {
-    text-align: right;
+.lightbox-info-side {
     position: absolute;
     right: 20px;
     bottom: 20px;
+    display: flex;
+    align-items: flex-end;
+    gap: 0.75rem;
+}
+
+.lightbox-random-btn {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-shrink: 0;
+    overflow: hidden;
+}
+
+.lightbox-random-btn i {
+    display: inline-block;
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.lightbox-random-btn i.is-jumping {
+    animation: dice-rotate 0.25s cubic-bezier(0.6, 0.1, 0.4, 1);
+}
+
+@keyframes dice-rotate {
+    0% { transform: rotate(0deg); }
+    30% { transform: rotate(-40deg); }
+    60% { transform: rotate(20deg); }
+    80% { transform: rotate(-10deg); }
+    100% { transform: rotate(0deg); }
+}
+
+.lightbox-info-meta {
+    text-align: right;
+    position: static;
     border: 1px dashed var(--border-secondary);
     padding: 6px 14px 6px 14px;
     font-family: var(--font-mono);
@@ -825,27 +795,12 @@
         padding: 0;
     }
 
-    #mobileFiltersPanel .filter-sidebar .sidebar-header {
+    #mobileFiltersPanel .filter-sidebar .sidebar-header:first-child {
         display: none;
     }
 
     .gallery-container > .filter-sidebar {
         display: none;
-    }
-
-    .filter-sidebar {
-        position: static;
-        width: 100%;
-        left: auto;
-        top: auto;
-        margin-bottom: 1rem;
-        margin: 0;
-        max-height: none;
-        overflow-y: visible;
-        order: -1;
-        background-color: var(--controls-bg);
-        border: 2px solid var(--border-primary);
-        padding: 1.5rem;
     }
 
     .gallery-main {
@@ -861,6 +816,35 @@
 
     .search-container {
         width: 100%;
+    }
+
+    body.mobile-filters-open .search-icon {
+        display: none;
+    }
+
+    body.mobile-filters-open #mobileFiltersPanel .search-container input {
+        padding-right: 0.75rem;
+    }
+
+    #mobileFiltersPanel .filter-sidebar-actions {
+        display: flex;
+        gap: 0.75rem;
+        align-items: stretch;
+        margin-top: 1.5rem;
+    }
+
+    #mobileFiltersPanel .filter-sidebar-actions .filter-reset-btn {
+        height: auto;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+    }
+
+    #mobileFiltersPanel .filter-sidebar-actions .mobile-filters-search {
+        display: inline-flex;
+        flex: 1;
+        justify-content: center;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
     }
 
     #searchInput {
@@ -921,21 +905,8 @@
         display: none !important;
     }
 
-    .footer-links {
-        flex-direction: column;
-        gap: 1rem;
-    }
-
     .gallery-page {
         --site-nav-height: 5.5rem;
-    }
-
-    .gallery-page .nav-logo-text--desktop {
-        display: none;
-    }
-
-    .gallery-page .nav-logo-text--mobile {
-        display: inline;
     }
 
     .scroll-to-top {
@@ -992,6 +963,11 @@
     .lightbox-info-meta {
         display: none !important;
     }
+
+    .lightbox-info-side {
+        right: 70px;
+        bottom: 25px;
+    }
     
     .lightbox-info-toggle {
         position: absolute;
@@ -1022,6 +998,10 @@
 
 @media (prefers-reduced-motion: reduce) {
     .spinner {
+        animation: none;
+    }
+
+    .lightbox-random-btn i.is-jumping {
         animation: none;
     }
 }

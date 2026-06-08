@@ -69,9 +69,8 @@
             totalFormats: formats.length,
             totalProcesses: processes.length,
             oldestExpiry: validExpiries.length ? String(validExpiries[0].year) : '',
-            topContributors: Object.entries(contributors)
+            contributors: Object.entries(contributors)
                 .sort((a, b) => b[1] - a[1])
-                .slice(0, 8)
         };
     }
 
@@ -148,13 +147,28 @@
         grid.innerHTML = itemCards + renderHomeShowcaseMoreCell();
     }
 
+    function playDiceAnimation(btn) {
+        const icon = btn?.querySelector('i');
+        if (!icon) return;
+
+        icon.classList.remove('is-jumping');
+        void icon.offsetWidth;
+        icon.classList.add('is-jumping');
+        icon.addEventListener('animationend', () => {
+            icon.classList.remove('is-jumping');
+        }, { once: true });
+    }
+
     function initHomeShowcase(data) {
         renderHomeShowcase(data, true);
 
         const refreshBtn = document.getElementById('homeShowcaseRefresh');
         if (refreshBtn && !refreshBtn.dataset.bound) {
             refreshBtn.dataset.bound = 'true';
-            refreshBtn.addEventListener('click', () => renderHomeShowcase(data, true));
+            refreshBtn.addEventListener('click', () => {
+                playDiceAnimation(refreshBtn);
+                renderHomeShowcase(data, true);
+            });
         }
 
         const mobileQuery = global.matchMedia(MOBILE_MEDIA_QUERY);
@@ -162,6 +176,10 @@
             mobileQuery.addEventListener('change', () => renderHomeShowcase(data, false));
             homeShowcaseResizeBound = true;
         }
+    }
+
+    function formatContributionCount(count) {
+        return count === 1 ? '1 contribution' : `${count} contributions`;
     }
 
     function applyHomePageStats(data) {
@@ -173,10 +191,10 @@
         const grid = document.getElementById('contributorsGrid');
         if (!grid) return;
 
-        grid.innerHTML = stats.topContributors.map(([name, count]) =>
+        grid.innerHTML = stats.contributors.map(([name, count]) =>
             `<div class="contributor-card"><div class="contributor-info">` +
             `<h3>${name}</h3>` +
-            `<span class="contribution-count">${count} contributions</span>` +
+            `<span class="contribution-count">${formatContributionCount(count)}</span>` +
             `</div></div>`
         ).join('');
     }
