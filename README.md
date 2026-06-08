@@ -1,29 +1,23 @@
-# Film Packaging Archive
-
-Open source community-driven archive of high-resolution image scans of photography film packages.
+Film Packaging Archive is an open source community-driven archive of high-resolution image scans of photography film packages.
 
 **Live site:** [landonikko.github.io/Film-Packaging](https://landonikko.github.io/Film-Packaging/)
 
-This repo is a fork of [dekuNukem/Film-Packaging](https://github.com/dekuNukem/Film-Packaging), focused on a more accessible, user-friendly website for browsing the archive.
+Fork of dekuNukem/Film-Packaging: Browsable frontend for the main archive with search, stats, filter, gallery and lightbox.
 
 ![Website](https://i.imgur.com/bp2oXCM.jpeg)
 
-## Features
-
-- Mobile support
-- Extensive interactive gallery
-- Full index filtering
-- Shareable links
-- Stats
-
-![Example](https://i.imgur.com/VtzaOMc.jpeg)
+| ![Example](https://i.imgur.com/PnbiugE.jpeg) | ![Example](https://i.imgur.com/JjuII15.jpeg) |
+| :------------: | :------------: |
+| ![Example](https://i.imgur.com/5MJl0Gt.jpeg) | ![Example](https://i.imgur.com/1FSvH01.jpeg) |
+| ![Example](https://i.imgur.com/ij82Kms.jpeg) | ![Example](https://i.imgur.com/gkkFxHh.jpeg) |
+| ![Example](https://i.imgur.com/fMMFHKv.jpeg) | ![Example](https://i.imgur.com/5MAmmwG.jpeg) |
 
 ## Resources
 
-- [dekuNukem/Film-Packaging](https://github.com/dekuNukem/Film-Packaging)
+- [Upstream data archive](https://github.com/dekuNukem/Film-Packaging)
+    - New scans are merged in weekly
+- [Contribute](https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md)
 - [Discord](https://discord.gg/yvBx7dVG4B)
-- [Repository download from master](https://github.com/dekuNukem/Film-Packaging/archive/refs/heads/master.zip)
-- Community contributions
 
 ## Disclaimer
 

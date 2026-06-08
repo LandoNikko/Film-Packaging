@@ -499,6 +499,15 @@ class FilmGallery {
         counter.textContent = groupedData.length;
     }
 
+    formatExpiryDate(expiryDate, yearOnly = false) {
+        if (!expiryDate || expiryDate === 'Unknown') return 'Unknown';
+        if (expiryDate.length === 6) {
+            const year = expiryDate.substring(0, 4);
+            return yearOnly ? year : `${year}-${expiryDate.substring(4, 6)}`;
+        }
+        return expiryDate;
+    }
+
     renderGallery() {
         const container = document.getElementById('galleryContainer');
         const noResults = document.getElementById('noResults');
@@ -522,8 +531,8 @@ class FilmGallery {
             const iso = group.metadata.film_speed_iso || '100';
             const format = group.metadata.film_format || '35mm';
             const process = group.metadata.process || 'C-41';
-            
             const thumbnailItem = group.front || group.back;
+            const expiry = this.formatExpiryDate(thumbnailItem?.expiry_date, true);
             const thumbnailUrl = thumbnailItem.imageUrl.replace('/archive/', '/lowres/');
             
             let viewType = '';
@@ -548,6 +557,7 @@ class FilmGallery {
                             <div>${iso} <span>ISO</span></div>
                             <div>${format} <span>FORMAT</span></div>
                             <div>${process} <span>PROCESS</span></div>
+                            <div>${expiry} <span>EXPIRY</span></div>
                         </div>
                     </div>
                 </article>
@@ -698,17 +708,7 @@ class FilmGallery {
         lightboxISO.innerHTML = `${item.film_speed_iso} <span>ISO</span>`;
         lightboxFormat.innerHTML = `${item.film_format} <span>FORMAT</span>`;
         lightboxProcess.innerHTML = `${item.process} <span>PROCESS</span>`;
-        let formattedExpiry = 'Unknown';
-        if (item.expiry_date && item.expiry_date !== 'Unknown') {
-            const expiry = item.expiry_date;
-            if (expiry.length === 6) {
-                const year = expiry.substring(0, 4);
-                const month = expiry.substring(4, 6);
-                formattedExpiry = `${year}-${month}`;
-            } else {
-                formattedExpiry = expiry;
-            }
-        }
+        const formattedExpiry = this.formatExpiryDate(item.expiry_date);
         lightboxExpiry.innerHTML = `${formattedExpiry} <span>EXPIRY DATE</span>`;
         
         if (item.author && item.author.trim() !== '') {

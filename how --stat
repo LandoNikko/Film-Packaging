@@ -1,0 +1,242 @@
+[33mcommit 20921333a06878b0c0d73ce59f05d61d08cb318e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: LandoNikko <landonikko@gmail.com>
+Date:   Mon Jun 8 18:42:53 2026 +0300
+
+    Sync with master, refine branding, shared footer, multi-select gallery filters, and random browse
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 80f16c1..e6341c0 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,5 +1,30 @@[m
+[31m-**⚠️ This is a forked repository for testing the frontend UI improvements.**[m
+[32m+[m[32m# Film Packaging Archive[m
+ [m
+[31m-This fork contains experimental frontend enhancements to the original [Film Packaging Archive](https://github.com/dekuNukem/Film-Packaging) project.[m
+[32m+[m[32mOpen source community-driven archive of high-resolution image scans of photography film packages.[m
+ [m
+[31m-Testing: https://landonikko.github.io/Film-Packaging/gallery.html[m
+\ No newline at end of file[m
+[32m+[m[32m**Live site:** [landonikko.github.io/Film-Packaging](https://landonikko.github.io/Film-Packaging/)[m
+[32m+[m
+[32m+[m[32mThis repo is a fork of [dekuNukem/Film-Packaging](https://github.com/dekuNukem/Film-Packaging), focused on a more accessible, user-friendly website for browsing the archive.[m
+[32m+[m
+[32m+[m[32m![Website](https://i.imgur.com/bp2oXCM.jpeg)[m
+[32m+[m
+[32m+[m[32m## Features[m
+[32m+[m
+[32m+[m[32m- Mobile support[m
+[32m+[m[32m- Extensive interactive gallery[m
+[32m+[m[32m- Full index filtering[m
+[32m+[m[32m- Shareable links[m
+[32m+[m[32m- Stats[m
+[32m+[m
+[32m+[m[32m![Example](https://i.imgur.com/VtzaOMc.jpeg)[m
+[32m+[m
+[32m+[m[32m## Resources[m
+[32m+[m
+[32m+[m[32m- [dekuNukem/Film-Packaging](https://github.com/dekuNukem/Film-Packaging)[m
+[32m+[m[32m- [Discord](https://discord.gg/yvBx7dVG4B)[m
+[32m+[m[32m- [Repository download from master](https://github.com/dekuNukem/Film-Packaging/archive/refs/heads/master.zip)[m
+[32m+[m[32m- Community contributions[m
+[32m+[m
+[32m+[m[32m## Disclaimer[m
+[32m+[m
+[32m+[m[32mImages are provided for reference and educational purposes. Designs may be protected under copyright and trademark laws. Use at your own risk. The MIT License applies only to the non-image source code.[m
+\ No newline at end of file[m
+[1mdiff --git a/_config.yml b/_config.yml[m
+[1mindex 14e8c30..184898f 100644[m
+[1m--- a/_config.yml[m
+[1m+++ b/_config.yml[m
+[36m@@ -7,6 +7,7 @@[m [mrelative_links:[m
+ include:[m
+   - README.md[m
+   - LICENSE[m
+[32m+[m[32m  - favicon.ico[m
+ url: "https://landonikko.github.io"[m
+ baseurl: "/Film-Packaging"[m
+ remote_theme: pages-themes/primer@v0.6.0[m
+[1mdiff --git a/assets/css/gallery.css b/assets/css/gallery.css[m
+[1mindex f5e6ea4..800344f 100644[m
+[1m--- a/assets/css/gallery.css[m
+[1m+++ b/assets/css/gallery.css[m
+[36m@@ -6,23 +6,6 @@[m
+ [m
+ [m
+ [m
+[31m-.gallery-page .nav-logo-text--mobile {[m
+[31m-    display: none;[m
+[31m-}[m
+[31m-[m
+[31m-.gallery-page .header-decoration {[m
+[31m-    display: flex;[m
+[31m-    justify-content: center;[m
+[31m-    gap: 8px;[m
+[31m-    height: 6px;[m
+[31m-    margin: 2rem auto 0;[m
+[31m-}[m
+[31m-[m
+[31m-.gallery-page .header-decoration span {[m
+[31m-    width: 60px;[m
+[31m-    height: 100%;[m
+[31m-}[m
+[31m-[m
+ .container-base {[m
+     position: relative;[m
+     max-width: 1200px;[m
+[36m@@ -90,7 +73,39 @@[m
+     padding-bottom: 1rem;[m
+ }[m
+ [m
+[32m+[m[32m.filter-sidebar-actions {[m
+[32m+[m[32m    margin-top: 1.5rem;[m
+[32m+[m[32m    display: none;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.filter-sidebar-actions.has-active-filters {[m
+[32m+[m[32m    display: block;[m
+[32m+[m[32m}[m
+ [m
+[32m+[m[32m.filter-sidebar-actions .mobile-filters-search {[m
+[32m+[m[32m    display: none;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.filter-reset-btn[hidden] {[m
+[32m+[m[32m    display: none;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.filter-reset-btn {[m
+[32m+[m[32m    display: inline-flex;[m
+[32m+[m[32m    align-items: center;[m
+[32m+[m[32m    justify-content: center;[m
+[32m+[m[32m    gap: 0.35rem;[m
+[32m+[m[32m    height: 40px;[m
+[32m+[m[32m    padding: 0 0.75rem;[m
+[32m+[m[32m    font-size: 0.875rem;[m
+[32m+[m[32m    line-height: 1;[m
+[32m+[m[32m    flex-shrink: 0;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.filter-reset-btn i {[m
+[32m+[m[32m    font-size: 1.125rem;[m
+[32m+[m[32m    line-height: 1;[m
+[32m+[m[32m}[m
+ [m
+ .filter-section {[m
+     margin-bottom: 1rem;[m
+[36m@@ -139,11 +154,6 @@[m
+     opacity: 1;[m
+ }[m
+ [m
+[31m-.filter-toggle:hover {[m
+[31m-    background-color: var(--text-color);[m
+[31m-    color: var(--card-bg);[m
+[31m-}[m
+[31m-[m
+ .filter-toggle.collapsed .toggle-icon {[m
+     transform: rotate(0deg);[m
+ }[m
+[36m@@ -166,6 +176,8 @@[m
+ .filter-options {[m
+     display: flex;[m
+     flex-direction: column;[m
+[32m+[m[32m    user-select: none;[m
+[32m+[m[32m    -webkit-user-select: none;[m
+ }[m
+ [m
+ .filter-option {[m
+[36m@@ -177,13 +189,15 @@[m
+     transition: all 0.2s ease;[m
+     border: 1px solid transparent;[m
+     position: relative;[m
+[32m+[m[32m    user-select: none;[m
+[32m+[m[32m    -webkit-user-select: none;[m
+ }[m
+ [m
+ .filter-option:hover {[m
+     border-color: var(--border-primary);[m
+ }[m
+ [m
+[31m-.filter-option input[type="radio"] {[m
+[32m+[m[32m.filter-option input[type="checkbox"] {[m
+     position: absolute;[m
+     opacity: 0;[m
+     pointer-events: none;[m
+[36m@@ -197,16 +211,16 @@[m
+     margin: 0 0.5rem;[m
+ }[m
+ [m
+[31m-.filter-option input[type="radio"]:checked ~ span {[m
+[32m+[m[32m.filter-option input[type="checkbox"]:checked ~ span {[m
+     font-weight: 700;[m
+     color: var(--card-bg);[m
+ }[m
+ [m
+[31m-.filter-option input[type="radio"]:checked ~ .checkmark {[m
+[32m+[m[32m.filter-option input[type="checkbox"]:checked ~ .checkmark {[m
+     display: block;[m
+ }[m
+ [m
+[31m-.filter-option:has(input[type="radio"]:checked) {[m
+[32m+[m[32m.filter-option:has(input[type="checkbox"]:checked) {[m
+     background-color: var(--text-color);[m
+     color: var(--card-bg);[m
+ }[m
+[36m@@ -247,21 +261,6 @@[m
+ [m
+ [m
+ [m
+[31m-.counter-display {[m
+[31m-    font-family: var(--font-body);[m
+[31m-    font-size: 0.9rem;[m
+[31m-    color: var(--text-color);[m
+[31m-    padding: 0.5rem 0.75rem;[m
+[31m-    background-color: var(--card-bg);[m
+[31m-    border: 2px solid var(--border-primary);[m
+[31m-    margin-right: 0.5rem;[m
+[31m-    white-space: nowrap;[m
+[31m-}[m
+[31m-[m
+[31m-.counter-display span {[m
+[31m-    font-weight: 700;[m
+[31m-}[m
+[31m-[m
+ .btn-base {[m
+     font-family: var(--font-heading);[m
+     border: 2px solid var(--border-primary);[m
+[36m@@ -271,12 +270,6 @@[m
+     transition: all 0.2s ease;[m
+ }[m
+ [m
+[31m-.btn-base:hover,[m
+[31m-.btn-base.active {[m
+[31m-    background-color: var(--text-color);[m
+[31m-    color: var(--card-bg);[m
+[31m-}[m
+[31m-[m
+ .view-btn {[m
+     font-size: 1.2rem;[m
+     letter-spacing: 1px;[m
+[36m@@ -405,12 +398,6 @@[m
+     font-size: 0.75rem;[m
+ }[m
+ [m
+[31m-.gallery-item-details .view-type {[m
+[31m-    color: #888;[m
+[31m-    display: block;[m
+[31m-    font-size: 0.75rem;[m
+[31m-}[m
+[31m-[m
+ .brand-header {[m
+     display: flex;[m
+     align-items: center;[m
+[36m@@ -424,49 +411,6 @@[m
+     border-top: 2px solid var(--border-primary);[m
+ }[m
+ [m
+[31m-/* Brand-specific background colors using CSS custom properties */[m
+[31m-.gallery-item[data-brand*="fujifilm"] .brand-header { background-color: var(--accent-fujifilm); }[m
+[31m-.gallery-item[data-brand*="kodak"] .brand-header { background-color: var(--accent-kodak); }[m
+[31m-.gallery-item[data-brand*="ilford"] .brand-header { background-color: var(--accent-ilford); }[m
+[31m-.gallery-item[data-brand*="agfa"] .brand-header { background-color: var(--accent-agfa); }[m
+[31m-.gallery-item[data-brand*="cinestill"] .brand-header { background-color: var(--accent-cinestill); 
