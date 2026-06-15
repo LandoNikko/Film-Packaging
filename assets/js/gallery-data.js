@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 1089
+// Total items: 1091
 
 const GALLERY_DATA = [
   {
@@ -15244,6 +15244,32 @@ const GALLERY_DATA = [
     "imageUrl": "film_packaging/archive/00582_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00583_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00583_000.jpg",
+    "title": "Unknown Film (00583_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00584_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00584_000.jpg",
+    "title": "Unknown Film (00584_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   }
 ];
 
