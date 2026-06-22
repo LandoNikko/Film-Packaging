@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 1091
+// Total items: 1155
 
 const GALLERY_DATA = [
   {
@@ -468,7 +468,7 @@ const GALLERY_DATA = [
     "filename": "00018_000.jpg",
     "brand": "Polaroid",
     "product": "665",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "80",
     "process": "Instant",
     "expiry_date": "199608",
@@ -476,7 +476,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00018_000.jpg",
     "title": "Polaroid 665",
-    "details": "Pack Film • ISO 80 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 80 • Instant • film_box_outside"
   },
   {
     "filename": "00019_000.jpg",
@@ -580,7 +580,7 @@ const GALLERY_DATA = [
     "filename": "00020_000.jpg",
     "brand": "Polaroid",
     "product": "669",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "80",
     "process": "Instant",
     "expiry_date": "200603",
@@ -588,7 +588,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00020_000.jpg",
     "title": "Polaroid 669",
-    "details": "Pack Film • ISO 80 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 80 • Instant • film_box_outside"
   },
   {
     "filename": "00021_000.jpg",
@@ -874,7 +874,7 @@ const GALLERY_DATA = [
     "filename": "00031_000.jpg",
     "brand": "Polaroid",
     "product": "GridFilm",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200610",
@@ -882,13 +882,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00031_000.jpg",
     "title": "Polaroid GridFilm",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00031_001.jpg",
     "brand": "Polaroid",
     "product": "GridFilm",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200610",
@@ -896,13 +896,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00031_001.jpg",
     "title": "Polaroid GridFilm",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00031_002.jpg",
     "brand": "Polaroid",
     "product": "GridFilm",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200610",
@@ -910,13 +910,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00031_002.jpg",
     "title": "Polaroid GridFilm",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00031_003.jpg",
     "brand": "Polaroid",
     "product": "GridFilm",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200610",
@@ -924,7 +924,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00031_003.jpg",
     "title": "Polaroid GridFilm",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00032_000.jpg",
@@ -3771,7 +3771,7 @@ const GALLERY_DATA = [
     "filename": "00156_000.jpg",
     "brand": "Polaroid",
     "product": "Color SX-70 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "202504",
@@ -3779,13 +3779,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00156_000.jpg",
     "title": "Polaroid Color SX-70 Film",
-    "details": "Integral Film • ISO 160 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
   {
     "filename": "00156_001.jpg",
     "brand": "Polaroid",
     "product": "Color SX-70 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "202504",
@@ -3793,13 +3793,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00156_001.jpg",
     "title": "Polaroid Color SX-70 Film",
-    "details": "Integral Film • ISO 160 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
   {
     "filename": "00156_002.jpg",
     "brand": "Polaroid",
     "product": "Color SX-70 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "202504",
@@ -3807,13 +3807,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00156_002.jpg",
     "title": "Polaroid Color SX-70 Film",
-    "details": "Integral Film • ISO 160 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_inside"
   },
   {
     "filename": "00156_003.jpg",
     "brand": "Polaroid",
     "product": "Color SX-70 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "202504",
@@ -3821,13 +3821,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00156_003.jpg",
     "title": "Polaroid Color SX-70 Film",
-    "details": "Integral Film • ISO 160 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_inside"
   },
   {
     "filename": "00157_000.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film Round Frame",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202412",
@@ -3835,13 +3835,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00157_000.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00157_001.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film Round Frame",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202412",
@@ -3849,13 +3849,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00157_001.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00157_002.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film Round Frame",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202412",
@@ -3863,13 +3863,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00157_002.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00157_003.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film Round Frame",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202412",
@@ -3877,13 +3877,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00157_003.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00158_000.jpg",
     "brand": "Polaroid",
     "product": "87",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "3000",
     "process": "Instant",
     "expiry_date": "200607",
@@ -3891,13 +3891,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00158_000.jpg",
     "title": "Polaroid 87",
-    "details": "Pack Film • ISO 3000 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 3000 • Instant • film_box_outside"
   },
   {
     "filename": "00158_001.jpg",
     "brand": "Polaroid",
     "product": "87",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "3000",
     "process": "Instant",
     "expiry_date": "200607",
@@ -3905,7 +3905,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00158_001.jpg",
     "title": "Polaroid 87",
-    "details": "Pack Film • ISO 3000 • Instant • film_box_inside"
+    "details": "Instant Pack Film • ISO 3000 • Instant • film_box_inside"
   },
   {
     "filename": "00159_000.jpg",
@@ -3995,7 +3995,7 @@ const GALLERY_DATA = [
     "filename": "00161_000.jpg",
     "brand": "Polaroid",
     "product": "Polacolor 679",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "199806",
@@ -4003,13 +4003,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00161_000.jpg",
     "title": "Polaroid Polacolor 679",
-    "details": "Pack Film • ISO 100 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
   {
     "filename": "00161_001.jpg",
     "brand": "Polaroid",
     "product": "Polacolor 679",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "199806",
@@ -4017,13 +4017,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00161_001.jpg",
     "title": "Polaroid Polacolor 679",
-    "details": "Pack Film • ISO 100 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
   {
     "filename": "00161_002.jpg",
     "brand": "Polaroid",
     "product": "Polacolor 679",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "199806",
@@ -4031,13 +4031,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00161_002.jpg",
     "title": "Polaroid Polacolor 679",
-    "details": "Pack Film • ISO 100 • Instant • film_box_inside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
   {
     "filename": "00161_003.jpg",
     "brand": "Polaroid",
     "product": "Polacolor 679",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "199806",
@@ -4045,7 +4045,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00161_003.jpg",
     "title": "Polaroid Polacolor 679",
-    "details": "Pack Film • ISO 100 • Instant • film_box_inside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
   {
     "filename": "00162_000.jpg",
@@ -6599,7 +6599,7 @@ const GALLERY_DATA = [
     "filename": "00277_000.jpg",
     "brand": "Fujifilm",
     "product": "FP-100C",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "201501",
@@ -6607,13 +6607,13 @@ const GALLERY_DATA = [
     "author": "@recycling.film",
     "imageUrl": "film_packaging/archive/00277_000.jpg",
     "title": "Fujifilm FP-100C",
-    "details": "Pack Film • ISO 100 • Instant • film_box_outside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
   {
     "filename": "00277_001.jpg",
     "brand": "Fujifilm",
     "product": "FP-100C",
-    "film_format": "Pack Film",
+    "film_format": "Instant Pack Film",
     "film_speed_iso": "100",
     "process": "Instant",
     "expiry_date": "201501",
@@ -6621,7 +6621,7 @@ const GALLERY_DATA = [
     "author": "@recycling.film",
     "imageUrl": "film_packaging/archive/00277_001.jpg",
     "title": "Fujifilm FP-100C",
-    "details": "Pack Film • ISO 100 • Instant • film_box_inside"
+    "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
   {
     "filename": "00278_000.jpg",
@@ -7397,7 +7397,7 @@ const GALLERY_DATA = [
     "filename": "00307_000.jpg",
     "brand": "Fujifilm",
     "product": "Instax Mini",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "800",
     "process": "Instant",
     "expiry_date": "202704",
@@ -7405,7 +7405,7 @@ const GALLERY_DATA = [
     "author": "@toastergod101",
     "imageUrl": "film_packaging/archive/00307_000.jpg",
     "title": "Fujifilm Instax Mini",
-    "details": "Integral Film • ISO 800 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 800 • Instant • film_box_outside"
   },
   {
     "filename": "00308_000.jpg",
@@ -8460,7 +8460,7 @@ const GALLERY_DATA = [
     "filename": "00349_000.jpg",
     "brand": "Polaroid",
     "product": "990",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200810",
@@ -8468,13 +8468,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00349_000.jpg",
     "title": "Polaroid 990",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00349_001.jpg",
     "brand": "Polaroid",
     "product": "990",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200810",
@@ -8482,13 +8482,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00349_001.jpg",
     "title": "Polaroid 990",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00349_002.jpg",
     "brand": "Polaroid",
     "product": "990",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200810",
@@ -8496,13 +8496,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00349_002.jpg",
     "title": "Polaroid 990",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00349_003.jpg",
     "brand": "Polaroid",
     "product": "990",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200810",
@@ -8510,7 +8510,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00349_003.jpg",
     "title": "Polaroid 990",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00350_000.jpg",
@@ -8572,7 +8572,7 @@ const GALLERY_DATA = [
     "filename": "00352_000.jpg",
     "brand": "Polaroid",
     "product": "Spectra Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "600",
     "process": "Instant",
     "expiry_date": "200211",
@@ -8580,7 +8580,7 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00352_000.jpg",
     "title": "Polaroid Spectra Film",
-    "details": "Integral Film • ISO 600 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 600 • Instant • film_box_outside"
   },
   {
     "filename": "00353_000.jpg",
@@ -8600,7 +8600,7 @@ const GALLERY_DATA = [
     "filename": "00354_000.jpg",
     "brand": "Impossible Project",
     "product": "PX 600 Silver Shade UV+",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "600",
     "process": "Instant",
     "expiry_date": "Unknown",
@@ -8608,7 +8608,7 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00354_000.jpg",
     "title": "Impossible Project PX 600 Silver Shade UV+",
-    "details": "Integral Film • ISO 600 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 600 • Instant • film_box_outside"
   },
   {
     "filename": "00355_000.jpg",
@@ -8964,7 +8964,7 @@ const GALLERY_DATA = [
     "filename": "00364_000.jpg",
     "brand": "Polaroid",
     "product": "Image Instant Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200707",
@@ -8972,13 +8972,13 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00364_000.jpg",
     "title": "Polaroid Image Instant Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00364_001.jpg",
     "brand": "Polaroid",
     "product": "Image Instant Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "200707",
@@ -8986,7 +8986,7 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00364_001.jpg",
     "title": "Polaroid Image Instant Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00365_000.jpg",
@@ -9804,7 +9804,7 @@ const GALLERY_DATA = [
     "filename": "00395_000.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9812,13 +9812,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_000.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
   {
     "filename": "00395_001.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9826,13 +9826,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_001.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_cartridge"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_cartridge"
   },
   {
     "filename": "00395_002.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9840,13 +9840,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_002.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_cartridge"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_cartridge"
   },
   {
     "filename": "00395_003.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9854,13 +9854,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_003.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_box_leaflet"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
   {
     "filename": "00395_004.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9868,13 +9868,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_004.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_box_leaflet"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
   {
     "filename": "00395_005.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9882,13 +9882,13 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_005.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_box_leaflet"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
   {
     "filename": "00395_006.jpg",
     "brand": "Impossible Project",
     "product": "Color Instant Film for Polaroid SX-70 Type Cameras",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "160",
     "process": "Instant",
     "expiry_date": "201311",
@@ -9896,7 +9896,7 @@ const GALLERY_DATA = [
     "author": "dekuNukem",
     "imageUrl": "film_packaging/archive/00395_006.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
-    "details": "Integral Film • ISO 160 • Instant • film_box_leaflet"
+    "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
   {
     "filename": "00396_000.jpg",
@@ -12268,7 +12268,7 @@ const GALLERY_DATA = [
     "filename": "00477_000.jpg",
     "brand": "Polaroid",
     "product": "Green 600 Film Reclaimed Series",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202507",
@@ -12276,13 +12276,13 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00477_000.jpg",
     "title": "Polaroid Green 600 Film Reclaimed Series",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00477_001.jpg",
     "brand": "Polaroid",
     "product": "Green 600 Film Reclaimed Series",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202507",
@@ -12290,7 +12290,7 @@ const GALLERY_DATA = [
     "author": "@ellafridalindblom",
     "imageUrl": "film_packaging/archive/00477_001.jpg",
     "title": "Polaroid Green 600 Film Reclaimed Series",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00478_000.jpg",
@@ -12716,7 +12716,7 @@ const GALLERY_DATA = [
     "filename": "00498_000.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202609",
@@ -12724,13 +12724,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00498_000.jpg",
     "title": "Polaroid Color 600 Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00498_001.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202609",
@@ -12738,13 +12738,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00498_001.jpg",
     "title": "Polaroid Color 600 Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00498_002.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202609",
@@ -12752,13 +12752,13 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00498_002.jpg",
     "title": "Polaroid Color 600 Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00498_003.jpg",
     "brand": "Polaroid",
     "product": "Color 600 Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202609",
@@ -12766,7 +12766,7 @@ const GALLERY_DATA = [
     "author": "toader",
     "imageUrl": "film_packaging/archive/00498_003.jpg",
     "title": "Polaroid Color 600 Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00499_000.jpg",
@@ -14634,7 +14634,7 @@ const GALLERY_DATA = [
     "filename": "00563_000.jpg",
     "brand": "Polaroid",
     "product": "Color i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202307",
@@ -14642,13 +14642,13 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00563_000.jpg",
     "title": "Polaroid Color i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00563_001.jpg",
     "brand": "Polaroid",
     "product": "Color i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202307",
@@ -14656,13 +14656,13 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00563_001.jpg",
     "title": "Polaroid Color i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00564_000.jpg",
     "brand": "Polaroid",
     "product": "Color i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202403",
@@ -14670,13 +14670,13 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00564_000.jpg",
     "title": "Polaroid Color i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00564_001.jpg",
     "brand": "Polaroid",
     "product": "Color i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202403",
@@ -14684,13 +14684,13 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00564_001.jpg",
     "title": "Polaroid Color i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00565_000.jpg",
     "brand": "Polaroid",
     "product": "B&W i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202507",
@@ -14698,13 +14698,13 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00565_000.jpg",
     "title": "Polaroid B&W i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_outside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
   {
     "filename": "00565_001.jpg",
     "brand": "Polaroid",
     "product": "B&W i-Type Film",
-    "film_format": "Integral Film",
+    "film_format": "Instant Integral Film",
     "film_speed_iso": "640",
     "process": "Instant",
     "expiry_date": "202507",
@@ -14712,7 +14712,7 @@ const GALLERY_DATA = [
     "author": "Dialupdude",
     "imageUrl": "film_packaging/archive/00565_001.jpg",
     "title": "Polaroid B&W i-Type Film",
-    "details": "Integral Film • ISO 640 • Instant • film_box_inside"
+    "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
   {
     "filename": "00566_000.jpg",
@@ -15269,6 +15269,838 @@ const GALLERY_DATA = [
     "author": "Unknown",
     "imageUrl": "film_packaging/archive/00584_000.jpg",
     "title": "Unknown Film (00584_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00585_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00585_000.jpg",
+    "title": "Unknown Film (00585_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00585_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00585_001.jpg",
+    "title": "Unknown Film (00585_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00586_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00586_000.jpg",
+    "title": "Unknown Film (00586_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00586_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00586_001.jpg",
+    "title": "Unknown Film (00586_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00587_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00587_000.jpg",
+    "title": "Unknown Film (00587_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00588_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00588_000.jpg",
+    "title": "Unknown Film (00588_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00589_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00589_000.jpg",
+    "title": "Unknown Film (00589_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00590_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00590_000.jpg",
+    "title": "Unknown Film (00590_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00591_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00591_000.jpg",
+    "title": "Unknown Film (00591_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00591_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00591_001.jpg",
+    "title": "Unknown Film (00591_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00592_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00592_000.jpg",
+    "title": "Unknown Film (00592_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00593_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00593_000.jpg",
+    "title": "Unknown Film (00593_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00594_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00594_000.jpg",
+    "title": "Unknown Film (00594_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00595_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00595_000.jpg",
+    "title": "Unknown Film (00595_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00595_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00595_001.jpg",
+    "title": "Unknown Film (00595_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00596_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00596_000.jpg",
+    "title": "Unknown Film (00596_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00597_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00597_000.jpg",
+    "title": "Unknown Film (00597_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00597_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00597_001.jpg",
+    "title": "Unknown Film (00597_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00598_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00598_000.jpg",
+    "title": "Unknown Film (00598_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00598_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00598_001.jpg",
+    "title": "Unknown Film (00598_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00598_002.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00598_002.jpg",
+    "title": "Unknown Film (00598_002.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00599_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00599_000.jpg",
+    "title": "Unknown Film (00599_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00600_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00600_000.jpg",
+    "title": "Unknown Film (00600_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00601_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00601_000.jpg",
+    "title": "Unknown Film (00601_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00602_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00602_000.jpg",
+    "title": "Unknown Film (00602_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00603_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00603_000.jpg",
+    "title": "Unknown Film (00603_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00604_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00604_000.jpg",
+    "title": "Unknown Film (00604_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00605_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00605_000.jpg",
+    "title": "Unknown Film (00605_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00606_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00606_000.jpg",
+    "title": "Unknown Film (00606_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00606_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00606_001.jpg",
+    "title": "Unknown Film (00606_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00607_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00607_000.jpg",
+    "title": "Unknown Film (00607_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00607_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00607_001.jpg",
+    "title": "Unknown Film (00607_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00608_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00608_000.jpg",
+    "title": "Unknown Film (00608_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00609_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00609_000.jpg",
+    "title": "Unknown Film (00609_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00610_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00610_000.jpg",
+    "title": "Unknown Film (00610_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00611_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00611_000.jpg",
+    "title": "Unknown Film (00611_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00612_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00612_000.jpg",
+    "title": "Unknown Film (00612_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00613_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00613_000.jpg",
+    "title": "Unknown Film (00613_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00614_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00614_000.jpg",
+    "title": "Unknown Film (00614_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00615_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00615_000.jpg",
+    "title": "Unknown Film (00615_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00616_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00616_000.jpg",
+    "title": "Unknown Film (00616_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00617_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00617_000.jpg",
+    "title": "Unknown Film (00617_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00617_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00617_001.jpg",
+    "title": "Unknown Film (00617_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00618_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00618_000.jpg",
+    "title": "Unknown Film (00618_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00619_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00619_000.jpg",
+    "title": "Unknown Film (00619_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00620_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00620_000.jpg",
+    "title": "Unknown Film (00620_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00621_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00621_000.jpg",
+    "title": "Unknown Film (00621_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00622_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00622_000.jpg",
+    "title": "Unknown Film (00622_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00623_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00623_000.jpg",
+    "title": "Unknown Film (00623_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00623_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00623_001.jpg",
+    "title": "Unknown Film (00623_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00623_002.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00623_002.jpg",
+    "title": "Unknown Film (00623_002.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00624_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00624_000.jpg",
+    "title": "Unknown Film (00624_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00624_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00624_001.jpg",
+    "title": "Unknown Film (00624_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00625_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00625_000.jpg",
+    "title": "Unknown Film (00625_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00625_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00625_001.jpg",
+    "title": "Unknown Film (00625_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_000.jpg",
+    "title": "Unknown Film (00626_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_001.jpg",
+    "title": "Unknown Film (00626_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_002.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_002.jpg",
+    "title": "Unknown Film (00626_002.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_003.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_003.jpg",
+    "title": "Unknown Film (00626_003.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_004.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_004.jpg",
+    "title": "Unknown Film (00626_004.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_005.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_005.jpg",
+    "title": "Unknown Film (00626_005.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_006.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_006.jpg",
+    "title": "Unknown Film (00626_006.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_007.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_007.jpg",
+    "title": "Unknown Film (00626_007.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00626_008.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "film_packaging/archive/00626_008.jpg",
+    "title": "Unknown Film (00626_008.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   }
 ];
