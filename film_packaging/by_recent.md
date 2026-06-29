@@ -33,7 +33,7 @@ Total scans : 1084
 - [[2026-05-26] Kodak Ektachrome-X (ref: cca3)](#2026-05-26-kodak-ektachrome-x-ref-cca3)
 - [[2026-05-26] Kodak High Speed Ektachrome (ref: c335)](#2026-05-26-kodak-high-speed-ektachrome-ref-c335)
 - [[2026-05-26] Kodak Kodacolor II (ref: f435)](#2026-05-26-kodak-kodacolor-ii-ref-f435)
-- [[2026-05-26] Kodak TMAX P3200 (ref: e727)](#2026-05-26-kodak-tmax-p3200-ref-e727)
+- [[2026-05-26] Kodak T-MAX P3200 (ref: e727)](#2026-05-26-kodak-t-max-p3200-ref-e727)
 - [[2026-05-26] Efke R14 (ref: 27f5)](#2026-05-26-efke-r14-ref-27f5)
 - [[2026-05-26] Optik Oldschool Motion 500T (ref: bd42)](#2026-05-26-optik-oldschool-motion-500t-ref-bd42)
 - [[2026-05-26] Optik Oldschool Motion 200T (ref: 0d90)](#2026-05-26-optik-oldschool-motion-200t-ref-0d90)
@@ -79,7 +79,7 @@ Total scans : 1084
 - [[2026-03-02] efke KB-25 (ref: 4d17)](#2026-03-02-efke-kb-25-ref-4d17)
 - [[2026-03-02] Optik Oldschool OptiColour 200 (ref: 099e)](#2026-03-02-optik-oldschool-opticolour-200-ref-099e)
 - [[2026-03-02] Fujifilm Fujicolor 100 (ref: ac71)](#2026-03-02-fujifilm-fujicolor-100-ref-ac71)
-- [[2026-03-02] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)](#2026-03-02-fujifilm-hi-speed-1600-disposable-camera-ref-8a6f)
+- [[2026-03-02] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#2026-03-02-fujifilm-hi-speed-1600-ref-8a6f)
 - [[2026-03-02] Fujifilm Neopan Acros 100 II (ref: 9ea9)](#2026-03-02-fujifilm-neopan-acros-100-ii-ref-9ea9)
 - [[2026-03-02] Ilford FP4 Plus (ref: a431)](#2026-03-02-ilford-fp4-plus-ref-a431)
 - [[2026-03-02] Ilford Ilfocolor 400 Plus (ref: 3930)](#2026-03-02-ilford-ilfocolor-400-plus-ref-3930)
@@ -329,7 +329,7 @@ Total scans : 1084
 - [[2025-08-30] Kodak Ektachrome 100HC (ref: 775a)](#2025-08-30-kodak-ektachrome-100hc-ref-775a)
 - [[2025-08-30] Kodak Ektachrome 100HC (ref: 3ab9)](#2025-08-30-kodak-ektachrome-100hc-ref-3ab9)
 - [[2025-08-30] Kodak Ektachrome Elite 200 (ref: a391)](#2025-08-30-kodak-ektachrome-elite-200-ref-a391)
-- [[2025-08-30] Kodak TMAX 400 (ref: a34d)](#2025-08-30-kodak-tmax-400-ref-a34d)
+- [[2025-08-30] Kodak T-MAX 400 (ref: a34d)](#2025-08-30-kodak-t-max-400-ref-a34d)
 - [[2025-08-30] Agfa AgfaColor CT 18 (ref: 1fef)](#2025-08-30-agfa-agfacolor-ct-18-ref-1fef)
 - [[2025-08-30] Kodak Plus-X Pan (ref: f5cc)](#2025-08-30-kodak-plus-x-pan-ref-f5cc)
 - [[2025-08-30] Klick 400ASA (ref: 8779)](#2025-08-30-klick-400asa-ref-8779)
@@ -458,9 +458,9 @@ Total scans : 1084
 - [[2025-07-31] Lomography Babylon (ref: 7afa)](#2025-07-31-lomography-babylon-ref-7afa)
 - [[2025-07-31] Kodak Värikuvafilmi (ref: f9ff)](#2025-07-31-kodak-värikuvafilmi-ref-f9ff)
 - [[2025-07-31] Kentmere PAN 400 (ref: a327)](#2025-07-31-kentmere-pan-400-ref-a327)
-- [[2025-07-31] Kodak TMAX P3200 (ref: 521a)](#2025-07-31-kodak-tmax-p3200-ref-521a)
+- [[2025-07-31] Kodak T-MAX P3200 (ref: 521a)](#2025-07-31-kodak-t-max-p3200-ref-521a)
 - [[2025-07-31] Lomography Tiger (ref: 26dd)](#2025-07-31-lomography-tiger-ref-26dd)
-- [[2025-07-31] Kodak TMAX P3200 (ref: 43a2)](#2025-07-31-kodak-tmax-p3200-ref-43a2)
+- [[2025-07-31] Kodak T-MAX P3200 (ref: 43a2)](#2025-07-31-kodak-t-max-p3200-ref-43a2)
 - [[2025-07-31] Lomography Fantome (ref: 4340)](#2025-07-31-lomography-fantome-ref-4340)
 - [[2025-07-31] Ilford HP5 Plus (ref: 11a8)](#2025-07-31-ilford-hp5-plus-ref-11a8)
 - [[2025-07-31] Fujifilm Fujicolor Superia (ref: d1b7)](#2025-07-31-fujifilm-fujicolor-superia-ref-d1b7)
@@ -498,7 +498,7 @@ Total scans : 1084
 - [[2025-07-29] Kodak High Speed Ektachrome (ref: b8f8)](#2025-07-29-kodak-high-speed-ektachrome-ref-b8f8)
 - [[2025-07-29] Kodak Technical Pan (ref: f4cf)](#2025-07-29-kodak-technical-pan-ref-f4cf)
 - [[2025-07-29] Kodak Rapid Process Copy Film (ref: e66e)](#2025-07-29-kodak-rapid-process-copy-film-ref-e66e)
-- [[2025-07-29] Kodak TMAX P3200 (ref: 1dff)](#2025-07-29-kodak-tmax-p3200-ref-1dff)
+- [[2025-07-29] Kodak T-MAX P3200 (ref: 1dff)](#2025-07-29-kodak-t-max-p3200-ref-1dff)
 - [[2025-07-29] Kodak High Speed Infrared (ref: 883e)](#2025-07-29-kodak-high-speed-infrared-ref-883e)
 - [[2025-07-29] Kodak High Speed Infrared (ref: 4294)](#2025-07-29-kodak-high-speed-infrared-ref-4294)
 - [[2025-07-29] Agfa Isopan FF (ref: 3700)](#2025-07-29-agfa-isopan-ff-ref-3700)
@@ -532,7 +532,7 @@ Total scans : 1084
 - [[2025-06-05] Rossmann Jahreszeiten Pack (ref: 7670)](#2025-06-05-rossmann-jahreszeiten-pack-ref-7670)
 - [[2025-06-05] Rollei SUPERPAN 200 (ref: ee8f)](#2025-06-05-rollei-superpan-200-ref-ee8f)
 - [[2025-06-05] Foma Fomapan Creative 200 (ref: 3e4f)](#2025-06-05-foma-fomapan-creative-200-ref-3e4f)
-- [[2025-05-24] Kodak TMAX 100 (ref: b3b1)](#2025-05-24-kodak-tmax-100-ref-b3b1)
+- [[2025-05-24] Kodak T-MAX 100 (ref: b3b1)](#2025-05-24-kodak-t-max-100-ref-b3b1)
 - [[2025-05-24] Kodak Kodacolor Gold 200 (ref: f368)](#2025-05-24-kodak-kodacolor-gold-200-ref-f368)
 - [[2025-05-24] Lloyds Pharmacy APS Film (ref: c7cf)](#2025-05-24-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[2025-05-24] Kodak Advantix Ultra (ref: 566b)](#2025-05-24-kodak-advantix-ultra-ref-566b)
@@ -772,7 +772,7 @@ UUID  : 8b179d290e4a462bb49bcec4f7c7f435
 	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
-#### [2026-05-26] Kodak TMAX P3200 (ref: e727)
+#### [2026-05-26] Kodak T-MAX P3200 (ref: e727)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -783,7 +783,7 @@ UUID  : 989581de448d4ccd82d8ab0950dae727
 ```
 
 <a href="./archive/00571_000.jpg" target="_blank">
-	<img src="./lowres/00571_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
+	<img src="./lowres/00571_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
 </a>
 
 
@@ -1966,13 +1966,13 @@ UUID  : c04d5697e35c49049322ce823f32ac71
 `UUID: 67bd10dd07644db88eae7a01ab789970`↓
 
 <a href="./archive/00525_001.jpg" target="_blank">
-	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="188" height="500">
+	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
-#### [2026-03-02] Fujifilm Hi-Speed 1600 Disposable Camera (ref: 8a6f)
+#### [2026-03-02] Fujifilm Hi-Speed 1600 (ref: 8a6f)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 1600         |  Expiry  : 2018-06 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-03-02   |  Author  : @Hol.m35
@@ -1980,7 +1980,7 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 
 <a href="./archive/00525_000.jpg" target="_blank">
-	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera 35mm film box outside" loading="lazy" width="438" height="500">
+	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
 </a>
 
 #### [2026-03-02] Fujifilm Neopan Acros 100 II (ref: 9ea9)
@@ -7132,17 +7132,17 @@ UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
 `UUID: c6b25c061c1649c1a5fd09059473a330`↓
 
 <a href="./archive/00273_002.jpg" target="_blank">
-	<img src="./lowres/00273_002.jpg" alt="Kodak TMAX 400 35mm film box leaflet" loading="lazy" width="169" height="500">
+	<img src="./lowres/00273_002.jpg" alt="Kodak T-MAX 400 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
 
 `UUID: 92e90ab4cddd4e9d92981ba28f810803`↓
 
 <a href="./archive/00273_001.jpg" target="_blank">
-	<img src="./lowres/00273_001.jpg" alt="Kodak TMAX 400 35mm film box leaflet" loading="lazy" width="188" height="499">
+	<img src="./lowres/00273_001.jpg" alt="Kodak T-MAX 400 35mm film box leaflet" loading="lazy" width="188" height="499">
 </a>
 
-#### [2025-08-30] Kodak TMAX 400 (ref: a34d)
+#### [2025-08-30] Kodak T-MAX 400 (ref: a34d)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -7153,7 +7153,7 @@ UUID  : c3e0b9bbf7a94fe28d6c2fc3cab2a34d
 ```
 
 <a href="./archive/00273_000.jpg" target="_blank">
-	<img src="./lowres/00273_000.jpg" alt="Kodak TMAX 400 35mm film box outside" loading="lazy" width="363" height="500">
+	<img src="./lowres/00273_000.jpg" alt="Kodak T-MAX 400 35mm film box outside" loading="lazy" width="363" height="500">
 </a>
 
 
@@ -9606,7 +9606,7 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 	<img src="./lowres/00145_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
-#### [2025-07-31] Kodak TMAX P3200 (ref: 521a)
+#### [2025-07-31] Kodak T-MAX P3200 (ref: 521a)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -9617,7 +9617,7 @@ UUID  : 39fa3ae0251e4cdbaf8240602537521a
 ```
 
 <a href="./archive/00144_000.jpg" target="_blank">
-	<img src="./lowres/00144_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="443" height="500">
+	<img src="./lowres/00144_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
 #### [2025-07-31] Lomography Tiger (ref: 26dd)
@@ -9634,7 +9634,7 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
 </a>
 
-#### [2025-07-31] Kodak TMAX P3200 (ref: 43a2)
+#### [2025-07-31] Kodak T-MAX P3200 (ref: 43a2)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -9645,7 +9645,7 @@ UUID  : 8f91948e930f491a8684337e32d443a2
 ```
 
 <a href="./archive/00142_000.jpg" target="_blank">
-	<img src="./lowres/00142_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="408" height="500">
+	<img src="./lowres/00142_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 #### [2025-07-31] Lomography Fantome (ref: 4340)
@@ -10331,17 +10331,17 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 `UUID: a6740f1fc4df4b80a8a4dee83a26c04b`↓
 
 <a href="./archive/00104_002.jpg" target="_blank">
-	<img src="./lowres/00104_002.jpg" alt="Kodak TMAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
+	<img src="./lowres/00104_002.jpg" alt="Kodak T-MAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
 
 `UUID: b9d1b08379d9482bbc799101f6881f12`↓
 
 <a href="./archive/00104_001.jpg" target="_blank">
-	<img src="./lowres/00104_001.jpg" alt="Kodak TMAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
+	<img src="./lowres/00104_001.jpg" alt="Kodak T-MAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
-#### [2025-07-29] Kodak TMAX P3200 (ref: 1dff)
+#### [2025-07-29] Kodak T-MAX P3200 (ref: 1dff)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -10352,7 +10352,7 @@ UUID  : 9e4ea1efa5a54938985fdf8901951dff
 ```
 
 <a href="./archive/00104_000.jpg" target="_blank">
-	<img src="./lowres/00104_000.jpg" alt="Kodak TMAX P3200 35mm film box outside" loading="lazy" width="436" height="500">
+	<img src="./lowres/00104_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
@@ -10936,7 +10936,7 @@ UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan Creative 200 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
-#### [2025-05-24] Kodak TMAX 100 (ref: b3b1)
+#### [2025-05-24] Kodak T-MAX 100 (ref: b3b1)
 
 ```
 Format: 120          |  Process : BW      
@@ -10947,7 +10947,7 @@ UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 ```
 
 <a href="./archive/00069_000.jpg" target="_blank">
-	<img src="./lowres/00069_000.jpg" alt="Kodak TMAX 100 120 film box outside" loading="lazy" width="381" height="500">
+	<img src="./lowres/00069_000.jpg" alt="Kodak T-MAX 100 120 film box outside" loading="lazy" width="381" height="500">
 </a>
 
 #### [2025-05-24] Kodak Kodacolor Gold 200 (ref: f368)
@@ -12269,53 +12269,54 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      80    
+2     Luci 101                      94    
 3     @photos.by.qi                 72    
-4     Pelicram                      69    
+4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
-7     @Hol.m35                      60    
+7     @Hol.m35                      62    
 8     nyctomanica                   53    
-9     The Compartmentalist          25    
-10    @ob.skura                     19    
-11    fine-seat                     19    
-12    Camera.Riley                  19    
-13    kaimon                        19    
-14    Nano_Burger                   18    
-15    toader                        17    
-16    waldoboro                     16    
-17    yc128                         14    
-18    b0baspace                     14    
-19    @SirBrentsworth               13    
-20    benikum                       12    
-21    u/ReeeSchmidtyWerber          11    
-22    Chrisbes                      11    
-23    @zruk_ts                      10    
-24    minidiscus                    10    
-25    Dialupdude                    10    
-26    lilyu.xyz                     9     
-27    lt_col_tall                   9     
-28    @toastergod101                7     
-29    @filmfotofella                7     
-30    GreatGizmo74                  6     
-31    nick                          6     
-32    Greg                          6     
-33    Kraksen                       5     
-34    Henry Gunn                    4     
-35    TheSelousScout                4     
-36    @sachynmital                  3     
-37    Tallbird Cowboy               3     
-38    robo-tobo                     3     
-39    @seklerek                     2     
-40    @ftfilmphotos                 2     
-41    @gregrouxphotography          2     
-42    Tobias                        2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+9     Mauphoto                      28    
+10    Dialupdude                    27    
+11    The Compartmentalist          25    
+12    @ob.skura                     19    
+13    fine-seat                     19    
+14    Camera.Riley                  19    
+15    kaimon                        19    
+16    Nano_Burger                   18    
+17    toader                        17    
+18    waldoboro                     16    
+19    yc128                         14    
+20    b0baspace                     14    
+21    @SirBrentsworth               13    
+22    benikum                       12    
+23    u/ReeeSchmidtyWerber          11    
+24    Chrisbes                      11    
+25    @zruk_ts                      10    
+26    minidiscus                    10    
+27    lilyu.xyz                     9     
+28    lt_col_tall                   9     
+29    @toastergod101                7     
+30    @filmfotofella                7     
+31    GreatGizmo74                  6     
+32    nick                          6     
+33    Greg                          6     
+34    Kraksen                       5     
+35    Henry Gunn                    4     
+36    TheSelousScout                4     
+37    @sachynmital                  3     
+38    Tallbird Cowboy               3     
+39    robo-tobo                     3     
+40    @seklerek                     2     
+41    @ftfilmphotos                 2     
+42    @gregrouxphotography          2     
+43    Tobias                        2     
+44    @tylerdrey                    2     
+45    Yrikonchik                    1     
+46    @ad.astra.per.aspera.1894     1     
+47    Aoi Yuki                      1     
+48    lemoniter                     1     
+49    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?
