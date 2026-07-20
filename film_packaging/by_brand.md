@@ -141,6 +141,7 @@ Total scans : 1084
 - [Foton Super Orto (ref: 050b)](#foton-super-orto-ref-050b)
 - [Freestyle 500T (ref: 8073)](#freestyle-500t-ref-8073)
 - [Fujifilm 200 (ref: 5b41)](#fujifilm-200-ref-5b41)
+- [Fujifilm 200 (ref: 6286)](#fujifilm-200-ref-6286)
 - [Fujifilm 400 (ref: 82be)](#fujifilm-400-ref-82be)
 - [Fujifilm 400 (ref: 1f1d)](#fujifilm-400-ref-1f1d)
 - [Fujifilm 400 Speed Film (ref: 7f19)](#fujifilm-400-speed-film-ref-7f19)
@@ -182,6 +183,7 @@ Total scans : 1084
 - [Fujifilm Fujicolor Pro 400H (ref: dc37)](#fujifilm-fujicolor-pro-400h-ref-dc37)
 - [Fujifilm Fujicolor Pro 400H (ref: 29e0)](#fujifilm-fujicolor-pro-400h-ref-29e0)
 - [Fujifilm Fujicolor Pro 400H (ref: fb3a)](#fujifilm-fujicolor-pro-400h-ref-fb3a)
+- [Fujifilm Fujicolor Pro 400H (ref: 4be2)](#fujifilm-fujicolor-pro-400h-ref-4be2)
 - [Fujifilm Fujicolor Pro 400H (ref: 66e3)](#fujifilm-fujicolor-pro-400h-ref-66e3)
 - [Fujifilm Fujicolor Pro 400H (ref: ff20)](#fujifilm-fujicolor-pro-400h-ref-ff20)
 - [Fujifilm Fujicolor Pro400 (ref: 1b8d)](#fujifilm-fujicolor-pro400-ref-1b8d)
@@ -220,6 +222,7 @@ Total scans : 1084
 - [Fujifilm Neopan SS (ref: d848)](#fujifilm-neopan-ss-ref-d848)
 - [Fujifilm Neopan SS Rapid (ref: 9db3)](#fujifilm-neopan-ss-rapid-ref-9db3)
 - [Fujifilm Nexia A200 (ref: 43c0)](#fujifilm-nexia-a200-ref-43c0)
+- [Fujifilm Provia 100F (ref: 5c1e)](#fujifilm-provia-100f-ref-5c1e)
 - [Fujifilm Simple Ace (ref: 17e6)](#fujifilm-simple-ace-ref-17e6)
 - [Fujifilm Superia 100 (ref: 0f0c)](#fujifilm-superia-100-ref-0f0c)
 - [Fujifilm Superia 200 (ref: fd36)](#fujifilm-superia-200-ref-fd36)
@@ -378,6 +381,7 @@ Total scans : 1084
 - [Kodak Gold 200 (ref: 3e0b)](#kodak-gold-200-ref-3e0b)
 - [Kodak Gold II (ref: 61d0)](#kodak-gold-ii-ref-61d0)
 - [Kodak Gold III (ref: cd39)](#kodak-gold-iii-ref-cd39)
+- [Kodak Gold Plus (ref: 114f)](#kodak-gold-plus-ref-114f)
 - [Kodak Gold Ultra 400 (ref: 1358)](#kodak-gold-ultra-400-ref-1358)
 - [Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [Kodak High Contrast Copy Film (ref: db52)](#kodak-high-contrast-copy-film-ref-db52)
@@ -433,6 +437,7 @@ Total scans : 1084
 - [Kodak Portra 160 (ref: ce56)](#kodak-portra-160-ref-ce56)
 - [Kodak Portra 160 (ref: 6b0a)](#kodak-portra-160-ref-6b0a)
 - [Kodak Portra 400 (ref: cf9c)](#kodak-portra-400-ref-cf9c)
+- [Kodak Portra 400 (ref: f4af)](#kodak-portra-400-ref-f4af)
 - [Kodak Portra 400 (ref: 9f18)](#kodak-portra-400-ref-9f18)
 - [Kodak Portra 400 (ref: 8b1c)](#kodak-portra-400-ref-8b1c)
 - [Kodak Portra 400 (ref: c869)](#kodak-portra-400-ref-c869)
@@ -492,6 +497,7 @@ Total scans : 1084
 - [Konica Infrared 750nm (ref: 6b0e)](#konica-infrared-750nm-ref-6b0e)
 - [Konica Infrared 750nm (ref: 2d93)](#konica-infrared-750nm-ref-2d93)
 - [Konica Konica Color II (ref: fb5b)](#konica-konica-color-ii-ref-fb5b)
+- [Konica Konica Color SR-G 160 (ref: 64c5)](#konica-konica-color-sr-g-160-ref-64c5)
 - [Konica KonicaColor VX 100 (ref: 8350)](#konica-konicacolor-vx-100-ref-8350)
 - [Konica KonicaColor VX 200 (ref: fe53)](#konica-konicacolor-vx-200-ref-fe53)
 - [Konica Sepia Professional (ref: 0b40)](#konica-sepia-professional-ref-0b40)
@@ -551,6 +557,7 @@ Total scans : 1084
 - [ORWO Chrom UT18 (ref: 81b7)](#orwo-chrom-ut18-ref-81b7)
 - [ORWO Chrom UT21 (ref: 3fd5)](#orwo-chrom-ut21-ref-3fd5)
 - [ORWO DK5 (ref: e815)](#orwo-dk5-ref-e815)
+- [ORWO DK5 (ref: a2dd)](#orwo-dk5-ref-a2dd)
 - [ORWO NC 19 (ref: dca5)](#orwo-nc-19-ref-dca5)
 - [ORWO NP 20 SL (ref: b16c)](#orwo-np-20-sl-ref-b16c)
 - [ORWO NP 22 (ref: 6b7f)](#orwo-np-22-ref-6b7f)
@@ -566,6 +573,7 @@ Total scans : 1084
 - [Optik Oldschool Motion 200T (ref: 0d90)](#optik-oldschool-motion-200t-ref-0d90)
 - [Optik Oldschool Motion 500T (ref: bd42)](#optik-oldschool-motion-500t-ref-bd42)
 - [Optik Oldschool OptiColour 200 (ref: 099e)](#optik-oldschool-opticolour-200-ref-099e)
+- [Optik Oldschool OptiColour 200 (ref: 3617)](#optik-oldschool-opticolour-200-ref-3617)
 - [Optik Oldschool OptiColour 200 (ref: 80d7)](#optik-oldschool-opticolour-200-ref-80d7)
 - [Optik Oldschool OptiColour 200 (ref: a7c9)](#optik-oldschool-opticolour-200-ref-a7c9)
 - [Optik Oldschool SantaColor (ref: dd85)](#optik-oldschool-santacolor-ref-dd85)
@@ -587,6 +595,7 @@ Total scans : 1084
 - [Polaroid 664 (ref: 4f1a)](#polaroid-664-ref-4f1a)
 - [Polaroid 665 (ref: e054)](#polaroid-665-ref-e054)
 - [Polaroid 669 (ref: 3566)](#polaroid-669-ref-3566)
+- [Polaroid 669 (ref: 2e70)](#polaroid-669-ref-2e70)
 - [Polaroid 669 (ref: 2c27)](#polaroid-669-ref-2c27)
 - [Polaroid 672 (ref: b335)](#polaroid-672-ref-b335)
 - [Polaroid 690 (ref: bd98)](#polaroid-690-ref-bd98)
@@ -2365,7 +2374,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 Format: 120          |  Process : BW      
 ISO   : 20           |  Expiry  : 1970-03 
 Type  : Single Pack  |  Quantity: N/A     
-Added : 2026-05-26   |  Author  : robo-tobo
+Added : 2026-05-26   |  Author  : Tobias  
 UUID  : 32a76ef752524fab9f27ebe632b527f5
 ```
 
@@ -3087,6 +3096,20 @@ UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 
 <a href="./archive/00073_000.jpg" target="_blank">
 	<img src="./lowres/00073_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="476" height="500">
+</a>
+
+#### Fujifilm 200 (ref: 6286)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 86c7f4981b304bd18ebeeb7c43836286
+```
+
+<a href="./archive/00665_000.jpg" target="_blank">
+	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
 </a>
 
 #### Fujifilm 400 (ref: 82be)
@@ -3855,6 +3878,20 @@ UUID  : 8acc893c8082453a8f83a17f3780fb3a
 	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
 </a>
 
+#### Fujifilm Fujicolor Pro 400H (ref: 4be2)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2015-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 5c7c873716ad4ae3abe59d1532e34be2
+```
+
+<a href="./archive/00663_000.jpg" target="_blank">
+	<img src="./lowres/00663_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="404" height="500">
+</a>
+
 #### Fujifilm Fujicolor Pro 400H (ref: 66e3)
 
 ```
@@ -4498,6 +4535,20 @@ UUID  : 711fdcd259474949990498f964f443c0
 
 <a href="./archive/00648_001.jpg" target="_blank">
 	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
+</a>
+
+#### Fujifilm Provia 100F (ref: 5c1e)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2021-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
+```
+
+<a href="./archive/00659_000.jpg" target="_blank">
+	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
 </a>
 
 #### Fujifilm Simple Ace (ref: 17e6)
@@ -7614,6 +7665,27 @@ UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
 </a>
 
+#### Kodak Gold Plus (ref: 114f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 3bba5e916d5d4460a7c644296d22114f
+```
+
+<a href="./archive/00664_000.jpg" target="_blank">
+	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
+</a>
+
+
+`UUID: 40b52c82185045d3ab35b798f0e7d875`↓
+
+<a href="./archive/00664_001.jpg" target="_blank">
+	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
+</a>
+
 #### Kodak Gold Ultra 400 (ref: 1358)
 
 ```
@@ -8139,6 +8211,13 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 
 <a href="./archive/00587_000.jpg" target="_blank">
 	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+</a>
+
+
+`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
+
+<a href="./archive/00587_001.jpg" target="_blank">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 #### Kodak Kodachrome II (ref: 2caa)
@@ -8804,6 +8883,20 @@ UUID  : 5bdddffe29bd464cab4630d85485cf9c
 
 <a href="./archive/00200_000.jpg" target="_blank">
 	<img src="./lowres/00200_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" height="370">
+</a>
+
+#### Kodak Portra 400 (ref: f4af)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2021-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : bd9d52c15a7b4d49b87ce856282cf4af
+```
+
+<a href="./archive/00662_000.jpg" target="_blank">
+	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
 </a>
 
 #### Kodak Portra 400 (ref: 9f18)
@@ -9913,6 +10006,27 @@ UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 
 <a href="./archive/00173_000.jpg" target="_blank">
 	<img src="./lowres/00173_000.jpg" alt="Konica Konica Color II 35mm film box outside" loading="lazy" width="462" height="500">
+</a>
+
+#### Konica Konica Color SR-G 160 (ref: 64c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-16   |  Author  : Chrisbes
+UUID  : 5f88d84525c440fc8879978b1b2864c5
+```
+
+<a href="./archive/00666_000.jpg" target="_blank">
+	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
+</a>
+
+
+`UUID: d8b9395871644903b4e7251339cca0c8`↓
+
+<a href="./archive/00666_001.jpg" target="_blank">
+	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
 </a>
 
 #### Konica KonicaColor VX 100 (ref: 8350)
@@ -11031,6 +11145,55 @@ UUID  : 227450eabb63400cb0f7fb663797e815
 	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
+#### ORWO DK5 (ref: a2dd)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-05 
+Type  : Single Pack  |  Quantity: 30.5m   
+Added : 2026-07-13   |  Author  : Luci 101
+UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
+```
+
+<a href="./archive/00658_000.jpg" target="_blank">
+	<img src="./lowres/00658_000.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 1c986802fc464163804128400195738e`↓
+
+<a href="./archive/00658_001.jpg" target="_blank">
+	<img src="./lowres/00658_001.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 33ab1f5ae3984ff3b0a1593e23f4ac06`↓
+
+<a href="./archive/00658_002.jpg" target="_blank">
+	<img src="./lowres/00658_002.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 4cfed229ab4b4d82b3a97fadcaed5a9f`↓
+
+<a href="./archive/00658_003.jpg" target="_blank">
+	<img src="./lowres/00658_003.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="130">
+</a>
+
+
+`UUID: 2015c96803d743838ac7ad1354443309`↓
+
+<a href="./archive/00658_004.jpg" target="_blank">
+	<img src="./lowres/00658_004.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="151">
+</a>
+
+
+`UUID: 9790f346b50243b6b83c3e7f2773b441`↓
+
+<a href="./archive/00658_005.jpg" target="_blank">
+	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
+</a>
+
 #### ORWO NC 19 (ref: dca5)
 
 ```
@@ -11577,6 +11740,20 @@ UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
 	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
+#### Optik Oldschool OptiColour 200 (ref: 3617)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 03e5b3b597e74b01b87a2d0f16623617
+```
+
+<a href="./archive/00661_000.jpg" target="_blank">
+	<img src="./lowres/00661_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="423">
+</a>
+
 #### Optik Oldschool OptiColour 200 (ref: 80d7)
 
 ```
@@ -11900,6 +12077,27 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 
 <a href="./archive/00020_000.jpg" target="_blank">
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="362">
+</a>
+
+#### Polaroid 669 (ref: 2e70)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2008-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : e879c9f5665f4692a40ab8d839412e70
+```
+
+<a href="./archive/00660_000.jpg" target="_blank">
+	<img src="./lowres/00660_000.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="225">
+</a>
+
+
+`UUID: 2e5f63ccf4454fad8c3deadb0c7ff0a6`↓
+
+<a href="./archive/00660_001.jpg" target="_blank">
+	<img src="./lowres/00660_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="154">
 </a>
 
 #### Polaroid 669 (ref: 2c27)
@@ -13776,13 +13974,13 @@ UUID  : fc90db41b94d486491177a8407f1100d
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      94    
+2     Luci 101                      100   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
 5     @ellafridalindblom            67    
 6     @recycling.film               66    
 7     @Hol.m35                      62    
-8     nyctomanica                   53    
+8     nyctomanica                   57    
 9     Mauphoto                      28    
 10    Dialupdude                    27    
 11    The Compartmentalist          25    
@@ -13793,12 +13991,12 @@ Rank  Username                      Contributions
 16    Nano_Burger                   18    
 17    toader                        17    
 18    waldoboro                     16    
-19    yc128                         14    
-20    b0baspace                     14    
-21    @SirBrentsworth               13    
-22    benikum                       12    
-23    u/ReeeSchmidtyWerber          11    
-24    Chrisbes                      11    
+19    Chrisbes                      16    
+20    yc128                         14    
+21    b0baspace                     14    
+22    @SirBrentsworth               13    
+23    benikum                       12    
+24    u/ReeeSchmidtyWerber          11    
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
@@ -13809,21 +14007,20 @@ Rank  Username                      Contributions
 32    nick                          6     
 33    Greg                          6     
 34    Kraksen                       5     
-35    Henry Gunn                    4     
-36    TheSelousScout                4     
-37    @sachynmital                  3     
-38    Tallbird Cowboy               3     
-39    robo-tobo                     3     
-40    @seklerek                     2     
-41    @ftfilmphotos                 2     
-42    @gregrouxphotography          2     
-43    Tobias                        2     
-44    @tylerdrey                    2     
-45    Yrikonchik                    1     
-46    @ad.astra.per.aspera.1894     1     
-47    Aoi Yuki                      1     
-48    lemoniter                     1     
-49    @shotbyliampewpew             1     
+35    @gregrouxphotography          5     
+36    Tobias                        5     
+37    Henry Gunn                    4     
+38    TheSelousScout                4     
+39    @sachynmital                  3     
+40    Tallbird Cowboy               3     
+41    @seklerek                     2     
+42    @ftfilmphotos                 2     
+43    @tylerdrey                    2     
+44    Yrikonchik                    1     
+45    @ad.astra.per.aspera.1894     1     
+46    Aoi Yuki                      1     
+47    lemoniter                     1     
+48    @shotbyliampewpew             1     
 ```
 
 ## Questions or Comments?

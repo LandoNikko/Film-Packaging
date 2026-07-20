@@ -111,7 +111,20 @@ def build_record_from_scratch(filepath):
     this_record[ITEM_AUTHOR_KEY] = author_name_this_session
     return this_record
 
-def build_record_from_existing(template, filepath):
+def find_entry_by_uuid(entries, uuid_str):
+    for item in entries:
+        if str(item[ITEM_UUID_KEY]) == uuid_str:
+            return item
+    return None
+
+def get_next_subindex(item_index):
+    max_sub = -1
+    for item in database_entries:
+        if int(item[ITEM_INDEX_KEY]) == int(item_index):
+            max_sub = max(max_sub, int(item[ITEM_SUBINDEX_KEY]))
+    return max_sub + 1
+
+def build_record_from_existing(template, filepath, use_session_author=True):
     this_record = get_empty_record()
     for key in this_record:
         this_record[key] = template[key]
@@ -119,8 +132,9 @@ def build_record_from_existing(template, filepath):
     this_record[DATE_ADDED_KEY] = int(time.time())
     this_record[CHECKSUM_KEY] = get_md5_str(filepath)
     this_record[ITEM_UUID_KEY] = uuid.uuid4().hex
-    this_record[ITEM_SUBINDEX_KEY] = int(this_record[ITEM_SUBINDEX_KEY]) + 1
-    this_record[ITEM_AUTHOR_KEY] = author_name_this_session
+    this_record[ITEM_SUBINDEX_KEY] = get_next_subindex(template[ITEM_INDEX_KEY])
+    if use_session_author:
+        this_record[ITEM_AUTHOR_KEY] = author_name_this_session
     this_record[ITEM_TYPE_KEY] = ask_attribute(ITEM_TYPE_KEY)
     return this_record
 
@@ -139,20 +153,27 @@ except Exception as e:
 
 did_resize = get_answer(f"Have you run the resize script?", accept_empty=True)
 
-latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
-all_authors = sorted(set(item[ITEM_AUTHOR_KEY] for item in database_entries))
-author_list_str = format_two_columns(all_authors)
-user_answer = get_answer(
-    f"Author name this session? (Press Enter for {latest_author})\n{author_list_str}",
-    accept_empty=True
-)
-if len(user_answer) == 0:
-    author_name_this_session = latest_author
-else:
-    try:
-        author_name_this_session = all_authors[int(user_answer)]
-    except (ValueError, IndexError):
-        author_name_this_session = user_answer
+author_prompted = False
+
+def ensure_author_name():
+    global author_name_this_session, author_prompted
+    if author_prompted:
+        return
+    author_prompted = True
+    latest_author = database_entries[-1][ITEM_AUTHOR_KEY]
+    all_authors = sorted(set(item[ITEM_AUTHOR_KEY] for item in database_entries))
+    author_list_str = format_two_columns(all_authors)
+    user_answer = get_answer(
+        f"Author name this session? (Press Enter for {latest_author})\n{author_list_str}",
+        accept_empty=True
+    )
+    if len(user_answer) == 0:
+        author_name_this_session = latest_author
+    else:
+        try:
+            author_name_this_session = all_authors[int(user_answer)]
+        except (ValueError, IndexError):
+            author_name_this_session = user_answer
 
 convert_keys_to_int(database_entries)
 ingest_file_list = sorted(os.listdir(ingest_dir_path), reverse=len(sys.argv) > 1)
@@ -172,16 +193,36 @@ for fname in ingest_file_list:
         continue
     
     open_preview(this_file_path)
-    is_new = get_yn("Press Y for new item, N for additional images of the last item")
-    if is_new:
+    while True:
+        choice = get_answer(
+            "Press Y for new item\n"
+            "Press N for additional images of the last item\n"
+            "Press U to add additional images to an existing entry by UUID\n"
+        ).lower()
+        if choice.startswith('y') or choice.startswith('n') or choice.startswith('u'):
+            break
+        print(colored("Invalid choice, please try again.", alert_color))
+
+    if choice.startswith('y'):
+        ensure_author_name()
         this_entry = build_record_from_scratch(this_file_path)
+    elif choice.startswith('u'):
+        target_uuid = get_answer("Enter the UUID of the existing entry: ").strip()
+        template = find_entry_by_uuid(database_entries, target_uuid)
+        if template is None:
+            print(colored(f"UUID '{target_uuid}' does not exist in the database.", alert_color))
+            kill_preview()
+            exit()
+        this_entry = build_record_from_existing(template, this_file_path, use_session_author=False)
     else:
+        ensure_author_name()
         this_entry = build_record_from_existing(database_entries[-1], this_file_path)
     
     this_entry[ITEM_FILE_NAME_KEY] = make_filename_only(this_entry)
     copy_dest_path = make_filename_full_path(this_entry)
 
     database_entries.append(this_entry)
+    database_entries.sort(key=lambda e: (int(e[ITEM_INDEX_KEY]), int(e[ITEM_SUBINDEX_KEY])))
     save_csv(database_entries)
 
     shutil.copy2(this_file_path, copy_dest_path)
