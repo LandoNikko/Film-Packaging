@@ -2,9 +2,9 @@ Film Packaging Archive is an open source community-driven archive of high-resolu
 
 **Live site:** [filmpackagingarchive.com](https://filmpackagingarchive.com)
 
-A browsable frontend of the main archive with search, stats, filter, gallery and lightbox.
+A browsable frontend of the main repository with stats, search, filtering, gallery and lightbox.
 
-![Website](https://i.imgur.com/bp2oXCM.jpeg)
+![Website](https://i.imgur.com/f2bzTsf.jpeg)
 
 | ![Example](https://i.imgur.com/PnbiugE.jpeg) | ![Example](https://i.imgur.com/JjuII15.jpeg) |
 | :------------: | :------------: |
@@ -14,7 +14,7 @@ A browsable frontend of the main archive with search, stats, filter, gallery and
 
 ## Resource
 
-- [Upstream data archive](https://github.com/dekuNukem/Film-Packaging)
+- [Upstream repository](https://github.com/dekuNukem/Film-Packaging)
     - New scans are automatically merged in weekly on Mondays by GitHub Actions.
 
 ## Disclaimer
