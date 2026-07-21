@@ -221,7 +221,7 @@ class FilmGallery {
             }
             
             const newScript = document.createElement('script');
-            newScript.src = 'assets/js/gallery-data.js?' + Date.now();
+            newScript.src = '/assets/js/gallery-data.js?' + Date.now();
             newScript.onload = () => {
                 if (typeof GALLERY_DATA !== 'undefined' && currentLength !== GALLERY_DATA.length) {
                     this.refreshGallery();

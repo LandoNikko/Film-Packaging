@@ -1,6 +1,6 @@
 Film Packaging Archive is an open source community-driven archive of high-resolution image scans of photography film packages.
 
-**Live site:** [landonikko.github.io/Film-Packaging](https://landonikko.github.io/Film-Packaging/)
+**Live site:** [filmpackagingarchive.com](https://filmpackagingarchive.com)
 
 A browsable frontend of the main archive with search, stats, filter, gallery and lightbox.
 

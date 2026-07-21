@@ -14,7 +14,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00000_000.jpg",
+    "imageUrl": "/film_packaging/archive/00000_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -28,7 +28,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00000_001.jpg",
+    "imageUrl": "/film_packaging/archive/00000_001.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -42,7 +42,7 @@ const GALLERY_DATA = [
     "expiry_date": "202606",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00001_000.jpg",
+    "imageUrl": "/film_packaging/archive/00001_000.jpg",
     "title": "Alien Film 5207/250D",
     "details": "120 • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -56,7 +56,7 @@ const GALLERY_DATA = [
     "expiry_date": "201310",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00002_000.jpg",
+    "imageUrl": "/film_packaging/archive/00002_000.jpg",
     "title": "Efiniti UXi Super 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -69,7 +69,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00003_000.jpg",
+    "imageUrl": "/film_packaging/archive/00003_000.jpg",
     "title": "Unknown Film (00003_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -82,7 +82,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00003_001.jpg",
+    "imageUrl": "/film_packaging/archive/00003_001.jpg",
     "title": "Unknown Film (00003_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -96,7 +96,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00004_000.jpg",
+    "imageUrl": "/film_packaging/archive/00004_000.jpg",
     "title": "Harman Phoenix",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -110,7 +110,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00004_001.jpg",
+    "imageUrl": "/film_packaging/archive/00004_001.jpg",
     "title": "Harman Phoenix",
     "details": "120 • ISO 200 • C-41 • film_box_inside"
   },
@@ -124,7 +124,7 @@ const GALLERY_DATA = [
     "expiry_date": "202602",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00005_000.jpg",
+    "imageUrl": "/film_packaging/archive/00005_000.jpg",
     "title": "Rollei Retro 80S",
     "details": "120 • ISO 80 • BW • film_box_outside"
   },
@@ -138,7 +138,7 @@ const GALLERY_DATA = [
     "expiry_date": "202602",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00005_001.jpg",
+    "imageUrl": "/film_packaging/archive/00005_001.jpg",
     "title": "Rollei Retro 80S",
     "details": "120 • ISO 80 • BW • film_box_inside"
   },
@@ -152,7 +152,7 @@ const GALLERY_DATA = [
     "expiry_date": "201803",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00006_000.jpg",
+    "imageUrl": "/film_packaging/archive/00006_000.jpg",
     "title": "CineStill 800T",
     "details": "120 • ISO 800 • C-41 • film_box_outside"
   },
@@ -166,7 +166,7 @@ const GALLERY_DATA = [
     "expiry_date": "201803",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00006_001.jpg",
+    "imageUrl": "/film_packaging/archive/00006_001.jpg",
     "title": "CineStill 800T",
     "details": "120 • ISO 800 • C-41 • film_box_inside"
   },
@@ -180,7 +180,7 @@ const GALLERY_DATA = [
     "expiry_date": "199002",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00007_000.jpg",
+    "imageUrl": "/film_packaging/archive/00007_000.jpg",
     "title": "Fujifilm Fujicolor Super HR",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -194,7 +194,7 @@ const GALLERY_DATA = [
     "expiry_date": "199002",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00007_001.jpg",
+    "imageUrl": "/film_packaging/archive/00007_001.jpg",
     "title": "Fujifilm Fujicolor Super HR",
     "details": "35mm • ISO 200 • C-41 • film_box_leaflet"
   },
@@ -208,7 +208,7 @@ const GALLERY_DATA = [
     "expiry_date": "199002",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00007_002.jpg",
+    "imageUrl": "/film_packaging/archive/00007_002.jpg",
     "title": "Fujifilm Fujicolor Super HR",
     "details": "35mm • ISO 200 • C-41 • film_box_leaflet"
   },
@@ -222,7 +222,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00008_000.jpg",
+    "imageUrl": "/film_packaging/archive/00008_000.jpg",
     "title": "Lomography Lomochrome Turquoise",
     "details": "120 • ISO 100-400 • C-41 • film_box_outside"
   },
@@ -236,7 +236,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00008_001.jpg",
+    "imageUrl": "/film_packaging/archive/00008_001.jpg",
     "title": "Lomography Lomochrome Turquoise",
     "details": "120 • ISO 100-400 • C-41 • film_box_inside"
   },
@@ -250,7 +250,7 @@ const GALLERY_DATA = [
     "expiry_date": "201309",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00009_000.jpg",
+    "imageUrl": "/film_packaging/archive/00009_000.jpg",
     "title": "Ilford SFX 200",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -264,7 +264,7 @@ const GALLERY_DATA = [
     "expiry_date": "201309",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00009_001.jpg",
+    "imageUrl": "/film_packaging/archive/00009_001.jpg",
     "title": "Ilford SFX 200",
     "details": "120 • ISO 200 • BW • film_box_inside"
   },
@@ -278,7 +278,7 @@ const GALLERY_DATA = [
     "expiry_date": "200110",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00010_000.jpg",
+    "imageUrl": "/film_packaging/archive/00010_000.jpg",
     "title": "Agfa AgfaColor ULTRA 50",
     "details": "35mm • ISO 50 • C-41 • film_box_outside"
   },
@@ -292,7 +292,7 @@ const GALLERY_DATA = [
     "expiry_date": "200110",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00010_001.jpg",
+    "imageUrl": "/film_packaging/archive/00010_001.jpg",
     "title": "Agfa AgfaColor ULTRA 50",
     "details": "35mm • ISO 50 • C-41 • film_box_inside"
   },
@@ -306,7 +306,7 @@ const GALLERY_DATA = [
     "expiry_date": "200807",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00011_000.jpg",
+    "imageUrl": "/film_packaging/archive/00011_000.jpg",
     "title": "Agfa APX",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -320,7 +320,7 @@ const GALLERY_DATA = [
     "expiry_date": "200807",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00011_001.jpg",
+    "imageUrl": "/film_packaging/archive/00011_001.jpg",
     "title": "Agfa APX",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -334,7 +334,7 @@ const GALLERY_DATA = [
     "expiry_date": "200205",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00012_000.jpg",
+    "imageUrl": "/film_packaging/archive/00012_000.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -348,7 +348,7 @@ const GALLERY_DATA = [
     "expiry_date": "200205",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00012_001.jpg",
+    "imageUrl": "/film_packaging/archive/00012_001.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -362,7 +362,7 @@ const GALLERY_DATA = [
     "expiry_date": "200907",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00013_000.jpg",
+    "imageUrl": "/film_packaging/archive/00013_000.jpg",
     "title": "Lloyds Pharmacy Colour Film",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -376,7 +376,7 @@ const GALLERY_DATA = [
     "expiry_date": "200312",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00014_000.jpg",
+    "imageUrl": "/film_packaging/archive/00014_000.jpg",
     "title": "Agfa AgfaColor Vista",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -390,7 +390,7 @@ const GALLERY_DATA = [
     "expiry_date": "200312",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00014_001.jpg",
+    "imageUrl": "/film_packaging/archive/00014_001.jpg",
     "title": "Agfa AgfaColor Vista",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -404,7 +404,7 @@ const GALLERY_DATA = [
     "expiry_date": "202906",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00015_000.jpg",
+    "imageUrl": "/film_packaging/archive/00015_000.jpg",
     "title": "Kentmere PAN 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -418,7 +418,7 @@ const GALLERY_DATA = [
     "expiry_date": "202906",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00015_001.jpg",
+    "imageUrl": "/film_packaging/archive/00015_001.jpg",
     "title": "Kentmere PAN 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -432,7 +432,7 @@ const GALLERY_DATA = [
     "expiry_date": "202511",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00016_000.jpg",
+    "imageUrl": "/film_packaging/archive/00016_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -446,7 +446,7 @@ const GALLERY_DATA = [
     "expiry_date": "202511",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00016_001.jpg",
+    "imageUrl": "/film_packaging/archive/00016_001.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -460,7 +460,7 @@ const GALLERY_DATA = [
     "expiry_date": "196301",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00017_000.jpg",
+    "imageUrl": "/film_packaging/archive/00017_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • E-2 • film_box_outside"
   },
@@ -474,7 +474,7 @@ const GALLERY_DATA = [
     "expiry_date": "199608",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00018_000.jpg",
+    "imageUrl": "/film_packaging/archive/00018_000.jpg",
     "title": "Polaroid 665",
     "details": "Instant Pack Film • ISO 80 • Instant • film_box_outside"
   },
@@ -488,7 +488,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_000.jpg",
+    "imageUrl": "/film_packaging/archive/00019_000.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_outside"
   },
@@ -502,7 +502,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_001.jpg",
+    "imageUrl": "/film_packaging/archive/00019_001.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -516,7 +516,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_002.jpg",
+    "imageUrl": "/film_packaging/archive/00019_002.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -530,7 +530,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_003.jpg",
+    "imageUrl": "/film_packaging/archive/00019_003.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -544,7 +544,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_004.jpg",
+    "imageUrl": "/film_packaging/archive/00019_004.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -558,7 +558,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_005.jpg",
+    "imageUrl": "/film_packaging/archive/00019_005.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -572,7 +572,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00019_006.jpg",
+    "imageUrl": "/film_packaging/archive/00019_006.jpg",
     "title": "Polaroid PolaBlue 35mm",
     "details": "35mm • ISO 8 • Instant • film_box_leaflet"
   },
@@ -586,7 +586,7 @@ const GALLERY_DATA = [
     "expiry_date": "200603",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00020_000.jpg",
+    "imageUrl": "/film_packaging/archive/00020_000.jpg",
     "title": "Polaroid 669",
     "details": "Instant Pack Film • ISO 80 • Instant • film_box_outside"
   },
@@ -600,7 +600,7 @@ const GALLERY_DATA = [
     "expiry_date": "202611",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00021_000.jpg",
+    "imageUrl": "/film_packaging/archive/00021_000.jpg",
     "title": "Kodak Gold 200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -614,7 +614,7 @@ const GALLERY_DATA = [
     "expiry_date": "201809",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00022_000.jpg",
+    "imageUrl": "/film_packaging/archive/00022_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -628,7 +628,7 @@ const GALLERY_DATA = [
     "expiry_date": "200604",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00023_000.jpg",
+    "imageUrl": "/film_packaging/archive/00023_000.jpg",
     "title": "Fujifilm Fujichrome Velvia 100F",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -642,7 +642,7 @@ const GALLERY_DATA = [
     "expiry_date": "197505",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00024_000.jpg",
+    "imageUrl": "/film_packaging/archive/00024_000.jpg",
     "title": "Kodak Kodacolor-X",
     "details": "126 • ISO 80 • C-22 • film_box_outside"
   },
@@ -656,7 +656,7 @@ const GALLERY_DATA = [
     "expiry_date": "197910",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00025_000.jpg",
+    "imageUrl": "/film_packaging/archive/00025_000.jpg",
     "title": "Kodak Ektachrome 64",
     "details": "110 • ISO 64 • Unknown • film_box_outside"
   },
@@ -670,7 +670,7 @@ const GALLERY_DATA = [
     "expiry_date": "197910",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00026_000.jpg",
+    "imageUrl": "/film_packaging/archive/00026_000.jpg",
     "title": "Kodak Kodachrome 64",
     "details": "110 • ISO 64 • K-14 • film_box_outside"
   },
@@ -684,7 +684,7 @@ const GALLERY_DATA = [
     "expiry_date": "197910",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00026_001.jpg",
+    "imageUrl": "/film_packaging/archive/00026_001.jpg",
     "title": "Kodak Kodachrome 64",
     "details": "110 • ISO 64 • K-14 • film_box_processing_envelope"
   },
@@ -698,7 +698,7 @@ const GALLERY_DATA = [
     "expiry_date": "197910",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00026_002.jpg",
+    "imageUrl": "/film_packaging/archive/00026_002.jpg",
     "title": "Kodak Kodachrome 64",
     "details": "110 • ISO 64 • K-14 • film_box_processing_envelope"
   },
@@ -712,7 +712,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00027_000.jpg",
+    "imageUrl": "/film_packaging/archive/00027_000.jpg",
     "title": "Kodak Ektacolor Pro Gold",
     "details": "220 • ISO 160 • C-41 • film_box_outside"
   },
@@ -726,7 +726,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00027_001.jpg",
+    "imageUrl": "/film_packaging/archive/00027_001.jpg",
     "title": "Kodak Ektacolor Pro Gold",
     "details": "220 • ISO 160 • C-41 • film_box_inside"
   },
@@ -740,7 +740,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00027_002.jpg",
+    "imageUrl": "/film_packaging/archive/00027_002.jpg",
     "title": "Kodak Ektacolor Pro Gold",
     "details": "220 • ISO 160 • C-41 • film_box_leaflet"
   },
@@ -754,7 +754,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00027_003.jpg",
+    "imageUrl": "/film_packaging/archive/00027_003.jpg",
     "title": "Kodak Ektacolor Pro Gold",
     "details": "220 • ISO 160 • C-41 • film_box_leaflet"
   },
@@ -768,7 +768,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00028_000.jpg",
+    "imageUrl": "/film_packaging/archive/00028_000.jpg",
     "title": "Kodak Tri-X 400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -782,7 +782,7 @@ const GALLERY_DATA = [
     "expiry_date": "199209",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00029_000.jpg",
+    "imageUrl": "/film_packaging/archive/00029_000.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_outside"
   },
@@ -796,7 +796,7 @@ const GALLERY_DATA = [
     "expiry_date": "199209",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00029_001.jpg",
+    "imageUrl": "/film_packaging/archive/00029_001.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_leaflet"
   },
@@ -810,7 +810,7 @@ const GALLERY_DATA = [
     "expiry_date": "199209",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00029_002.jpg",
+    "imageUrl": "/film_packaging/archive/00029_002.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_leaflet"
   },
@@ -824,7 +824,7 @@ const GALLERY_DATA = [
     "expiry_date": "199209",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00029_003.jpg",
+    "imageUrl": "/film_packaging/archive/00029_003.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_leaflet"
   },
@@ -838,7 +838,7 @@ const GALLERY_DATA = [
     "expiry_date": "199209",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00029_004.jpg",
+    "imageUrl": "/film_packaging/archive/00029_004.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_leaflet"
   },
@@ -852,7 +852,7 @@ const GALLERY_DATA = [
     "expiry_date": "202708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00030_000.jpg",
+    "imageUrl": "/film_packaging/archive/00030_000.jpg",
     "title": "Rollei Infrared",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -866,7 +866,7 @@ const GALLERY_DATA = [
     "expiry_date": "202708",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00030_001.jpg",
+    "imageUrl": "/film_packaging/archive/00030_001.jpg",
     "title": "Rollei Infrared",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -880,7 +880,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00031_000.jpg",
+    "imageUrl": "/film_packaging/archive/00031_000.jpg",
     "title": "Polaroid GridFilm",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -894,7 +894,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00031_001.jpg",
+    "imageUrl": "/film_packaging/archive/00031_001.jpg",
     "title": "Polaroid GridFilm",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -908,7 +908,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00031_002.jpg",
+    "imageUrl": "/film_packaging/archive/00031_002.jpg",
     "title": "Polaroid GridFilm",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -922,7 +922,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00031_003.jpg",
+    "imageUrl": "/film_packaging/archive/00031_003.jpg",
     "title": "Polaroid GridFilm",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -936,7 +936,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00032_000.jpg",
+    "imageUrl": "/film_packaging/archive/00032_000.jpg",
     "title": "Fujifilm Fujichrome Professional 100D",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -950,7 +950,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00032_001.jpg",
+    "imageUrl": "/film_packaging/archive/00032_001.jpg",
     "title": "Fujifilm Fujichrome Professional 100D",
     "details": "120 • ISO 100 • E-6 • film_box_leaflet"
   },
@@ -964,7 +964,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00032_002.jpg",
+    "imageUrl": "/film_packaging/archive/00032_002.jpg",
     "title": "Fujifilm Fujichrome Professional 100D",
     "details": "120 • ISO 100 • E-6 • film_box_leaflet"
   },
@@ -978,7 +978,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00033_000.jpg",
+    "imageUrl": "/film_packaging/archive/00033_000.jpg",
     "title": "Jessops Diamond Everyday",
     "details": "APS • ISO 200 • C-41 • film_box_outside"
   },
@@ -992,7 +992,7 @@ const GALLERY_DATA = [
     "expiry_date": "199807",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00034_000.jpg",
+    "imageUrl": "/film_packaging/archive/00034_000.jpg",
     "title": "Fujifilm Fujicolor NPL 160",
     "details": "120 • ISO 160 • C-41 • film_box_outside"
   },
@@ -1006,7 +1006,7 @@ const GALLERY_DATA = [
     "expiry_date": "199807",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00034_001.jpg",
+    "imageUrl": "/film_packaging/archive/00034_001.jpg",
     "title": "Fujifilm Fujicolor NPL 160",
     "details": "120 • ISO 160 • C-41 • film_box_leaflet"
   },
@@ -1020,7 +1020,7 @@ const GALLERY_DATA = [
     "expiry_date": "199807",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00034_002.jpg",
+    "imageUrl": "/film_packaging/archive/00034_002.jpg",
     "title": "Fujifilm Fujicolor NPL 160",
     "details": "120 • ISO 160 • C-41 • film_box_leaflet"
   },
@@ -1034,7 +1034,7 @@ const GALLERY_DATA = [
     "expiry_date": "197801",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00035_000.jpg",
+    "imageUrl": "/film_packaging/archive/00035_000.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_outside"
   },
@@ -1048,7 +1048,7 @@ const GALLERY_DATA = [
     "expiry_date": "197801",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00035_001.jpg",
+    "imageUrl": "/film_packaging/archive/00035_001.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -1062,7 +1062,7 @@ const GALLERY_DATA = [
     "expiry_date": "197801",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00035_002.jpg",
+    "imageUrl": "/film_packaging/archive/00035_002.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -1076,7 +1076,7 @@ const GALLERY_DATA = [
     "expiry_date": "197801",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00035_003.jpg",
+    "imageUrl": "/film_packaging/archive/00035_003.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_processing_envelope"
   },
@@ -1090,7 +1090,7 @@ const GALLERY_DATA = [
     "expiry_date": "197801",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00035_004.jpg",
+    "imageUrl": "/film_packaging/archive/00035_004.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_processing_envelope"
   },
@@ -1104,7 +1104,7 @@ const GALLERY_DATA = [
     "expiry_date": "200003",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00036_000.jpg",
+    "imageUrl": "/film_packaging/archive/00036_000.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_outside"
   },
@@ -1118,7 +1118,7 @@ const GALLERY_DATA = [
     "expiry_date": "198805",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00037_000.jpg",
+    "imageUrl": "/film_packaging/archive/00037_000.jpg",
     "title": "Kodak Technical Pan 6415",
     "details": "120 • ISO 25 • BW • film_box_outside"
   },
@@ -1132,7 +1132,7 @@ const GALLERY_DATA = [
     "expiry_date": "198805",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00037_001.jpg",
+    "imageUrl": "/film_packaging/archive/00037_001.jpg",
     "title": "Kodak Technical Pan 6415",
     "details": "120 • ISO 25 • BW • film_box_leaflet"
   },
@@ -1146,7 +1146,7 @@ const GALLERY_DATA = [
     "expiry_date": "198805",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00037_002.jpg",
+    "imageUrl": "/film_packaging/archive/00037_002.jpg",
     "title": "Kodak Technical Pan 6415",
     "details": "120 • ISO 25 • BW • film_box_leaflet"
   },
@@ -1160,7 +1160,7 @@ const GALLERY_DATA = [
     "expiry_date": "201303",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00038_000.jpg",
+    "imageUrl": "/film_packaging/archive/00038_000.jpg",
     "title": "Efke IR 820 Aura",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -1174,7 +1174,7 @@ const GALLERY_DATA = [
     "expiry_date": "201303",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00038_001.jpg",
+    "imageUrl": "/film_packaging/archive/00038_001.jpg",
     "title": "Efke IR 820 Aura",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -1188,7 +1188,7 @@ const GALLERY_DATA = [
     "expiry_date": "199102",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00039_000.jpg",
+    "imageUrl": "/film_packaging/archive/00039_000.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_outside"
   },
@@ -1202,7 +1202,7 @@ const GALLERY_DATA = [
     "expiry_date": "199102",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00039_001.jpg",
+    "imageUrl": "/film_packaging/archive/00039_001.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_leaflet"
   },
@@ -1216,7 +1216,7 @@ const GALLERY_DATA = [
     "expiry_date": "201007",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00040_000.jpg",
+    "imageUrl": "/film_packaging/archive/00040_000.jpg",
     "title": "Fujifilm Fujicolor 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -1230,7 +1230,7 @@ const GALLERY_DATA = [
     "expiry_date": "197103",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00041_000.jpg",
+    "imageUrl": "/film_packaging/archive/00041_000.jpg",
     "title": "Kodak Verichrome Pan",
     "details": "620 • ISO 125 • BW • film_box_outside"
   },
@@ -1244,7 +1244,7 @@ const GALLERY_DATA = [
     "expiry_date": "200108",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00042_000.jpg",
+    "imageUrl": "/film_packaging/archive/00042_000.jpg",
     "title": "Kodak Elite Chrome",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -1258,7 +1258,7 @@ const GALLERY_DATA = [
     "expiry_date": "200512",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00043_000.jpg",
+    "imageUrl": "/film_packaging/archive/00043_000.jpg",
     "title": "Kodak Ultra",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -1272,7 +1272,7 @@ const GALLERY_DATA = [
     "expiry_date": "200101",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00044_000.jpg",
+    "imageUrl": "/film_packaging/archive/00044_000.jpg",
     "title": "Fujifilm Fujichrome Velvia",
     "details": "35mm • ISO 50 • E-6 • film_box_outside"
   },
@@ -1286,7 +1286,7 @@ const GALLERY_DATA = [
     "expiry_date": "200101",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00044_001.jpg",
+    "imageUrl": "/film_packaging/archive/00044_001.jpg",
     "title": "Fujifilm Fujichrome Velvia",
     "details": "35mm • ISO 50 • E-6 • film_box_leaflet"
   },
@@ -1300,7 +1300,7 @@ const GALLERY_DATA = [
     "expiry_date": "200101",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00044_002.jpg",
+    "imageUrl": "/film_packaging/archive/00044_002.jpg",
     "title": "Fujifilm Fujichrome Velvia",
     "details": "35mm • ISO 50 • E-6 • film_box_leaflet"
   },
@@ -1314,7 +1314,7 @@ const GALLERY_DATA = [
     "expiry_date": "197006",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00045_000.jpg",
+    "imageUrl": "/film_packaging/archive/00045_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 160 • E-4 • film_box_outside"
   },
@@ -1328,7 +1328,7 @@ const GALLERY_DATA = [
     "expiry_date": "197006",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00045_001.jpg",
+    "imageUrl": "/film_packaging/archive/00045_001.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 160 • E-4 • film_box_leaflet"
   },
@@ -1342,7 +1342,7 @@ const GALLERY_DATA = [
     "expiry_date": "197006",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00045_002.jpg",
+    "imageUrl": "/film_packaging/archive/00045_002.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 160 • E-4 • film_box_leaflet"
   },
@@ -1356,7 +1356,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00046_000.jpg",
+    "imageUrl": "/film_packaging/archive/00046_000.jpg",
     "title": "Porst Color N21",
     "details": "35mm • ISO 100 • C-22 • film_box_outside"
   },
@@ -1370,7 +1370,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00046_001.jpg",
+    "imageUrl": "/film_packaging/archive/00046_001.jpg",
     "title": "Porst Color N21",
     "details": "35mm • ISO 100 • C-22 • film_box_leaflet"
   },
@@ -1384,7 +1384,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00047_000.jpg",
+    "imageUrl": "/film_packaging/archive/00047_000.jpg",
     "title": "Rollei Infrared",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -1398,7 +1398,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_inside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00047_001.jpg",
+    "imageUrl": "/film_packaging/archive/00047_001.jpg",
     "title": "Rollei Infrared",
     "details": "35mm • ISO 200 • BW • film_box_inside"
   },
@@ -1412,7 +1412,7 @@ const GALLERY_DATA = [
     "expiry_date": "202408",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00048_000.jpg",
+    "imageUrl": "/film_packaging/archive/00048_000.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -1426,7 +1426,7 @@ const GALLERY_DATA = [
     "expiry_date": "202408",
     "item_type": "film_box_inside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00048_001.jpg",
+    "imageUrl": "/film_packaging/archive/00048_001.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -1440,7 +1440,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00049_000.jpg",
+    "imageUrl": "/film_packaging/archive/00049_000.jpg",
     "title": "Wolfen NC500",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -1454,7 +1454,7 @@ const GALLERY_DATA = [
     "expiry_date": "202407",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00050_000.jpg",
+    "imageUrl": "/film_packaging/archive/00050_000.jpg",
     "title": "Shanghai GP3",
     "details": "127 • ISO 100 • BW • film_box_outside"
   },
@@ -1468,7 +1468,7 @@ const GALLERY_DATA = [
     "expiry_date": "199409",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00051_000.jpg",
+    "imageUrl": "/film_packaging/archive/00051_000.jpg",
     "title": "York Photo Labs DXG 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -1482,7 +1482,7 @@ const GALLERY_DATA = [
     "expiry_date": "199210",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00052_000.jpg",
+    "imageUrl": "/film_packaging/archive/00052_000.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "35mm • ISO 200 • E-6 • film_box_outside"
   },
@@ -1496,7 +1496,7 @@ const GALLERY_DATA = [
     "expiry_date": "199210",
     "item_type": "film_box_leaflet",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00052_001.jpg",
+    "imageUrl": "/film_packaging/archive/00052_001.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "35mm • ISO 200 • E-6 • film_box_leaflet"
   },
@@ -1510,7 +1510,7 @@ const GALLERY_DATA = [
     "expiry_date": "199210",
     "item_type": "film_box_leaflet",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00052_002.jpg",
+    "imageUrl": "/film_packaging/archive/00052_002.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "35mm • ISO 200 • E-6 • film_box_leaflet"
   },
@@ -1524,7 +1524,7 @@ const GALLERY_DATA = [
     "expiry_date": "200308",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00053_000.jpg",
+    "imageUrl": "/film_packaging/archive/00053_000.jpg",
     "title": "Fujifilm Fujicolor NPS 160",
     "details": "35mm • ISO 160 • C-41 • film_box_outside"
   },
@@ -1538,7 +1538,7 @@ const GALLERY_DATA = [
     "expiry_date": "200308",
     "item_type": "film_box_inside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00053_001.jpg",
+    "imageUrl": "/film_packaging/archive/00053_001.jpg",
     "title": "Fujifilm Fujicolor NPS 160",
     "details": "35mm • ISO 160 • C-41 • film_box_inside"
   },
@@ -1552,7 +1552,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_000.jpg",
+    "imageUrl": "/film_packaging/archive/00054_000.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • AR-1 • film_box_outside"
   },
@@ -1566,7 +1566,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_leaflet",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_001.jpg",
+    "imageUrl": "/film_packaging/archive/00054_001.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • AR-1 • film_box_leaflet"
   },
@@ -1580,7 +1580,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_leaflet",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_002.jpg",
+    "imageUrl": "/film_packaging/archive/00054_002.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • AR-1 • film_box_leaflet"
   },
@@ -1594,7 +1594,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_processing_envelope",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_003.jpg",
+    "imageUrl": "/film_packaging/archive/00054_003.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • E-6 • film_box_processing_envelope"
   },
@@ -1608,7 +1608,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_processing_envelope",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_004.jpg",
+    "imageUrl": "/film_packaging/archive/00054_004.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • E-6 • film_box_processing_envelope"
   },
@@ -1622,7 +1622,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_processing_envelope",
     "author": "b0baspace",
-    "imageUrl": "film_packaging/archive/00054_005.jpg",
+    "imageUrl": "/film_packaging/archive/00054_005.jpg",
     "title": "GAF Color Slide Film",
     "details": "126 • ISO 64 • E-6 • film_box_processing_envelope"
   },
@@ -1636,7 +1636,7 @@ const GALLERY_DATA = [
     "expiry_date": "202009",
     "item_type": "film_box_outside",
     "author": "@seklerek",
-    "imageUrl": "film_packaging/archive/00055_000.jpg",
+    "imageUrl": "/film_packaging/archive/00055_000.jpg",
     "title": "Fujifilm Fujichrome Provia 100F",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -1650,7 +1650,7 @@ const GALLERY_DATA = [
     "expiry_date": "200703",
     "item_type": "film_box_outside",
     "author": "@seklerek",
-    "imageUrl": "film_packaging/archive/00056_000.jpg",
+    "imageUrl": "/film_packaging/archive/00056_000.jpg",
     "title": "Fujifilm Fujichrome Velvia 100F",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -1664,7 +1664,7 @@ const GALLERY_DATA = [
     "expiry_date": "202406",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00057_000.jpg",
+    "imageUrl": "/film_packaging/archive/00057_000.jpg",
     "title": "Alien Film 5222/XX",
     "details": "35mm • ISO 250 • BW • film_box_outside"
   },
@@ -1678,7 +1678,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00058_000.jpg",
+    "imageUrl": "/film_packaging/archive/00058_000.jpg",
     "title": "Kentmere PAN 400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -1692,7 +1692,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00058_001.jpg",
+    "imageUrl": "/film_packaging/archive/00058_001.jpg",
     "title": "Kentmere PAN 400",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -1706,7 +1706,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00059_000.jpg",
+    "imageUrl": "/film_packaging/archive/00059_000.jpg",
     "title": "Three Film Rolls 5207",
     "details": "35mm • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -1720,7 +1720,7 @@ const GALLERY_DATA = [
     "expiry_date": "200705",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00060_000.jpg",
+    "imageUrl": "/film_packaging/archive/00060_000.jpg",
     "title": "Kodak Kodachrome 64",
     "details": "35mm • ISO 64 • K-14 • film_box_outside"
   },
@@ -1734,7 +1734,7 @@ const GALLERY_DATA = [
     "expiry_date": "199802",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00062_000.jpg",
+    "imageUrl": "/film_packaging/archive/00062_000.jpg",
     "title": "Klick XD200",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -1748,7 +1748,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00063_000.jpg",
+    "imageUrl": "/film_packaging/archive/00063_000.jpg",
     "title": "Klick APS Film",
     "details": "APS • ISO 200 • C-41 • film_box_outside"
   },
@@ -1762,7 +1762,7 @@ const GALLERY_DATA = [
     "expiry_date": "200610",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00063_001.jpg",
+    "imageUrl": "/film_packaging/archive/00063_001.jpg",
     "title": "Klick APS Film",
     "details": "APS • ISO 200 • C-41 • film_box_inside"
   },
@@ -1776,7 +1776,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00064_000.jpg",
+    "imageUrl": "/film_packaging/archive/00064_000.jpg",
     "title": "Kodak Kodacolor-X",
     "details": "120 • ISO 80 • C-22 • film_box_outside"
   },
@@ -1790,7 +1790,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00064_001.jpg",
+    "imageUrl": "/film_packaging/archive/00064_001.jpg",
     "title": "Kodak Kodacolor-X",
     "details": "120 • ISO 80 • C-22 • film_box_leaflet"
   },
@@ -1804,7 +1804,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00064_002.jpg",
+    "imageUrl": "/film_packaging/archive/00064_002.jpg",
     "title": "Kodak Kodacolor-X",
     "details": "120 • ISO 80 • C-22 • film_box_leaflet"
   },
@@ -1818,7 +1818,7 @@ const GALLERY_DATA = [
     "expiry_date": "196401",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00065_000.jpg",
+    "imageUrl": "/film_packaging/archive/00065_000.jpg",
     "title": "ADOX KB17",
     "details": "35mm • ISO 40 • BW • film_box_outside"
   },
@@ -1832,7 +1832,7 @@ const GALLERY_DATA = [
     "expiry_date": "196401",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00065_001.jpg",
+    "imageUrl": "/film_packaging/archive/00065_001.jpg",
     "title": "ADOX KB17",
     "details": "35mm • ISO 40 • BW • film_box_inside"
   },
@@ -1846,7 +1846,7 @@ const GALLERY_DATA = [
     "expiry_date": "200608",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00066_000.jpg",
+    "imageUrl": "/film_packaging/archive/00066_000.jpg",
     "title": "Kodak Advantix Ultra",
     "details": "APS • ISO 200 • C-41 • film_box_outside"
   },
@@ -1860,7 +1860,7 @@ const GALLERY_DATA = [
     "expiry_date": "200708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00067_000.jpg",
+    "imageUrl": "/film_packaging/archive/00067_000.jpg",
     "title": "Lloyds Pharmacy APS Film",
     "details": "APS • ISO 200 • C-41 • film_box_outside"
   },
@@ -1874,7 +1874,7 @@ const GALLERY_DATA = [
     "expiry_date": "198812",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00068_000.jpg",
+    "imageUrl": "/film_packaging/archive/00068_000.jpg",
     "title": "Kodak Kodacolor Gold 200",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -1888,7 +1888,7 @@ const GALLERY_DATA = [
     "expiry_date": "202307",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00069_000.jpg",
+    "imageUrl": "/film_packaging/archive/00069_000.jpg",
     "title": "Kodak T-MAX 100",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -1902,7 +1902,7 @@ const GALLERY_DATA = [
     "expiry_date": "202703",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00070_000.jpg",
+    "imageUrl": "/film_packaging/archive/00070_000.jpg",
     "title": "Foma Fomapan Creative 200",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -1916,7 +1916,7 @@ const GALLERY_DATA = [
     "expiry_date": "202703",
     "item_type": "film_box_inside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00070_001.jpg",
+    "imageUrl": "/film_packaging/archive/00070_001.jpg",
     "title": "Foma Fomapan Creative 200",
     "details": "120 • ISO 200 • BW • film_box_inside"
   },
@@ -1930,7 +1930,7 @@ const GALLERY_DATA = [
     "expiry_date": "202801",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00071_000.jpg",
+    "imageUrl": "/film_packaging/archive/00071_000.jpg",
     "title": "Rollei SUPERPAN 200",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -1944,7 +1944,7 @@ const GALLERY_DATA = [
     "expiry_date": "202801",
     "item_type": "film_box_inside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00071_001.jpg",
+    "imageUrl": "/film_packaging/archive/00071_001.jpg",
     "title": "Rollei SUPERPAN 200",
     "details": "35mm • ISO 200 • BW • film_box_inside"
   },
@@ -1958,7 +1958,7 @@ const GALLERY_DATA = [
     "expiry_date": "200605",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00072_000.jpg",
+    "imageUrl": "/film_packaging/archive/00072_000.jpg",
     "title": "Rossmann Jahreszeiten Pack",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -1972,7 +1972,7 @@ const GALLERY_DATA = [
     "expiry_date": "202606",
     "item_type": "film_box_outside",
     "author": "Yrikonchik",
-    "imageUrl": "film_packaging/archive/00073_000.jpg",
+    "imageUrl": "/film_packaging/archive/00073_000.jpg",
     "title": "Fujifilm 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -1986,7 +1986,7 @@ const GALLERY_DATA = [
     "expiry_date": "197104",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00074_000.jpg",
+    "imageUrl": "/film_packaging/archive/00074_000.jpg",
     "title": "Foma Fomapan21",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -2000,7 +2000,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00076_000.jpg",
+    "imageUrl": "/film_packaging/archive/00076_000.jpg",
     "title": "Harman Phoenix",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2014,7 +2014,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00076_001.jpg",
+    "imageUrl": "/film_packaging/archive/00076_001.jpg",
     "title": "Harman Phoenix",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -2028,7 +2028,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00077_000.jpg",
+    "imageUrl": "/film_packaging/archive/00077_000.jpg",
     "title": "Kosmo Foto Mono",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -2042,7 +2042,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00078_000.jpg",
+    "imageUrl": "/film_packaging/archive/00078_000.jpg",
     "title": "Lomography Lomochrome Purple",
     "details": "35mm • ISO 100-400 • C-41 • film_box_outside"
   },
@@ -2056,7 +2056,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_inside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00078_001.jpg",
+    "imageUrl": "/film_packaging/archive/00078_001.jpg",
     "title": "Lomography Lomochrome Purple",
     "details": "35mm • ISO 100-400 • C-41 • film_box_inside"
   },
@@ -2070,7 +2070,7 @@ const GALLERY_DATA = [
     "expiry_date": "202703",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00079_000.jpg",
+    "imageUrl": "/film_packaging/archive/00079_000.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -2084,7 +2084,7 @@ const GALLERY_DATA = [
     "expiry_date": "202606",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00080_000.jpg",
+    "imageUrl": "/film_packaging/archive/00080_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2098,7 +2098,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00081_000.jpg",
+    "imageUrl": "/film_packaging/archive/00081_000.jpg",
     "title": "Kodak Ektar 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2112,7 +2112,7 @@ const GALLERY_DATA = [
     "expiry_date": "202811",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00082_000.jpg",
+    "imageUrl": "/film_packaging/archive/00082_000.jpg",
     "title": "Kentmere PAN 100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -2126,7 +2126,7 @@ const GALLERY_DATA = [
     "expiry_date": "202811",
     "item_type": "film_box_inside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00082_001.jpg",
+    "imageUrl": "/film_packaging/archive/00082_001.jpg",
     "title": "Kentmere PAN 100",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -2140,7 +2140,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00083_000.jpg",
+    "imageUrl": "/film_packaging/archive/00083_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -2154,7 +2154,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_inside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00083_001.jpg",
+    "imageUrl": "/film_packaging/archive/00083_001.jpg",
     "title": "Ilford HP5 Plus",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -2168,7 +2168,7 @@ const GALLERY_DATA = [
     "expiry_date": "202508",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00084_000.jpg",
+    "imageUrl": "/film_packaging/archive/00084_000.jpg",
     "title": "Kodak ColorPlus",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2182,7 +2182,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00085_000.jpg",
+    "imageUrl": "/film_packaging/archive/00085_000.jpg",
     "title": "CineStill 800T",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -2196,7 +2196,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00085_001.jpg",
+    "imageUrl": "/film_packaging/archive/00085_001.jpg",
     "title": "CineStill 800T",
     "details": "35mm • ISO 800 • C-41 • film_box_inside"
   },
@@ -2210,7 +2210,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "@SirBrentsworth",
-    "imageUrl": "film_packaging/archive/00086_000.jpg",
+    "imageUrl": "/film_packaging/archive/00086_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2224,7 +2224,7 @@ const GALLERY_DATA = [
     "expiry_date": "200704",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00087_000.jpg",
+    "imageUrl": "/film_packaging/archive/00087_000.jpg",
     "title": "Fujifilm Fujicolor Superia Reala",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2238,7 +2238,7 @@ const GALLERY_DATA = [
     "expiry_date": "202506",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00088_000.jpg",
+    "imageUrl": "/film_packaging/archive/00088_000.jpg",
     "title": "Kodak Portra 800",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -2252,7 +2252,7 @@ const GALLERY_DATA = [
     "expiry_date": "201308",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00089_000.jpg",
+    "imageUrl": "/film_packaging/archive/00089_000.jpg",
     "title": "Kodak Portra 160",
     "details": "35mm • ISO 160 • C-41 • film_box_outside"
   },
@@ -2266,7 +2266,7 @@ const GALLERY_DATA = [
     "expiry_date": "202208",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00090_000.jpg",
+    "imageUrl": "/film_packaging/archive/00090_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -2280,7 +2280,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00091_000.jpg",
+    "imageUrl": "/film_packaging/archive/00091_000.jpg",
     "title": "Kodak ColorPlus",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2294,7 +2294,7 @@ const GALLERY_DATA = [
     "expiry_date": "202801",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00092_000.jpg",
+    "imageUrl": "/film_packaging/archive/00092_000.jpg",
     "title": "Foma Fomapan Creative 200",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -2308,7 +2308,7 @@ const GALLERY_DATA = [
     "expiry_date": "202801",
     "item_type": "film_box_inside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00092_001.jpg",
+    "imageUrl": "/film_packaging/archive/00092_001.jpg",
     "title": "Foma Fomapan Creative 200",
     "details": "35mm • ISO 200 • BW • film_box_inside"
   },
@@ -2322,7 +2322,7 @@ const GALLERY_DATA = [
     "expiry_date": "202805",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00093_000.jpg",
+    "imageUrl": "/film_packaging/archive/00093_000.jpg",
     "title": "Agfa APX",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -2336,7 +2336,7 @@ const GALLERY_DATA = [
     "expiry_date": "202805",
     "item_type": "film_box_inside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00093_001.jpg",
+    "imageUrl": "/film_packaging/archive/00093_001.jpg",
     "title": "Agfa APX",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -2350,7 +2350,7 @@ const GALLERY_DATA = [
     "expiry_date": "200101",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00094_000.jpg",
+    "imageUrl": "/film_packaging/archive/00094_000.jpg",
     "title": "Kodak Gold Ultra 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -2364,7 +2364,7 @@ const GALLERY_DATA = [
     "expiry_date": "200101",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00094_001.jpg",
+    "imageUrl": "/film_packaging/archive/00094_001.jpg",
     "title": "Kodak Gold Ultra 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -2378,7 +2378,7 @@ const GALLERY_DATA = [
     "expiry_date": "200110",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00095_000.jpg",
+    "imageUrl": "/film_packaging/archive/00095_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2392,7 +2392,7 @@ const GALLERY_DATA = [
     "expiry_date": "200110",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00095_001.jpg",
+    "imageUrl": "/film_packaging/archive/00095_001.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2406,7 +2406,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "lilyu.xyz",
-    "imageUrl": "film_packaging/archive/00096_000.jpg",
+    "imageUrl": "/film_packaging/archive/00096_000.jpg",
     "title": "Perutz Superomnia",
     "details": "9x12cm • ISO 125 • BW • film_box_outside"
   },
@@ -2420,7 +2420,7 @@ const GALLERY_DATA = [
     "expiry_date": "198706",
     "item_type": "film_box_outside",
     "author": "@ftfilmphotos",
-    "imageUrl": "film_packaging/archive/00097_000.jpg",
+    "imageUrl": "/film_packaging/archive/00097_000.jpg",
     "title": "Kodak Kodacolor VR",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2434,7 +2434,7 @@ const GALLERY_DATA = [
     "expiry_date": "198706",
     "item_type": "film_box_inside",
     "author": "@ftfilmphotos",
-    "imageUrl": "film_packaging/archive/00097_001.jpg",
+    "imageUrl": "/film_packaging/archive/00097_001.jpg",
     "title": "Kodak Kodacolor VR",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -2448,7 +2448,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00098_000.jpg",
+    "imageUrl": "/film_packaging/archive/00098_000.jpg",
     "title": "Agfa Autolith Repo",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
@@ -2462,7 +2462,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00099_000.jpg",
+    "imageUrl": "/film_packaging/archive/00099_000.jpg",
     "title": "Kodak Eastman High Contrast Panchromatic 7369",
     "details": "16mm • ISO Unknown • D-97 • film_box_outside"
   },
@@ -2476,7 +2476,7 @@ const GALLERY_DATA = [
     "expiry_date": "199011",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00100_000.jpg",
+    "imageUrl": "/film_packaging/archive/00100_000.jpg",
     "title": "Kodak Ektachrome 400",
     "details": "35mm • ISO 400 • E-6 • film_box_outside"
   },
@@ -2490,7 +2490,7 @@ const GALLERY_DATA = [
     "expiry_date": "199011",
     "item_type": "film_box_inside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00100_001.jpg",
+    "imageUrl": "/film_packaging/archive/00100_001.jpg",
     "title": "Kodak Ektachrome 400",
     "details": "35mm • ISO 400 • E-6 • film_box_inside"
   },
@@ -2504,7 +2504,7 @@ const GALLERY_DATA = [
     "expiry_date": "194610",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00101_000.jpg",
+    "imageUrl": "/film_packaging/archive/00101_000.jpg",
     "title": "Agfa Isopan FF",
     "details": "35mm • ISO 8 • BW • film_box_outside"
   },
@@ -2518,7 +2518,7 @@ const GALLERY_DATA = [
     "expiry_date": "199003",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00102_000.jpg",
+    "imageUrl": "/film_packaging/archive/00102_000.jpg",
     "title": "Kodak High Speed Infrared",
     "details": "35mm • ISO 80 • BW • film_box_outside"
   },
@@ -2532,7 +2532,7 @@ const GALLERY_DATA = [
     "expiry_date": "199003",
     "item_type": "film_box_leaflet",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00102_001.jpg",
+    "imageUrl": "/film_packaging/archive/00102_001.jpg",
     "title": "Kodak High Speed Infrared",
     "details": "35mm • ISO 80 • BW • film_box_leaflet"
   },
@@ -2546,7 +2546,7 @@ const GALLERY_DATA = [
     "expiry_date": "199003",
     "item_type": "film_box_leaflet",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00102_002.jpg",
+    "imageUrl": "/film_packaging/archive/00102_002.jpg",
     "title": "Kodak High Speed Infrared",
     "details": "35mm • ISO 80 • BW • film_box_leaflet"
   },
@@ -2560,7 +2560,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00103_000.jpg",
+    "imageUrl": "/film_packaging/archive/00103_000.jpg",
     "title": "Kodak High Speed Infrared",
     "details": "35mm • ISO 80 • BW • film_box_outside"
   },
@@ -2574,7 +2574,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_inside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00103_001.jpg",
+    "imageUrl": "/film_packaging/archive/00103_001.jpg",
     "title": "Kodak High Speed Infrared",
     "details": "35mm • ISO 80 • BW • film_box_inside"
   },
@@ -2588,7 +2588,7 @@ const GALLERY_DATA = [
     "expiry_date": "199107",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00104_000.jpg",
+    "imageUrl": "/film_packaging/archive/00104_000.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_outside"
   },
@@ -2602,7 +2602,7 @@ const GALLERY_DATA = [
     "expiry_date": "199107",
     "item_type": "film_box_leaflet",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00104_001.jpg",
+    "imageUrl": "/film_packaging/archive/00104_001.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_leaflet"
   },
@@ -2616,7 +2616,7 @@ const GALLERY_DATA = [
     "expiry_date": "199107",
     "item_type": "film_box_leaflet",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00104_002.jpg",
+    "imageUrl": "/film_packaging/archive/00104_002.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_leaflet"
   },
@@ -2630,7 +2630,7 @@ const GALLERY_DATA = [
     "expiry_date": "200006",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00105_000.jpg",
+    "imageUrl": "/film_packaging/archive/00105_000.jpg",
     "title": "Kodak Rapid Process Copy Film",
     "details": "35mm • ISO 0.06 • BW • film_box_outside"
   },
@@ -2644,7 +2644,7 @@ const GALLERY_DATA = [
     "expiry_date": "200006",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00105_001.jpg",
+    "imageUrl": "/film_packaging/archive/00105_001.jpg",
     "title": "Kodak Rapid Process Copy Film",
     "details": "35mm • ISO 0.06 • BW • film_box_outside"
   },
@@ -2658,7 +2658,7 @@ const GALLERY_DATA = [
     "expiry_date": "200006",
     "item_type": "film_box_inside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00105_002.jpg",
+    "imageUrl": "/film_packaging/archive/00105_002.jpg",
     "title": "Kodak Rapid Process Copy Film",
     "details": "35mm • ISO 0.06 • BW • film_box_inside"
   },
@@ -2672,7 +2672,7 @@ const GALLERY_DATA = [
     "expiry_date": "199504",
     "item_type": "film_box_outside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00106_000.jpg",
+    "imageUrl": "/film_packaging/archive/00106_000.jpg",
     "title": "Kodak Technical Pan",
     "details": "35mm • ISO 25 • BW • film_box_outside"
   },
@@ -2686,7 +2686,7 @@ const GALLERY_DATA = [
     "expiry_date": "199504",
     "item_type": "film_box_inside",
     "author": "Nano_Burger",
-    "imageUrl": "film_packaging/archive/00106_001.jpg",
+    "imageUrl": "/film_packaging/archive/00106_001.jpg",
     "title": "Kodak Technical Pan",
     "details": "35mm • ISO 25 • BW • film_box_inside"
   },
@@ -2700,7 +2700,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_outside",
     "author": "Henry Gunn",
-    "imageUrl": "film_packaging/archive/00107_000.jpg",
+    "imageUrl": "/film_packaging/archive/00107_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 125 • E-4 • film_box_outside"
   },
@@ -2714,7 +2714,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_leaflet",
     "author": "Henry Gunn",
-    "imageUrl": "film_packaging/archive/00107_001.jpg",
+    "imageUrl": "/film_packaging/archive/00107_001.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 125 • E-4 • film_box_leaflet"
   },
@@ -2728,7 +2728,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_leaflet",
     "author": "Henry Gunn",
-    "imageUrl": "film_packaging/archive/00107_002.jpg",
+    "imageUrl": "/film_packaging/archive/00107_002.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "35mm • ISO 125 • E-4 • film_box_leaflet"
   },
@@ -2742,7 +2742,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_outside",
     "author": "Henry Gunn",
-    "imageUrl": "film_packaging/archive/00108_000.jpg",
+    "imageUrl": "/film_packaging/archive/00108_000.jpg",
     "title": "Tasma OCh 50",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -2756,7 +2756,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00109_000.jpg",
+    "imageUrl": "/film_packaging/archive/00109_000.jpg",
     "title": "Harman Phoenix II",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -2770,7 +2770,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00109_001.jpg",
+    "imageUrl": "/film_packaging/archive/00109_001.jpg",
     "title": "Harman Phoenix II",
     "details": "120 • ISO 200 • C-41 • film_box_inside"
   },
@@ -2784,7 +2784,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00110_000.jpg",
+    "imageUrl": "/film_packaging/archive/00110_000.jpg",
     "title": "Harman Phoenix II",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -2798,7 +2798,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00110_001.jpg",
+    "imageUrl": "/film_packaging/archive/00110_001.jpg",
     "title": "Harman Phoenix II",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -2812,7 +2812,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00111_000.jpg",
+    "imageUrl": "/film_packaging/archive/00111_000.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -2826,7 +2826,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00111_001.jpg",
+    "imageUrl": "/film_packaging/archive/00111_001.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_inside"
   },
@@ -2840,7 +2840,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00112_000.jpg",
+    "imageUrl": "/film_packaging/archive/00112_000.jpg",
     "title": "SantaColor SantaColor",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2854,7 +2854,7 @@ const GALLERY_DATA = [
     "expiry_date": "200208",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00113_000.jpg",
+    "imageUrl": "/film_packaging/archive/00113_000.jpg",
     "title": "Kodak Ektachrome 100 Plus",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -2868,7 +2868,7 @@ const GALLERY_DATA = [
     "expiry_date": "200208",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00113_001.jpg",
+    "imageUrl": "/film_packaging/archive/00113_001.jpg",
     "title": "Kodak Ektachrome 100 Plus",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -2882,7 +2882,7 @@ const GALLERY_DATA = [
     "expiry_date": "199511",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00114_000.jpg",
+    "imageUrl": "/film_packaging/archive/00114_000.jpg",
     "title": "Kodak Ektachrome Elite 100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -2896,7 +2896,7 @@ const GALLERY_DATA = [
     "expiry_date": "199511",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00114_001.jpg",
+    "imageUrl": "/film_packaging/archive/00114_001.jpg",
     "title": "Kodak Ektachrome Elite 100",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -2910,7 +2910,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00115_000.jpg",
+    "imageUrl": "/film_packaging/archive/00115_000.jpg",
     "title": "Agfa Agfapan Rapid",
     "details": "35mm • ISO 40 • BW • film_box_outside"
   },
@@ -2924,7 +2924,7 @@ const GALLERY_DATA = [
     "expiry_date": "199801",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00116_000.jpg",
+    "imageUrl": "/film_packaging/archive/00116_000.jpg",
     "title": "Fujifilm Fujichrome Sensia 100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -2938,7 +2938,7 @@ const GALLERY_DATA = [
     "expiry_date": "199801",
     "item_type": "film_box_inside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00116_001.jpg",
+    "imageUrl": "/film_packaging/archive/00116_001.jpg",
     "title": "Fujifilm Fujichrome Sensia 100",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -2952,7 +2952,7 @@ const GALLERY_DATA = [
     "expiry_date": "201202",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00117_000.jpg",
+    "imageUrl": "/film_packaging/archive/00117_000.jpg",
     "title": "Fujifilm Fujicolor Professional",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -2966,7 +2966,7 @@ const GALLERY_DATA = [
     "expiry_date": "197502",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00118_000.jpg",
+    "imageUrl": "/film_packaging/archive/00118_000.jpg",
     "title": "Fujifilm Neopan SS Rapid",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -2980,7 +2980,7 @@ const GALLERY_DATA = [
     "expiry_date": "197306",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00119_000.jpg",
+    "imageUrl": "/film_packaging/archive/00119_000.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "35mm • ISO 64 • E-4 • film_box_outside"
   },
@@ -2994,7 +2994,7 @@ const GALLERY_DATA = [
     "expiry_date": "197203",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00120_000.jpg",
+    "imageUrl": "/film_packaging/archive/00120_000.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "828 • ISO 64 • E-4 • film_box_outside"
   },
@@ -3008,7 +3008,7 @@ const GALLERY_DATA = [
     "expiry_date": "198303",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00121_000.jpg",
+    "imageUrl": "/film_packaging/archive/00121_000.jpg",
     "title": "Kodak Kodachrome 25",
     "details": "35mm • ISO 25 • K-14 • film_box_outside"
   },
@@ -3022,7 +3022,7 @@ const GALLERY_DATA = [
     "expiry_date": "197802",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00122_000.jpg",
+    "imageUrl": "/film_packaging/archive/00122_000.jpg",
     "title": "Sakura Sakuracolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -3036,7 +3036,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00123_000.jpg",
+    "imageUrl": "/film_packaging/archive/00123_000.jpg",
     "title": "Bergger Pancro400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3050,7 +3050,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00123_001.jpg",
+    "imageUrl": "/film_packaging/archive/00123_001.jpg",
     "title": "Bergger Pancro400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -3064,7 +3064,7 @@ const GALLERY_DATA = [
     "expiry_date": "202603",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00124_000.jpg",
+    "imageUrl": "/film_packaging/archive/00124_000.jpg",
     "title": "Bergger Pancro400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -3078,7 +3078,7 @@ const GALLERY_DATA = [
     "expiry_date": "202603",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00124_001.jpg",
+    "imageUrl": "/film_packaging/archive/00124_001.jpg",
     "title": "Bergger Pancro400",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -3092,7 +3092,7 @@ const GALLERY_DATA = [
     "expiry_date": "202505",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00125_000.jpg",
+    "imageUrl": "/film_packaging/archive/00125_000.jpg",
     "title": "Ilford Delta 3200 Professional",
     "details": "120 • ISO 3200 • BW • film_box_outside"
   },
@@ -3106,7 +3106,7 @@ const GALLERY_DATA = [
     "expiry_date": "202505",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00125_001.jpg",
+    "imageUrl": "/film_packaging/archive/00125_001.jpg",
     "title": "Ilford Delta 3200 Professional",
     "details": "120 • ISO 3200 • BW • film_box_inside"
   },
@@ -3120,7 +3120,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00126_000.jpg",
+    "imageUrl": "/film_packaging/archive/00126_000.jpg",
     "title": "Ilford Delta 3200 Professional",
     "details": "35mm • ISO 3200 • BW • film_box_outside"
   },
@@ -3134,7 +3134,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00126_001.jpg",
+    "imageUrl": "/film_packaging/archive/00126_001.jpg",
     "title": "Ilford Delta 3200 Professional",
     "details": "35mm • ISO 3200 • BW • film_box_inside"
   },
@@ -3148,7 +3148,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00127_000.jpg",
+    "imageUrl": "/film_packaging/archive/00127_000.jpg",
     "title": "Foma Ortho 400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -3162,7 +3162,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00127_001.jpg",
+    "imageUrl": "/film_packaging/archive/00127_001.jpg",
     "title": "Foma Ortho 400",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -3176,7 +3176,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00128_000.jpg",
+    "imageUrl": "/film_packaging/archive/00128_000.jpg",
     "title": "SantaColor SantaColor",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -3190,7 +3190,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00129_000.jpg",
+    "imageUrl": "/film_packaging/archive/00129_000.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -3204,7 +3204,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00129_001.jpg",
+    "imageUrl": "/film_packaging/archive/00129_001.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -3218,7 +3218,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00130_000.jpg",
+    "imageUrl": "/film_packaging/archive/00130_000.jpg",
     "title": "Svema Foto 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3232,7 +3232,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00131_000.jpg",
+    "imageUrl": "/film_packaging/archive/00131_000.jpg",
     "title": "Wolfen NP100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -3246,7 +3246,7 @@ const GALLERY_DATA = [
     "expiry_date": "202502",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00132_000.jpg",
+    "imageUrl": "/film_packaging/archive/00132_000.jpg",
     "title": "JCH Streetpan",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3260,7 +3260,7 @@ const GALLERY_DATA = [
     "expiry_date": "202502",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00132_001.jpg",
+    "imageUrl": "/film_packaging/archive/00132_001.jpg",
     "title": "JCH Streetpan",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -3274,7 +3274,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00133_000.jpg",
+    "imageUrl": "/film_packaging/archive/00133_000.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -3288,7 +3288,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00133_001.jpg",
+    "imageUrl": "/film_packaging/archive/00133_001.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -3302,7 +3302,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00134_000.jpg",
+    "imageUrl": "/film_packaging/archive/00134_000.jpg",
     "title": "Lomography Orca",
     "details": "110 • ISO 100 • BW • film_box_outside"
   },
@@ -3316,7 +3316,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00135_000.jpg",
+    "imageUrl": "/film_packaging/archive/00135_000.jpg",
     "title": "Kodak Tri-X 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3330,7 +3330,7 @@ const GALLERY_DATA = [
     "expiry_date": "202808",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00136_000.jpg",
+    "imageUrl": "/film_packaging/archive/00136_000.jpg",
     "title": "Rollei RPX 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3344,7 +3344,7 @@ const GALLERY_DATA = [
     "expiry_date": "202808",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00136_001.jpg",
+    "imageUrl": "/film_packaging/archive/00136_001.jpg",
     "title": "Rollei RPX 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -3358,7 +3358,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00137_000.jpg",
+    "imageUrl": "/film_packaging/archive/00137_000.jpg",
     "title": "Hazenfilm Sorolla Chrome",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -3372,7 +3372,7 @@ const GALLERY_DATA = [
     "expiry_date": "200303",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00138_000.jpg",
+    "imageUrl": "/film_packaging/archive/00138_000.jpg",
     "title": "Konica KonicaColor VX 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -3386,7 +3386,7 @@ const GALLERY_DATA = [
     "expiry_date": "200303",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00138_001.jpg",
+    "imageUrl": "/film_packaging/archive/00138_001.jpg",
     "title": "Konica KonicaColor VX 200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -3400,7 +3400,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00139_000.jpg",
+    "imageUrl": "/film_packaging/archive/00139_000.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -3414,7 +3414,7 @@ const GALLERY_DATA = [
     "expiry_date": "200007",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00139_001.jpg",
+    "imageUrl": "/film_packaging/archive/00139_001.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -3428,7 +3428,7 @@ const GALLERY_DATA = [
     "expiry_date": "201206",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00140_000.jpg",
+    "imageUrl": "/film_packaging/archive/00140_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -3442,7 +3442,7 @@ const GALLERY_DATA = [
     "expiry_date": "201206",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00140_001.jpg",
+    "imageUrl": "/film_packaging/archive/00140_001.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -3456,7 +3456,7 @@ const GALLERY_DATA = [
     "expiry_date": "202601",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00141_000.jpg",
+    "imageUrl": "/film_packaging/archive/00141_000.jpg",
     "title": "Lomography Fantome",
     "details": "35mm • ISO 8 • BW • film_box_outside"
   },
@@ -3470,7 +3470,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00142_000.jpg",
+    "imageUrl": "/film_packaging/archive/00142_000.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_outside"
   },
@@ -3484,7 +3484,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00143_000.jpg",
+    "imageUrl": "/film_packaging/archive/00143_000.jpg",
     "title": "Lomography Tiger",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -3498,7 +3498,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00144_000.jpg",
+    "imageUrl": "/film_packaging/archive/00144_000.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_outside"
   },
@@ -3512,7 +3512,7 @@ const GALLERY_DATA = [
     "expiry_date": "202907",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00145_000.jpg",
+    "imageUrl": "/film_packaging/archive/00145_000.jpg",
     "title": "Kentmere PAN 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -3526,7 +3526,7 @@ const GALLERY_DATA = [
     "expiry_date": "202907",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00145_001.jpg",
+    "imageUrl": "/film_packaging/archive/00145_001.jpg",
     "title": "Kentmere PAN 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -3540,7 +3540,7 @@ const GALLERY_DATA = [
     "expiry_date": "200112",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00146_000.jpg",
+    "imageUrl": "/film_packaging/archive/00146_000.jpg",
     "title": "Kodak Värikuvafilmi",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -3554,7 +3554,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00147_000.jpg",
+    "imageUrl": "/film_packaging/archive/00147_000.jpg",
     "title": "Lomography Babylon",
     "details": "35mm • ISO 13 • BW • film_box_outside"
   },
@@ -3568,7 +3568,7 @@ const GALLERY_DATA = [
     "expiry_date": "196311",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00148_000.jpg",
+    "imageUrl": "/film_packaging/archive/00148_000.jpg",
     "title": "Agfa Isopan ISS",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -3582,7 +3582,7 @@ const GALLERY_DATA = [
     "expiry_date": "199905",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00149_000.jpg",
+    "imageUrl": "/film_packaging/archive/00149_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -3596,7 +3596,7 @@ const GALLERY_DATA = [
     "expiry_date": "199407",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00150_000.jpg",
+    "imageUrl": "/film_packaging/archive/00150_000.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -3610,7 +3610,7 @@ const GALLERY_DATA = [
     "expiry_date": "199407",
     "item_type": "film_box_inside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00150_001.jpg",
+    "imageUrl": "/film_packaging/archive/00150_001.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -3624,7 +3624,7 @@ const GALLERY_DATA = [
     "expiry_date": "199308",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00151_000.jpg",
+    "imageUrl": "/film_packaging/archive/00151_000.jpg",
     "title": "Alfo ALFOcolor PR-G",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -3638,7 +3638,7 @@ const GALLERY_DATA = [
     "expiry_date": "200503",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00152_000.jpg",
+    "imageUrl": "/film_packaging/archive/00152_000.jpg",
     "title": "Agfa AgfaColor XRG 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -3652,7 +3652,7 @@ const GALLERY_DATA = [
     "expiry_date": "200503",
     "item_type": "film_box_inside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00152_001.jpg",
+    "imageUrl": "/film_packaging/archive/00152_001.jpg",
     "title": "Agfa AgfaColor XRG 200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -3666,7 +3666,7 @@ const GALLERY_DATA = [
     "expiry_date": "201203",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00153_000.jpg",
+    "imageUrl": "/film_packaging/archive/00153_000.jpg",
     "title": "Kodak Kodacolor VR Plus",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -3679,7 +3679,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00153_001.jpg",
+    "imageUrl": "/film_packaging/archive/00153_001.jpg",
     "title": "Unknown Film (00153_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -3693,7 +3693,7 @@ const GALLERY_DATA = [
     "expiry_date": "198011",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00154_000.jpg",
+    "imageUrl": "/film_packaging/archive/00154_000.jpg",
     "title": "Kodak Ektachrome 160 Movie Film Type A",
     "details": "Super 8 • ISO 160 • Unknown • film_box_outside"
   },
@@ -3707,7 +3707,7 @@ const GALLERY_DATA = [
     "expiry_date": "198011",
     "item_type": "film_box_leaflet",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00154_001.jpg",
+    "imageUrl": "/film_packaging/archive/00154_001.jpg",
     "title": "Kodak Ektachrome 160 Movie Film Type A",
     "details": "Super 8 • ISO 160 • Unknown • film_box_leaflet"
   },
@@ -3721,7 +3721,7 @@ const GALLERY_DATA = [
     "expiry_date": "198011",
     "item_type": "film_box_leaflet",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00154_002.jpg",
+    "imageUrl": "/film_packaging/archive/00154_002.jpg",
     "title": "Kodak Ektachrome 160 Movie Film Type A",
     "details": "Super 8 • ISO 160 • Unknown • film_box_leaflet"
   },
@@ -3735,7 +3735,7 @@ const GALLERY_DATA = [
     "expiry_date": "198011",
     "item_type": "film_box_processing_envelope",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00154_003.jpg",
+    "imageUrl": "/film_packaging/archive/00154_003.jpg",
     "title": "Kodak Ektachrome 160 Movie Film Type A",
     "details": "Super 8 • ISO 160 • Unknown • film_box_processing_envelope"
   },
@@ -3749,7 +3749,7 @@ const GALLERY_DATA = [
     "expiry_date": "198011",
     "item_type": "film_box_processing_envelope",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00154_004.jpg",
+    "imageUrl": "/film_packaging/archive/00154_004.jpg",
     "title": "Kodak Ektachrome 160 Movie Film Type A",
     "details": "Super 8 • ISO 160 • Unknown • film_box_processing_envelope"
   },
@@ -3763,7 +3763,7 @@ const GALLERY_DATA = [
     "expiry_date": "202702",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00155_000.jpg",
+    "imageUrl": "/film_packaging/archive/00155_000.jpg",
     "title": "Kodak Ektachrome E100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -3777,7 +3777,7 @@ const GALLERY_DATA = [
     "expiry_date": "202504",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00156_000.jpg",
+    "imageUrl": "/film_packaging/archive/00156_000.jpg",
     "title": "Polaroid Color SX-70 Film",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
@@ -3791,7 +3791,7 @@ const GALLERY_DATA = [
     "expiry_date": "202504",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00156_001.jpg",
+    "imageUrl": "/film_packaging/archive/00156_001.jpg",
     "title": "Polaroid Color SX-70 Film",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
@@ -3805,7 +3805,7 @@ const GALLERY_DATA = [
     "expiry_date": "202504",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00156_002.jpg",
+    "imageUrl": "/film_packaging/archive/00156_002.jpg",
     "title": "Polaroid Color SX-70 Film",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_inside"
   },
@@ -3819,7 +3819,7 @@ const GALLERY_DATA = [
     "expiry_date": "202504",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00156_003.jpg",
+    "imageUrl": "/film_packaging/archive/00156_003.jpg",
     "title": "Polaroid Color SX-70 Film",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_inside"
   },
@@ -3833,7 +3833,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00157_000.jpg",
+    "imageUrl": "/film_packaging/archive/00157_000.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -3847,7 +3847,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00157_001.jpg",
+    "imageUrl": "/film_packaging/archive/00157_001.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -3861,7 +3861,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00157_002.jpg",
+    "imageUrl": "/film_packaging/archive/00157_002.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -3875,7 +3875,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00157_003.jpg",
+    "imageUrl": "/film_packaging/archive/00157_003.jpg",
     "title": "Polaroid Color 600 Film Round Frame",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -3889,7 +3889,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00158_000.jpg",
+    "imageUrl": "/film_packaging/archive/00158_000.jpg",
     "title": "Polaroid 87",
     "details": "Instant Pack Film • ISO 3000 • Instant • film_box_outside"
   },
@@ -3903,7 +3903,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00158_001.jpg",
+    "imageUrl": "/film_packaging/archive/00158_001.jpg",
     "title": "Polaroid 87",
     "details": "Instant Pack Film • ISO 3000 • Instant • film_box_inside"
   },
@@ -3917,7 +3917,7 @@ const GALLERY_DATA = [
     "expiry_date": "198804",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00159_000.jpg",
+    "imageUrl": "/film_packaging/archive/00159_000.jpg",
     "title": "Polaroid PolaPan 35mm",
     "details": "35mm • ISO 125 • Instant • film_box_outside"
   },
@@ -3931,7 +3931,7 @@ const GALLERY_DATA = [
     "expiry_date": "198804",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00159_001.jpg",
+    "imageUrl": "/film_packaging/archive/00159_001.jpg",
     "title": "Polaroid PolaPan 35mm",
     "details": "35mm • ISO 125 • Instant • film_box_leaflet"
   },
@@ -3945,7 +3945,7 @@ const GALLERY_DATA = [
     "expiry_date": "198804",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00159_002.jpg",
+    "imageUrl": "/film_packaging/archive/00159_002.jpg",
     "title": "Polaroid PolaPan 35mm",
     "details": "35mm • ISO 125 • Instant • film_box_leaflet"
   },
@@ -3959,7 +3959,7 @@ const GALLERY_DATA = [
     "expiry_date": "198804",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00159_003.jpg",
+    "imageUrl": "/film_packaging/archive/00159_003.jpg",
     "title": "Polaroid PolaPan 35mm",
     "details": "35mm • ISO 125 • Instant • film_box_leaflet"
   },
@@ -3973,7 +3973,7 @@ const GALLERY_DATA = [
     "expiry_date": "198804",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00159_004.jpg",
+    "imageUrl": "/film_packaging/archive/00159_004.jpg",
     "title": "Polaroid PolaPan 35mm",
     "details": "35mm • ISO 125 • Instant • film_box_leaflet"
   },
@@ -3987,7 +3987,7 @@ const GALLERY_DATA = [
     "expiry_date": "201004",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00160_000.jpg",
+    "imageUrl": "/film_packaging/archive/00160_000.jpg",
     "title": "Kodak Ektachrome E100VS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -4001,7 +4001,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00161_000.jpg",
+    "imageUrl": "/film_packaging/archive/00161_000.jpg",
     "title": "Polaroid Polacolor 679",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
@@ -4015,7 +4015,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00161_001.jpg",
+    "imageUrl": "/film_packaging/archive/00161_001.jpg",
     "title": "Polaroid Polacolor 679",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
@@ -4029,7 +4029,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00161_002.jpg",
+    "imageUrl": "/film_packaging/archive/00161_002.jpg",
     "title": "Polaroid Polacolor 679",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
@@ -4043,7 +4043,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00161_003.jpg",
+    "imageUrl": "/film_packaging/archive/00161_003.jpg",
     "title": "Polaroid Polacolor 679",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
@@ -4057,7 +4057,7 @@ const GALLERY_DATA = [
     "expiry_date": "199206",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00162_000.jpg",
+    "imageUrl": "/film_packaging/archive/00162_000.jpg",
     "title": "Minolta Minolta 16 Color Film For Prints",
     "details": "16mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -4071,7 +4071,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00163_000.jpg",
+    "imageUrl": "/film_packaging/archive/00163_000.jpg",
     "title": "ORWO NP 20 SL",
     "details": "35mm • ISO 80 • BW • film_box_outside"
   },
@@ -4085,7 +4085,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00164_000.jpg",
+    "imageUrl": "/film_packaging/archive/00164_000.jpg",
     "title": "Hope Film Bubble",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -4099,7 +4099,7 @@ const GALLERY_DATA = [
     "expiry_date": "202601",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00165_000.jpg",
+    "imageUrl": "/film_packaging/archive/00165_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4113,7 +4113,7 @@ const GALLERY_DATA = [
     "expiry_date": "201302",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00166_000.jpg",
+    "imageUrl": "/film_packaging/archive/00166_000.jpg",
     "title": "Boots Colour Print Film",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -4127,7 +4127,7 @@ const GALLERY_DATA = [
     "expiry_date": "202610",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00167_000.jpg",
+    "imageUrl": "/film_packaging/archive/00167_000.jpg",
     "title": "Fujifilm Fujichrome Provia 100F",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -4141,7 +4141,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "TheSelousScout",
-    "imageUrl": "film_packaging/archive/00168_000.jpg",
+    "imageUrl": "/film_packaging/archive/00168_000.jpg",
     "title": "Reto Amber D400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4155,7 +4155,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00169_000.jpg",
+    "imageUrl": "/film_packaging/archive/00169_000.jpg",
     "title": "Rollei Retro 80S",
     "details": "35mm • ISO 80 • BW • film_box_outside"
   },
@@ -4169,7 +4169,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00169_001.jpg",
+    "imageUrl": "/film_packaging/archive/00169_001.jpg",
     "title": "Rollei Retro 80S",
     "details": "35mm • ISO 80 • BW • film_box_inside"
   },
@@ -4183,7 +4183,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_outside",
     "author": "TheSelousScout",
-    "imageUrl": "film_packaging/archive/00170_000.jpg",
+    "imageUrl": "/film_packaging/archive/00170_000.jpg",
     "title": "Ilford XP2 Super",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4197,7 +4197,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_inside",
     "author": "TheSelousScout",
-    "imageUrl": "film_packaging/archive/00170_001.jpg",
+    "imageUrl": "/film_packaging/archive/00170_001.jpg",
     "title": "Ilford XP2 Super",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -4211,7 +4211,7 @@ const GALLERY_DATA = [
     "expiry_date": "200110",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00171_000.jpg",
+    "imageUrl": "/film_packaging/archive/00171_000.jpg",
     "title": "Fujifilm Fujichrome 64T Type II Professional",
     "details": "35mm • ISO 64 • E-6 • film_box_outside"
   },
@@ -4225,7 +4225,7 @@ const GALLERY_DATA = [
     "expiry_date": "201312",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00172_000.jpg",
+    "imageUrl": "/film_packaging/archive/00172_000.jpg",
     "title": "Kodak Professional Microfilm Type I",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4239,7 +4239,7 @@ const GALLERY_DATA = [
     "expiry_date": "198501",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00173_000.jpg",
+    "imageUrl": "/film_packaging/archive/00173_000.jpg",
     "title": "Konica Konica Color II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -4253,7 +4253,7 @@ const GALLERY_DATA = [
     "expiry_date": "199308",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00174_000.jpg",
+    "imageUrl": "/film_packaging/archive/00174_000.jpg",
     "title": "Polaroid PolaChrome 35mm",
     "details": "35mm • ISO 40 • Instant • film_box_outside"
   },
@@ -4267,7 +4267,7 @@ const GALLERY_DATA = [
     "expiry_date": "200608",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00175_000.jpg",
+    "imageUrl": "/film_packaging/archive/00175_000.jpg",
     "title": "Kodak Portra 400NC",
     "details": "70mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4281,7 +4281,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00176_000.jpg",
+    "imageUrl": "/film_packaging/archive/00176_000.jpg",
     "title": "Kodak Eastman Tri-X Reversal Film 7278",
     "details": "16mm • ISO 200 • BW • film_box_outside"
   },
@@ -4295,7 +4295,7 @@ const GALLERY_DATA = [
     "expiry_date": "201411",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00177_000.jpg",
+    "imageUrl": "/film_packaging/archive/00177_000.jpg",
     "title": "Fujifilm Fujicolor Natura 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -4309,7 +4309,7 @@ const GALLERY_DATA = [
     "expiry_date": "201411",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00177_001.jpg",
+    "imageUrl": "/film_packaging/archive/00177_001.jpg",
     "title": "Fujifilm Fujicolor Natura 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -4323,7 +4323,7 @@ const GALLERY_DATA = [
     "expiry_date": "201411",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00177_002.jpg",
+    "imageUrl": "/film_packaging/archive/00177_002.jpg",
     "title": "Fujifilm Fujicolor Natura 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -4337,7 +4337,7 @@ const GALLERY_DATA = [
     "expiry_date": "200710",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00178_000.jpg",
+    "imageUrl": "/film_packaging/archive/00178_000.jpg",
     "title": "Kodak Elite Chrome",
     "details": "35mm • ISO 400 • E-6 • film_box_outside"
   },
@@ -4351,7 +4351,7 @@ const GALLERY_DATA = [
     "expiry_date": "200710",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00178_001.jpg",
+    "imageUrl": "/film_packaging/archive/00178_001.jpg",
     "title": "Kodak Elite Chrome",
     "details": "35mm • ISO 400 • E-6 • film_box_outside"
   },
@@ -4365,7 +4365,7 @@ const GALLERY_DATA = [
     "expiry_date": "194101",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00179_000.jpg",
+    "imageUrl": "/film_packaging/archive/00179_000.jpg",
     "title": "Agfa Fine-Grain Plenachrome",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4379,7 +4379,7 @@ const GALLERY_DATA = [
     "expiry_date": "194101",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00179_001.jpg",
+    "imageUrl": "/film_packaging/archive/00179_001.jpg",
     "title": "Agfa Fine-Grain Plenachrome",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4393,7 +4393,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00180_000.jpg",
+    "imageUrl": "/film_packaging/archive/00180_000.jpg",
     "title": "Kodak Ektachrome 64T",
     "details": "35mm • ISO 64 • E-6 • film_box_outside"
   },
@@ -4407,7 +4407,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_inside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00180_001.jpg",
+    "imageUrl": "/film_packaging/archive/00180_001.jpg",
     "title": "Kodak Ektachrome 64T",
     "details": "35mm • ISO 64 • E-6 • film_box_inside"
   },
@@ -4421,7 +4421,7 @@ const GALLERY_DATA = [
     "expiry_date": "197009",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00181_000.jpg",
+    "imageUrl": "/film_packaging/archive/00181_000.jpg",
     "title": "Kodak High Contrast Copy Film",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4435,7 +4435,7 @@ const GALLERY_DATA = [
     "expiry_date": "197009",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00181_001.jpg",
+    "imageUrl": "/film_packaging/archive/00181_001.jpg",
     "title": "Kodak High Contrast Copy Film",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4449,7 +4449,7 @@ const GALLERY_DATA = [
     "expiry_date": "197009",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00181_002.jpg",
+    "imageUrl": "/film_packaging/archive/00181_002.jpg",
     "title": "Kodak High Contrast Copy Film",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4463,7 +4463,7 @@ const GALLERY_DATA = [
     "expiry_date": "197009",
     "item_type": "film_box_outside",
     "author": "Camera.Riley",
-    "imageUrl": "film_packaging/archive/00181_003.jpg",
+    "imageUrl": "/film_packaging/archive/00181_003.jpg",
     "title": "Kodak High Contrast Copy Film",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -4477,7 +4477,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00182_000.jpg",
+    "imageUrl": "/film_packaging/archive/00182_000.jpg",
     "title": "ADOX HR 50",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -4491,7 +4491,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00182_001.jpg",
+    "imageUrl": "/film_packaging/archive/00182_001.jpg",
     "title": "ADOX HR 50",
     "details": "35mm • ISO 50 • BW • film_box_inside"
   },
@@ -4505,7 +4505,7 @@ const GALLERY_DATA = [
     "expiry_date": "202805",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00183_000.jpg",
+    "imageUrl": "/film_packaging/archive/00183_000.jpg",
     "title": "Foma Fomapan 200",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -4519,7 +4519,7 @@ const GALLERY_DATA = [
     "expiry_date": "200212",
     "item_type": "film_box_outside",
     "author": "@ad.astra.per.aspera.1894",
-    "imageUrl": "film_packaging/archive/00184_000.jpg",
+    "imageUrl": "/film_packaging/archive/00184_000.jpg",
     "title": "Kirkland Signature Color Print Film",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -4533,7 +4533,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00185_000.jpg",
+    "imageUrl": "/film_packaging/archive/00185_000.jpg",
     "title": "Mutascan Kodak Vision3 500T/5219",
     "details": "35mm • ISO 500 • ECN-2 • film_box_outside"
   },
@@ -4547,7 +4547,7 @@ const GALLERY_DATA = [
     "expiry_date": "203004",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00186_000.jpg",
+    "imageUrl": "/film_packaging/archive/00186_000.jpg",
     "title": "Kentmere PAN 200",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -4561,7 +4561,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00187_000.jpg",
+    "imageUrl": "/film_packaging/archive/00187_000.jpg",
     "title": "Foma Ortho 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -4575,7 +4575,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00187_001.jpg",
+    "imageUrl": "/film_packaging/archive/00187_001.jpg",
     "title": "Foma Ortho 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -4589,7 +4589,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "Kraksen",
-    "imageUrl": "film_packaging/archive/00188_000.jpg",
+    "imageUrl": "/film_packaging/archive/00188_000.jpg",
     "title": "Marix Professional Negative Movie Color Film",
     "details": "35mm • ISO 320 • C-41 • film_box_outside"
   },
@@ -4603,7 +4603,7 @@ const GALLERY_DATA = [
     "expiry_date": "200407",
     "item_type": "film_box_outside",
     "author": "Kraksen",
-    "imageUrl": "film_packaging/archive/00189_000.jpg",
+    "imageUrl": "/film_packaging/archive/00189_000.jpg",
     "title": "Kodak Black & White +",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4617,7 +4617,7 @@ const GALLERY_DATA = [
     "expiry_date": "200601",
     "item_type": "film_box_outside",
     "author": "Kraksen",
-    "imageUrl": "film_packaging/archive/00190_000.jpg",
+    "imageUrl": "/film_packaging/archive/00190_000.jpg",
     "title": "Agfa Agfapan APX 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -4631,7 +4631,7 @@ const GALLERY_DATA = [
     "expiry_date": "200601",
     "item_type": "film_box_inside",
     "author": "Kraksen",
-    "imageUrl": "film_packaging/archive/00190_001.jpg",
+    "imageUrl": "/film_packaging/archive/00190_001.jpg",
     "title": "Agfa Agfapan APX 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -4645,7 +4645,7 @@ const GALLERY_DATA = [
     "expiry_date": "200507",
     "item_type": "film_box_outside",
     "author": "Kraksen",
-    "imageUrl": "film_packaging/archive/00191_000.jpg",
+    "imageUrl": "/film_packaging/archive/00191_000.jpg",
     "title": "Agfa Agfapan APX 100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -4659,7 +4659,7 @@ const GALLERY_DATA = [
     "expiry_date": "1977013",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00192_000.jpg",
+    "imageUrl": "/film_packaging/archive/00192_000.jpg",
     "title": "Kodak Panatomic-X",
     "details": "35mm • ISO 32 • BW • film_box_outside"
   },
@@ -4673,7 +4673,7 @@ const GALLERY_DATA = [
     "expiry_date": "1977013",
     "item_type": "film_box_leaflet",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00192_001.jpg",
+    "imageUrl": "/film_packaging/archive/00192_001.jpg",
     "title": "Kodak Panatomic-X",
     "details": "35mm • ISO 32 • BW • film_box_leaflet"
   },
@@ -4687,7 +4687,7 @@ const GALLERY_DATA = [
     "expiry_date": "1977013",
     "item_type": "film_box_leaflet",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00192_002.jpg",
+    "imageUrl": "/film_packaging/archive/00192_002.jpg",
     "title": "Kodak Panatomic-X",
     "details": "35mm • ISO 32 • BW • film_box_leaflet"
   },
@@ -4701,7 +4701,7 @@ const GALLERY_DATA = [
     "expiry_date": "197612",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00193_000.jpg",
+    "imageUrl": "/film_packaging/archive/00193_000.jpg",
     "title": "Kodak Panatomic-X",
     "details": "35mm • ISO 32 • BW • film_box_outside"
   },
@@ -4715,7 +4715,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00194_000.jpg",
+    "imageUrl": "/film_packaging/archive/00194_000.jpg",
     "title": "Reflx Lab 250D",
     "details": "120 • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -4729,7 +4729,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00195_000.jpg",
+    "imageUrl": "/film_packaging/archive/00195_000.jpg",
     "title": "Reflx Lab Pro 100",
     "details": "220 • ISO 100 • C-41 • film_box_outside"
   },
@@ -4743,7 +4743,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00196_000.jpg",
+    "imageUrl": "/film_packaging/archive/00196_000.jpg",
     "title": "CatLABS X Film 320 Pro",
     "details": "120 • ISO 320 • BW • film_box_outside"
   },
@@ -4757,7 +4757,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00196_001.jpg",
+    "imageUrl": "/film_packaging/archive/00196_001.jpg",
     "title": "CatLABS X Film 320 Pro",
     "details": "120 • ISO 320 • BW • film_box_outside"
   },
@@ -4771,7 +4771,7 @@ const GALLERY_DATA = [
     "expiry_date": "200304",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00197_000.jpg",
+    "imageUrl": "/film_packaging/archive/00197_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4785,7 +4785,7 @@ const GALLERY_DATA = [
     "expiry_date": "200304",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00197_001.jpg",
+    "imageUrl": "/film_packaging/archive/00197_001.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -4799,7 +4799,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00198_000.jpg",
+    "imageUrl": "/film_packaging/archive/00198_000.jpg",
     "title": "Agfa Agfapan  APX 25",
     "details": "35mm • ISO 25 • BW • film_box_outside"
   },
@@ -4813,7 +4813,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00198_001.jpg",
+    "imageUrl": "/film_packaging/archive/00198_001.jpg",
     "title": "Agfa Agfapan  APX 25",
     "details": "35mm • ISO 25 • BW • film_box_inside"
   },
@@ -4827,7 +4827,7 @@ const GALLERY_DATA = [
     "expiry_date": "200906",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00199_000.jpg",
+    "imageUrl": "/film_packaging/archive/00199_000.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -4841,7 +4841,7 @@ const GALLERY_DATA = [
     "expiry_date": "201406",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00200_000.jpg",
+    "imageUrl": "/film_packaging/archive/00200_000.jpg",
     "title": "Kodak Portra 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4855,7 +4855,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00201_000.jpg",
+    "imageUrl": "/film_packaging/archive/00201_000.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -4869,7 +4869,7 @@ const GALLERY_DATA = [
     "expiry_date": "202003",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00202_000.jpg",
+    "imageUrl": "/film_packaging/archive/00202_000.jpg",
     "title": "Fujifilm Fujicolor C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -4883,7 +4883,7 @@ const GALLERY_DATA = [
     "expiry_date": "199912",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00203_000.jpg",
+    "imageUrl": "/film_packaging/archive/00203_000.jpg",
     "title": "Kodak Ektachrome Slide Duplicating Film",
     "details": "35mm • ISO Unknown • E-6 • film_box_outside"
   },
@@ -4897,7 +4897,7 @@ const GALLERY_DATA = [
     "expiry_date": "199912",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00203_001.jpg",
+    "imageUrl": "/film_packaging/archive/00203_001.jpg",
     "title": "Kodak Ektachrome Slide Duplicating Film",
     "details": "35mm • ISO Unknown • E-6 • film_box_leaflet"
   },
@@ -4911,7 +4911,7 @@ const GALLERY_DATA = [
     "expiry_date": "199912",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00203_002.jpg",
+    "imageUrl": "/film_packaging/archive/00203_002.jpg",
     "title": "Kodak Ektachrome Slide Duplicating Film",
     "details": "35mm • ISO Unknown • E-6 • film_box_leaflet"
   },
@@ -4925,7 +4925,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00204_000.jpg",
+    "imageUrl": "/film_packaging/archive/00204_000.jpg",
     "title": "Hasselblad Hassel-plåtar E.R.Orto",
     "details": "6.5x9cm • ISO Unknown • BW • film_box_outside"
   },
@@ -4939,7 +4939,7 @@ const GALLERY_DATA = [
     "expiry_date": "196901",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00205_000.jpg",
+    "imageUrl": "/film_packaging/archive/00205_000.jpg",
     "title": "Foton Fotopan F",
     "details": "120 • ISO 50 • BW • film_box_outside"
   },
@@ -4953,7 +4953,7 @@ const GALLERY_DATA = [
     "expiry_date": "202605",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00206_000.jpg",
+    "imageUrl": "/film_packaging/archive/00206_000.jpg",
     "title": "Hands On Film Midnight 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -4967,7 +4967,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00207_000.jpg",
+    "imageUrl": "/film_packaging/archive/00207_000.jpg",
     "title": "Illingworth's Fleet H&D",
     "details": "6.5x9cm • ISO Unknown • BW • film_box_outside"
   },
@@ -4981,7 +4981,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00208_000.jpg",
+    "imageUrl": "/film_packaging/archive/00208_000.jpg",
     "title": "Defender Portrait HGS",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -4995,7 +4995,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00208_001.jpg",
+    "imageUrl": "/film_packaging/archive/00208_001.jpg",
     "title": "Defender Portrait HGS",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -5009,7 +5009,7 @@ const GALLERY_DATA = [
     "expiry_date": "200406",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00209_000.jpg",
+    "imageUrl": "/film_packaging/archive/00209_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5023,7 +5023,7 @@ const GALLERY_DATA = [
     "expiry_date": "200406",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00209_001.jpg",
+    "imageUrl": "/film_packaging/archive/00209_001.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5037,7 +5037,7 @@ const GALLERY_DATA = [
     "expiry_date": "202106",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00210_000.jpg",
+    "imageUrl": "/film_packaging/archive/00210_000.jpg",
     "title": "Building 2 200T",
     "details": "35mm • ISO 200 • ECN-2 • film_box_outside"
   },
@@ -5051,7 +5051,7 @@ const GALLERY_DATA = [
     "expiry_date": "202012",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00211_000.jpg",
+    "imageUrl": "/film_packaging/archive/00211_000.jpg",
     "title": "Building 2 250D",
     "details": "35mm • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -5065,7 +5065,7 @@ const GALLERY_DATA = [
     "expiry_date": "202106",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00212_000.jpg",
+    "imageUrl": "/film_packaging/archive/00212_000.jpg",
     "title": "Building 2 500T",
     "details": "35mm • ISO 500 • ECN-2 • film_box_outside"
   },
@@ -5079,7 +5079,7 @@ const GALLERY_DATA = [
     "expiry_date": "202106",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00213_000.jpg",
+    "imageUrl": "/film_packaging/archive/00213_000.jpg",
     "title": "Building 2 50D",
     "details": "35mm • ISO 50 • ECN-2 • film_box_outside"
   },
@@ -5093,7 +5093,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00214_000.jpg",
+    "imageUrl": "/film_packaging/archive/00214_000.jpg",
     "title": "Ferrania Solaris",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5107,7 +5107,7 @@ const GALLERY_DATA = [
     "expiry_date": "202205",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00215_000.jpg",
+    "imageUrl": "/film_packaging/archive/00215_000.jpg",
     "title": "Film Never Die IRO",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5121,7 +5121,7 @@ const GALLERY_DATA = [
     "expiry_date": "202205",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00216_000.jpg",
+    "imageUrl": "/film_packaging/archive/00216_000.jpg",
     "title": "Film Never Die Kiro",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5135,7 +5135,7 @@ const GALLERY_DATA = [
     "expiry_date": "202509",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00217_000.jpg",
+    "imageUrl": "/film_packaging/archive/00217_000.jpg",
     "title": "Fujifilm Fujicolor 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5149,7 +5149,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00218_000.jpg",
+    "imageUrl": "/film_packaging/archive/00218_000.jpg",
     "title": "Fujifilm Fujicolor Super G",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -5163,7 +5163,7 @@ const GALLERY_DATA = [
     "expiry_date": "201912",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00219_000.jpg",
+    "imageUrl": "/film_packaging/archive/00219_000.jpg",
     "title": "Fujifilm Fujicolor Professional",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5177,7 +5177,7 @@ const GALLERY_DATA = [
     "expiry_date": "202310",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00220_000.jpg",
+    "imageUrl": "/film_packaging/archive/00220_000.jpg",
     "title": "Fujifilm Fujicolor C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5191,7 +5191,7 @@ const GALLERY_DATA = [
     "expiry_date": "200306",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00221_000.jpg",
+    "imageUrl": "/film_packaging/archive/00221_000.jpg",
     "title": "Fujifilm Fujicolor Pro400",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5205,7 +5205,7 @@ const GALLERY_DATA = [
     "expiry_date": "202508",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00222_000.jpg",
+    "imageUrl": "/film_packaging/archive/00222_000.jpg",
     "title": "Fujifilm 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5219,7 +5219,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00223_000.jpg",
+    "imageUrl": "/film_packaging/archive/00223_000.jpg",
     "title": "Kodak Ektachrome E100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -5233,7 +5233,7 @@ const GALLERY_DATA = [
     "expiry_date": "202401",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00224_000.jpg",
+    "imageUrl": "/film_packaging/archive/00224_000.jpg",
     "title": "Kodak Ektar 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5247,7 +5247,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00225_000.jpg",
+    "imageUrl": "/film_packaging/archive/00225_000.jpg",
     "title": "Lomography Lomochrome Color'92",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5261,7 +5261,7 @@ const GALLERY_DATA = [
     "expiry_date": "202208",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00226_000.jpg",
+    "imageUrl": "/film_packaging/archive/00226_000.jpg",
     "title": "Lomography Lomochrome Purple",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5275,7 +5275,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00227_000.jpg",
+    "imageUrl": "/film_packaging/archive/00227_000.jpg",
     "title": "Space Cat Film Mars 250D",
     "details": "35mm • ISO 250 • C-41 • film_box_outside"
   },
@@ -5289,7 +5289,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00228_000.jpg",
+    "imageUrl": "/film_packaging/archive/00228_000.jpg",
     "title": "Walkens Speed 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5303,7 +5303,7 @@ const GALLERY_DATA = [
     "expiry_date": "200307",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00229_000.jpg",
+    "imageUrl": "/film_packaging/archive/00229_000.jpg",
     "title": "Fujifilm Fujicolor Superia",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5317,7 +5317,7 @@ const GALLERY_DATA = [
     "expiry_date": "201004",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00230_000.jpg",
+    "imageUrl": "/film_packaging/archive/00230_000.jpg",
     "title": "Fujifilm Fujicolor Superia Reala",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5331,7 +5331,7 @@ const GALLERY_DATA = [
     "expiry_date": "202408",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00231_000.jpg",
+    "imageUrl": "/film_packaging/archive/00231_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5345,7 +5345,7 @@ const GALLERY_DATA = [
     "expiry_date": "200502",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00232_000.jpg",
+    "imageUrl": "/film_packaging/archive/00232_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5359,7 +5359,7 @@ const GALLERY_DATA = [
     "expiry_date": "202306",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00233_000.jpg",
+    "imageUrl": "/film_packaging/archive/00233_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5373,7 +5373,7 @@ const GALLERY_DATA = [
     "expiry_date": "200703",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00234_000.jpg",
+    "imageUrl": "/film_packaging/archive/00234_000.jpg",
     "title": "Kodak MAX",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5387,7 +5387,7 @@ const GALLERY_DATA = [
     "expiry_date": "202303",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00235_000.jpg",
+    "imageUrl": "/film_packaging/archive/00235_000.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5401,7 +5401,7 @@ const GALLERY_DATA = [
     "expiry_date": "202303",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00236_000.jpg",
+    "imageUrl": "/film_packaging/archive/00236_000.jpg",
     "title": "Lomography Lomochrome Metropolis",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5415,7 +5415,7 @@ const GALLERY_DATA = [
     "expiry_date": "202303",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00236_001.jpg",
+    "imageUrl": "/film_packaging/archive/00236_001.jpg",
     "title": "Lomography Lomochrome Metropolis",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -5429,7 +5429,7 @@ const GALLERY_DATA = [
     "expiry_date": "200009",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00237_000.jpg",
+    "imageUrl": "/film_packaging/archive/00237_000.jpg",
     "title": "Kodak Vericolor III",
     "details": "120 • ISO 160 • C-41 • film_box_outside"
   },
@@ -5443,7 +5443,7 @@ const GALLERY_DATA = [
     "expiry_date": "200009",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00237_001.jpg",
+    "imageUrl": "/film_packaging/archive/00237_001.jpg",
     "title": "Kodak Vericolor III",
     "details": "120 • ISO 160 • C-41 • film_box_outside"
   },
@@ -5457,7 +5457,7 @@ const GALLERY_DATA = [
     "expiry_date": "200009",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00237_002.jpg",
+    "imageUrl": "/film_packaging/archive/00237_002.jpg",
     "title": "Kodak Vericolor III",
     "details": "120 • ISO 160 • C-41 • film_box_inside"
   },
@@ -5471,7 +5471,7 @@ const GALLERY_DATA = [
     "expiry_date": "200009",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00237_003.jpg",
+    "imageUrl": "/film_packaging/archive/00237_003.jpg",
     "title": "Kodak Vericolor III",
     "details": "120 • ISO 160 • C-41 • film_box_inside"
   },
@@ -5485,7 +5485,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00238_000.jpg",
+    "imageUrl": "/film_packaging/archive/00238_000.jpg",
     "title": "Kodak Vericolor 400 Plus",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5499,7 +5499,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00238_001.jpg",
+    "imageUrl": "/film_packaging/archive/00238_001.jpg",
     "title": "Kodak Vericolor 400 Plus",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5513,7 +5513,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00238_002.jpg",
+    "imageUrl": "/film_packaging/archive/00238_002.jpg",
     "title": "Kodak Vericolor 400 Plus",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5527,7 +5527,7 @@ const GALLERY_DATA = [
     "expiry_date": "199810",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00238_003.jpg",
+    "imageUrl": "/film_packaging/archive/00238_003.jpg",
     "title": "Kodak Vericolor 400 Plus",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5541,7 +5541,7 @@ const GALLERY_DATA = [
     "expiry_date": "202301",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00239_000.jpg",
+    "imageUrl": "/film_packaging/archive/00239_000.jpg",
     "title": "Kodak ProImage 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -5555,7 +5555,7 @@ const GALLERY_DATA = [
     "expiry_date": "202210",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00240_000.jpg",
+    "imageUrl": "/film_packaging/archive/00240_000.jpg",
     "title": "Kodak Portra 800",
     "details": "120 • ISO 800 • C-41 • film_box_outside"
   },
@@ -5569,7 +5569,7 @@ const GALLERY_DATA = [
     "expiry_date": "202210",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00240_001.jpg",
+    "imageUrl": "/film_packaging/archive/00240_001.jpg",
     "title": "Kodak Portra 800",
     "details": "120 • ISO 800 • C-41 • film_box_outside"
   },
@@ -5583,7 +5583,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00241_000.jpg",
+    "imageUrl": "/film_packaging/archive/00241_000.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5597,7 +5597,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00241_001.jpg",
+    "imageUrl": "/film_packaging/archive/00241_001.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5611,7 +5611,7 @@ const GALLERY_DATA = [
     "expiry_date": "200904",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00242_000.jpg",
+    "imageUrl": "/film_packaging/archive/00242_000.jpg",
     "title": "Kodak Portra 400VC",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5625,7 +5625,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00243_000.jpg",
+    "imageUrl": "/film_packaging/archive/00243_000.jpg",
     "title": "Kodak Portra 400VC",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5639,7 +5639,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00243_001.jpg",
+    "imageUrl": "/film_packaging/archive/00243_001.jpg",
     "title": "Kodak Portra 400VC",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5653,7 +5653,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00243_002.jpg",
+    "imageUrl": "/film_packaging/archive/00243_002.jpg",
     "title": "Kodak Portra 400VC",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5667,7 +5667,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00243_003.jpg",
+    "imageUrl": "/film_packaging/archive/00243_003.jpg",
     "title": "Kodak Portra 400VC",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5681,7 +5681,7 @@ const GALLERY_DATA = [
     "expiry_date": "202412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00244_000.jpg",
+    "imageUrl": "/film_packaging/archive/00244_000.jpg",
     "title": "Kodak Portra 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5695,7 +5695,7 @@ const GALLERY_DATA = [
     "expiry_date": "202610",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00245_000.jpg",
+    "imageUrl": "/film_packaging/archive/00245_000.jpg",
     "title": "Kodak Portra 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5709,7 +5709,7 @@ const GALLERY_DATA = [
     "expiry_date": "202408",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00246_000.jpg",
+    "imageUrl": "/film_packaging/archive/00246_000.jpg",
     "title": "Kodak Portra 400",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5723,7 +5723,7 @@ const GALLERY_DATA = [
     "expiry_date": "202408",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00246_001.jpg",
+    "imageUrl": "/film_packaging/archive/00246_001.jpg",
     "title": "Kodak Portra 400",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5737,7 +5737,7 @@ const GALLERY_DATA = [
     "expiry_date": "200710",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00247_000.jpg",
+    "imageUrl": "/film_packaging/archive/00247_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "220 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5751,7 +5751,7 @@ const GALLERY_DATA = [
     "expiry_date": "200710",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00247_001.jpg",
+    "imageUrl": "/film_packaging/archive/00247_001.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "220 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5765,7 +5765,7 @@ const GALLERY_DATA = [
     "expiry_date": "200710",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00247_002.jpg",
+    "imageUrl": "/film_packaging/archive/00247_002.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "220 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5779,7 +5779,7 @@ const GALLERY_DATA = [
     "expiry_date": "201412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00248_000.jpg",
+    "imageUrl": "/film_packaging/archive/00248_000.jpg",
     "title": "Fujifilm Fujichrome Provia 400X",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -5793,7 +5793,7 @@ const GALLERY_DATA = [
     "expiry_date": "201412",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00248_001.jpg",
+    "imageUrl": "/film_packaging/archive/00248_001.jpg",
     "title": "Fujifilm Fujichrome Provia 400X",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -5807,7 +5807,7 @@ const GALLERY_DATA = [
     "expiry_date": "200901",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00249_000.jpg",
+    "imageUrl": "/film_packaging/archive/00249_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5821,7 +5821,7 @@ const GALLERY_DATA = [
     "expiry_date": "200901",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00249_001.jpg",
+    "imageUrl": "/film_packaging/archive/00249_001.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -5835,7 +5835,7 @@ const GALLERY_DATA = [
     "expiry_date": "202211",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00250_000.jpg",
+    "imageUrl": "/film_packaging/archive/00250_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -5849,7 +5849,7 @@ const GALLERY_DATA = [
     "expiry_date": "202204",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00251_000.jpg",
+    "imageUrl": "/film_packaging/archive/00251_000.jpg",
     "title": "Kodak Ektar 100",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -5863,7 +5863,7 @@ const GALLERY_DATA = [
     "expiry_date": "202204",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00251_001.jpg",
+    "imageUrl": "/film_packaging/archive/00251_001.jpg",
     "title": "Kodak Ektar 100",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -5877,7 +5877,7 @@ const GALLERY_DATA = [
     "expiry_date": "202409",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00252_000.jpg",
+    "imageUrl": "/film_packaging/archive/00252_000.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5891,7 +5891,7 @@ const GALLERY_DATA = [
     "expiry_date": "202409",
     "item_type": "film_box_processing_envelope",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00252_001.jpg",
+    "imageUrl": "/film_packaging/archive/00252_001.jpg",
     "title": "Kodak Gold",
     "details": "35mm • ISO 200 • C-41 • film_box_processing_envelope"
   },
@@ -5905,7 +5905,7 @@ const GALLERY_DATA = [
     "expiry_date": "199311",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00253_000.jpg",
+    "imageUrl": "/film_packaging/archive/00253_000.jpg",
     "title": "Kodak Gold II",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -5919,7 +5919,7 @@ const GALLERY_DATA = [
     "expiry_date": "199311",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00253_001.jpg",
+    "imageUrl": "/film_packaging/archive/00253_001.jpg",
     "title": "Kodak Gold II",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -5933,7 +5933,7 @@ const GALLERY_DATA = [
     "expiry_date": "202305",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00254_000.jpg",
+    "imageUrl": "/film_packaging/archive/00254_000.jpg",
     "title": "CineStill 50D",
     "details": "35mm • ISO 50 • C-41 • film_box_outside"
   },
@@ -5947,7 +5947,7 @@ const GALLERY_DATA = [
     "expiry_date": "202305",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00254_001.jpg",
+    "imageUrl": "/film_packaging/archive/00254_001.jpg",
     "title": "CineStill 50D",
     "details": "35mm • ISO 50 • C-41 • film_box_inside"
   },
@@ -5961,7 +5961,7 @@ const GALLERY_DATA = [
     "expiry_date": "202406",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00255_000.jpg",
+    "imageUrl": "/film_packaging/archive/00255_000.jpg",
     "title": "CineStill 400Dynamic",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -5975,7 +5975,7 @@ const GALLERY_DATA = [
     "expiry_date": "202406",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00255_001.jpg",
+    "imageUrl": "/film_packaging/archive/00255_001.jpg",
     "title": "CineStill 400Dynamic",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -5989,7 +5989,7 @@ const GALLERY_DATA = [
     "expiry_date": "202310",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00256_000.jpg",
+    "imageUrl": "/film_packaging/archive/00256_000.jpg",
     "title": "CineStill BWXX",
     "details": "120 • ISO 200-400 • D96 • film_box_outside"
   },
@@ -6003,7 +6003,7 @@ const GALLERY_DATA = [
     "expiry_date": "202310",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00256_001.jpg",
+    "imageUrl": "/film_packaging/archive/00256_001.jpg",
     "title": "CineStill BWXX",
     "details": "120 • ISO 200-400 • D96 • film_box_inside"
   },
@@ -6017,7 +6017,7 @@ const GALLERY_DATA = [
     "expiry_date": "201901",
     "item_type": "film_box_outside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00257_000.jpg",
+    "imageUrl": "/film_packaging/archive/00257_000.jpg",
     "title": "Agfa Vista Plus 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -6031,7 +6031,7 @@ const GALLERY_DATA = [
     "expiry_date": "201901",
     "item_type": "film_box_inside",
     "author": "@photos.by.qi",
-    "imageUrl": "film_packaging/archive/00257_001.jpg",
+    "imageUrl": "/film_packaging/archive/00257_001.jpg",
     "title": "Agfa Vista Plus 200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -6045,7 +6045,7 @@ const GALLERY_DATA = [
     "expiry_date": "202111",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00258_000.jpg",
+    "imageUrl": "/film_packaging/archive/00258_000.jpg",
     "title": "Rollei RPX 100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -6059,7 +6059,7 @@ const GALLERY_DATA = [
     "expiry_date": "202111",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00258_001.jpg",
+    "imageUrl": "/film_packaging/archive/00258_001.jpg",
     "title": "Rollei RPX 100",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -6073,7 +6073,7 @@ const GALLERY_DATA = [
     "expiry_date": "202209",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00259_000.jpg",
+    "imageUrl": "/film_packaging/archive/00259_000.jpg",
     "title": "Rollei RPX 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -6087,7 +6087,7 @@ const GALLERY_DATA = [
     "expiry_date": "202209",
     "item_type": "film_box_inside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00259_001.jpg",
+    "imageUrl": "/film_packaging/archive/00259_001.jpg",
     "title": "Rollei RPX 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -6101,7 +6101,7 @@ const GALLERY_DATA = [
     "expiry_date": "199804",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00260_000.jpg",
+    "imageUrl": "/film_packaging/archive/00260_000.jpg",
     "title": "Kodak Ektachrome Slide Duplicating Film",
     "details": "35mm • ISO Unknown • E-6 • film_box_outside"
   },
@@ -6115,7 +6115,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00261_000.jpg",
+    "imageUrl": "/film_packaging/archive/00261_000.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "126 • ISO 200 • E-6 • film_box_outside"
   },
@@ -6129,7 +6129,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_leaflet",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00261_001.jpg",
+    "imageUrl": "/film_packaging/archive/00261_001.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "126 • ISO 200 • E-6 • film_box_leaflet"
   },
@@ -6143,7 +6143,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_leaflet",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00261_002.jpg",
+    "imageUrl": "/film_packaging/archive/00261_002.jpg",
     "title": "Kodak Ektachrome 200",
     "details": "126 • ISO 200 • E-6 • film_box_leaflet"
   },
@@ -6157,7 +6157,7 @@ const GALLERY_DATA = [
     "expiry_date": "197412",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00262_000.jpg",
+    "imageUrl": "/film_packaging/archive/00262_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • E-4 • film_box_outside"
   },
@@ -6171,7 +6171,7 @@ const GALLERY_DATA = [
     "expiry_date": "197412",
     "item_type": "film_box_leaflet",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00262_001.jpg",
+    "imageUrl": "/film_packaging/archive/00262_001.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • E-4 • film_box_leaflet"
   },
@@ -6185,7 +6185,7 @@ const GALLERY_DATA = [
     "expiry_date": "197412",
     "item_type": "film_box_leaflet",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00262_002.jpg",
+    "imageUrl": "/film_packaging/archive/00262_002.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • E-4 • film_box_leaflet"
   },
@@ -6199,7 +6199,7 @@ const GALLERY_DATA = [
     "expiry_date": "198310",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00263_000.jpg",
+    "imageUrl": "/film_packaging/archive/00263_000.jpg",
     "title": "Kodak Kodacolor II",
     "details": "126 • ISO 100 • C-41 • film_box_outside"
   },
@@ -6213,7 +6213,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00264_000.jpg",
+    "imageUrl": "/film_packaging/archive/00264_000.jpg",
     "title": "Reflx Lab Pro 100",
     "details": "127 • ISO 100 • C-41 • film_box_outside"
   },
@@ -6227,7 +6227,7 @@ const GALLERY_DATA = [
     "expiry_date": "199112",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00265_000.jpg",
+    "imageUrl": "/film_packaging/archive/00265_000.jpg",
     "title": "Premium Super XG",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -6241,7 +6241,7 @@ const GALLERY_DATA = [
     "expiry_date": "199112",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00265_001.jpg",
+    "imageUrl": "/film_packaging/archive/00265_001.jpg",
     "title": "Premium Super XG",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -6255,7 +6255,7 @@ const GALLERY_DATA = [
     "expiry_date": "200407",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00266_000.jpg",
+    "imageUrl": "/film_packaging/archive/00266_000.jpg",
     "title": "Lloyds Pharmacy Colour Film",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -6269,7 +6269,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00267_000.jpg",
+    "imageUrl": "/film_packaging/archive/00267_000.jpg",
     "title": "Konica Centuria 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -6283,7 +6283,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00267_001.jpg",
+    "imageUrl": "/film_packaging/archive/00267_001.jpg",
     "title": "Konica Centuria 200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -6297,7 +6297,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00268_000.jpg",
+    "imageUrl": "/film_packaging/archive/00268_000.jpg",
     "title": "Max Spielmann Maxi Color",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -6311,7 +6311,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00269_000.jpg",
+    "imageUrl": "/film_packaging/archive/00269_000.jpg",
     "title": "Konica KonicaColor VX 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -6325,7 +6325,7 @@ const GALLERY_DATA = [
     "expiry_date": "199806",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00269_001.jpg",
+    "imageUrl": "/film_packaging/archive/00269_001.jpg",
     "title": "Konica KonicaColor VX 100",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -6339,7 +6339,7 @@ const GALLERY_DATA = [
     "expiry_date": "200702",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00270_000.jpg",
+    "imageUrl": "/film_packaging/archive/00270_000.jpg",
     "title": "Klick 400ASA",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -6353,7 +6353,7 @@ const GALLERY_DATA = [
     "expiry_date": "200702",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00270_001.jpg",
+    "imageUrl": "/film_packaging/archive/00270_001.jpg",
     "title": "Klick 400ASA",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -6367,7 +6367,7 @@ const GALLERY_DATA = [
     "expiry_date": "197001",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00271_000.jpg",
+    "imageUrl": "/film_packaging/archive/00271_000.jpg",
     "title": "Kodak Plus-X Pan",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -6381,7 +6381,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_000.jpg",
+    "imageUrl": "/film_packaging/archive/00272_000.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_outside"
   },
@@ -6395,7 +6395,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_001.jpg",
+    "imageUrl": "/film_packaging/archive/00272_001.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -6409,7 +6409,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_002.jpg",
+    "imageUrl": "/film_packaging/archive/00272_002.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -6423,7 +6423,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_003.jpg",
+    "imageUrl": "/film_packaging/archive/00272_003.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -6437,7 +6437,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_004.jpg",
+    "imageUrl": "/film_packaging/archive/00272_004.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -6451,7 +6451,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_005.jpg",
+    "imageUrl": "/film_packaging/archive/00272_005.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
@@ -6465,7 +6465,7 @@ const GALLERY_DATA = [
     "expiry_date": "196707",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00272_006.jpg",
+    "imageUrl": "/film_packaging/archive/00272_006.jpg",
     "title": "Agfa AgfaColor CT 18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
@@ -6479,7 +6479,7 @@ const GALLERY_DATA = [
     "expiry_date": "199109",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00273_000.jpg",
+    "imageUrl": "/film_packaging/archive/00273_000.jpg",
     "title": "Kodak T-MAX 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -6493,7 +6493,7 @@ const GALLERY_DATA = [
     "expiry_date": "199109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00273_001.jpg",
+    "imageUrl": "/film_packaging/archive/00273_001.jpg",
     "title": "Kodak T-MAX 400",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -6507,7 +6507,7 @@ const GALLERY_DATA = [
     "expiry_date": "199109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00273_002.jpg",
+    "imageUrl": "/film_packaging/archive/00273_002.jpg",
     "title": "Kodak T-MAX 400",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -6521,7 +6521,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00274_000.jpg",
+    "imageUrl": "/film_packaging/archive/00274_000.jpg",
     "title": "Kodak Ektachrome Elite 200",
     "details": "35mm • ISO 200 • E-6 • film_box_outside"
   },
@@ -6535,7 +6535,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00274_001.jpg",
+    "imageUrl": "/film_packaging/archive/00274_001.jpg",
     "title": "Kodak Ektachrome Elite 200",
     "details": "35mm • ISO 200 • E-6 • film_box_inside"
   },
@@ -6549,7 +6549,7 @@ const GALLERY_DATA = [
     "expiry_date": "199411",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00275_000.jpg",
+    "imageUrl": "/film_packaging/archive/00275_000.jpg",
     "title": "Kodak Ektachrome 100HC",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -6563,7 +6563,7 @@ const GALLERY_DATA = [
     "expiry_date": "199411",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00275_001.jpg",
+    "imageUrl": "/film_packaging/archive/00275_001.jpg",
     "title": "Kodak Ektachrome 100HC",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -6577,7 +6577,7 @@ const GALLERY_DATA = [
     "expiry_date": "199411",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00276_000.jpg",
+    "imageUrl": "/film_packaging/archive/00276_000.jpg",
     "title": "Kodak Ektachrome 100HC",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -6591,7 +6591,7 @@ const GALLERY_DATA = [
     "expiry_date": "199411",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00276_001.jpg",
+    "imageUrl": "/film_packaging/archive/00276_001.jpg",
     "title": "Kodak Ektachrome 100HC",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -6605,7 +6605,7 @@ const GALLERY_DATA = [
     "expiry_date": "201501",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00277_000.jpg",
+    "imageUrl": "/film_packaging/archive/00277_000.jpg",
     "title": "Fujifilm FP-100C",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_outside"
   },
@@ -6619,7 +6619,7 @@ const GALLERY_DATA = [
     "expiry_date": "201501",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00277_001.jpg",
+    "imageUrl": "/film_packaging/archive/00277_001.jpg",
     "title": "Fujifilm FP-100C",
     "details": "Instant Pack Film • ISO 100 • Instant • film_box_inside"
   },
@@ -6633,7 +6633,7 @@ const GALLERY_DATA = [
     "expiry_date": "200111",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00278_000.jpg",
+    "imageUrl": "/film_packaging/archive/00278_000.jpg",
     "title": "Kodak Ektachrome 400X",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -6647,7 +6647,7 @@ const GALLERY_DATA = [
     "expiry_date": "200111",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00278_001.jpg",
+    "imageUrl": "/film_packaging/archive/00278_001.jpg",
     "title": "Kodak Ektachrome 400X",
     "details": "120 • ISO 400 • E-6 • film_box_inside"
   },
@@ -6661,7 +6661,7 @@ const GALLERY_DATA = [
     "expiry_date": "200508",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00279_000.jpg",
+    "imageUrl": "/film_packaging/archive/00279_000.jpg",
     "title": "Kodak Ektachrome 100 Plus",
     "details": "220 • ISO 100 • E-6 • film_box_outside"
   },
@@ -6675,7 +6675,7 @@ const GALLERY_DATA = [
     "expiry_date": "200508",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00279_001.jpg",
+    "imageUrl": "/film_packaging/archive/00279_001.jpg",
     "title": "Kodak Ektachrome 100 Plus",
     "details": "220 • ISO 100 • E-6 • film_box_inside"
   },
@@ -6689,7 +6689,7 @@ const GALLERY_DATA = [
     "expiry_date": "197409",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00280_000.jpg",
+    "imageUrl": "/film_packaging/archive/00280_000.jpg",
     "title": "Kodak Kodacolor-X",
     "details": "126 • ISO 80 • C-22 • film_box_outside"
   },
@@ -6703,7 +6703,7 @@ const GALLERY_DATA = [
     "expiry_date": "200612",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00281_000.jpg",
+    "imageUrl": "/film_packaging/archive/00281_000.jpg",
     "title": "Fujifilm Fujichrome Provia 100F",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -6717,7 +6717,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00282_000.jpg",
+    "imageUrl": "/film_packaging/archive/00282_000.jpg",
     "title": "Phöbus-Platten Sheet Film",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6731,7 +6731,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00283_000.jpg",
+    "imageUrl": "/film_packaging/archive/00283_000.jpg",
     "title": "Agfa Trockenplatten",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6745,7 +6745,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00284_000.jpg",
+    "imageUrl": "/film_packaging/archive/00284_000.jpg",
     "title": "Defender Extra Fast Panchromatic",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6759,7 +6759,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00285_000.jpg",
+    "imageUrl": "/film_packaging/archive/00285_000.jpg",
     "title": "Defender Extra Special Fast Panchromatic",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6773,7 +6773,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unkonwn",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00286_000.jpg",
+    "imageUrl": "/film_packaging/archive/00286_000.jpg",
     "title": "Agfa Trockenplatten",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6787,7 +6787,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unkonwn",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00286_001.jpg",
+    "imageUrl": "/film_packaging/archive/00286_001.jpg",
     "title": "Agfa Trockenplatten",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6801,7 +6801,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00287_000.jpg",
+    "imageUrl": "/film_packaging/archive/00287_000.jpg",
     "title": "Agfa Extra Rapid Platten",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
@@ -6815,7 +6815,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00288_000.jpg",
+    "imageUrl": "/film_packaging/archive/00288_000.jpg",
     "title": "Gevaert Ultra Panchro Normal",
     "details": "12x16.5cm • ISO 800 • BW • film_box_outside"
   },
@@ -6829,7 +6829,7 @@ const GALLERY_DATA = [
     "expiry_date": "200401",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00289_000.jpg",
+    "imageUrl": "/film_packaging/archive/00289_000.jpg",
     "title": "Fujifilm Neopan 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -6843,7 +6843,7 @@ const GALLERY_DATA = [
     "expiry_date": "200401",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00289_001.jpg",
+    "imageUrl": "/film_packaging/archive/00289_001.jpg",
     "title": "Fujifilm Neopan 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -6857,7 +6857,7 @@ const GALLERY_DATA = [
     "expiry_date": "200405",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00290_000.jpg",
+    "imageUrl": "/film_packaging/archive/00290_000.jpg",
     "title": "Fujifilm Fujichrome Sensia 200",
     "details": "35mm • ISO 200 • E-6 • film_box_outside"
   },
@@ -6871,7 +6871,7 @@ const GALLERY_DATA = [
     "expiry_date": "200405",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00290_001.jpg",
+    "imageUrl": "/film_packaging/archive/00290_001.jpg",
     "title": "Fujifilm Fujichrome Sensia 200",
     "details": "35mm • ISO 200 • E-6 • film_box_inside"
   },
@@ -6885,7 +6885,7 @@ const GALLERY_DATA = [
     "expiry_date": "200702",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00291_000.jpg",
+    "imageUrl": "/film_packaging/archive/00291_000.jpg",
     "title": "Konica Minolta Commercial Color Film",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -6899,7 +6899,7 @@ const GALLERY_DATA = [
     "expiry_date": "200406",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00292_000.jpg",
+    "imageUrl": "/film_packaging/archive/00292_000.jpg",
     "title": "Fujifilm Fujichrome Sensia 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -6913,7 +6913,7 @@ const GALLERY_DATA = [
     "expiry_date": "199302",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00293_000.jpg",
+    "imageUrl": "/film_packaging/archive/00293_000.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_outside"
   },
@@ -6927,7 +6927,7 @@ const GALLERY_DATA = [
     "expiry_date": "199302",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00293_001.jpg",
+    "imageUrl": "/film_packaging/archive/00293_001.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_leaflet"
   },
@@ -6941,7 +6941,7 @@ const GALLERY_DATA = [
     "expiry_date": "199302",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00293_002.jpg",
+    "imageUrl": "/film_packaging/archive/00293_002.jpg",
     "title": "Konica Infrared 750nm",
     "details": "120 • ISO 32 • BW • film_box_leaflet"
   },
@@ -6955,7 +6955,7 @@ const GALLERY_DATA = [
     "expiry_date": "198010",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00294_000.jpg",
+    "imageUrl": "/film_packaging/archive/00294_000.jpg",
     "title": "Kodak Ektachrome 400",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -6969,7 +6969,7 @@ const GALLERY_DATA = [
     "expiry_date": "198010",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00294_001.jpg",
+    "imageUrl": "/film_packaging/archive/00294_001.jpg",
     "title": "Kodak Ektachrome 400",
     "details": "120 • ISO 400 • E-6 • film_box_leaflet"
   },
@@ -6983,7 +6983,7 @@ const GALLERY_DATA = [
     "expiry_date": "198010",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00294_002.jpg",
+    "imageUrl": "/film_packaging/archive/00294_002.jpg",
     "title": "Kodak Ektachrome 400",
     "details": "120 • ISO 400 • E-6 • film_box_leaflet"
   },
@@ -6997,7 +6997,7 @@ const GALLERY_DATA = [
     "expiry_date": "197712",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00295_000.jpg",
+    "imageUrl": "/film_packaging/archive/00295_000.jpg",
     "title": "Kodak Ektachrome Professional",
     "details": "120 • ISO 50 • E-3 • film_box_outside"
   },
@@ -7011,7 +7011,7 @@ const GALLERY_DATA = [
     "expiry_date": "197712",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00295_001.jpg",
+    "imageUrl": "/film_packaging/archive/00295_001.jpg",
     "title": "Kodak Ektachrome Professional",
     "details": "120 • ISO 50 • E-3 • film_box_leaflet"
   },
@@ -7025,7 +7025,7 @@ const GALLERY_DATA = [
     "expiry_date": "197712",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00295_002.jpg",
+    "imageUrl": "/film_packaging/archive/00295_002.jpg",
     "title": "Kodak Ektachrome Professional",
     "details": "120 • ISO 50 • E-3 • film_box_leaflet"
   },
@@ -7039,7 +7039,7 @@ const GALLERY_DATA = [
     "expiry_date": "197712",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00295_003.jpg",
+    "imageUrl": "/film_packaging/archive/00295_003.jpg",
     "title": "Kodak Ektachrome Professional",
     "details": "120 • ISO 50 • E-3 • film_box_leaflet"
   },
@@ -7053,7 +7053,7 @@ const GALLERY_DATA = [
     "expiry_date": "197712",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00295_004.jpg",
+    "imageUrl": "/film_packaging/archive/00295_004.jpg",
     "title": "Kodak Ektachrome Professional",
     "details": "120 • ISO 50 • E-3 • film_box_leaflet"
   },
@@ -7067,7 +7067,7 @@ const GALLERY_DATA = [
     "expiry_date": "197411",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00296_000.jpg",
+    "imageUrl": "/film_packaging/archive/00296_000.jpg",
     "title": "Kodak Ektachrome Professional Type B",
     "details": "120 • ISO 32 • E-3 • film_box_outside"
   },
@@ -7081,7 +7081,7 @@ const GALLERY_DATA = [
     "expiry_date": "197411",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00296_001.jpg",
+    "imageUrl": "/film_packaging/archive/00296_001.jpg",
     "title": "Kodak Ektachrome Professional Type B",
     "details": "120 • ISO 32 • E-3 • film_box_leaflet"
   },
@@ -7095,7 +7095,7 @@ const GALLERY_DATA = [
     "expiry_date": "197411",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00296_002.jpg",
+    "imageUrl": "/film_packaging/archive/00296_002.jpg",
     "title": "Kodak Ektachrome Professional Type B",
     "details": "120 • ISO 32 • E-3 • film_box_leaflet"
   },
@@ -7109,7 +7109,7 @@ const GALLERY_DATA = [
     "expiry_date": "197411",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00296_003.jpg",
+    "imageUrl": "/film_packaging/archive/00296_003.jpg",
     "title": "Kodak Ektachrome Professional Type B",
     "details": "120 • ISO 32 • E-3 • film_box_leaflet"
   },
@@ -7123,7 +7123,7 @@ const GALLERY_DATA = [
     "expiry_date": "197411",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00296_004.jpg",
+    "imageUrl": "/film_packaging/archive/00296_004.jpg",
     "title": "Kodak Ektachrome Professional Type B",
     "details": "120 • ISO 32 • E-3 • film_box_leaflet"
   },
@@ -7137,7 +7137,7 @@ const GALLERY_DATA = [
     "expiry_date": "200909",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00297_000.jpg",
+    "imageUrl": "/film_packaging/archive/00297_000.jpg",
     "title": "Kodak FarbWelt 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -7151,7 +7151,7 @@ const GALLERY_DATA = [
     "expiry_date": "200202",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00298_000.jpg",
+    "imageUrl": "/film_packaging/archive/00298_000.jpg",
     "title": "Agfa Optima II 400",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -7165,7 +7165,7 @@ const GALLERY_DATA = [
     "expiry_date": "200202",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00298_001.jpg",
+    "imageUrl": "/film_packaging/archive/00298_001.jpg",
     "title": "Agfa Optima II 400",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -7179,7 +7179,7 @@ const GALLERY_DATA = [
     "expiry_date": "200409",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00299_000.jpg",
+    "imageUrl": "/film_packaging/archive/00299_000.jpg",
     "title": "Kodak Portra 400UC",
     "details": "120 • ISO 400 • C-41 • film_box_processing_envelope"
   },
@@ -7193,7 +7193,7 @@ const GALLERY_DATA = [
     "expiry_date": "200409",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00299_001.jpg",
+    "imageUrl": "/film_packaging/archive/00299_001.jpg",
     "title": "Kodak Portra 400UC",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -7207,7 +7207,7 @@ const GALLERY_DATA = [
     "expiry_date": "200507",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00300_000.jpg",
+    "imageUrl": "/film_packaging/archive/00300_000.jpg",
     "title": "Agfa Agfapan APX 400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -7221,7 +7221,7 @@ const GALLERY_DATA = [
     "expiry_date": "200507",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00300_001.jpg",
+    "imageUrl": "/film_packaging/archive/00300_001.jpg",
     "title": "Agfa Agfapan APX 400",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -7235,7 +7235,7 @@ const GALLERY_DATA = [
     "expiry_date": "200006",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00301_000.jpg",
+    "imageUrl": "/film_packaging/archive/00301_000.jpg",
     "title": "Agfa AgfaColor Optima 200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -7249,7 +7249,7 @@ const GALLERY_DATA = [
     "expiry_date": "200006",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00301_001.jpg",
+    "imageUrl": "/film_packaging/archive/00301_001.jpg",
     "title": "Agfa AgfaColor Optima 200",
     "details": "120 • ISO 200 • C-41 • film_box_inside"
   },
@@ -7263,7 +7263,7 @@ const GALLERY_DATA = [
     "expiry_date": "202605",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00302_000.jpg",
+    "imageUrl": "/film_packaging/archive/00302_000.jpg",
     "title": "Ilford Ilfochrome",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -7277,7 +7277,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00303_000.jpg",
+    "imageUrl": "/film_packaging/archive/00303_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 125 • Unknown • film_box_outside"
   },
@@ -7291,7 +7291,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_leaflet",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00303_001.jpg",
+    "imageUrl": "/film_packaging/archive/00303_001.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 125 • Unknown • film_box_leaflet"
   },
@@ -7305,7 +7305,7 @@ const GALLERY_DATA = [
     "expiry_date": "197701",
     "item_type": "film_box_leaflet",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00303_002.jpg",
+    "imageUrl": "/film_packaging/archive/00303_002.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 125 • Unknown • film_box_leaflet"
   },
@@ -7319,7 +7319,7 @@ const GALLERY_DATA = [
     "expiry_date": "202809",
     "item_type": "film_box_outside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00304_000.jpg",
+    "imageUrl": "/film_packaging/archive/00304_000.jpg",
     "title": "Ilford FP4 Plus",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -7333,7 +7333,7 @@ const GALLERY_DATA = [
     "expiry_date": "202809",
     "item_type": "film_box_inside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00304_001.jpg",
+    "imageUrl": "/film_packaging/archive/00304_001.jpg",
     "title": "Ilford FP4 Plus",
     "details": "35mm • ISO 125 • BW • film_box_inside"
   },
@@ -7347,7 +7347,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00305_000.jpg",
+    "imageUrl": "/film_packaging/archive/00305_000.jpg",
     "title": "Ilford Delta 400 Professional",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -7361,7 +7361,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_inside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00305_001.jpg",
+    "imageUrl": "/film_packaging/archive/00305_001.jpg",
     "title": "Ilford Delta 400 Professional",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -7375,7 +7375,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_outside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00306_000.jpg",
+    "imageUrl": "/film_packaging/archive/00306_000.jpg",
     "title": "Harman Red",
     "details": "35mm • ISO 125 • C-41 • film_box_outside"
   },
@@ -7389,7 +7389,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_inside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00306_001.jpg",
+    "imageUrl": "/film_packaging/archive/00306_001.jpg",
     "title": "Harman Red",
     "details": "35mm • ISO 125 • C-41 • film_box_inside"
   },
@@ -7403,7 +7403,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "@toastergod101",
-    "imageUrl": "film_packaging/archive/00307_000.jpg",
+    "imageUrl": "/film_packaging/archive/00307_000.jpg",
     "title": "Fujifilm Instax Mini",
     "details": "Instant Integral Film • ISO 800 • Instant • film_box_outside"
   },
@@ -7417,7 +7417,7 @@ const GALLERY_DATA = [
     "expiry_date": "198602",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00308_000.jpg",
+    "imageUrl": "/film_packaging/archive/00308_000.jpg",
     "title": "Fujifilm Fujicolor HR100",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -7431,7 +7431,7 @@ const GALLERY_DATA = [
     "expiry_date": "198602",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00308_001.jpg",
+    "imageUrl": "/film_packaging/archive/00308_001.jpg",
     "title": "Fujifilm Fujicolor HR100",
     "details": "120 • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -7445,7 +7445,7 @@ const GALLERY_DATA = [
     "expiry_date": "198602",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00308_002.jpg",
+    "imageUrl": "/film_packaging/archive/00308_002.jpg",
     "title": "Fujifilm Fujicolor HR100",
     "details": "120 • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -7459,7 +7459,7 @@ const GALLERY_DATA = [
     "expiry_date": "200707",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00309_000.jpg",
+    "imageUrl": "/film_packaging/archive/00309_000.jpg",
     "title": "Ilford Delta 400 Professional",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -7473,7 +7473,7 @@ const GALLERY_DATA = [
     "expiry_date": "200707",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00309_001.jpg",
+    "imageUrl": "/film_packaging/archive/00309_001.jpg",
     "title": "Ilford Delta 400 Professional",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -7487,7 +7487,7 @@ const GALLERY_DATA = [
     "expiry_date": "200502",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00310_000.jpg",
+    "imageUrl": "/film_packaging/archive/00310_000.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -7501,7 +7501,7 @@ const GALLERY_DATA = [
     "expiry_date": "200502",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00310_001.jpg",
+    "imageUrl": "/film_packaging/archive/00310_001.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -7515,7 +7515,7 @@ const GALLERY_DATA = [
     "expiry_date": "202601",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00311_000.jpg",
+    "imageUrl": "/film_packaging/archive/00311_000.jpg",
     "title": "Alien Film Aeronega",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -7528,7 +7528,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00312_000.jpg",
+    "imageUrl": "/film_packaging/archive/00312_000.jpg",
     "title": "Unknown Film (00312_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -7542,7 +7542,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00313_000.jpg",
+    "imageUrl": "/film_packaging/archive/00313_000.jpg",
     "title": "Lomography Color Negative Film",
     "details": "120 • ISO 800 • C-41 • film_box_outside"
   },
@@ -7556,7 +7556,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_inside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00313_001.jpg",
+    "imageUrl": "/film_packaging/archive/00313_001.jpg",
     "title": "Lomography Color Negative Film",
     "details": "120 • ISO 800 • C-41 • film_box_inside"
   },
@@ -7570,7 +7570,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00314_000.jpg",
+    "imageUrl": "/film_packaging/archive/00314_000.jpg",
     "title": "Lomography Lomochrome Color'92",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -7584,7 +7584,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_inside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00314_001.jpg",
+    "imageUrl": "/film_packaging/archive/00314_001.jpg",
     "title": "Lomography Lomochrome Color'92",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -7598,7 +7598,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00315_000.jpg",
+    "imageUrl": "/film_packaging/archive/00315_000.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA 400",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -7612,7 +7612,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_inside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00315_001.jpg",
+    "imageUrl": "/film_packaging/archive/00315_001.jpg",
     "title": "Fujifilm Fujicolor Superia X-TRA 400",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -7626,7 +7626,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00316_000.jpg",
+    "imageUrl": "/film_packaging/archive/00316_000.jpg",
     "title": "Svema Foto 200",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -7640,7 +7640,7 @@ const GALLERY_DATA = [
     "expiry_date": "202503",
     "item_type": "film_box_outside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00317_000.jpg",
+    "imageUrl": "/film_packaging/archive/00317_000.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -7654,7 +7654,7 @@ const GALLERY_DATA = [
     "expiry_date": "202503",
     "item_type": "film_box_inside",
     "author": "@zruk_ts",
-    "imageUrl": "film_packaging/archive/00317_001.jpg",
+    "imageUrl": "/film_packaging/archive/00317_001.jpg",
     "title": "Foma Fomapan Classic 100",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -7668,7 +7668,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00318_000.jpg",
+    "imageUrl": "/film_packaging/archive/00318_000.jpg",
     "title": "Fujifilm Fujichrome Provia 400 Professional",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -7682,7 +7682,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00318_001.jpg",
+    "imageUrl": "/film_packaging/archive/00318_001.jpg",
     "title": "Fujifilm Fujichrome Provia 400 Professional",
     "details": "120 • ISO 400 • E-6 • film_box_leaflet"
   },
@@ -7696,7 +7696,7 @@ const GALLERY_DATA = [
     "expiry_date": "199708",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00318_002.jpg",
+    "imageUrl": "/film_packaging/archive/00318_002.jpg",
     "title": "Fujifilm Fujichrome Provia 400 Professional",
     "details": "120 • ISO 400 • E-6 • film_box_leaflet"
   },
@@ -7710,7 +7710,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00319_000.jpg",
+    "imageUrl": "/film_packaging/archive/00319_000.jpg",
     "title": "Fujifilm Fujichrome Provia 400F Professional",
     "details": "120 • ISO 400 • E-6 • film_box_outside"
   },
@@ -7724,7 +7724,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00319_001.jpg",
+    "imageUrl": "/film_packaging/archive/00319_001.jpg",
     "title": "Fujifilm Fujichrome Provia 400F Professional",
     "details": "120 • ISO 400 • E-6 • film_box_inside"
   },
@@ -7738,7 +7738,7 @@ const GALLERY_DATA = [
     "expiry_date": "200307",
     "item_type": "film_box_outside",
     "author": "Aoi Yuki",
-    "imageUrl": "film_packaging/archive/00320_000.jpg",
+    "imageUrl": "/film_packaging/archive/00320_000.jpg",
     "title": "Kodak Advantix Ultra",
     "details": "APS • ISO 200 • C-41 • film_box_outside"
   },
@@ -7752,7 +7752,7 @@ const GALLERY_DATA = [
     "expiry_date": "202401",
     "item_type": "film_box_outside",
     "author": "@sachynmital",
-    "imageUrl": "film_packaging/archive/00321_000.jpg",
+    "imageUrl": "/film_packaging/archive/00321_000.jpg",
     "title": "Mr. Negative 250D",
     "details": "35mm • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -7766,7 +7766,7 @@ const GALLERY_DATA = [
     "expiry_date": "201301",
     "item_type": "film_box_outside",
     "author": "@sachynmital",
-    "imageUrl": "film_packaging/archive/00322_000.jpg",
+    "imageUrl": "/film_packaging/archive/00322_000.jpg",
     "title": "Mr. Negative Eterna 250D",
     "details": "35mm • ISO 250 • ECN-2 • film_box_outside"
   },
@@ -7780,7 +7780,7 @@ const GALLERY_DATA = [
     "expiry_date": "202401",
     "item_type": "film_box_outside",
     "author": "@sachynmital",
-    "imageUrl": "film_packaging/archive/00323_000.jpg",
+    "imageUrl": "/film_packaging/archive/00323_000.jpg",
     "title": "Mr. Negative Silver Screen Negative",
     "details": "35mm • ISO 200 • ECN-2 • film_box_outside"
   },
@@ -7794,7 +7794,7 @@ const GALLERY_DATA = [
     "expiry_date": "199305",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00324_000.jpg",
+    "imageUrl": "/film_packaging/archive/00324_000.jpg",
     "title": "SupaSnaps Snappit Film",
     "details": "126 • ISO 100 • C-41 • film_box_outside"
   },
@@ -7808,7 +7808,7 @@ const GALLERY_DATA = [
     "expiry_date": "199305",
     "item_type": "film_cartridge",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00324_001.jpg",
+    "imageUrl": "/film_packaging/archive/00324_001.jpg",
     "title": "SupaSnaps Snappit Film",
     "details": "126 • ISO 100 • C-41 • film_cartridge"
   },
@@ -7822,7 +7822,7 @@ const GALLERY_DATA = [
     "expiry_date": "197803",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00325_000.jpg",
+    "imageUrl": "/film_packaging/archive/00325_000.jpg",
     "title": "Kodak Kodacolor II",
     "details": "120 • ISO 80 • C-22 • film_box_outside"
   },
@@ -7836,7 +7836,7 @@ const GALLERY_DATA = [
     "expiry_date": "197803",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00325_001.jpg",
+    "imageUrl": "/film_packaging/archive/00325_001.jpg",
     "title": "Kodak Kodacolor II",
     "details": "120 • ISO 80 • C-22 • film_box_leaflet"
   },
@@ -7850,7 +7850,7 @@ const GALLERY_DATA = [
     "expiry_date": "197803",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00325_002.jpg",
+    "imageUrl": "/film_packaging/archive/00325_002.jpg",
     "title": "Kodak Kodacolor II",
     "details": "120 • ISO 80 • C-22 • film_box_leaflet"
   },
@@ -7864,7 +7864,7 @@ const GALLERY_DATA = [
     "expiry_date": "200407",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00326_000.jpg",
+    "imageUrl": "/film_packaging/archive/00326_000.jpg",
     "title": "Kodak Advantix Ultra Max",
     "details": "APS • ISO 400 • C-41 • film_box_outside"
   },
@@ -7878,7 +7878,7 @@ const GALLERY_DATA = [
     "expiry_date": "200201",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00327_000.jpg",
+    "imageUrl": "/film_packaging/archive/00327_000.jpg",
     "title": "Polaroid High Definition",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -7892,7 +7892,7 @@ const GALLERY_DATA = [
     "expiry_date": "200107",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00328_000.jpg",
+    "imageUrl": "/film_packaging/archive/00328_000.jpg",
     "title": "Agfa AgfaColor HDC Plus",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -7906,7 +7906,7 @@ const GALLERY_DATA = [
     "expiry_date": "200305",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00329_000.jpg",
+    "imageUrl": "/film_packaging/archive/00329_000.jpg",
     "title": "Agfa AgfaColor Vista",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -7920,7 +7920,7 @@ const GALLERY_DATA = [
     "expiry_date": "202508",
     "item_type": "film_box_outside",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00330_000.jpg",
+    "imageUrl": "/film_packaging/archive/00330_000.jpg",
     "title": "CineStill 400Dynamic",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -7934,7 +7934,7 @@ const GALLERY_DATA = [
     "expiry_date": "202508",
     "item_type": "film_box_inside",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00330_001.jpg",
+    "imageUrl": "/film_packaging/archive/00330_001.jpg",
     "title": "CineStill 400Dynamic",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -7948,7 +7948,7 @@ const GALLERY_DATA = [
     "expiry_date": "198104",
     "item_type": "film_box_outside",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00331_000.jpg",
+    "imageUrl": "/film_packaging/archive/00331_000.jpg",
     "title": "Kodak Kodacolor 400",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -7962,7 +7962,7 @@ const GALLERY_DATA = [
     "expiry_date": "198104",
     "item_type": "film_box_leaflet",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00331_001.jpg",
+    "imageUrl": "/film_packaging/archive/00331_001.jpg",
     "title": "Kodak Kodacolor 400",
     "details": "110 • ISO 400 • C-41 • film_box_leaflet"
   },
@@ -7976,7 +7976,7 @@ const GALLERY_DATA = [
     "expiry_date": "198104",
     "item_type": "film_box_leaflet",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00331_002.jpg",
+    "imageUrl": "/film_packaging/archive/00331_002.jpg",
     "title": "Kodak Kodacolor 400",
     "details": "110 • ISO 400 • C-41 • film_box_leaflet"
   },
@@ -7990,7 +7990,7 @@ const GALLERY_DATA = [
     "expiry_date": "200702",
     "item_type": "film_box_outside",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00332_000.jpg",
+    "imageUrl": "/film_packaging/archive/00332_000.jpg",
     "title": "Kodak 110 Film",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -8004,7 +8004,7 @@ const GALLERY_DATA = [
     "expiry_date": "200711",
     "item_type": "film_box_outside",
     "author": "@filmfotofella",
-    "imageUrl": "film_packaging/archive/00333_000.jpg",
+    "imageUrl": "/film_packaging/archive/00333_000.jpg",
     "title": "Kodak Ultra",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -8018,7 +8018,7 @@ const GALLERY_DATA = [
     "expiry_date": "200309",
     "item_type": "film_box_outside",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00334_000.jpg",
+    "imageUrl": "/film_packaging/archive/00334_000.jpg",
     "title": "Jessops CS100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -8032,7 +8032,7 @@ const GALLERY_DATA = [
     "expiry_date": "200309",
     "item_type": "film_box_inside",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00334_001.jpg",
+    "imageUrl": "/film_packaging/archive/00334_001.jpg",
     "title": "Jessops CS100",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -8046,7 +8046,7 @@ const GALLERY_DATA = [
     "expiry_date": "200309",
     "item_type": "film_box_processing_envelope",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00334_002.jpg",
+    "imageUrl": "/film_packaging/archive/00334_002.jpg",
     "title": "Jessops CS100",
     "details": "35mm • ISO 100 • E-6 • film_box_processing_envelope"
   },
@@ -8060,7 +8060,7 @@ const GALLERY_DATA = [
     "expiry_date": "200309",
     "item_type": "film_box_processing_envelope",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00334_003.jpg",
+    "imageUrl": "/film_packaging/archive/00334_003.jpg",
     "title": "Jessops CS100",
     "details": "35mm • ISO 100 • E-6 • film_box_processing_envelope"
   },
@@ -8074,7 +8074,7 @@ const GALLERY_DATA = [
     "expiry_date": "200512",
     "item_type": "film_box_outside",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00335_000.jpg",
+    "imageUrl": "/film_packaging/archive/00335_000.jpg",
     "title": "Jessops Diamond Everyday",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -8088,7 +8088,7 @@ const GALLERY_DATA = [
     "expiry_date": "200512",
     "item_type": "film_box_inside",
     "author": "GreatGizmo74",
-    "imageUrl": "film_packaging/archive/00335_001.jpg",
+    "imageUrl": "/film_packaging/archive/00335_001.jpg",
     "title": "Jessops Diamond Everyday",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -8102,7 +8102,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00336_000.jpg",
+    "imageUrl": "/film_packaging/archive/00336_000.jpg",
     "title": "Lomography Lomochrome Color’92",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -8116,7 +8116,7 @@ const GALLERY_DATA = [
     "expiry_date": "202601",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00337_000.jpg",
+    "imageUrl": "/film_packaging/archive/00337_000.jpg",
     "title": "Kodak UltraMax",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -8130,7 +8130,7 @@ const GALLERY_DATA = [
     "expiry_date": "198612",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00338_000.jpg",
+    "imageUrl": "/film_packaging/archive/00338_000.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -8144,7 +8144,7 @@ const GALLERY_DATA = [
     "expiry_date": "198612",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00338_001.jpg",
+    "imageUrl": "/film_packaging/archive/00338_001.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_leaflet"
   },
@@ -8158,7 +8158,7 @@ const GALLERY_DATA = [
     "expiry_date": "198612",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00338_002.jpg",
+    "imageUrl": "/film_packaging/archive/00338_002.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_leaflet"
   },
@@ -8172,7 +8172,7 @@ const GALLERY_DATA = [
     "expiry_date": "199904",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00339_000.jpg",
+    "imageUrl": "/film_packaging/archive/00339_000.jpg",
     "title": "Fujifilm Fujichrome 64T",
     "details": "120 • ISO 64 • E-6 • film_box_outside"
   },
@@ -8186,7 +8186,7 @@ const GALLERY_DATA = [
     "expiry_date": "199904",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00339_001.jpg",
+    "imageUrl": "/film_packaging/archive/00339_001.jpg",
     "title": "Fujifilm Fujichrome 64T",
     "details": "120 • ISO 64 • E-6 • film_box_outside"
   },
@@ -8200,7 +8200,7 @@ const GALLERY_DATA = [
     "expiry_date": "199904",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00339_002.jpg",
+    "imageUrl": "/film_packaging/archive/00339_002.jpg",
     "title": "Fujifilm Fujichrome 64T",
     "details": "120 • ISO 64 • E-6 • film_box_inside"
   },
@@ -8214,7 +8214,7 @@ const GALLERY_DATA = [
     "expiry_date": "200205",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00340_000.jpg",
+    "imageUrl": "/film_packaging/archive/00340_000.jpg",
     "title": "Konica Sepia Professional",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -8228,7 +8228,7 @@ const GALLERY_DATA = [
     "expiry_date": "201004",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00341_000.jpg",
+    "imageUrl": "/film_packaging/archive/00341_000.jpg",
     "title": "Fujifilm Neopan 400 Presto",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -8242,7 +8242,7 @@ const GALLERY_DATA = [
     "expiry_date": "199205",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00342_000.jpg",
+    "imageUrl": "/film_packaging/archive/00342_000.jpg",
     "title": "Ificolor SHR 100",
     "details": "126 • ISO 100 • C-41 • film_box_outside"
   },
@@ -8256,7 +8256,7 @@ const GALLERY_DATA = [
     "expiry_date": "198807",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00343_000.jpg",
+    "imageUrl": "/film_packaging/archive/00343_000.jpg",
     "title": "Fujifilm Neopan SS",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -8270,7 +8270,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_leaflet",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00344_000.jpg",
+    "imageUrl": "/film_packaging/archive/00344_000.jpg",
     "title": "Ificolor Super FG HQ 200",
     "details": "35mm • ISO 200 • C-41 • film_box_leaflet"
   },
@@ -8284,7 +8284,7 @@ const GALLERY_DATA = [
     "expiry_date": "202601",
     "item_type": "film_box_outside",
     "author": "The Compartmentalist",
-    "imageUrl": "film_packaging/archive/00345_000.jpg",
+    "imageUrl": "/film_packaging/archive/00345_000.jpg",
     "title": "Kodak Portra 160",
     "details": "35mm • ISO 160 • C-41 • film_box_outside"
   },
@@ -8298,7 +8298,7 @@ const GALLERY_DATA = [
     "expiry_date": "198008",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00346_000.jpg",
+    "imageUrl": "/film_packaging/archive/00346_000.jpg",
     "title": "Polaroid Polavision Phototape Land Cassette Type 608",
     "details": "Polavision • ISO 40 • Instant • film_box_outside"
   },
@@ -8312,7 +8312,7 @@ const GALLERY_DATA = [
     "expiry_date": "197610",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00347_000.jpg",
+    "imageUrl": "/film_packaging/archive/00347_000.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_outside"
   },
@@ -8326,7 +8326,7 @@ const GALLERY_DATA = [
     "expiry_date": "197610",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00347_001.jpg",
+    "imageUrl": "/film_packaging/archive/00347_001.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8340,7 +8340,7 @@ const GALLERY_DATA = [
     "expiry_date": "197610",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00347_002.jpg",
+    "imageUrl": "/film_packaging/archive/00347_002.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8354,7 +8354,7 @@ const GALLERY_DATA = [
     "expiry_date": "197610",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00347_003.jpg",
+    "imageUrl": "/film_packaging/archive/00347_003.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8368,7 +8368,7 @@ const GALLERY_DATA = [
     "expiry_date": "197610",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00347_004.jpg",
+    "imageUrl": "/film_packaging/archive/00347_004.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8382,7 +8382,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_000.jpg",
+    "imageUrl": "/film_packaging/archive/00348_000.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_outside"
   },
@@ -8396,7 +8396,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_001.jpg",
+    "imageUrl": "/film_packaging/archive/00348_001.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8410,7 +8410,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_002.jpg",
+    "imageUrl": "/film_packaging/archive/00348_002.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8424,7 +8424,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_003.jpg",
+    "imageUrl": "/film_packaging/archive/00348_003.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8438,7 +8438,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_004.jpg",
+    "imageUrl": "/film_packaging/archive/00348_004.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8452,7 +8452,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00348_005.jpg",
+    "imageUrl": "/film_packaging/archive/00348_005.jpg",
     "title": "Film Corporation of America TriFCA 120",
     "details": "120 • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8466,7 +8466,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00349_000.jpg",
+    "imageUrl": "/film_packaging/archive/00349_000.jpg",
     "title": "Polaroid 990",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -8480,7 +8480,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00349_001.jpg",
+    "imageUrl": "/film_packaging/archive/00349_001.jpg",
     "title": "Polaroid 990",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -8494,7 +8494,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00349_002.jpg",
+    "imageUrl": "/film_packaging/archive/00349_002.jpg",
     "title": "Polaroid 990",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -8508,7 +8508,7 @@ const GALLERY_DATA = [
     "expiry_date": "200810",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00349_003.jpg",
+    "imageUrl": "/film_packaging/archive/00349_003.jpg",
     "title": "Polaroid 990",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -8522,7 +8522,7 @@ const GALLERY_DATA = [
     "expiry_date": "198708",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00350_000.jpg",
+    "imageUrl": "/film_packaging/archive/00350_000.jpg",
     "title": "Fujifilm Fujicolor HR 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -8536,7 +8536,7 @@ const GALLERY_DATA = [
     "expiry_date": "198708",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00350_001.jpg",
+    "imageUrl": "/film_packaging/archive/00350_001.jpg",
     "title": "Fujifilm Fujicolor HR 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_leaflet"
   },
@@ -8550,7 +8550,7 @@ const GALLERY_DATA = [
     "expiry_date": "198708",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00350_002.jpg",
+    "imageUrl": "/film_packaging/archive/00350_002.jpg",
     "title": "Fujifilm Fujicolor HR 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_leaflet"
   },
@@ -8564,7 +8564,7 @@ const GALLERY_DATA = [
     "expiry_date": "200706",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00351_000.jpg",
+    "imageUrl": "/film_packaging/archive/00351_000.jpg",
     "title": "Klick Max Extra Definition Multi Purpose Film",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -8578,7 +8578,7 @@ const GALLERY_DATA = [
     "expiry_date": "200211",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00352_000.jpg",
+    "imageUrl": "/film_packaging/archive/00352_000.jpg",
     "title": "Polaroid Spectra Film",
     "details": "Instant Integral Film • ISO 600 • Instant • film_box_outside"
   },
@@ -8592,7 +8592,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00353_000.jpg",
+    "imageUrl": "/film_packaging/archive/00353_000.jpg",
     "title": "Kodak High Speed Infrared Film 2481",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -8606,7 +8606,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00354_000.jpg",
+    "imageUrl": "/film_packaging/archive/00354_000.jpg",
     "title": "Impossible Project PX 600 Silver Shade UV+",
     "details": "Instant Integral Film • ISO 600 • Instant • film_box_outside"
   },
@@ -8620,7 +8620,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00355_000.jpg",
+    "imageUrl": "/film_packaging/archive/00355_000.jpg",
     "title": "JCH Streetpan",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -8634,7 +8634,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00355_001.jpg",
+    "imageUrl": "/film_packaging/archive/00355_001.jpg",
     "title": "JCH Streetpan",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -8648,7 +8648,7 @@ const GALLERY_DATA = [
     "expiry_date": "200307",
     "item_type": "film_box_outside",
     "author": "lemoniter",
-    "imageUrl": "film_packaging/archive/00356_000.jpg",
+    "imageUrl": "/film_packaging/archive/00356_000.jpg",
     "title": "Club Color Natural Color System",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -8662,7 +8662,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00357_000.jpg",
+    "imageUrl": "/film_packaging/archive/00357_000.jpg",
     "title": "Agfa Isopan ISS",
     "details": "127 • ISO 100 • BW • film_box_outside"
   },
@@ -8676,7 +8676,7 @@ const GALLERY_DATA = [
     "expiry_date": "198209",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00358_000.jpg",
+    "imageUrl": "/film_packaging/archive/00358_000.jpg",
     "title": "Herzog Duxopan",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -8690,7 +8690,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_outside",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00359_000.jpg",
+    "imageUrl": "/film_packaging/archive/00359_000.jpg",
     "title": "ORWO Chrom UT21",
     "details": "35mm • ISO 100 • Unknown • film_box_outside"
   },
@@ -8704,7 +8704,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_leaflet",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00359_001.jpg",
+    "imageUrl": "/film_packaging/archive/00359_001.jpg",
     "title": "ORWO Chrom UT21",
     "details": "35mm • ISO 100 • Unknown • film_box_leaflet"
   },
@@ -8718,7 +8718,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_leaflet",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00359_002.jpg",
+    "imageUrl": "/film_packaging/archive/00359_002.jpg",
     "title": "ORWO Chrom UT21",
     "details": "35mm • ISO 100 • Unknown • film_box_leaflet"
   },
@@ -8732,7 +8732,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_processing_envelope",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00359_003.jpg",
+    "imageUrl": "/film_packaging/archive/00359_003.jpg",
     "title": "ORWO Chrom UT21",
     "details": "35mm • ISO 100 • Unknown • film_box_processing_envelope"
   },
@@ -8746,7 +8746,7 @@ const GALLERY_DATA = [
     "expiry_date": "199105",
     "item_type": "film_box_processing_envelope",
     "author": "fine-seat",
-    "imageUrl": "film_packaging/archive/00359_004.jpg",
+    "imageUrl": "/film_packaging/archive/00359_004.jpg",
     "title": "ORWO Chrom UT21",
     "details": "35mm • ISO 100 • Unknown • film_box_processing_envelope"
   },
@@ -8760,7 +8760,7 @@ const GALLERY_DATA = [
     "expiry_date": "202701",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00360_000.jpg",
+    "imageUrl": "/film_packaging/archive/00360_000.jpg",
     "title": "CatLABS X Film 80 MKII",
     "details": "120 • ISO 80 • BW • film_box_outside"
   },
@@ -8774,7 +8774,7 @@ const GALLERY_DATA = [
     "expiry_date": "202701",
     "item_type": "film_box_inside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00360_001.jpg",
+    "imageUrl": "/film_packaging/archive/00360_001.jpg",
     "title": "CatLABS X Film 80 MKII",
     "details": "120 • ISO 80 • BW • film_box_inside"
   },
@@ -8788,7 +8788,7 @@ const GALLERY_DATA = [
     "expiry_date": "202702",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00361_000.jpg",
+    "imageUrl": "/film_packaging/archive/00361_000.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -8802,7 +8802,7 @@ const GALLERY_DATA = [
     "expiry_date": "202702",
     "item_type": "film_box_inside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00361_001.jpg",
+    "imageUrl": "/film_packaging/archive/00361_001.jpg",
     "title": "Ilford Delta 100 Professional",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -8816,7 +8816,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_000.jpg",
+    "imageUrl": "/film_packaging/archive/00362_000.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_outside"
   },
@@ -8830,7 +8830,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_001.jpg",
+    "imageUrl": "/film_packaging/archive/00362_001.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8844,7 +8844,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_002.jpg",
+    "imageUrl": "/film_packaging/archive/00362_002.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -8858,7 +8858,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_003.jpg",
+    "imageUrl": "/film_packaging/archive/00362_003.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8872,7 +8872,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_004.jpg",
+    "imageUrl": "/film_packaging/archive/00362_004.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8886,7 +8886,7 @@ const GALLERY_DATA = [
     "expiry_date": "197608",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00362_005.jpg",
+    "imageUrl": "/film_packaging/archive/00362_005.jpg",
     "title": "Film Corporation of America TriFCA 35",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8900,7 +8900,7 @@ const GALLERY_DATA = [
     "expiry_date": "197510",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00363_000.jpg",
+    "imageUrl": "/film_packaging/archive/00363_000.jpg",
     "title": "PrinzColor Colour Negative Film",
     "details": "35mm • ISO 80 • Unknown • film_box_outside"
   },
@@ -8914,7 +8914,7 @@ const GALLERY_DATA = [
     "expiry_date": "197510",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00363_001.jpg",
+    "imageUrl": "/film_packaging/archive/00363_001.jpg",
     "title": "PrinzColor Colour Negative Film",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8928,7 +8928,7 @@ const GALLERY_DATA = [
     "expiry_date": "197510",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00363_002.jpg",
+    "imageUrl": "/film_packaging/archive/00363_002.jpg",
     "title": "PrinzColor Colour Negative Film",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8942,7 +8942,7 @@ const GALLERY_DATA = [
     "expiry_date": "197510",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00363_003.jpg",
+    "imageUrl": "/film_packaging/archive/00363_003.jpg",
     "title": "PrinzColor Colour Negative Film",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -8956,7 +8956,7 @@ const GALLERY_DATA = [
     "expiry_date": "197510",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00363_004.jpg",
+    "imageUrl": "/film_packaging/archive/00363_004.jpg",
     "title": "PrinzColor Colour Negative Film",
     "details": "35mm • ISO 80 • Unknown • film_box_outside"
   },
@@ -8970,7 +8970,7 @@ const GALLERY_DATA = [
     "expiry_date": "200707",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00364_000.jpg",
+    "imageUrl": "/film_packaging/archive/00364_000.jpg",
     "title": "Polaroid Image Instant Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -8984,7 +8984,7 @@ const GALLERY_DATA = [
     "expiry_date": "200707",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00364_001.jpg",
+    "imageUrl": "/film_packaging/archive/00364_001.jpg",
     "title": "Polaroid Image Instant Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -8998,7 +8998,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00365_000.jpg",
+    "imageUrl": "/film_packaging/archive/00365_000.jpg",
     "title": "Kodak Tri-X 400 Pro",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -9012,7 +9012,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00365_001.jpg",
+    "imageUrl": "/film_packaging/archive/00365_001.jpg",
     "title": "Kodak Tri-X 400 Pro",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -9026,7 +9026,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00366_000.jpg",
+    "imageUrl": "/film_packaging/archive/00366_000.jpg",
     "title": "Harman Phoenix II",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -9040,7 +9040,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00366_001.jpg",
+    "imageUrl": "/film_packaging/archive/00366_001.jpg",
     "title": "Harman Phoenix II",
     "details": "120 • ISO 200 • C-41 • film_box_inside"
   },
@@ -9054,7 +9054,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00367_000.jpg",
+    "imageUrl": "/film_packaging/archive/00367_000.jpg",
     "title": "Harman Phoenix II",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -9068,7 +9068,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00367_001.jpg",
+    "imageUrl": "/film_packaging/archive/00367_001.jpg",
     "title": "Harman Phoenix II",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -9082,7 +9082,7 @@ const GALLERY_DATA = [
     "expiry_date": "196108",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00368_000.jpg",
+    "imageUrl": "/film_packaging/archive/00368_000.jpg",
     "title": "VEB Fotochemische Werke Berlin Dekopan Feinkorn",
     "details": "35mm • ISO 32 • BW • film_box_outside"
   },
@@ -9096,7 +9096,7 @@ const GALLERY_DATA = [
     "expiry_date": "196108",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00369_000.jpg",
+    "imageUrl": "/film_packaging/archive/00369_000.jpg",
     "title": "VEB Fotochemische Werke Berlin Dekopan Super S",
     "details": "35mm • ISO 80 • BW • film_box_outside"
   },
@@ -9110,7 +9110,7 @@ const GALLERY_DATA = [
     "expiry_date": "196108",
     "item_type": "film_box_inside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00369_001.jpg",
+    "imageUrl": "/film_packaging/archive/00369_001.jpg",
     "title": "VEB Fotochemische Werke Berlin Dekopan Super S",
     "details": "35mm • ISO 80 • BW • film_box_inside"
   },
@@ -9124,7 +9124,7 @@ const GALLERY_DATA = [
     "expiry_date": "198910",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00370_000.jpg",
+    "imageUrl": "/film_packaging/archive/00370_000.jpg",
     "title": "Minox MinoColor 3",
     "details": "8x11mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -9138,7 +9138,7 @@ const GALLERY_DATA = [
     "expiry_date": "201808",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00371_000.jpg",
+    "imageUrl": "/film_packaging/archive/00371_000.jpg",
     "title": "Agfa Vista Plus 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -9152,7 +9152,7 @@ const GALLERY_DATA = [
     "expiry_date": "201808",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00371_001.jpg",
+    "imageUrl": "/film_packaging/archive/00371_001.jpg",
     "title": "Agfa Vista Plus 200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -9166,7 +9166,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00372_000.jpg",
+    "imageUrl": "/film_packaging/archive/00372_000.jpg",
     "title": "Fujifilm Superia Premium 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -9180,7 +9180,7 @@ const GALLERY_DATA = [
     "expiry_date": "195611",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00373_000.jpg",
+    "imageUrl": "/film_packaging/archive/00373_000.jpg",
     "title": "Filmfabrik Köpenick Dekopan Feinkorn",
     "details": "35mm • ISO 40 • BW • film_box_outside"
   },
@@ -9194,7 +9194,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00374_000.jpg",
+    "imageUrl": "/film_packaging/archive/00374_000.jpg",
     "title": "Agfa Isopan ISS",
     "details": "35mm • ISO 100 • BW • film_cartridge"
   },
@@ -9208,7 +9208,7 @@ const GALLERY_DATA = [
     "expiry_date": "196011",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00375_000.jpg",
+    "imageUrl": "/film_packaging/archive/00375_000.jpg",
     "title": "Ilford FP3 Series 2",
     "details": "35mm • ISO 125 • BW • film_cartridge"
   },
@@ -9222,7 +9222,7 @@ const GALLERY_DATA = [
     "expiry_date": "195801",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00376_000.jpg",
+    "imageUrl": "/film_packaging/archive/00376_000.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO Unknown • BW • film_cartridge"
   },
@@ -9236,7 +9236,7 @@ const GALLERY_DATA = [
     "expiry_date": "195903",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00377_000.jpg",
+    "imageUrl": "/film_packaging/archive/00377_000.jpg",
     "title": "Ilford FP3",
     "details": "35mm • ISO 125 • BW • film_cartridge"
   },
@@ -9250,7 +9250,7 @@ const GALLERY_DATA = [
     "expiry_date": "195803",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00378_000.jpg",
+    "imageUrl": "/film_packaging/archive/00378_000.jpg",
     "title": "Kodak Panatomic-X",
     "details": "35mm • ISO Unknown • BW • film_cartridge"
   },
@@ -9264,7 +9264,7 @@ const GALLERY_DATA = [
     "expiry_date": "195706",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00379_000.jpg",
+    "imageUrl": "/film_packaging/archive/00379_000.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO Unknown • BW • film_cartridge"
   },
@@ -9278,7 +9278,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00380_000.jpg",
+    "imageUrl": "/film_packaging/archive/00380_000.jpg",
     "title": "Agfa Agfacolor Umkehr-Ultra T",
     "details": "35mm • ISO Unknown • Unknown • film_cartridge"
   },
@@ -9292,7 +9292,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_000.jpg",
+    "imageUrl": "/film_packaging/archive/00381_000.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_box_outside"
   },
@@ -9306,7 +9306,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_box_leaflet",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_001.jpg",
+    "imageUrl": "/film_packaging/archive/00381_001.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_box_leaflet"
   },
@@ -9320,7 +9320,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_box_leaflet",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_002.jpg",
+    "imageUrl": "/film_packaging/archive/00381_002.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_box_leaflet"
   },
@@ -9334,7 +9334,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_cartridge",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_003.jpg",
+    "imageUrl": "/film_packaging/archive/00381_003.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_cartridge"
   },
@@ -9348,7 +9348,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_box_processing_envelope",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_004.jpg",
+    "imageUrl": "/film_packaging/archive/00381_004.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_box_processing_envelope"
   },
@@ -9362,7 +9362,7 @@ const GALLERY_DATA = [
     "expiry_date": "198111",
     "item_type": "film_box_processing_envelope",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00381_005.jpg",
+    "imageUrl": "/film_packaging/archive/00381_005.jpg",
     "title": "Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping",
     "details": "Super 8 • ISO 40 • K-14 • film_box_processing_envelope"
   },
@@ -9376,7 +9376,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00382_000.jpg",
+    "imageUrl": "/film_packaging/archive/00382_000.jpg",
     "title": "Ilford HP3",
     "details": "620 • ISO 400 • BW • film_box_outside"
   },
@@ -9390,7 +9390,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00382_001.jpg",
+    "imageUrl": "/film_packaging/archive/00382_001.jpg",
     "title": "Ilford HP3",
     "details": "620 • ISO 400 • BW • film_box_leaflet"
   },
@@ -9404,7 +9404,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00382_002.jpg",
+    "imageUrl": "/film_packaging/archive/00382_002.jpg",
     "title": "Ilford HP3",
     "details": "620 • ISO 400 • BW • film_box_leaflet"
   },
@@ -9418,7 +9418,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00383_000.jpg",
+    "imageUrl": "/film_packaging/archive/00383_000.jpg",
     "title": "Ricoh Golden \"16\"",
     "details": "16mm • ISO 160 • BW • film_box_outside"
   },
@@ -9432,7 +9432,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00383_001.jpg",
+    "imageUrl": "/film_packaging/archive/00383_001.jpg",
     "title": "Ricoh Golden \"16\"",
     "details": "16mm • ISO 160 • BW • film_box_processing_envelope"
   },
@@ -9446,7 +9446,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00383_002.jpg",
+    "imageUrl": "/film_packaging/archive/00383_002.jpg",
     "title": "Ricoh Golden \"16\"",
     "details": "16mm • ISO 160 • BW • film_box_processing_envelope"
   },
@@ -9460,7 +9460,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00383_003.jpg",
+    "imageUrl": "/film_packaging/archive/00383_003.jpg",
     "title": "Ricoh Golden \"16\"",
     "details": "16mm • ISO 160 • BW • film_box_leaflet"
   },
@@ -9474,7 +9474,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00383_004.jpg",
+    "imageUrl": "/film_packaging/archive/00383_004.jpg",
     "title": "Ricoh Golden \"16\"",
     "details": "16mm • ISO 160 • BW • film_box_leaflet"
   },
@@ -9488,7 +9488,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00384_000.jpg",
+    "imageUrl": "/film_packaging/archive/00384_000.jpg",
     "title": "Robot NR-Cassette",
     "details": "35mm • ISO Unknown • Unknown • film_box_outside"
   },
@@ -9502,7 +9502,7 @@ const GALLERY_DATA = [
     "expiry_date": "195604",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00385_000.jpg",
+    "imageUrl": "/film_packaging/archive/00385_000.jpg",
     "title": "Ansco Plenachrome",
     "details": "120 • ISO Unknown • BW • film_box_outside"
   },
@@ -9516,7 +9516,7 @@ const GALLERY_DATA = [
     "expiry_date": "200511",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00386_000.jpg",
+    "imageUrl": "/film_packaging/archive/00386_000.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -9530,7 +9530,7 @@ const GALLERY_DATA = [
     "expiry_date": "200511",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00386_001.jpg",
+    "imageUrl": "/film_packaging/archive/00386_001.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_inside"
   },
@@ -9544,7 +9544,7 @@ const GALLERY_DATA = [
     "expiry_date": "199204",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00387_000.jpg",
+    "imageUrl": "/film_packaging/archive/00387_000.jpg",
     "title": "Svema Foto 64",
     "details": "16mm • ISO 64 • BW • film_box_outside"
   },
@@ -9558,7 +9558,7 @@ const GALLERY_DATA = [
     "expiry_date": "196701",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00388_000.jpg",
+    "imageUrl": "/film_packaging/archive/00388_000.jpg",
     "title": "Walgreen All Purpose Film",
     "details": "620 • ISO 80 • BW • film_box_outside"
   },
@@ -9572,7 +9572,7 @@ const GALLERY_DATA = [
     "expiry_date": "196701",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00388_001.jpg",
+    "imageUrl": "/film_packaging/archive/00388_001.jpg",
     "title": "Walgreen All Purpose Film",
     "details": "620 • ISO 80 • BW • film_box_leaflet"
   },
@@ -9586,7 +9586,7 @@ const GALLERY_DATA = [
     "expiry_date": "196701",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00388_002.jpg",
+    "imageUrl": "/film_packaging/archive/00388_002.jpg",
     "title": "Walgreen All Purpose Film",
     "details": "620 • ISO 80 • BW • film_box_leaflet"
   },
@@ -9600,7 +9600,7 @@ const GALLERY_DATA = [
     "expiry_date": "196701",
     "item_type": "film_cartridge",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00388_003.jpg",
+    "imageUrl": "/film_packaging/archive/00388_003.jpg",
     "title": "Walgreen All Purpose Film",
     "details": "620 • ISO 80 • BW • film_cartridge"
   },
@@ -9614,7 +9614,7 @@ const GALLERY_DATA = [
     "expiry_date": "194701",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00389_000.jpg",
+    "imageUrl": "/film_packaging/archive/00389_000.jpg",
     "title": "Gevaert Superchrome",
     "details": "127 • ISO Unknown • BW • film_box_outside"
   },
@@ -9628,7 +9628,7 @@ const GALLERY_DATA = [
     "expiry_date": "195910",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00390_000.jpg",
+    "imageUrl": "/film_packaging/archive/00390_000.jpg",
     "title": "Kodak Kodacolor",
     "details": "35mm • ISO 32 • C-22 • film_box_outside"
   },
@@ -9642,7 +9642,7 @@ const GALLERY_DATA = [
     "expiry_date": "195910",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00390_001.jpg",
+    "imageUrl": "/film_packaging/archive/00390_001.jpg",
     "title": "Kodak Kodacolor",
     "details": "35mm • ISO 32 • C-22 • film_box_leaflet"
   },
@@ -9656,7 +9656,7 @@ const GALLERY_DATA = [
     "expiry_date": "195910",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00390_002.jpg",
+    "imageUrl": "/film_packaging/archive/00390_002.jpg",
     "title": "Kodak Kodacolor",
     "details": "35mm • ISO 32 • C-22 • film_box_leaflet"
   },
@@ -9670,7 +9670,7 @@ const GALLERY_DATA = [
     "expiry_date": "195910",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00390_003.jpg",
+    "imageUrl": "/film_packaging/archive/00390_003.jpg",
     "title": "Kodak Kodacolor",
     "details": "35mm • ISO 32 • C-22 • film_box_leaflet"
   },
@@ -9684,7 +9684,7 @@ const GALLERY_DATA = [
     "expiry_date": "195910",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00390_004.jpg",
+    "imageUrl": "/film_packaging/archive/00390_004.jpg",
     "title": "Kodak Kodacolor",
     "details": "35mm • ISO 32 • C-22 • film_box_leaflet"
   },
@@ -9698,7 +9698,7 @@ const GALLERY_DATA = [
     "expiry_date": "202611",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00391_000.jpg",
+    "imageUrl": "/film_packaging/archive/00391_000.jpg",
     "title": "Ilford XP2 Super",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -9712,7 +9712,7 @@ const GALLERY_DATA = [
     "expiry_date": "202611",
     "item_type": "film_box_inside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00391_001.jpg",
+    "imageUrl": "/film_packaging/archive/00391_001.jpg",
     "title": "Ilford XP2 Super",
     "details": "120 • ISO 400 • C-41 • film_box_inside"
   },
@@ -9726,7 +9726,7 @@ const GALLERY_DATA = [
     "expiry_date": "201405",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00392_000.jpg",
+    "imageUrl": "/film_packaging/archive/00392_000.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -9740,7 +9740,7 @@ const GALLERY_DATA = [
     "expiry_date": "201405",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00392_001.jpg",
+    "imageUrl": "/film_packaging/archive/00392_001.jpg",
     "title": "Ilford HP5 Plus",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -9754,7 +9754,7 @@ const GALLERY_DATA = [
     "expiry_date": "199206",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00393_000.jpg",
+    "imageUrl": "/film_packaging/archive/00393_000.jpg",
     "title": "Svema Foto 32",
     "details": "120 • ISO 32 • BW • film_box_outside"
   },
@@ -9768,7 +9768,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00394_000.jpg",
+    "imageUrl": "/film_packaging/archive/00394_000.jpg",
     "title": "ORWO NP15",
     "details": "120 • ISO 25 • BW • film_box_outside"
   },
@@ -9782,7 +9782,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00394_001.jpg",
+    "imageUrl": "/film_packaging/archive/00394_001.jpg",
     "title": "ORWO NP15",
     "details": "120 • ISO 25 • BW • film_box_leaflet"
   },
@@ -9796,7 +9796,7 @@ const GALLERY_DATA = [
     "expiry_date": "199208",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00394_002.jpg",
+    "imageUrl": "/film_packaging/archive/00394_002.jpg",
     "title": "ORWO NP15",
     "details": "120 • ISO 25 • BW • film_box_leaflet"
   },
@@ -9810,7 +9810,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_000.jpg",
+    "imageUrl": "/film_packaging/archive/00395_000.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_outside"
   },
@@ -9824,7 +9824,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_cartridge",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_001.jpg",
+    "imageUrl": "/film_packaging/archive/00395_001.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_cartridge"
   },
@@ -9838,7 +9838,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_cartridge",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_002.jpg",
+    "imageUrl": "/film_packaging/archive/00395_002.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_cartridge"
   },
@@ -9852,7 +9852,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_003.jpg",
+    "imageUrl": "/film_packaging/archive/00395_003.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
@@ -9866,7 +9866,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_004.jpg",
+    "imageUrl": "/film_packaging/archive/00395_004.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
@@ -9880,7 +9880,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_005.jpg",
+    "imageUrl": "/film_packaging/archive/00395_005.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
@@ -9894,7 +9894,7 @@ const GALLERY_DATA = [
     "expiry_date": "201311",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00395_006.jpg",
+    "imageUrl": "/film_packaging/archive/00395_006.jpg",
     "title": "Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras",
     "details": "Instant Integral Film • ISO 160 • Instant • film_box_leaflet"
   },
@@ -9908,7 +9908,7 @@ const GALLERY_DATA = [
     "expiry_date": "201509",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00396_000.jpg",
+    "imageUrl": "/film_packaging/archive/00396_000.jpg",
     "title": "Lomography Tiger",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -9922,7 +9922,7 @@ const GALLERY_DATA = [
     "expiry_date": "201509",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00396_001.jpg",
+    "imageUrl": "/film_packaging/archive/00396_001.jpg",
     "title": "Lomography Tiger",
     "details": "110 • ISO 200 • C-41 • film_box_inside"
   },
@@ -9936,7 +9936,7 @@ const GALLERY_DATA = [
     "expiry_date": "201509",
     "item_type": "film_cartridge",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00396_002.jpg",
+    "imageUrl": "/film_packaging/archive/00396_002.jpg",
     "title": "Lomography Tiger",
     "details": "110 • ISO 200 • C-41 • film_cartridge"
   },
@@ -9950,7 +9950,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00397_000.jpg",
+    "imageUrl": "/film_packaging/archive/00397_000.jpg",
     "title": "Minox MinoColor 100 Pro",
     "details": "8x11mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -9964,7 +9964,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00397_001.jpg",
+    "imageUrl": "/film_packaging/archive/00397_001.jpg",
     "title": "Minox MinoColor 100 Pro",
     "details": "8x11mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -9978,7 +9978,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00398_000.jpg",
+    "imageUrl": "/film_packaging/archive/00398_000.jpg",
     "title": "Sharan Black-and-white Negative Film",
     "details": "8x11mm • ISO 100 • BW • film_box_outside"
   },
@@ -9992,7 +9992,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00398_001.jpg",
+    "imageUrl": "/film_packaging/archive/00398_001.jpg",
     "title": "Sharan Black-and-white Negative Film",
     "details": "8x11mm • ISO 100 • BW • film_box_outside"
   },
@@ -10006,7 +10006,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00398_002.jpg",
+    "imageUrl": "/film_packaging/archive/00398_002.jpg",
     "title": "Sharan Black-and-white Negative Film",
     "details": "8x11mm • ISO 100 • BW • film_box_outside"
   },
@@ -10020,7 +10020,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00398_003.jpg",
+    "imageUrl": "/film_packaging/archive/00398_003.jpg",
     "title": "Sharan Black-and-white Negative Film",
     "details": "8x11mm • ISO 100 • BW • film_box_outside"
   },
@@ -10034,7 +10034,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00399_000.jpg",
+    "imageUrl": "/film_packaging/archive/00399_000.jpg",
     "title": "Sharan Color Negative Film",
     "details": "8x11mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10048,7 +10048,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00399_001.jpg",
+    "imageUrl": "/film_packaging/archive/00399_001.jpg",
     "title": "Sharan Color Negative Film",
     "details": "8x11mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10062,7 +10062,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00399_002.jpg",
+    "imageUrl": "/film_packaging/archive/00399_002.jpg",
     "title": "Sharan Color Negative Film",
     "details": "8x11mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10076,7 +10076,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00399_003.jpg",
+    "imageUrl": "/film_packaging/archive/00399_003.jpg",
     "title": "Sharan Color Negative Film",
     "details": "8x11mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10090,7 +10090,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_outside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00400_000.jpg",
+    "imageUrl": "/film_packaging/archive/00400_000.jpg",
     "title": "Rollei RPX 25",
     "details": "35mm • ISO 25 • BW • film_box_outside"
   },
@@ -10104,7 +10104,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_inside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00400_001.jpg",
+    "imageUrl": "/film_packaging/archive/00400_001.jpg",
     "title": "Rollei RPX 25",
     "details": "35mm • ISO 25 • BW • film_box_inside"
   },
@@ -10118,7 +10118,7 @@ const GALLERY_DATA = [
     "expiry_date": "202710",
     "item_type": "film_box_outside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00401_000.jpg",
+    "imageUrl": "/film_packaging/archive/00401_000.jpg",
     "title": "ADOX CMS 20 II Pro",
     "details": "35mm • ISO 20 • BW • film_box_outside"
   },
@@ -10132,7 +10132,7 @@ const GALLERY_DATA = [
     "expiry_date": "202710",
     "item_type": "film_box_inside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00401_001.jpg",
+    "imageUrl": "/film_packaging/archive/00401_001.jpg",
     "title": "ADOX CMS 20 II Pro",
     "details": "35mm • ISO 20 • BW • film_box_inside"
   },
@@ -10146,7 +10146,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_outside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00402_000.jpg",
+    "imageUrl": "/film_packaging/archive/00402_000.jpg",
     "title": "ADOX CHS 100 II",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -10160,7 +10160,7 @@ const GALLERY_DATA = [
     "expiry_date": "202707",
     "item_type": "film_box_inside",
     "author": "nick",
-    "imageUrl": "film_packaging/archive/00402_001.jpg",
+    "imageUrl": "/film_packaging/archive/00402_001.jpg",
     "title": "ADOX CHS 100 II",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -10174,7 +10174,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00403_000.jpg",
+    "imageUrl": "/film_packaging/archive/00403_000.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -10188,7 +10188,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00404_000.jpg",
+    "imageUrl": "/film_packaging/archive/00404_000.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10202,7 +10202,7 @@ const GALLERY_DATA = [
     "expiry_date": "199212",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00404_001.jpg",
+    "imageUrl": "/film_packaging/archive/00404_001.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -10216,7 +10216,7 @@ const GALLERY_DATA = [
     "expiry_date": "199307",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00405_000.jpg",
+    "imageUrl": "/film_packaging/archive/00405_000.jpg",
     "title": "Svema Foto 32",
     "details": "35mm • ISO 32 • BW • film_box_outside"
   },
@@ -10230,7 +10230,7 @@ const GALLERY_DATA = [
     "expiry_date": "199312",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00406_000.jpg",
+    "imageUrl": "/film_packaging/archive/00406_000.jpg",
     "title": "Nishika Color Print Film",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -10244,7 +10244,7 @@ const GALLERY_DATA = [
     "expiry_date": "197901",
     "item_type": "film_cartridge",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00407_000.jpg",
+    "imageUrl": "/film_packaging/archive/00407_000.jpg",
     "title": "GAF Color Slide Film",
     "details": "35mm • ISO 500 • Unknown • film_cartridge"
   },
@@ -10258,7 +10258,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00408_000.jpg",
+    "imageUrl": "/film_packaging/archive/00408_000.jpg",
     "title": "ORWO Chrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_outside"
   },
@@ -10272,7 +10272,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00408_001.jpg",
+    "imageUrl": "/film_packaging/archive/00408_001.jpg",
     "title": "ORWO Chrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -10286,7 +10286,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00408_002.jpg",
+    "imageUrl": "/film_packaging/archive/00408_002.jpg",
     "title": "ORWO Chrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
@@ -10300,7 +10300,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00408_003.jpg",
+    "imageUrl": "/film_packaging/archive/00408_003.jpg",
     "title": "ORWO Chrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
@@ -10314,7 +10314,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00408_004.jpg",
+    "imageUrl": "/film_packaging/archive/00408_004.jpg",
     "title": "ORWO Chrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
@@ -10328,7 +10328,7 @@ const GALLERY_DATA = [
     "expiry_date": "199410",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00409_000.jpg",
+    "imageUrl": "/film_packaging/archive/00409_000.jpg",
     "title": "Ilford XP2",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -10342,7 +10342,7 @@ const GALLERY_DATA = [
     "expiry_date": "199410",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00409_001.jpg",
+    "imageUrl": "/film_packaging/archive/00409_001.jpg",
     "title": "Ilford XP2",
     "details": "35mm • ISO 400 • C-41 • film_box_leaflet"
   },
@@ -10356,7 +10356,7 @@ const GALLERY_DATA = [
     "expiry_date": "199410",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00409_002.jpg",
+    "imageUrl": "/film_packaging/archive/00409_002.jpg",
     "title": "Ilford XP2",
     "details": "35mm • ISO 400 • C-41 • film_box_leaflet"
   },
@@ -10370,7 +10370,7 @@ const GALLERY_DATA = [
     "expiry_date": "197912",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00410_000.jpg",
+    "imageUrl": "/film_packaging/archive/00410_000.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -10384,7 +10384,7 @@ const GALLERY_DATA = [
     "expiry_date": "194301",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00411_000.jpg",
+    "imageUrl": "/film_packaging/archive/00411_000.jpg",
     "title": "Kodak Super-XX",
     "details": "616 • ISO Unknown • BW • film_box_outside"
   },
@@ -10398,7 +10398,7 @@ const GALLERY_DATA = [
     "expiry_date": "196410",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00412_000.jpg",
+    "imageUrl": "/film_packaging/archive/00412_000.jpg",
     "title": "Perfect Photo Inc. Perfect-Pan Film",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -10412,7 +10412,7 @@ const GALLERY_DATA = [
     "expiry_date": "196410",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00412_001.jpg",
+    "imageUrl": "/film_packaging/archive/00412_001.jpg",
     "title": "Perfect Photo Inc. Perfect-Pan Film",
     "details": "120 • ISO 125 • BW • film_box_leaflet"
   },
@@ -10426,7 +10426,7 @@ const GALLERY_DATA = [
     "expiry_date": "196410",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00412_002.jpg",
+    "imageUrl": "/film_packaging/archive/00412_002.jpg",
     "title": "Perfect Photo Inc. Perfect-Pan Film",
     "details": "120 • ISO 125 • BW • film_box_leaflet"
   },
@@ -10440,7 +10440,7 @@ const GALLERY_DATA = [
     "expiry_date": "199101",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00413_000.jpg",
+    "imageUrl": "/film_packaging/archive/00413_000.jpg",
     "title": "Foma Fomapan F17",
     "details": "120 • ISO 40 • BW • film_box_outside"
   },
@@ -10454,7 +10454,7 @@ const GALLERY_DATA = [
     "expiry_date": "199101",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00413_001.jpg",
+    "imageUrl": "/film_packaging/archive/00413_001.jpg",
     "title": "Foma Fomapan F17",
     "details": "120 • ISO 40 • BW • film_box_leaflet"
   },
@@ -10468,7 +10468,7 @@ const GALLERY_DATA = [
     "expiry_date": "199101",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00413_002.jpg",
+    "imageUrl": "/film_packaging/archive/00413_002.jpg",
     "title": "Foma Fomapan F17",
     "details": "120 • ISO 40 • BW • film_box_leaflet"
   },
@@ -10482,7 +10482,7 @@ const GALLERY_DATA = [
     "expiry_date": "198607",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00414_000.jpg",
+    "imageUrl": "/film_packaging/archive/00414_000.jpg",
     "title": "Kodak Ektachrome 64",
     "details": "35mm • ISO 64 • E-6 • film_box_outside"
   },
@@ -10496,7 +10496,7 @@ const GALLERY_DATA = [
     "expiry_date": "198607",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00414_001.jpg",
+    "imageUrl": "/film_packaging/archive/00414_001.jpg",
     "title": "Kodak Ektachrome 64",
     "details": "35mm • ISO 64 • E-6 • film_box_leaflet"
   },
@@ -10510,7 +10510,7 @@ const GALLERY_DATA = [
     "expiry_date": "198607",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00414_002.jpg",
+    "imageUrl": "/film_packaging/archive/00414_002.jpg",
     "title": "Kodak Ektachrome 64",
     "details": "35mm • ISO 64 • E-6 • film_box_leaflet"
   },
@@ -10524,7 +10524,7 @@ const GALLERY_DATA = [
     "expiry_date": "198302",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00415_000.jpg",
+    "imageUrl": "/film_packaging/archive/00415_000.jpg",
     "title": "Ilford FP4",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -10538,7 +10538,7 @@ const GALLERY_DATA = [
     "expiry_date": "195807",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00416_000.jpg",
+    "imageUrl": "/film_packaging/archive/00416_000.jpg",
     "title": "ADOX KB 17",
     "details": "35mm • ISO 32 • BW • film_box_outside"
   },
@@ -10552,7 +10552,7 @@ const GALLERY_DATA = [
     "expiry_date": "198107",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00417_000.jpg",
+    "imageUrl": "/film_packaging/archive/00417_000.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "35mm • ISO 50 • AP41 • film_box_outside"
   },
@@ -10566,7 +10566,7 @@ const GALLERY_DATA = [
     "expiry_date": "198107",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00417_001.jpg",
+    "imageUrl": "/film_packaging/archive/00417_001.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "35mm • ISO 50 • AP41 • film_box_leaflet"
   },
@@ -10580,7 +10580,7 @@ const GALLERY_DATA = [
     "expiry_date": "198107",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00417_002.jpg",
+    "imageUrl": "/film_packaging/archive/00417_002.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "35mm • ISO 50 • AP41 • film_box_leaflet"
   },
@@ -10594,7 +10594,7 @@ const GALLERY_DATA = [
     "expiry_date": "197609",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00418_000.jpg",
+    "imageUrl": "/film_packaging/archive/00418_000.jpg",
     "title": "Agfa Agfacolor Negative Film Special CNS",
     "details": "35mm • ISO 80 • CNS • film_box_outside"
   },
@@ -10608,7 +10608,7 @@ const GALLERY_DATA = [
     "expiry_date": "197609",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00418_001.jpg",
+    "imageUrl": "/film_packaging/archive/00418_001.jpg",
     "title": "Agfa Agfacolor Negative Film Special CNS",
     "details": "35mm • ISO 80 • CNS • film_box_leaflet"
   },
@@ -10622,7 +10622,7 @@ const GALLERY_DATA = [
     "expiry_date": "197609",
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00418_002.jpg",
+    "imageUrl": "/film_packaging/archive/00418_002.jpg",
     "title": "Agfa Agfacolor Negative Film Special CNS",
     "details": "35mm • ISO 80 • CNS • film_box_leaflet"
   },
@@ -10636,7 +10636,7 @@ const GALLERY_DATA = [
     "expiry_date": "196103",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00419_000.jpg",
+    "imageUrl": "/film_packaging/archive/00419_000.jpg",
     "title": "Perutz Peromnia 21",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -10650,7 +10650,7 @@ const GALLERY_DATA = [
     "expiry_date": "194712",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00420_000.jpg",
+    "imageUrl": "/film_packaging/archive/00420_000.jpg",
     "title": "Perutz Perpantic Film",
     "details": "120 • ISO 40 • BW • film_box_outside"
   },
@@ -10664,7 +10664,7 @@ const GALLERY_DATA = [
     "expiry_date": "201510",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00422_000.jpg",
+    "imageUrl": "/film_packaging/archive/00422_000.jpg",
     "title": "Lomography Lobster Redscale Negative",
     "details": "110 • ISO 200 • C-41 • film_box_outside"
   },
@@ -10678,7 +10678,7 @@ const GALLERY_DATA = [
     "expiry_date": "201510",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00422_001.jpg",
+    "imageUrl": "/film_packaging/archive/00422_001.jpg",
     "title": "Lomography Lobster Redscale Negative",
     "details": "110 • ISO 200 • C-41 • film_box_inside"
   },
@@ -10692,7 +10692,7 @@ const GALLERY_DATA = [
     "expiry_date": "197102",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00423_000.jpg",
+    "imageUrl": "/film_packaging/archive/00423_000.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "620 • ISO 64 • E-4 • film_box_outside"
   },
@@ -10706,7 +10706,7 @@ const GALLERY_DATA = [
     "expiry_date": "197102",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00423_001.jpg",
+    "imageUrl": "/film_packaging/archive/00423_001.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "620 • ISO 64 • E-4 • film_box_leaflet"
   },
@@ -10720,7 +10720,7 @@ const GALLERY_DATA = [
     "expiry_date": "197102",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00423_002.jpg",
+    "imageUrl": "/film_packaging/archive/00423_002.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "620 • ISO 64 • E-4 • film_box_leaflet"
   },
@@ -10734,7 +10734,7 @@ const GALLERY_DATA = [
     "expiry_date": "195102",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00424_000.jpg",
+    "imageUrl": "/film_packaging/archive/00424_000.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -10748,7 +10748,7 @@ const GALLERY_DATA = [
     "expiry_date": "195102",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00424_001.jpg",
+    "imageUrl": "/film_packaging/archive/00424_001.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO 50 • BW • film_box_leaflet"
   },
@@ -10762,7 +10762,7 @@ const GALLERY_DATA = [
     "expiry_date": "195102",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00424_002.jpg",
+    "imageUrl": "/film_packaging/archive/00424_002.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO 50 • BW • film_box_leaflet"
   },
@@ -10776,7 +10776,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00425_000.jpg",
+    "imageUrl": "/film_packaging/archive/00425_000.jpg",
     "title": "Northwest Custom Film Processing Ultra Minituature Film",
     "details": "Unknown • ISO 64 • Unknown • film_box_outside"
   },
@@ -10790,7 +10790,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00425_001.jpg",
+    "imageUrl": "/film_packaging/archive/00425_001.jpg",
     "title": "Northwest Custom Film Processing Ultra Minituature Film",
     "details": "Unknown • ISO 64 • Unknown • film_box_processing_envelope"
   },
@@ -10804,7 +10804,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00425_002.jpg",
+    "imageUrl": "/film_packaging/archive/00425_002.jpg",
     "title": "Northwest Custom Film Processing Ultra Minituature Film",
     "details": "Unknown • ISO 64 • Unknown • film_box_processing_envelope"
   },
@@ -10818,7 +10818,7 @@ const GALLERY_DATA = [
     "expiry_date": "199601",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00426_000.jpg",
+    "imageUrl": "/film_packaging/archive/00426_000.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_outside"
   },
@@ -10832,7 +10832,7 @@ const GALLERY_DATA = [
     "expiry_date": "199601",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00426_001.jpg",
+    "imageUrl": "/film_packaging/archive/00426_001.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_leaflet"
   },
@@ -10846,7 +10846,7 @@ const GALLERY_DATA = [
     "expiry_date": "199601",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00426_002.jpg",
+    "imageUrl": "/film_packaging/archive/00426_002.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_leaflet"
   },
@@ -10860,7 +10860,7 @@ const GALLERY_DATA = [
     "expiry_date": "197602",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00427_000.jpg",
+    "imageUrl": "/film_packaging/archive/00427_000.jpg",
     "title": "Triple-Print Film Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_outside"
   },
@@ -10874,7 +10874,7 @@ const GALLERY_DATA = [
     "expiry_date": "197602",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00427_001.jpg",
+    "imageUrl": "/film_packaging/archive/00427_001.jpg",
     "title": "Triple-Print Film Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -10888,7 +10888,7 @@ const GALLERY_DATA = [
     "expiry_date": "197602",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00427_002.jpg",
+    "imageUrl": "/film_packaging/archive/00427_002.jpg",
     "title": "Triple-Print Film Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -10902,7 +10902,7 @@ const GALLERY_DATA = [
     "expiry_date": "200809",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00428_000.jpg",
+    "imageUrl": "/film_packaging/archive/00428_000.jpg",
     "title": "Agfa CT Precisa 100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -10916,7 +10916,7 @@ const GALLERY_DATA = [
     "expiry_date": "200809",
     "item_type": "film_box_inside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00428_001.jpg",
+    "imageUrl": "/film_packaging/archive/00428_001.jpg",
     "title": "Agfa CT Precisa 100",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -10930,7 +10930,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00429_000.jpg",
+    "imageUrl": "/film_packaging/archive/00429_000.jpg",
     "title": "Gevaert Infra-R",
     "details": "120 • ISO Unknown • BW • film_box_outside"
   },
@@ -10944,7 +10944,7 @@ const GALLERY_DATA = [
     "expiry_date": "195109",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00430_000.jpg",
+    "imageUrl": "/film_packaging/archive/00430_000.jpg",
     "title": "Kodak Verichrome",
     "details": "122 • ISO Unknown • BW • film_box_outside"
   },
@@ -10958,7 +10958,7 @@ const GALLERY_DATA = [
     "expiry_date": "200201",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00431_000.jpg",
+    "imageUrl": "/film_packaging/archive/00431_000.jpg",
     "title": "Kodak Gold",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -10972,7 +10972,7 @@ const GALLERY_DATA = [
     "expiry_date": "195710",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00432_000.jpg",
+    "imageUrl": "/film_packaging/archive/00432_000.jpg",
     "title": "Gevaert Gevachrome 30",
     "details": "122 • ISO 40 • BW • film_box_outside"
   },
@@ -10986,7 +10986,7 @@ const GALLERY_DATA = [
     "expiry_date": "196203",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00433_000.jpg",
+    "imageUrl": "/film_packaging/archive/00433_000.jpg",
     "title": "Kodak Verichrome Pan",
     "details": "122 • ISO Unknown • BW • film_box_outside"
   },
@@ -11000,7 +11000,7 @@ const GALLERY_DATA = [
     "expiry_date": "197106",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00434_000.jpg",
+    "imageUrl": "/film_packaging/archive/00434_000.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 64 • Unknown • film_box_outside"
   },
@@ -11014,7 +11014,7 @@ const GALLERY_DATA = [
     "expiry_date": "197106",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00434_001.jpg",
+    "imageUrl": "/film_packaging/archive/00434_001.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 64 • Unknown • film_box_leaflet"
   },
@@ -11028,7 +11028,7 @@ const GALLERY_DATA = [
     "expiry_date": "197106",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00434_002.jpg",
+    "imageUrl": "/film_packaging/archive/00434_002.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 64 • Unknown • film_box_leaflet"
   },
@@ -11042,7 +11042,7 @@ const GALLERY_DATA = [
     "expiry_date": "199809",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00435_000.jpg",
+    "imageUrl": "/film_packaging/archive/00435_000.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_outside"
   },
@@ -11056,7 +11056,7 @@ const GALLERY_DATA = [
     "expiry_date": "199809",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00435_001.jpg",
+    "imageUrl": "/film_packaging/archive/00435_001.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_leaflet"
   },
@@ -11070,7 +11070,7 @@ const GALLERY_DATA = [
     "expiry_date": "199809",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00435_002.jpg",
+    "imageUrl": "/film_packaging/archive/00435_002.jpg",
     "title": "efke R100",
     "details": "127 • ISO 100 • BW • film_box_leaflet"
   },
@@ -11084,7 +11084,7 @@ const GALLERY_DATA = [
     "expiry_date": "196509",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00436_000.jpg",
+    "imageUrl": "/film_packaging/archive/00436_000.jpg",
     "title": "Ilford Selochrome",
     "details": "120 • ISO 160 • BW • film_box_outside"
   },
@@ -11098,7 +11098,7 @@ const GALLERY_DATA = [
     "expiry_date": "196509",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00436_001.jpg",
+    "imageUrl": "/film_packaging/archive/00436_001.jpg",
     "title": "Ilford Selochrome",
     "details": "120 • ISO 160 • BW • film_box_leaflet"
   },
@@ -11112,7 +11112,7 @@ const GALLERY_DATA = [
     "expiry_date": "196509",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00436_002.jpg",
+    "imageUrl": "/film_packaging/archive/00436_002.jpg",
     "title": "Ilford Selochrome",
     "details": "120 • ISO 160 • BW • film_box_leaflet"
   },
@@ -11126,7 +11126,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00437_000.jpg",
+    "imageUrl": "/film_packaging/archive/00437_000.jpg",
     "title": "Agfa Isopan IF Rapid",
     "details": "35mm • ISO 40 • BW • film_box_outside"
   },
@@ -11140,7 +11140,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00437_001.jpg",
+    "imageUrl": "/film_packaging/archive/00437_001.jpg",
     "title": "Agfa Isopan IF Rapid",
     "details": "35mm • ISO 40 • BW • film_box_leaflet"
   },
@@ -11154,7 +11154,7 @@ const GALLERY_DATA = [
     "expiry_date": "196902",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00437_002.jpg",
+    "imageUrl": "/film_packaging/archive/00437_002.jpg",
     "title": "Agfa Isopan IF Rapid",
     "details": "35mm • ISO 40 • BW • film_box_leaflet"
   },
@@ -11168,7 +11168,7 @@ const GALLERY_DATA = [
     "expiry_date": "198109",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00438_000.jpg",
+    "imageUrl": "/film_packaging/archive/00438_000.jpg",
     "title": "Minox Minocolor 2",
     "details": "8x11mm • ISO 80 • C-41 • film_box_outside"
   },
@@ -11182,7 +11182,7 @@ const GALLERY_DATA = [
     "expiry_date": "198109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00438_001.jpg",
+    "imageUrl": "/film_packaging/archive/00438_001.jpg",
     "title": "Minox Minocolor 2",
     "details": "8x11mm • ISO 80 • C-41 • film_box_leaflet"
   },
@@ -11196,7 +11196,7 @@ const GALLERY_DATA = [
     "expiry_date": "198109",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00438_002.jpg",
+    "imageUrl": "/film_packaging/archive/00438_002.jpg",
     "title": "Minox Minocolor 2",
     "details": "8x11mm • ISO 80 • C-41 • film_box_leaflet"
   },
@@ -11210,7 +11210,7 @@ const GALLERY_DATA = [
     "expiry_date": "197101",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00439_000.jpg",
+    "imageUrl": "/film_packaging/archive/00439_000.jpg",
     "title": "Agfa Agfacolor Special Negative Film CN S",
     "details": "120 • ISO 80 • Unknown • film_box_outside"
   },
@@ -11224,7 +11224,7 @@ const GALLERY_DATA = [
     "expiry_date": "197101",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00439_001.jpg",
+    "imageUrl": "/film_packaging/archive/00439_001.jpg",
     "title": "Agfa Agfacolor Special Negative Film CN S",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11238,7 +11238,7 @@ const GALLERY_DATA = [
     "expiry_date": "197101",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00439_002.jpg",
+    "imageUrl": "/film_packaging/archive/00439_002.jpg",
     "title": "Agfa Agfacolor Special Negative Film CN S",
     "details": "120 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11252,7 +11252,7 @@ const GALLERY_DATA = [
     "expiry_date": "199009",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00440_000.jpg",
+    "imageUrl": "/film_packaging/archive/00440_000.jpg",
     "title": "Kodak Kodacolor Gold 400",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -11266,7 +11266,7 @@ const GALLERY_DATA = [
     "expiry_date": "196801",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00441_000.jpg",
+    "imageUrl": "/film_packaging/archive/00441_000.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_outside"
   },
@@ -11280,7 +11280,7 @@ const GALLERY_DATA = [
     "expiry_date": "196801",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00441_001.jpg",
+    "imageUrl": "/film_packaging/archive/00441_001.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -11294,7 +11294,7 @@ const GALLERY_DATA = [
     "expiry_date": "196801",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00441_002.jpg",
+    "imageUrl": "/film_packaging/archive/00441_002.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -11308,7 +11308,7 @@ const GALLERY_DATA = [
     "expiry_date": "196801",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00441_003.jpg",
+    "imageUrl": "/film_packaging/archive/00441_003.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_processing_envelope"
   },
@@ -11322,7 +11322,7 @@ const GALLERY_DATA = [
     "expiry_date": "196801",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00441_004.jpg",
+    "imageUrl": "/film_packaging/archive/00441_004.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_processing_envelope"
   },
@@ -11336,7 +11336,7 @@ const GALLERY_DATA = [
     "expiry_date": "199608",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00442_000.jpg",
+    "imageUrl": "/film_packaging/archive/00442_000.jpg",
     "title": "Kodak Gold",
     "details": "620 • ISO 200 • C-41 • film_box_outside"
   },
@@ -11350,7 +11350,7 @@ const GALLERY_DATA = [
     "expiry_date": "199608",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00442_001.jpg",
+    "imageUrl": "/film_packaging/archive/00442_001.jpg",
     "title": "Kodak Gold",
     "details": "620 • ISO 200 • C-41 • film_box_leaflet"
   },
@@ -11364,7 +11364,7 @@ const GALLERY_DATA = [
     "expiry_date": "194702",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00443_000.jpg",
+    "imageUrl": "/film_packaging/archive/00443_000.jpg",
     "title": "Kodak Verichrome",
     "details": "616 • ISO Unknown • BW • film_box_outside"
   },
@@ -11378,7 +11378,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_000.jpg",
+    "imageUrl": "/film_packaging/archive/00444_000.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_outside"
   },
@@ -11392,7 +11392,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_001.jpg",
+    "imageUrl": "/film_packaging/archive/00444_001.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11406,7 +11406,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_002.jpg",
+    "imageUrl": "/film_packaging/archive/00444_002.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11420,7 +11420,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_003.jpg",
+    "imageUrl": "/film_packaging/archive/00444_003.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11434,7 +11434,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_004.jpg",
+    "imageUrl": "/film_packaging/archive/00444_004.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11448,7 +11448,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_005.jpg",
+    "imageUrl": "/film_packaging/archive/00444_005.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11462,7 +11462,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_006.jpg",
+    "imageUrl": "/film_packaging/archive/00444_006.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -11476,7 +11476,7 @@ const GALLERY_DATA = [
     "expiry_date": "196903",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00444_007.jpg",
+    "imageUrl": "/film_packaging/archive/00444_007.jpg",
     "title": "Agfa Agfacolor Reversal Film CK",
     "details": "35mm • ISO 80 • Unknown • film_box_processing_envelope"
   },
@@ -11490,7 +11490,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00445_000.jpg",
+    "imageUrl": "/film_packaging/archive/00445_000.jpg",
     "title": "Great Films Processing Kodachrome",
     "details": "35mm • ISO Unknown • K-14 • film_box_outside"
   },
@@ -11504,7 +11504,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00445_001.jpg",
+    "imageUrl": "/film_packaging/archive/00445_001.jpg",
     "title": "Great Films Processing Kodachrome",
     "details": "35mm • ISO Unknown • K-14 • film_box_processing_envelope"
   },
@@ -11518,7 +11518,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00445_002.jpg",
+    "imageUrl": "/film_packaging/archive/00445_002.jpg",
     "title": "Great Films Processing Kodachrome",
     "details": "35mm • ISO Unknown • K-14 • film_box_processing_envelope"
   },
@@ -11532,7 +11532,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_processing_envelope",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00445_003.jpg",
+    "imageUrl": "/film_packaging/archive/00445_003.jpg",
     "title": "Great Films Processing Kodachrome",
     "details": "35mm • ISO Unknown • K-14 • film_box_processing_envelope"
   },
@@ -11546,7 +11546,7 @@ const GALLERY_DATA = [
     "expiry_date": "197908",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00446_000.jpg",
+    "imageUrl": "/film_packaging/archive/00446_000.jpg",
     "title": "Kodak Kodacolor II",
     "details": "620 • ISO 100 • C-41 • film_box_outside"
   },
@@ -11560,7 +11560,7 @@ const GALLERY_DATA = [
     "expiry_date": "197908",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00446_001.jpg",
+    "imageUrl": "/film_packaging/archive/00446_001.jpg",
     "title": "Kodak Kodacolor II",
     "details": "620 • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -11574,7 +11574,7 @@ const GALLERY_DATA = [
     "expiry_date": "197908",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00446_002.jpg",
+    "imageUrl": "/film_packaging/archive/00446_002.jpg",
     "title": "Kodak Kodacolor II",
     "details": "620 • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -11588,7 +11588,7 @@ const GALLERY_DATA = [
     "expiry_date": "197601",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00447_000.jpg",
+    "imageUrl": "/film_packaging/archive/00447_000.jpg",
     "title": "Agfa Isopan IF Rapid",
     "details": "35mm • ISO 40 • BW • film_box_outside"
   },
@@ -11602,7 +11602,7 @@ const GALLERY_DATA = [
     "expiry_date": "198007",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00448_000.jpg",
+    "imageUrl": "/film_packaging/archive/00448_000.jpg",
     "title": "Agfa Isopan ISS Rapid",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -11616,7 +11616,7 @@ const GALLERY_DATA = [
     "expiry_date": "197401",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00449_000.jpg",
+    "imageUrl": "/film_packaging/archive/00449_000.jpg",
     "title": "Agfa Isopan ISS Rapid",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -11630,7 +11630,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00450_000.jpg",
+    "imageUrl": "/film_packaging/archive/00450_000.jpg",
     "title": "Optik Oldschool OptiColour 200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -11644,7 +11644,7 @@ const GALLERY_DATA = [
     "expiry_date": "196309",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00451_000.jpg",
+    "imageUrl": "/film_packaging/archive/00451_000.jpg",
     "title": "Perutz Peromnia 21",
     "details": "127 • ISO 100 • BW • film_box_outside"
   },
@@ -11658,7 +11658,7 @@ const GALLERY_DATA = [
     "expiry_date": "197008",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00452_000.jpg",
+    "imageUrl": "/film_packaging/archive/00452_000.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_outside"
   },
@@ -11672,7 +11672,7 @@ const GALLERY_DATA = [
     "expiry_date": "197008",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00452_001.jpg",
+    "imageUrl": "/film_packaging/archive/00452_001.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11686,7 +11686,7 @@ const GALLERY_DATA = [
     "expiry_date": "197008",
     "item_type": "film_box_leaflet",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00452_002.jpg",
+    "imageUrl": "/film_packaging/archive/00452_002.jpg",
     "title": "Famous Brand Labs Color Negative Film",
     "details": "127 • ISO 80 • Unknown • film_box_leaflet"
   },
@@ -11700,7 +11700,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_outside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00453_000.jpg",
+    "imageUrl": "/film_packaging/archive/00453_000.jpg",
     "title": "Kodak Kodacolor 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -11714,7 +11714,7 @@ const GALLERY_DATA = [
     "expiry_date": "197509",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00454_000.jpg",
+    "imageUrl": "/film_packaging/archive/00454_000.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "12x16.5cm • ISO 320 • BW • film_box_outside"
   },
@@ -11728,7 +11728,7 @@ const GALLERY_DATA = [
     "expiry_date": "197509",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00454_001.jpg",
+    "imageUrl": "/film_packaging/archive/00454_001.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "12x16.5cm • ISO 320 • BW • film_box_outside"
   },
@@ -11742,7 +11742,7 @@ const GALLERY_DATA = [
     "expiry_date": "197509",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00454_002.jpg",
+    "imageUrl": "/film_packaging/archive/00454_002.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "12x16.5cm • ISO 320 • BW • film_box_outside"
   },
@@ -11756,7 +11756,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00455_000.jpg",
+    "imageUrl": "/film_packaging/archive/00455_000.jpg",
     "title": "Ilford HP3",
     "details": "Unknown • ISO 200 • BW • film_box_outside"
   },
@@ -11770,7 +11770,7 @@ const GALLERY_DATA = [
     "expiry_date": "194709",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00456_000.jpg",
+    "imageUrl": "/film_packaging/archive/00456_000.jpg",
     "title": "Agfa Isopan Portrait",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -11784,7 +11784,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00457_000.jpg",
+    "imageUrl": "/film_packaging/archive/00457_000.jpg",
     "title": "Gevaert Studio Film",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -11798,7 +11798,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00458_000.jpg",
+    "imageUrl": "/film_packaging/archive/00458_000.jpg",
     "title": "Kodak Super-XX",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -11812,7 +11812,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00458_001.jpg",
+    "imageUrl": "/film_packaging/archive/00458_001.jpg",
     "title": "Kodak Super-XX",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -11826,7 +11826,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00458_002.jpg",
+    "imageUrl": "/film_packaging/archive/00458_002.jpg",
     "title": "Kodak Super-XX",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -11840,7 +11840,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00459_000.jpg",
+    "imageUrl": "/film_packaging/archive/00459_000.jpg",
     "title": "Kodak Super-sensitive Panchromatic Films",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -11854,7 +11854,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00459_001.jpg",
+    "imageUrl": "/film_packaging/archive/00459_001.jpg",
     "title": "Kodak Super-sensitive Panchromatic Films",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -11868,7 +11868,7 @@ const GALLERY_DATA = [
     "expiry_date": "201808",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00460_000.jpg",
+    "imageUrl": "/film_packaging/archive/00460_000.jpg",
     "title": "Fukkatsu Color Print Film",
     "details": "110 • ISO 400 • C-41 • film_box_outside"
   },
@@ -11882,7 +11882,7 @@ const GALLERY_DATA = [
     "expiry_date": "201604",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00461_000.jpg",
+    "imageUrl": "/film_packaging/archive/00461_000.jpg",
     "title": "Fujifilm Fujicolor Natura 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -11896,7 +11896,7 @@ const GALLERY_DATA = [
     "expiry_date": "196209",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00462_000.jpg",
+    "imageUrl": "/film_packaging/archive/00462_000.jpg",
     "title": "Kodak Kodachrome",
     "details": "35mm • ISO 10 • K-14 • film_box_outside"
   },
@@ -11910,7 +11910,7 @@ const GALLERY_DATA = [
     "expiry_date": "196209",
     "item_type": "film_box_leaflet",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00462_001.jpg",
+    "imageUrl": "/film_packaging/archive/00462_001.jpg",
     "title": "Kodak Kodachrome",
     "details": "35mm • ISO 10 • K-14 • film_box_leaflet"
   },
@@ -11924,7 +11924,7 @@ const GALLERY_DATA = [
     "expiry_date": "196209",
     "item_type": "film_box_leaflet",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00462_002.jpg",
+    "imageUrl": "/film_packaging/archive/00462_002.jpg",
     "title": "Kodak Kodachrome",
     "details": "35mm • ISO 10 • K-14 • film_box_leaflet"
   },
@@ -11938,7 +11938,7 @@ const GALLERY_DATA = [
     "expiry_date": "199001",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00463_000.jpg",
+    "imageUrl": "/film_packaging/archive/00463_000.jpg",
     "title": "Seagull Seagull Color IR100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -11952,7 +11952,7 @@ const GALLERY_DATA = [
     "expiry_date": "199001",
     "item_type": "film_box_leaflet",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00463_001.jpg",
+    "imageUrl": "/film_packaging/archive/00463_001.jpg",
     "title": "Seagull Seagull Color IR100",
     "details": "35mm • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -11966,7 +11966,7 @@ const GALLERY_DATA = [
     "expiry_date": "199001",
     "item_type": "film_box_leaflet",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00463_002.jpg",
+    "imageUrl": "/film_packaging/archive/00463_002.jpg",
     "title": "Seagull Seagull Color IR100",
     "details": "35mm • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -11980,7 +11980,7 @@ const GALLERY_DATA = [
     "expiry_date": "200011",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00464_000.jpg",
+    "imageUrl": "/film_packaging/archive/00464_000.jpg",
     "title": "Agfa AgfaColor HDC Plus",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -11994,7 +11994,7 @@ const GALLERY_DATA = [
     "expiry_date": "198605",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00465_000.jpg",
+    "imageUrl": "/film_packaging/archive/00465_000.jpg",
     "title": "Fujifilm Fujicolor HR100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12008,7 +12008,7 @@ const GALLERY_DATA = [
     "expiry_date": "198911",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00466_000.jpg",
+    "imageUrl": "/film_packaging/archive/00466_000.jpg",
     "title": "Fujifilm Fujicolor Super HR",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12022,7 +12022,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00467_000.jpg",
+    "imageUrl": "/film_packaging/archive/00467_000.jpg",
     "title": "Reflx Lab 400D",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -12036,7 +12036,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00468_000.jpg",
+    "imageUrl": "/film_packaging/archive/00468_000.jpg",
     "title": "Reflx Lab 800T",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12050,7 +12050,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00469_000.jpg",
+    "imageUrl": "/film_packaging/archive/00469_000.jpg",
     "title": "Arista.EDU Ultra",
     "details": "35mm • ISO 200 • BW • film_box_outside"
   },
@@ -12064,7 +12064,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_inside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00469_001.jpg",
+    "imageUrl": "/film_packaging/archive/00469_001.jpg",
     "title": "Arista.EDU Ultra",
     "details": "35mm • ISO 200 • BW • film_box_inside"
   },
@@ -12078,7 +12078,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00470_000.jpg",
+    "imageUrl": "/film_packaging/archive/00470_000.jpg",
     "title": "Arista.EDU Ultra",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -12092,7 +12092,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_inside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00470_001.jpg",
+    "imageUrl": "/film_packaging/archive/00470_001.jpg",
     "title": "Arista.EDU Ultra",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -12106,7 +12106,7 @@ const GALLERY_DATA = [
     "expiry_date": "202703",
     "item_type": "film_box_outside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00471_000.jpg",
+    "imageUrl": "/film_packaging/archive/00471_000.jpg",
     "title": "Kentmere PAN",
     "details": "120 • ISO 200 • BW • film_box_outside"
   },
@@ -12120,7 +12120,7 @@ const GALLERY_DATA = [
     "expiry_date": "202703",
     "item_type": "film_box_inside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00471_001.jpg",
+    "imageUrl": "/film_packaging/archive/00471_001.jpg",
     "title": "Kentmere PAN",
     "details": "120 • ISO 200 • BW • film_box_inside"
   },
@@ -12134,7 +12134,7 @@ const GALLERY_DATA = [
     "expiry_date": "202602",
     "item_type": "film_box_outside",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00472_000.jpg",
+    "imageUrl": "/film_packaging/archive/00472_000.jpg",
     "title": "Foma Fomapan 400 Set",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -12148,7 +12148,7 @@ const GALLERY_DATA = [
     "expiry_date": "202602",
     "item_type": "film_box_leaflet",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00472_001.jpg",
+    "imageUrl": "/film_packaging/archive/00472_001.jpg",
     "title": "Foma Fomapan 400 Set",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -12162,7 +12162,7 @@ const GALLERY_DATA = [
     "expiry_date": "202602",
     "item_type": "film_box_leaflet",
     "author": "minidiscus",
-    "imageUrl": "film_packaging/archive/00472_002.jpg",
+    "imageUrl": "/film_packaging/archive/00472_002.jpg",
     "title": "Foma Fomapan 400 Set",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -12176,7 +12176,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00473_000.jpg",
+    "imageUrl": "/film_packaging/archive/00473_000.jpg",
     "title": "Lucky C200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -12190,7 +12190,7 @@ const GALLERY_DATA = [
     "expiry_date": "202709",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00473_001.jpg",
+    "imageUrl": "/film_packaging/archive/00473_001.jpg",
     "title": "Lucky C200",
     "details": "120 • ISO 200 • C-41 • film_box_inside"
   },
@@ -12204,7 +12204,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00474_000.jpg",
+    "imageUrl": "/film_packaging/archive/00474_000.jpg",
     "title": "Lucky SHD400",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -12218,7 +12218,7 @@ const GALLERY_DATA = [
     "expiry_date": "202612",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00474_001.jpg",
+    "imageUrl": "/film_packaging/archive/00474_001.jpg",
     "title": "Lucky SHD400",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -12232,7 +12232,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00475_000.jpg",
+    "imageUrl": "/film_packaging/archive/00475_000.jpg",
     "title": "Lomography Postdam",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -12246,7 +12246,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00475_001.jpg",
+    "imageUrl": "/film_packaging/archive/00475_001.jpg",
     "title": "Lomography Postdam",
     "details": "35mm • ISO 100 • BW • film_box_inside"
   },
@@ -12260,7 +12260,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_outside",
     "author": "dekuNukem",
-    "imageUrl": "film_packaging/archive/00476_000.jpg",
+    "imageUrl": "/film_packaging/archive/00476_000.jpg",
     "title": "GT Photo GT24",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -12274,7 +12274,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00477_000.jpg",
+    "imageUrl": "/film_packaging/archive/00477_000.jpg",
     "title": "Polaroid Green 600 Film Reclaimed Series",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -12288,7 +12288,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_inside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00477_001.jpg",
+    "imageUrl": "/film_packaging/archive/00477_001.jpg",
     "title": "Polaroid Green 600 Film Reclaimed Series",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -12302,7 +12302,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00478_000.jpg",
+    "imageUrl": "/film_packaging/archive/00478_000.jpg",
     "title": "CineStill 800T",
     "details": "120 • ISO 800 • C-41 • film_box_outside"
   },
@@ -12316,7 +12316,7 @@ const GALLERY_DATA = [
     "expiry_date": "202705",
     "item_type": "film_box_inside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00478_001.jpg",
+    "imageUrl": "/film_packaging/archive/00478_001.jpg",
     "title": "CineStill 800T",
     "details": "120 • ISO 800 • C-41 • film_box_inside"
   },
@@ -12330,7 +12330,7 @@ const GALLERY_DATA = [
     "expiry_date": "202710",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00479_000.jpg",
+    "imageUrl": "/film_packaging/archive/00479_000.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -12344,7 +12344,7 @@ const GALLERY_DATA = [
     "expiry_date": "202710",
     "item_type": "film_box_inside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00479_001.jpg",
+    "imageUrl": "/film_packaging/archive/00479_001.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -12358,7 +12358,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00480_000.jpg",
+    "imageUrl": "/film_packaging/archive/00480_000.jpg",
     "title": "Street Candy Film ATM400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -12372,7 +12372,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00481_000.jpg",
+    "imageUrl": "/film_packaging/archive/00481_000.jpg",
     "title": "Ilford R.25 F.P Special",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -12386,7 +12386,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00481_001.jpg",
+    "imageUrl": "/film_packaging/archive/00481_001.jpg",
     "title": "Ilford R.25 F.P Special",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -12400,7 +12400,7 @@ const GALLERY_DATA = [
     "expiry_date": "194805",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00482_000.jpg",
+    "imageUrl": "/film_packaging/archive/00482_000.jpg",
     "title": "Agfa Isochrom Portrait",
     "details": "12x16.5cm • ISO 50 • BW • film_box_outside"
   },
@@ -12414,7 +12414,7 @@ const GALLERY_DATA = [
     "expiry_date": "194409",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00483_000.jpg",
+    "imageUrl": "/film_packaging/archive/00483_000.jpg",
     "title": "Agfa Isopan Portrait",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -12428,7 +12428,7 @@ const GALLERY_DATA = [
     "expiry_date": "199707",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00484_000.jpg",
+    "imageUrl": "/film_packaging/archive/00484_000.jpg",
     "title": "Kodak Ektachrome Elite 200",
     "details": "35mm • ISO 200 • E-6 • film_box_outside"
   },
@@ -12442,7 +12442,7 @@ const GALLERY_DATA = [
     "expiry_date": "199707",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00484_001.jpg",
+    "imageUrl": "/film_packaging/archive/00484_001.jpg",
     "title": "Kodak Ektachrome Elite 200",
     "details": "35mm • ISO 200 • E-6 • film_box_inside"
   },
@@ -12456,7 +12456,7 @@ const GALLERY_DATA = [
     "expiry_date": "199001",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00485_000.jpg",
+    "imageUrl": "/film_packaging/archive/00485_000.jpg",
     "title": "Seagull Seagull Color IR100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12470,7 +12470,7 @@ const GALLERY_DATA = [
     "expiry_date": "201002",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00486_000.jpg",
+    "imageUrl": "/film_packaging/archive/00486_000.jpg",
     "title": "Photocité 400 ISO",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -12484,7 +12484,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00487_000.jpg",
+    "imageUrl": "/film_packaging/archive/00487_000.jpg",
     "title": "Ilford Ortho Plus",
     "details": "120 • ISO 80 • BW • film_box_outside"
   },
@@ -12498,7 +12498,7 @@ const GALLERY_DATA = [
     "expiry_date": "202607",
     "item_type": "film_box_inside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00487_001.jpg",
+    "imageUrl": "/film_packaging/archive/00487_001.jpg",
     "title": "Ilford Ortho Plus",
     "details": "120 • ISO 80 • BW • film_box_inside"
   },
@@ -12512,7 +12512,7 @@ const GALLERY_DATA = [
     "expiry_date": "199002",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00488_000.jpg",
+    "imageUrl": "/film_packaging/archive/00488_000.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12526,7 +12526,7 @@ const GALLERY_DATA = [
     "expiry_date": "199002",
     "item_type": "film_box_inside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00488_001.jpg",
+    "imageUrl": "/film_packaging/archive/00488_001.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -12540,7 +12540,7 @@ const GALLERY_DATA = [
     "expiry_date": "202802",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00489_000.jpg",
+    "imageUrl": "/film_packaging/archive/00489_000.jpg",
     "title": "Kodak Gold 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -12554,7 +12554,7 @@ const GALLERY_DATA = [
     "expiry_date": "200303",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00490_000.jpg",
+    "imageUrl": "/film_packaging/archive/00490_000.jpg",
     "title": "Fujifilm Fujicolor Superia 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12568,7 +12568,7 @@ const GALLERY_DATA = [
     "expiry_date": "200303",
     "item_type": "film_box_inside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00490_001.jpg",
+    "imageUrl": "/film_packaging/archive/00490_001.jpg",
     "title": "Fujifilm Fujicolor Superia 100",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -12582,7 +12582,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00491_000.jpg",
+    "imageUrl": "/film_packaging/archive/00491_000.jpg",
     "title": "Perutz Primera",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12596,7 +12596,7 @@ const GALLERY_DATA = [
     "expiry_date": "200412",
     "item_type": "film_box_inside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00491_001.jpg",
+    "imageUrl": "/film_packaging/archive/00491_001.jpg",
     "title": "Perutz Primera",
     "details": "35mm • ISO 100 • C-41 • film_box_inside"
   },
@@ -12610,7 +12610,7 @@ const GALLERY_DATA = [
     "expiry_date": "199712",
     "item_type": "film_box_outside",
     "author": "waldoboro",
-    "imageUrl": "film_packaging/archive/00492_000.jpg",
+    "imageUrl": "/film_packaging/archive/00492_000.jpg",
     "title": "Svema FN 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -12624,7 +12624,7 @@ const GALLERY_DATA = [
     "expiry_date": "202610",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00493_000.jpg",
+    "imageUrl": "/film_packaging/archive/00493_000.jpg",
     "title": "Candido Colour Negative Film",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12638,7 +12638,7 @@ const GALLERY_DATA = [
     "expiry_date": "202208",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00494_000.jpg",
+    "imageUrl": "/film_packaging/archive/00494_000.jpg",
     "title": "Lomography Berlin",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -12652,7 +12652,7 @@ const GALLERY_DATA = [
     "expiry_date": "202208",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00494_001.jpg",
+    "imageUrl": "/film_packaging/archive/00494_001.jpg",
     "title": "Lomography Berlin",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -12666,7 +12666,7 @@ const GALLERY_DATA = [
     "expiry_date": "202606",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00495_000.jpg",
+    "imageUrl": "/film_packaging/archive/00495_000.jpg",
     "title": "Lomography Color Negative 800",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12680,7 +12680,7 @@ const GALLERY_DATA = [
     "expiry_date": "202606",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00495_001.jpg",
+    "imageUrl": "/film_packaging/archive/00495_001.jpg",
     "title": "Lomography Color Negative 800",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12694,7 +12694,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00496_000.jpg",
+    "imageUrl": "/film_packaging/archive/00496_000.jpg",
     "title": "Polaroid Type 42",
     "details": "Instant Roll Film • ISO 200 • Instant • film_box_outside"
   },
@@ -12708,7 +12708,7 @@ const GALLERY_DATA = [
     "expiry_date": "201912",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00497_000.jpg",
+    "imageUrl": "/film_packaging/archive/00497_000.jpg",
     "title": "Fujifilm Fujicolor Natura 1600",
     "details": "35mm • ISO 1600 • C-41 • film_box_outside"
   },
@@ -12722,7 +12722,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00498_000.jpg",
+    "imageUrl": "/film_packaging/archive/00498_000.jpg",
     "title": "Polaroid Color 600 Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -12736,7 +12736,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00498_001.jpg",
+    "imageUrl": "/film_packaging/archive/00498_001.jpg",
     "title": "Polaroid Color 600 Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -12750,7 +12750,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00498_002.jpg",
+    "imageUrl": "/film_packaging/archive/00498_002.jpg",
     "title": "Polaroid Color 600 Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -12764,7 +12764,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "toader",
-    "imageUrl": "film_packaging/archive/00498_003.jpg",
+    "imageUrl": "/film_packaging/archive/00498_003.jpg",
     "title": "Polaroid Color 600 Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -12778,7 +12778,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@gregrouxphotography",
-    "imageUrl": "film_packaging/archive/00499_000.jpg",
+    "imageUrl": "/film_packaging/archive/00499_000.jpg",
     "title": "Film Photography Project FPP 620 Black & White Panchromatic Negative Film",
     "details": "620 • ISO 100 • BW • film_box_outside"
   },
@@ -12792,7 +12792,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_inside",
     "author": "@gregrouxphotography",
-    "imageUrl": "film_packaging/archive/00499_001.jpg",
+    "imageUrl": "/film_packaging/archive/00499_001.jpg",
     "title": "Film Photography Project FPP 620 Black & White Panchromatic Negative Film",
     "details": "620 • ISO 100 • BW • film_box_inside"
   },
@@ -12806,7 +12806,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00500_000.jpg",
+    "imageUrl": "/film_packaging/archive/00500_000.jpg",
     "title": "CineStill 800T",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12820,7 +12820,7 @@ const GALLERY_DATA = [
     "expiry_date": "202706",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00501_000.jpg",
+    "imageUrl": "/film_packaging/archive/00501_000.jpg",
     "title": "Kodak Portra 800",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12834,7 +12834,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00502_000.jpg",
+    "imageUrl": "/film_packaging/archive/00502_000.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -12848,7 +12848,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_leaflet",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00502_001.jpg",
+    "imageUrl": "/film_packaging/archive/00502_001.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_leaflet"
   },
@@ -12862,7 +12862,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_leaflet",
     "author": "lt_col_tall",
-    "imageUrl": "film_packaging/archive/00502_002.jpg",
+    "imageUrl": "/film_packaging/archive/00502_002.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_leaflet"
   },
@@ -12876,7 +12876,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00503_000.jpg",
+    "imageUrl": "/film_packaging/archive/00503_000.jpg",
     "title": "Max Spielmann Pro-Zoom MX 400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -12890,7 +12890,7 @@ const GALLERY_DATA = [
     "expiry_date": "200607",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00503_001.jpg",
+    "imageUrl": "/film_packaging/archive/00503_001.jpg",
     "title": "Max Spielmann Pro-Zoom MX 400",
     "details": "35mm • ISO 400 • C-41 • film_box_inside"
   },
@@ -12904,7 +12904,7 @@ const GALLERY_DATA = [
     "expiry_date": "199206",
     "item_type": "film_box_outside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00504_000.jpg",
+    "imageUrl": "/film_packaging/archive/00504_000.jpg",
     "title": "ORWO NP22",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -12918,7 +12918,7 @@ const GALLERY_DATA = [
     "expiry_date": "199206",
     "item_type": "film_box_inside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00504_001.jpg",
+    "imageUrl": "/film_packaging/archive/00504_001.jpg",
     "title": "ORWO NP22",
     "details": "35mm • ISO 125 • BW • film_box_inside"
   },
@@ -12932,7 +12932,7 @@ const GALLERY_DATA = [
     "expiry_date": "199206",
     "item_type": "film_box_inside",
     "author": "benikum",
-    "imageUrl": "film_packaging/archive/00504_002.jpg",
+    "imageUrl": "/film_packaging/archive/00504_002.jpg",
     "title": "ORWO NP22",
     "details": "35mm • ISO 125 • BW • film_box_inside"
   },
@@ -12946,7 +12946,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00505_000.jpg",
+    "imageUrl": "/film_packaging/archive/00505_000.jpg",
     "title": "Optik Oldschool SantaColor",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -12960,7 +12960,7 @@ const GALLERY_DATA = [
     "expiry_date": "200809",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00506_000.jpg",
+    "imageUrl": "/film_packaging/archive/00506_000.jpg",
     "title": "Fujifilm Superia 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -12974,7 +12974,7 @@ const GALLERY_DATA = [
     "expiry_date": "199301",
     "item_type": "film_box_outside",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00507_000.jpg",
+    "imageUrl": "/film_packaging/archive/00507_000.jpg",
     "title": "Fujifilm Fujicolor Super HG",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -12988,7 +12988,7 @@ const GALLERY_DATA = [
     "expiry_date": "202803",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00508_000.jpg",
+    "imageUrl": "/film_packaging/archive/00508_000.jpg",
     "title": "Rollei Retro 400S",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -13002,7 +13002,7 @@ const GALLERY_DATA = [
     "expiry_date": "202803",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00508_001.jpg",
+    "imageUrl": "/film_packaging/archive/00508_001.jpg",
     "title": "Rollei Retro 400S",
     "details": "120 • ISO 400 • BW • film_box_inside"
   },
@@ -13016,7 +13016,7 @@ const GALLERY_DATA = [
     "expiry_date": "202812",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00509_000.jpg",
+    "imageUrl": "/film_packaging/archive/00509_000.jpg",
     "title": "Kodak Gold 200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -13030,7 +13030,7 @@ const GALLERY_DATA = [
     "expiry_date": "202812",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00509_001.jpg",
+    "imageUrl": "/film_packaging/archive/00509_001.jpg",
     "title": "Kodak Gold 200",
     "details": "120 • ISO 200 • C-41 • film_box_outside"
   },
@@ -13044,7 +13044,7 @@ const GALLERY_DATA = [
     "expiry_date": "202704",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00510_000.jpg",
+    "imageUrl": "/film_packaging/archive/00510_000.jpg",
     "title": "Fujifilm Fujichrome Velvia",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -13058,7 +13058,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "@shotbyliampewpew",
-    "imageUrl": "film_packaging/archive/00511_000.jpg",
+    "imageUrl": "/film_packaging/archive/00511_000.jpg",
     "title": "Escura EDO ukiyo-e",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -13072,7 +13072,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_cartridge",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00512_000.jpg",
+    "imageUrl": "/film_packaging/archive/00512_000.jpg",
     "title": "Reflx Lab 320D AHU",
     "details": "35mm • ISO 320 • C-41 • film_cartridge"
   },
@@ -13086,7 +13086,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_cartridge",
     "author": "Chrisbes",
-    "imageUrl": "film_packaging/archive/00513_000.jpg",
+    "imageUrl": "/film_packaging/archive/00513_000.jpg",
     "title": "Reflx Lab 640T AHU",
     "details": "35mm • ISO 640 • C-41 • film_cartridge"
   },
@@ -13100,7 +13100,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00514_000.jpg",
+    "imageUrl": "/film_packaging/archive/00514_000.jpg",
     "title": "Ferrania Solaris FG Plus",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -13114,7 +13114,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00515_000.jpg",
+    "imageUrl": "/film_packaging/archive/00515_000.jpg",
     "title": "Foma Fomapan classic 100",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -13128,7 +13128,7 @@ const GALLERY_DATA = [
     "expiry_date": "202806",
     "item_type": "film_box_inside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00515_001.jpg",
+    "imageUrl": "/film_packaging/archive/00515_001.jpg",
     "title": "Foma Fomapan classic 100",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -13142,7 +13142,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00516_000.jpg",
+    "imageUrl": "/film_packaging/archive/00516_000.jpg",
     "title": "Optik Oldschool OptiColour 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -13156,7 +13156,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00517_000.jpg",
+    "imageUrl": "/film_packaging/archive/00517_000.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -13170,7 +13170,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_inside",
     "author": "yc128",
-    "imageUrl": "film_packaging/archive/00517_001.jpg",
+    "imageUrl": "/film_packaging/archive/00517_001.jpg",
     "title": "Ilford FP4 Plus",
     "details": "120 • ISO 125 • BW • film_box_inside"
   },
@@ -13184,7 +13184,7 @@ const GALLERY_DATA = [
     "expiry_date": "201401",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00518_000.jpg",
+    "imageUrl": "/film_packaging/archive/00518_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -13198,7 +13198,7 @@ const GALLERY_DATA = [
     "expiry_date": "202802",
     "item_type": "film_box_outside",
     "author": "TheSelousScout",
-    "imageUrl": "film_packaging/archive/00519_000.jpg",
+    "imageUrl": "/film_packaging/archive/00519_000.jpg",
     "title": "Kodak Kodacolor 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -13212,7 +13212,7 @@ const GALLERY_DATA = [
     "expiry_date": "202609",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00520_000.jpg",
+    "imageUrl": "/film_packaging/archive/00520_000.jpg",
     "title": "Kodak Tri-X 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -13226,7 +13226,7 @@ const GALLERY_DATA = [
     "expiry_date": "201103",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00521_000.jpg",
+    "imageUrl": "/film_packaging/archive/00521_000.jpg",
     "title": "Kodak Tri-X 400",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -13240,7 +13240,7 @@ const GALLERY_DATA = [
     "expiry_date": "202604",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00522_000.jpg",
+    "imageUrl": "/film_packaging/archive/00522_000.jpg",
     "title": "Ilford Ilfocolor 400 Plus",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -13254,7 +13254,7 @@ const GALLERY_DATA = [
     "expiry_date": "202901",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00523_000.jpg",
+    "imageUrl": "/film_packaging/archive/00523_000.jpg",
     "title": "Ilford FP4 Plus",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -13268,7 +13268,7 @@ const GALLERY_DATA = [
     "expiry_date": "202901",
     "item_type": "film_box_inside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00523_001.jpg",
+    "imageUrl": "/film_packaging/archive/00523_001.jpg",
     "title": "Ilford FP4 Plus",
     "details": "35mm • ISO 125 • BW • film_box_inside"
   },
@@ -13282,7 +13282,7 @@ const GALLERY_DATA = [
     "expiry_date": "202512",
     "item_type": "film_box_outside",
     "author": "u/ReeeSchmidtyWerber",
-    "imageUrl": "film_packaging/archive/00524_000.jpg",
+    "imageUrl": "/film_packaging/archive/00524_000.jpg",
     "title": "Fujifilm Neopan Acros 100 II",
     "details": "35mm • ISO 100 • BW • film_box_outside"
   },
@@ -13296,7 +13296,7 @@ const GALLERY_DATA = [
     "expiry_date": "201806",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00525_000.jpg",
+    "imageUrl": "/film_packaging/archive/00525_000.jpg",
     "title": "Fujifilm Hi-Speed 1600",
     "details": "Disposable Camera • ISO 1600 • C-41 • film_box_outside"
   },
@@ -13310,7 +13310,7 @@ const GALLERY_DATA = [
     "expiry_date": "201806",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00525_001.jpg",
+    "imageUrl": "/film_packaging/archive/00525_001.jpg",
     "title": "Fujifilm Hi-Speed 1600",
     "details": "Disposable Camera • ISO 1600 • C-41 • film_box_outside"
   },
@@ -13324,7 +13324,7 @@ const GALLERY_DATA = [
     "expiry_date": "202708",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00526_000.jpg",
+    "imageUrl": "/film_packaging/archive/00526_000.jpg",
     "title": "Fujifilm Fujicolor 100",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13338,7 +13338,7 @@ const GALLERY_DATA = [
     "expiry_date": "202711",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00527_000.jpg",
+    "imageUrl": "/film_packaging/archive/00527_000.jpg",
     "title": "Optik Oldschool OptiColour 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -13352,7 +13352,7 @@ const GALLERY_DATA = [
     "expiry_date": "200903",
     "item_type": "film_box_outside",
     "author": "Tobias",
-    "imageUrl": "film_packaging/archive/00528_000.jpg",
+    "imageUrl": "/film_packaging/archive/00528_000.jpg",
     "title": "efke KB-25",
     "details": "35mm • ISO 25 • BW • film_box_outside"
   },
@@ -13366,7 +13366,7 @@ const GALLERY_DATA = [
     "expiry_date": "200903",
     "item_type": "film_box_inside",
     "author": "Tobias",
-    "imageUrl": "film_packaging/archive/00528_001.jpg",
+    "imageUrl": "/film_packaging/archive/00528_001.jpg",
     "title": "efke KB-25",
     "details": "35mm • ISO 25 • BW • film_box_inside"
   },
@@ -13380,7 +13380,7 @@ const GALLERY_DATA = [
     "expiry_date": "197904",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00529_000.jpg",
+    "imageUrl": "/film_packaging/archive/00529_000.jpg",
     "title": "Foton Fotopan",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -13394,7 +13394,7 @@ const GALLERY_DATA = [
     "expiry_date": "197904",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00529_001.jpg",
+    "imageUrl": "/film_packaging/archive/00529_001.jpg",
     "title": "Foton Fotopan",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -13408,7 +13408,7 @@ const GALLERY_DATA = [
     "expiry_date": "197904",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00529_002.jpg",
+    "imageUrl": "/film_packaging/archive/00529_002.jpg",
     "title": "Foton Fotopan",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
@@ -13422,7 +13422,7 @@ const GALLERY_DATA = [
     "expiry_date": "199509",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00530_000.jpg",
+    "imageUrl": "/film_packaging/archive/00530_000.jpg",
     "title": "ORWO OrwoChrome RC100",
     "details": "35mm • ISO 100 • E-6 • film_box_outside"
   },
@@ -13436,7 +13436,7 @@ const GALLERY_DATA = [
     "expiry_date": "199509",
     "item_type": "film_box_inside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00530_001.jpg",
+    "imageUrl": "/film_packaging/archive/00530_001.jpg",
     "title": "ORWO OrwoChrome RC100",
     "details": "35mm • ISO 100 • E-6 • film_box_inside"
   },
@@ -13450,7 +13450,7 @@ const GALLERY_DATA = [
     "expiry_date": "198301",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00531_000.jpg",
+    "imageUrl": "/film_packaging/archive/00531_000.jpg",
     "title": "ORWO DK5",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -13464,7 +13464,7 @@ const GALLERY_DATA = [
     "expiry_date": "198410",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00532_000.jpg",
+    "imageUrl": "/film_packaging/archive/00532_000.jpg",
     "title": "Foton Mikrofilm Negatywowy Super Orto",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -13478,7 +13478,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00533_000.jpg",
+    "imageUrl": "/film_packaging/archive/00533_000.jpg",
     "title": "ORWO NC 19",
     "details": "120 • ISO 64 • Unknown • film_box_outside"
   },
@@ -13492,7 +13492,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00533_001.jpg",
+    "imageUrl": "/film_packaging/archive/00533_001.jpg",
     "title": "ORWO NC 19",
     "details": "120 • ISO 64 • Unknown • film_box_outside"
   },
@@ -13506,7 +13506,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00533_002.jpg",
+    "imageUrl": "/film_packaging/archive/00533_002.jpg",
     "title": "ORWO NC 19",
     "details": "120 • ISO 64 • Unknown • film_box_outside"
   },
@@ -13520,7 +13520,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00533_003.jpg",
+    "imageUrl": "/film_packaging/archive/00533_003.jpg",
     "title": "ORWO NC 19",
     "details": "120 • ISO 64 • Unknown • film_box_leaflet"
   },
@@ -13534,7 +13534,7 @@ const GALLERY_DATA = [
     "expiry_date": "197811",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00533_004.jpg",
+    "imageUrl": "/film_packaging/archive/00533_004.jpg",
     "title": "ORWO NC 19",
     "details": "120 • ISO 64 • Unknown • film_box_leaflet"
   },
@@ -13548,7 +13548,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_000.jpg",
+    "imageUrl": "/film_packaging/archive/00534_000.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -13562,7 +13562,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_001.jpg",
+    "imageUrl": "/film_packaging/archive/00534_001.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -13576,7 +13576,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_002.jpg",
+    "imageUrl": "/film_packaging/archive/00534_002.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -13590,7 +13590,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_003.jpg",
+    "imageUrl": "/film_packaging/archive/00534_003.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_outside"
   },
@@ -13604,7 +13604,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_004.jpg",
+    "imageUrl": "/film_packaging/archive/00534_004.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_leaflet"
   },
@@ -13618,7 +13618,7 @@ const GALLERY_DATA = [
     "expiry_date": "199008",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00534_005.jpg",
+    "imageUrl": "/film_packaging/archive/00534_005.jpg",
     "title": "ORWO NP 22",
     "details": "120 • ISO 125 • BW • film_box_leaflet"
   },
@@ -13632,7 +13632,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_000.jpg",
+    "imageUrl": "/film_packaging/archive/00535_000.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -13646,7 +13646,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_001.jpg",
+    "imageUrl": "/film_packaging/archive/00535_001.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -13660,7 +13660,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_002.jpg",
+    "imageUrl": "/film_packaging/archive/00535_002.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -13674,7 +13674,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_003.jpg",
+    "imageUrl": "/film_packaging/archive/00535_003.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -13688,7 +13688,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_004.jpg",
+    "imageUrl": "/film_packaging/archive/00535_004.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_outside"
   },
@@ -13702,7 +13702,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_005.jpg",
+    "imageUrl": "/film_packaging/archive/00535_005.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_leaflet"
   },
@@ -13716,7 +13716,7 @@ const GALLERY_DATA = [
     "expiry_date": "197606",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00535_006.jpg",
+    "imageUrl": "/film_packaging/archive/00535_006.jpg",
     "title": "ORWO UK18",
     "details": "35mm • ISO 50 • BW • film_box_leaflet"
   },
@@ -13730,7 +13730,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_000.jpg",
+    "imageUrl": "/film_packaging/archive/00536_000.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13744,7 +13744,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_001.jpg",
+    "imageUrl": "/film_packaging/archive/00536_001.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13758,7 +13758,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_002.jpg",
+    "imageUrl": "/film_packaging/archive/00536_002.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13772,7 +13772,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_003.jpg",
+    "imageUrl": "/film_packaging/archive/00536_003.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13786,7 +13786,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_004.jpg",
+    "imageUrl": "/film_packaging/archive/00536_004.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_outside"
   },
@@ -13800,7 +13800,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_005.jpg",
+    "imageUrl": "/film_packaging/archive/00536_005.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -13814,7 +13814,7 @@ const GALLERY_DATA = [
     "expiry_date": "198404",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00536_006.jpg",
+    "imageUrl": "/film_packaging/archive/00536_006.jpg",
     "title": "Kodak Kodacolor II",
     "details": "35mm • ISO 100 • C-41 • film_box_leaflet"
   },
@@ -13828,7 +13828,7 @@ const GALLERY_DATA = [
     "expiry_date": "196511",
     "item_type": "film_box_outside",
     "author": "Tallbird Cowboy",
-    "imageUrl": "film_packaging/archive/00537_000.jpg",
+    "imageUrl": "/film_packaging/archive/00537_000.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_outside"
   },
@@ -13842,7 +13842,7 @@ const GALLERY_DATA = [
     "expiry_date": "196511",
     "item_type": "film_box_leaflet",
     "author": "Tallbird Cowboy",
-    "imageUrl": "film_packaging/archive/00537_001.jpg",
+    "imageUrl": "/film_packaging/archive/00537_001.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -13856,7 +13856,7 @@ const GALLERY_DATA = [
     "expiry_date": "196511",
     "item_type": "film_box_leaflet",
     "author": "Tallbird Cowboy",
-    "imageUrl": "film_packaging/archive/00537_002.jpg",
+    "imageUrl": "/film_packaging/archive/00537_002.jpg",
     "title": "Kodak Kodachrome II",
     "details": "828 • ISO 25 • K-14 • film_box_leaflet"
   },
@@ -13870,7 +13870,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_000.jpg",
+    "imageUrl": "/film_packaging/archive/00538_000.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13884,7 +13884,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_001.jpg",
+    "imageUrl": "/film_packaging/archive/00538_001.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13898,7 +13898,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_002.jpg",
+    "imageUrl": "/film_packaging/archive/00538_002.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13912,7 +13912,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_003.jpg",
+    "imageUrl": "/film_packaging/archive/00538_003.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13926,7 +13926,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_004.jpg",
+    "imageUrl": "/film_packaging/archive/00538_004.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13940,7 +13940,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_005.jpg",
+    "imageUrl": "/film_packaging/archive/00538_005.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_outside"
   },
@@ -13954,7 +13954,7 @@ const GALLERY_DATA = [
     "expiry_date": "198801",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00538_006.jpg",
+    "imageUrl": "/film_packaging/archive/00538_006.jpg",
     "title": "Agfa AgfaChrome 100RS",
     "details": "120 • ISO 100 • E-6 • film_box_leaflet"
   },
@@ -13968,7 +13968,7 @@ const GALLERY_DATA = [
     "expiry_date": "194210",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00539_000.jpg",
+    "imageUrl": "/film_packaging/archive/00539_000.jpg",
     "title": "Kodak Super Speed Ortho Portrait",
     "details": "12x16.5cm • ISO Unknown • BW • film_box_outside"
   },
@@ -13982,7 +13982,7 @@ const GALLERY_DATA = [
     "expiry_date": "194704",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00540_000.jpg",
+    "imageUrl": "/film_packaging/archive/00540_000.jpg",
     "title": "Ilford HP3",
     "details": "12x16.5cm • ISO 125 • BW • film_box_outside"
   },
@@ -13996,7 +13996,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00541_000.jpg",
+    "imageUrl": "/film_packaging/archive/00541_000.jpg",
     "title": "Gevaert Superchrom",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -14010,7 +14010,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@ellafridalindblom",
-    "imageUrl": "film_packaging/archive/00541_001.jpg",
+    "imageUrl": "/film_packaging/archive/00541_001.jpg",
     "title": "Gevaert Superchrom",
     "details": "12x16.5cm • ISO 80 • BW • film_box_outside"
   },
@@ -14024,7 +14024,7 @@ const GALLERY_DATA = [
     "expiry_date": "199309",
     "item_type": "film_box_outside",
     "author": "@tylerdrey",
-    "imageUrl": "film_packaging/archive/00542_000.jpg",
+    "imageUrl": "/film_packaging/archive/00542_000.jpg",
     "title": "Kodak Ektachrome 160T",
     "details": "35mm • ISO 160 • E-6 • film_box_outside"
   },
@@ -14038,7 +14038,7 @@ const GALLERY_DATA = [
     "expiry_date": "199309",
     "item_type": "film_box_inside",
     "author": "@tylerdrey",
-    "imageUrl": "film_packaging/archive/00542_001.jpg",
+    "imageUrl": "/film_packaging/archive/00542_001.jpg",
     "title": "Kodak Ektachrome 160T",
     "details": "35mm • ISO 160 • E-6 • film_box_inside"
   },
@@ -14052,7 +14052,7 @@ const GALLERY_DATA = [
     "expiry_date": "197309",
     "item_type": "film_box_outside",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00543_000.jpg",
+    "imageUrl": "/film_packaging/archive/00543_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • Unknown • film_box_outside"
   },
@@ -14066,7 +14066,7 @@ const GALLERY_DATA = [
     "expiry_date": "197309",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00543_001.jpg",
+    "imageUrl": "/film_packaging/archive/00543_001.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • Unknown • film_box_leaflet"
   },
@@ -14080,7 +14080,7 @@ const GALLERY_DATA = [
     "expiry_date": "197309",
     "item_type": "film_box_leaflet",
     "author": "@ob.skura",
-    "imageUrl": "film_packaging/archive/00543_002.jpg",
+    "imageUrl": "/film_packaging/archive/00543_002.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • Unknown • film_box_leaflet"
   },
@@ -14094,7 +14094,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_000.jpg",
+    "imageUrl": "/film_packaging/archive/00544_000.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_outside"
   },
@@ -14108,7 +14108,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_001.jpg",
+    "imageUrl": "/film_packaging/archive/00544_001.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_outside"
   },
@@ -14122,7 +14122,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_002.jpg",
+    "imageUrl": "/film_packaging/archive/00544_002.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_outside"
   },
@@ -14136,7 +14136,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_003.jpg",
+    "imageUrl": "/film_packaging/archive/00544_003.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_outside"
   },
@@ -14150,7 +14150,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_004.jpg",
+    "imageUrl": "/film_packaging/archive/00544_004.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_leaflet"
   },
@@ -14164,7 +14164,7 @@ const GALLERY_DATA = [
     "expiry_date": "199201",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00544_005.jpg",
+    "imageUrl": "/film_packaging/archive/00544_005.jpg",
     "title": "ORWO OrwoChrome UT18",
     "details": "35mm • ISO 50 • E-6 • film_box_leaflet"
   },
@@ -14178,7 +14178,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00545_000.jpg",
+    "imageUrl": "/film_packaging/archive/00545_000.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -14192,7 +14192,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00545_001.jpg",
+    "imageUrl": "/film_packaging/archive/00545_001.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -14206,7 +14206,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00545_002.jpg",
+    "imageUrl": "/film_packaging/archive/00545_002.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -14220,7 +14220,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00545_003.jpg",
+    "imageUrl": "/film_packaging/archive/00545_003.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -14234,7 +14234,7 @@ const GALLERY_DATA = [
     "expiry_date": "199303",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00545_004.jpg",
+    "imageUrl": "/film_packaging/archive/00545_004.jpg",
     "title": "Svema Foto 64",
     "details": "35mm • ISO 64 • BW • film_box_outside"
   },
@@ -14248,7 +14248,7 @@ const GALLERY_DATA = [
     "expiry_date": "200212",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00546_000.jpg",
+    "imageUrl": "/film_packaging/archive/00546_000.jpg",
     "title": "Kodak Gold 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -14262,7 +14262,7 @@ const GALLERY_DATA = [
     "expiry_date": "200212",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00546_001.jpg",
+    "imageUrl": "/film_packaging/archive/00546_001.jpg",
     "title": "Kodak Gold 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -14276,7 +14276,7 @@ const GALLERY_DATA = [
     "expiry_date": "198003",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00547_000.jpg",
+    "imageUrl": "/film_packaging/archive/00547_000.jpg",
     "title": "Agfa Agfacolor CNS2",
     "details": "120 • ISO 80 • CNS2 • film_box_outside"
   },
@@ -14290,7 +14290,7 @@ const GALLERY_DATA = [
     "expiry_date": "202209",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00548_000.jpg",
+    "imageUrl": "/film_packaging/archive/00548_000.jpg",
     "title": "Lomography Postdam",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -14304,7 +14304,7 @@ const GALLERY_DATA = [
     "expiry_date": "202209",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00548_001.jpg",
+    "imageUrl": "/film_packaging/archive/00548_001.jpg",
     "title": "Lomography Postdam",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -14318,7 +14318,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00549_000.jpg",
+    "imageUrl": "/film_packaging/archive/00549_000.jpg",
     "title": "Lomography Berlin",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -14332,7 +14332,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00549_001.jpg",
+    "imageUrl": "/film_packaging/archive/00549_001.jpg",
     "title": "Lomography Berlin",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -14346,7 +14346,7 @@ const GALLERY_DATA = [
     "expiry_date": "202802",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00550_000.jpg",
+    "imageUrl": "/film_packaging/archive/00550_000.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -14360,7 +14360,7 @@ const GALLERY_DATA = [
     "expiry_date": "202802",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00550_001.jpg",
+    "imageUrl": "/film_packaging/archive/00550_001.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -14374,7 +14374,7 @@ const GALLERY_DATA = [
     "expiry_date": "200204",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00551_000.jpg",
+    "imageUrl": "/film_packaging/archive/00551_000.jpg",
     "title": "Fujifilm Fujicolor Superia Multi400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -14388,7 +14388,7 @@ const GALLERY_DATA = [
     "expiry_date": "200204",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00551_001.jpg",
+    "imageUrl": "/film_packaging/archive/00551_001.jpg",
     "title": "Fujifilm Fujicolor Superia Multi400",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -14402,7 +14402,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00552_000.jpg",
+    "imageUrl": "/film_packaging/archive/00552_000.jpg",
     "title": "Harman Switch Azure",
     "details": "120 • ISO 125 • C-41 • film_box_outside"
   },
@@ -14416,7 +14416,7 @@ const GALLERY_DATA = [
     "expiry_date": "202712",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00552_001.jpg",
+    "imageUrl": "/film_packaging/archive/00552_001.jpg",
     "title": "Harman Switch Azure",
     "details": "120 • ISO 125 • C-41 • film_box_inside"
   },
@@ -14430,7 +14430,7 @@ const GALLERY_DATA = [
     "expiry_date": "202711",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00553_000.jpg",
+    "imageUrl": "/film_packaging/archive/00553_000.jpg",
     "title": "Harman Switch Azure",
     "details": "35mm • ISO 125 • C-41 • film_box_outside"
   },
@@ -14444,7 +14444,7 @@ const GALLERY_DATA = [
     "expiry_date": "202711",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00553_001.jpg",
+    "imageUrl": "/film_packaging/archive/00553_001.jpg",
     "title": "Harman Switch Azure",
     "details": "35mm • ISO 125 • C-41 • film_box_inside"
   },
@@ -14458,7 +14458,7 @@ const GALLERY_DATA = [
     "expiry_date": "201608",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00554_000.jpg",
+    "imageUrl": "/film_packaging/archive/00554_000.jpg",
     "title": "Fujifilm Fujicolor C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -14472,7 +14472,7 @@ const GALLERY_DATA = [
     "expiry_date": "202608",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00555_000.jpg",
+    "imageUrl": "/film_packaging/archive/00555_000.jpg",
     "title": "Escura Showa Camera Film",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -14486,7 +14486,7 @@ const GALLERY_DATA = [
     "expiry_date": "200701",
     "item_type": "film_box_outside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00556_000.jpg",
+    "imageUrl": "/film_packaging/archive/00556_000.jpg",
     "title": "Fujifilm Neopan Acros 100 II",
     "details": "120 • ISO 100 • BW • film_box_outside"
   },
@@ -14500,7 +14500,7 @@ const GALLERY_DATA = [
     "expiry_date": "200701",
     "item_type": "film_box_inside",
     "author": "kaimon",
-    "imageUrl": "film_packaging/archive/00556_001.jpg",
+    "imageUrl": "/film_packaging/archive/00556_001.jpg",
     "title": "Fujifilm Neopan Acros 100 II",
     "details": "120 • ISO 100 • BW • film_box_inside"
   },
@@ -14514,7 +14514,7 @@ const GALLERY_DATA = [
     "expiry_date": "194506",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00557_000.jpg",
+    "imageUrl": "/film_packaging/archive/00557_000.jpg",
     "title": "Kodak Plus-X",
     "details": "35mm • ISO 125 • BW • film_box_outside"
   },
@@ -14528,7 +14528,7 @@ const GALLERY_DATA = [
     "expiry_date": "201212",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00558_000.jpg",
+    "imageUrl": "/film_packaging/archive/00558_000.jpg",
     "title": "Lomography Color Negative Film",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -14542,7 +14542,7 @@ const GALLERY_DATA = [
     "expiry_date": "201212",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00558_001.jpg",
+    "imageUrl": "/film_packaging/archive/00558_001.jpg",
     "title": "Lomography Color Negative Film",
     "details": "120 • ISO 400 • C-41 • film_box_outside"
   },
@@ -14556,7 +14556,7 @@ const GALLERY_DATA = [
     "expiry_date": "202809",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00559_000.jpg",
+    "imageUrl": "/film_packaging/archive/00559_000.jpg",
     "title": "Rollei Retro 400S",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -14570,7 +14570,7 @@ const GALLERY_DATA = [
     "expiry_date": "202809",
     "item_type": "film_box_inside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00559_001.jpg",
+    "imageUrl": "/film_packaging/archive/00559_001.jpg",
     "title": "Rollei Retro 400S",
     "details": "35mm • ISO 400 • BW • film_box_inside"
   },
@@ -14584,7 +14584,7 @@ const GALLERY_DATA = [
     "expiry_date": "201301",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00560_000.jpg",
+    "imageUrl": "/film_packaging/archive/00560_000.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -14598,7 +14598,7 @@ const GALLERY_DATA = [
     "expiry_date": "201301",
     "item_type": "film_box_inside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00560_001.jpg",
+    "imageUrl": "/film_packaging/archive/00560_001.jpg",
     "title": "Lucky C200",
     "details": "35mm • ISO 200 • C-41 • film_box_inside"
   },
@@ -14612,7 +14612,7 @@ const GALLERY_DATA = [
     "expiry_date": "202508",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00561_000.jpg",
+    "imageUrl": "/film_packaging/archive/00561_000.jpg",
     "title": "1Shot Color Print Film",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -14626,7 +14626,7 @@ const GALLERY_DATA = [
     "expiry_date": "202605",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00562_000.jpg",
+    "imageUrl": "/film_packaging/archive/00562_000.jpg",
     "title": "Kodak Sport Single Use Camera",
     "details": "35mm • ISO 800 • C-41 • film_box_outside"
   },
@@ -14640,7 +14640,7 @@ const GALLERY_DATA = [
     "expiry_date": "202307",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00563_000.jpg",
+    "imageUrl": "/film_packaging/archive/00563_000.jpg",
     "title": "Polaroid Color i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -14654,7 +14654,7 @@ const GALLERY_DATA = [
     "expiry_date": "202307",
     "item_type": "film_box_inside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00563_001.jpg",
+    "imageUrl": "/film_packaging/archive/00563_001.jpg",
     "title": "Polaroid Color i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -14668,7 +14668,7 @@ const GALLERY_DATA = [
     "expiry_date": "202403",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00564_000.jpg",
+    "imageUrl": "/film_packaging/archive/00564_000.jpg",
     "title": "Polaroid Color i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -14682,7 +14682,7 @@ const GALLERY_DATA = [
     "expiry_date": "202403",
     "item_type": "film_box_inside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00564_001.jpg",
+    "imageUrl": "/film_packaging/archive/00564_001.jpg",
     "title": "Polaroid Color i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -14696,7 +14696,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_outside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00565_000.jpg",
+    "imageUrl": "/film_packaging/archive/00565_000.jpg",
     "title": "Polaroid B&W i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_outside"
   },
@@ -14710,7 +14710,7 @@ const GALLERY_DATA = [
     "expiry_date": "202507",
     "item_type": "film_box_inside",
     "author": "Dialupdude",
-    "imageUrl": "film_packaging/archive/00565_001.jpg",
+    "imageUrl": "/film_packaging/archive/00565_001.jpg",
     "title": "Polaroid B&W i-Type Film",
     "details": "Instant Integral Film • ISO 640 • Instant • film_box_inside"
   },
@@ -14724,7 +14724,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_000.jpg",
+    "imageUrl": "/film_packaging/archive/00566_000.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_outside"
   },
@@ -14738,7 +14738,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_001.jpg",
+    "imageUrl": "/film_packaging/archive/00566_001.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_outside"
   },
@@ -14752,7 +14752,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_002.jpg",
+    "imageUrl": "/film_packaging/archive/00566_002.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_outside"
   },
@@ -14766,7 +14766,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_003.jpg",
+    "imageUrl": "/film_packaging/archive/00566_003.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_outside"
   },
@@ -14780,7 +14780,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_004.jpg",
+    "imageUrl": "/film_packaging/archive/00566_004.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_leaflet"
   },
@@ -14794,7 +14794,7 @@ const GALLERY_DATA = [
     "expiry_date": "197707",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00566_005.jpg",
+    "imageUrl": "/film_packaging/archive/00566_005.jpg",
     "title": "Agfa AgfaChrome 50 S",
     "details": "120 • ISO 50 • AP41 • film_box_leaflet"
   },
@@ -14808,7 +14808,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_000.jpg",
+    "imageUrl": "/film_packaging/archive/00567_000.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_outside"
   },
@@ -14822,7 +14822,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_001.jpg",
+    "imageUrl": "/film_packaging/archive/00567_001.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_outside"
   },
@@ -14836,7 +14836,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_002.jpg",
+    "imageUrl": "/film_packaging/archive/00567_002.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_outside"
   },
@@ -14850,7 +14850,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_003.jpg",
+    "imageUrl": "/film_packaging/archive/00567_003.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_outside"
   },
@@ -14864,7 +14864,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_004.jpg",
+    "imageUrl": "/film_packaging/archive/00567_004.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_outside"
   },
@@ -14878,7 +14878,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_005.jpg",
+    "imageUrl": "/film_packaging/archive/00567_005.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_leaflet"
   },
@@ -14892,7 +14892,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_006.jpg",
+    "imageUrl": "/film_packaging/archive/00567_006.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_leaflet"
   },
@@ -14906,7 +14906,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_007.jpg",
+    "imageUrl": "/film_packaging/archive/00567_007.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_leaflet"
   },
@@ -14920,7 +14920,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_008.jpg",
+    "imageUrl": "/film_packaging/archive/00567_008.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_leaflet"
   },
@@ -14934,7 +14934,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_009.jpg",
+    "imageUrl": "/film_packaging/archive/00567_009.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_leaflet"
   },
@@ -14948,7 +14948,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_processing_envelope",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_010.jpg",
+    "imageUrl": "/film_packaging/archive/00567_010.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_processing_envelope"
   },
@@ -14962,7 +14962,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_processing_envelope",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00567_011.jpg",
+    "imageUrl": "/film_packaging/archive/00567_011.jpg",
     "title": "ORWO OrwoColor UT13",
     "details": "8mm • ISO 16 • Unknown • film_box_processing_envelope"
   },
@@ -14976,7 +14976,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00568_000.jpg",
+    "imageUrl": "/film_packaging/archive/00568_000.jpg",
     "title": "Optik Oldschool Motion 200T",
     "details": "35mm • ISO 200 • ECN-2 • film_box_outside"
   },
@@ -14990,7 +14990,7 @@ const GALLERY_DATA = [
     "expiry_date": "202804",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00569_000.jpg",
+    "imageUrl": "/film_packaging/archive/00569_000.jpg",
     "title": "Optik Oldschool Motion 500T",
     "details": "35mm • ISO 500 • ECN-2 • film_box_outside"
   },
@@ -15004,7 +15004,7 @@ const GALLERY_DATA = [
     "expiry_date": "197003",
     "item_type": "film_box_outside",
     "author": "Tobias",
-    "imageUrl": "film_packaging/archive/00570_000.jpg",
+    "imageUrl": "/film_packaging/archive/00570_000.jpg",
     "title": "Efke R14",
     "details": "120 • ISO 20 • BW • film_box_outside"
   },
@@ -15018,7 +15018,7 @@ const GALLERY_DATA = [
     "expiry_date": "197003",
     "item_type": "film_box_leaflet",
     "author": "Tobias",
-    "imageUrl": "film_packaging/archive/00570_001.jpg",
+    "imageUrl": "/film_packaging/archive/00570_001.jpg",
     "title": "Efke R14",
     "details": "120 • ISO 20 • BW • film_box_leaflet"
   },
@@ -15032,7 +15032,7 @@ const GALLERY_DATA = [
     "expiry_date": "197003",
     "item_type": "film_box_leaflet",
     "author": "Tobias",
-    "imageUrl": "film_packaging/archive/00570_002.jpg",
+    "imageUrl": "/film_packaging/archive/00570_002.jpg",
     "title": "Efke R14",
     "details": "120 • ISO 20 • BW • film_box_leaflet"
   },
@@ -15046,7 +15046,7 @@ const GALLERY_DATA = [
     "expiry_date": "202702",
     "item_type": "film_box_outside",
     "author": "Pelicram",
-    "imageUrl": "film_packaging/archive/00571_000.jpg",
+    "imageUrl": "/film_packaging/archive/00571_000.jpg",
     "title": "Kodak T-MAX P3200",
     "details": "35mm • ISO 3200 • BW • film_box_outside"
   },
@@ -15060,7 +15060,7 @@ const GALLERY_DATA = [
     "expiry_date": "197110",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00572_000.jpg",
+    "imageUrl": "/film_packaging/archive/00572_000.jpg",
     "title": "Kodak Kodacolor II",
     "details": "120 • ISO 100 • C-41 • film_box_outside"
   },
@@ -15074,7 +15074,7 @@ const GALLERY_DATA = [
     "expiry_date": "197410",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00573_000.jpg",
+    "imageUrl": "/film_packaging/archive/00573_000.jpg",
     "title": "Kodak High Speed Ektachrome",
     "details": "120 • ISO 160 • Unknown • film_box_outside"
   },
@@ -15088,7 +15088,7 @@ const GALLERY_DATA = [
     "expiry_date": "197403",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00574_000.jpg",
+    "imageUrl": "/film_packaging/archive/00574_000.jpg",
     "title": "Kodak Ektachrome-X",
     "details": "120 • ISO 64 • Unknown • film_box_outside"
   },
@@ -15101,7 +15101,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00574_001.jpg",
+    "imageUrl": "/film_packaging/archive/00574_001.jpg",
     "title": "Unknown Film (00574_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15115,7 +15115,7 @@ const GALLERY_DATA = [
     "expiry_date": "196109",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00575_000.jpg",
+    "imageUrl": "/film_packaging/archive/00575_000.jpg",
     "title": "Kodak Kodachrome",
     "details": "828 • ISO 12 • K-11 • film_box_outside"
   },
@@ -15129,7 +15129,7 @@ const GALLERY_DATA = [
     "expiry_date": "197906",
     "item_type": "film_box_outside",
     "author": "Greg",
-    "imageUrl": "film_packaging/archive/00576_000.jpg",
+    "imageUrl": "/film_packaging/archive/00576_000.jpg",
     "title": "Kodak Tri-X Pan",
     "details": "120 • ISO 400 • BW • film_box_outside"
   },
@@ -15143,7 +15143,7 @@ const GALLERY_DATA = [
     "expiry_date": "202901",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00577_000.jpg",
+    "imageUrl": "/film_packaging/archive/00577_000.jpg",
     "title": "Mr. Negative Arcade",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -15157,7 +15157,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00578_000.jpg",
+    "imageUrl": "/film_packaging/archive/00578_000.jpg",
     "title": "A Girl Has Film Tetris 200",
     "details": "35mm • ISO 200 • C-41 • film_box_outside"
   },
@@ -15171,7 +15171,7 @@ const GALLERY_DATA = [
     "expiry_date": "Unknown",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00579_000.jpg",
+    "imageUrl": "/film_packaging/archive/00579_000.jpg",
     "title": "Freestyle 500T",
     "details": "35mm • ISO 400 • ECN-2 • film_box_outside"
   },
@@ -15185,7 +15185,7 @@ const GALLERY_DATA = [
     "expiry_date": "202901",
     "item_type": "film_box_outside",
     "author": "@Hol.m35",
-    "imageUrl": "film_packaging/archive/00580_000.jpg",
+    "imageUrl": "/film_packaging/archive/00580_000.jpg",
     "title": "Mr. Negative Black Cat",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
@@ -15199,7 +15199,7 @@ const GALLERY_DATA = [
     "expiry_date": "198101",
     "item_type": "film_box_outside",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00581_000.jpg",
+    "imageUrl": "/film_packaging/archive/00581_000.jpg",
     "title": "Foton Super Orto",
     "details": "35mm • ISO Unknown • BW • film_box_outside"
   },
@@ -15213,7 +15213,7 @@ const GALLERY_DATA = [
     "expiry_date": "198101",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00581_001.jpg",
+    "imageUrl": "/film_packaging/archive/00581_001.jpg",
     "title": "Foton Super Orto",
     "details": "35mm • ISO Unknown • BW • film_box_leaflet"
   },
@@ -15227,7 +15227,7 @@ const GALLERY_DATA = [
     "expiry_date": "198101",
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
-    "imageUrl": "film_packaging/archive/00581_002.jpg",
+    "imageUrl": "/film_packaging/archive/00581_002.jpg",
     "title": "Foton Super Orto",
     "details": "35mm • ISO Unknown • BW • film_box_leaflet"
   },
@@ -15241,7 +15241,7 @@ const GALLERY_DATA = [
     "expiry_date": "201209",
     "item_type": "film_box_outside",
     "author": "@recycling.film",
-    "imageUrl": "film_packaging/archive/00582_000.jpg",
+    "imageUrl": "/film_packaging/archive/00582_000.jpg",
     "title": "Fujifilm Fujicolor Pro 400H",
     "details": "35mm • ISO 400 • C-41 • film_box_outside"
   },
@@ -15254,7 +15254,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00583_000.jpg",
+    "imageUrl": "/film_packaging/archive/00583_000.jpg",
     "title": "Unknown Film (00583_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15267,7 +15267,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00584_000.jpg",
+    "imageUrl": "/film_packaging/archive/00584_000.jpg",
     "title": "Unknown Film (00584_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15280,7 +15280,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00585_000.jpg",
+    "imageUrl": "/film_packaging/archive/00585_000.jpg",
     "title": "Unknown Film (00585_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15293,7 +15293,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00585_001.jpg",
+    "imageUrl": "/film_packaging/archive/00585_001.jpg",
     "title": "Unknown Film (00585_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15306,7 +15306,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00586_000.jpg",
+    "imageUrl": "/film_packaging/archive/00586_000.jpg",
     "title": "Unknown Film (00586_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15319,7 +15319,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00586_001.jpg",
+    "imageUrl": "/film_packaging/archive/00586_001.jpg",
     "title": "Unknown Film (00586_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15332,7 +15332,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00587_000.jpg",
+    "imageUrl": "/film_packaging/archive/00587_000.jpg",
     "title": "Unknown Film (00587_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15345,7 +15345,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00587_001.jpg",
+    "imageUrl": "/film_packaging/archive/00587_001.jpg",
     "title": "Unknown Film (00587_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15358,7 +15358,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00588_000.jpg",
+    "imageUrl": "/film_packaging/archive/00588_000.jpg",
     "title": "Unknown Film (00588_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15371,7 +15371,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00589_000.jpg",
+    "imageUrl": "/film_packaging/archive/00589_000.jpg",
     "title": "Unknown Film (00589_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15384,7 +15384,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00590_000.jpg",
+    "imageUrl": "/film_packaging/archive/00590_000.jpg",
     "title": "Unknown Film (00590_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15397,7 +15397,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00591_000.jpg",
+    "imageUrl": "/film_packaging/archive/00591_000.jpg",
     "title": "Unknown Film (00591_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15410,7 +15410,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00591_001.jpg",
+    "imageUrl": "/film_packaging/archive/00591_001.jpg",
     "title": "Unknown Film (00591_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15423,7 +15423,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00592_000.jpg",
+    "imageUrl": "/film_packaging/archive/00592_000.jpg",
     "title": "Unknown Film (00592_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15436,7 +15436,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00593_000.jpg",
+    "imageUrl": "/film_packaging/archive/00593_000.jpg",
     "title": "Unknown Film (00593_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15449,7 +15449,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00594_000.jpg",
+    "imageUrl": "/film_packaging/archive/00594_000.jpg",
     "title": "Unknown Film (00594_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15462,7 +15462,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00595_000.jpg",
+    "imageUrl": "/film_packaging/archive/00595_000.jpg",
     "title": "Unknown Film (00595_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15475,7 +15475,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00595_001.jpg",
+    "imageUrl": "/film_packaging/archive/00595_001.jpg",
     "title": "Unknown Film (00595_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15488,7 +15488,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00596_000.jpg",
+    "imageUrl": "/film_packaging/archive/00596_000.jpg",
     "title": "Unknown Film (00596_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15501,7 +15501,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00597_000.jpg",
+    "imageUrl": "/film_packaging/archive/00597_000.jpg",
     "title": "Unknown Film (00597_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15514,7 +15514,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00597_001.jpg",
+    "imageUrl": "/film_packaging/archive/00597_001.jpg",
     "title": "Unknown Film (00597_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15527,7 +15527,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00598_000.jpg",
+    "imageUrl": "/film_packaging/archive/00598_000.jpg",
     "title": "Unknown Film (00598_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15540,7 +15540,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00598_001.jpg",
+    "imageUrl": "/film_packaging/archive/00598_001.jpg",
     "title": "Unknown Film (00598_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15553,7 +15553,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00598_002.jpg",
+    "imageUrl": "/film_packaging/archive/00598_002.jpg",
     "title": "Unknown Film (00598_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15566,7 +15566,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00599_000.jpg",
+    "imageUrl": "/film_packaging/archive/00599_000.jpg",
     "title": "Unknown Film (00599_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15579,7 +15579,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00600_000.jpg",
+    "imageUrl": "/film_packaging/archive/00600_000.jpg",
     "title": "Unknown Film (00600_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15592,7 +15592,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00601_000.jpg",
+    "imageUrl": "/film_packaging/archive/00601_000.jpg",
     "title": "Unknown Film (00601_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15605,7 +15605,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00602_000.jpg",
+    "imageUrl": "/film_packaging/archive/00602_000.jpg",
     "title": "Unknown Film (00602_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15618,7 +15618,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00603_000.jpg",
+    "imageUrl": "/film_packaging/archive/00603_000.jpg",
     "title": "Unknown Film (00603_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15631,7 +15631,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00604_000.jpg",
+    "imageUrl": "/film_packaging/archive/00604_000.jpg",
     "title": "Unknown Film (00604_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15644,7 +15644,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00605_000.jpg",
+    "imageUrl": "/film_packaging/archive/00605_000.jpg",
     "title": "Unknown Film (00605_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15657,7 +15657,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00606_000.jpg",
+    "imageUrl": "/film_packaging/archive/00606_000.jpg",
     "title": "Unknown Film (00606_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15670,7 +15670,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00606_001.jpg",
+    "imageUrl": "/film_packaging/archive/00606_001.jpg",
     "title": "Unknown Film (00606_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15683,7 +15683,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00607_000.jpg",
+    "imageUrl": "/film_packaging/archive/00607_000.jpg",
     "title": "Unknown Film (00607_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15696,7 +15696,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00607_001.jpg",
+    "imageUrl": "/film_packaging/archive/00607_001.jpg",
     "title": "Unknown Film (00607_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15709,7 +15709,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00608_000.jpg",
+    "imageUrl": "/film_packaging/archive/00608_000.jpg",
     "title": "Unknown Film (00608_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15722,7 +15722,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00609_000.jpg",
+    "imageUrl": "/film_packaging/archive/00609_000.jpg",
     "title": "Unknown Film (00609_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15735,7 +15735,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00610_000.jpg",
+    "imageUrl": "/film_packaging/archive/00610_000.jpg",
     "title": "Unknown Film (00610_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15748,7 +15748,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00611_000.jpg",
+    "imageUrl": "/film_packaging/archive/00611_000.jpg",
     "title": "Unknown Film (00611_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15761,7 +15761,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00612_000.jpg",
+    "imageUrl": "/film_packaging/archive/00612_000.jpg",
     "title": "Unknown Film (00612_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15774,7 +15774,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00613_000.jpg",
+    "imageUrl": "/film_packaging/archive/00613_000.jpg",
     "title": "Unknown Film (00613_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15787,7 +15787,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00614_000.jpg",
+    "imageUrl": "/film_packaging/archive/00614_000.jpg",
     "title": "Unknown Film (00614_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15800,7 +15800,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00615_000.jpg",
+    "imageUrl": "/film_packaging/archive/00615_000.jpg",
     "title": "Unknown Film (00615_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15813,7 +15813,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00616_000.jpg",
+    "imageUrl": "/film_packaging/archive/00616_000.jpg",
     "title": "Unknown Film (00616_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15826,7 +15826,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00617_000.jpg",
+    "imageUrl": "/film_packaging/archive/00617_000.jpg",
     "title": "Unknown Film (00617_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15839,7 +15839,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00617_001.jpg",
+    "imageUrl": "/film_packaging/archive/00617_001.jpg",
     "title": "Unknown Film (00617_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15852,7 +15852,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00618_000.jpg",
+    "imageUrl": "/film_packaging/archive/00618_000.jpg",
     "title": "Unknown Film (00618_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15865,7 +15865,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00619_000.jpg",
+    "imageUrl": "/film_packaging/archive/00619_000.jpg",
     "title": "Unknown Film (00619_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15878,7 +15878,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00620_000.jpg",
+    "imageUrl": "/film_packaging/archive/00620_000.jpg",
     "title": "Unknown Film (00620_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15891,7 +15891,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00621_000.jpg",
+    "imageUrl": "/film_packaging/archive/00621_000.jpg",
     "title": "Unknown Film (00621_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15904,7 +15904,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00622_000.jpg",
+    "imageUrl": "/film_packaging/archive/00622_000.jpg",
     "title": "Unknown Film (00622_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15917,7 +15917,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00623_000.jpg",
+    "imageUrl": "/film_packaging/archive/00623_000.jpg",
     "title": "Unknown Film (00623_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15930,7 +15930,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00623_001.jpg",
+    "imageUrl": "/film_packaging/archive/00623_001.jpg",
     "title": "Unknown Film (00623_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15943,7 +15943,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00623_002.jpg",
+    "imageUrl": "/film_packaging/archive/00623_002.jpg",
     "title": "Unknown Film (00623_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15956,7 +15956,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00624_000.jpg",
+    "imageUrl": "/film_packaging/archive/00624_000.jpg",
     "title": "Unknown Film (00624_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15969,7 +15969,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00624_001.jpg",
+    "imageUrl": "/film_packaging/archive/00624_001.jpg",
     "title": "Unknown Film (00624_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15982,7 +15982,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00625_000.jpg",
+    "imageUrl": "/film_packaging/archive/00625_000.jpg",
     "title": "Unknown Film (00625_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -15995,7 +15995,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00625_001.jpg",
+    "imageUrl": "/film_packaging/archive/00625_001.jpg",
     "title": "Unknown Film (00625_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16008,7 +16008,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_000.jpg",
+    "imageUrl": "/film_packaging/archive/00626_000.jpg",
     "title": "Unknown Film (00626_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16021,7 +16021,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_001.jpg",
+    "imageUrl": "/film_packaging/archive/00626_001.jpg",
     "title": "Unknown Film (00626_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16034,7 +16034,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_002.jpg",
+    "imageUrl": "/film_packaging/archive/00626_002.jpg",
     "title": "Unknown Film (00626_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16047,7 +16047,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_003.jpg",
+    "imageUrl": "/film_packaging/archive/00626_003.jpg",
     "title": "Unknown Film (00626_003.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16060,7 +16060,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_004.jpg",
+    "imageUrl": "/film_packaging/archive/00626_004.jpg",
     "title": "Unknown Film (00626_004.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16073,7 +16073,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_005.jpg",
+    "imageUrl": "/film_packaging/archive/00626_005.jpg",
     "title": "Unknown Film (00626_005.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16086,7 +16086,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_006.jpg",
+    "imageUrl": "/film_packaging/archive/00626_006.jpg",
     "title": "Unknown Film (00626_006.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16099,7 +16099,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_007.jpg",
+    "imageUrl": "/film_packaging/archive/00626_007.jpg",
     "title": "Unknown Film (00626_007.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16112,7 +16112,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00626_008.jpg",
+    "imageUrl": "/film_packaging/archive/00626_008.jpg",
     "title": "Unknown Film (00626_008.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16125,7 +16125,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00627_000.jpg",
+    "imageUrl": "/film_packaging/archive/00627_000.jpg",
     "title": "Unknown Film (00627_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16138,7 +16138,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00628_000.jpg",
+    "imageUrl": "/film_packaging/archive/00628_000.jpg",
     "title": "Unknown Film (00628_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16151,7 +16151,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00629_000.jpg",
+    "imageUrl": "/film_packaging/archive/00629_000.jpg",
     "title": "Unknown Film (00629_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16164,7 +16164,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00630_000.jpg",
+    "imageUrl": "/film_packaging/archive/00630_000.jpg",
     "title": "Unknown Film (00630_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16177,7 +16177,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00631_000.jpg",
+    "imageUrl": "/film_packaging/archive/00631_000.jpg",
     "title": "Unknown Film (00631_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16190,7 +16190,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00632_000.jpg",
+    "imageUrl": "/film_packaging/archive/00632_000.jpg",
     "title": "Unknown Film (00632_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16203,7 +16203,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00633_000.jpg",
+    "imageUrl": "/film_packaging/archive/00633_000.jpg",
     "title": "Unknown Film (00633_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16216,7 +16216,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00633_001.jpg",
+    "imageUrl": "/film_packaging/archive/00633_001.jpg",
     "title": "Unknown Film (00633_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16229,7 +16229,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00634_000.jpg",
+    "imageUrl": "/film_packaging/archive/00634_000.jpg",
     "title": "Unknown Film (00634_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16242,7 +16242,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00634_001.jpg",
+    "imageUrl": "/film_packaging/archive/00634_001.jpg",
     "title": "Unknown Film (00634_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16255,7 +16255,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00635_000.jpg",
+    "imageUrl": "/film_packaging/archive/00635_000.jpg",
     "title": "Unknown Film (00635_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16268,7 +16268,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00635_001.jpg",
+    "imageUrl": "/film_packaging/archive/00635_001.jpg",
     "title": "Unknown Film (00635_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16281,7 +16281,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00636_000.jpg",
+    "imageUrl": "/film_packaging/archive/00636_000.jpg",
     "title": "Unknown Film (00636_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16294,7 +16294,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00636_001.jpg",
+    "imageUrl": "/film_packaging/archive/00636_001.jpg",
     "title": "Unknown Film (00636_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16307,7 +16307,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00637_000.jpg",
+    "imageUrl": "/film_packaging/archive/00637_000.jpg",
     "title": "Unknown Film (00637_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16320,7 +16320,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00637_001.jpg",
+    "imageUrl": "/film_packaging/archive/00637_001.jpg",
     "title": "Unknown Film (00637_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16333,7 +16333,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00638_000.jpg",
+    "imageUrl": "/film_packaging/archive/00638_000.jpg",
     "title": "Unknown Film (00638_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16346,7 +16346,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00638_001.jpg",
+    "imageUrl": "/film_packaging/archive/00638_001.jpg",
     "title": "Unknown Film (00638_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16359,7 +16359,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00639_000.jpg",
+    "imageUrl": "/film_packaging/archive/00639_000.jpg",
     "title": "Unknown Film (00639_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16372,7 +16372,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00639_001.jpg",
+    "imageUrl": "/film_packaging/archive/00639_001.jpg",
     "title": "Unknown Film (00639_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16385,7 +16385,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00640_000.jpg",
+    "imageUrl": "/film_packaging/archive/00640_000.jpg",
     "title": "Unknown Film (00640_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16398,7 +16398,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00640_001.jpg",
+    "imageUrl": "/film_packaging/archive/00640_001.jpg",
     "title": "Unknown Film (00640_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16411,7 +16411,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00641_000.jpg",
+    "imageUrl": "/film_packaging/archive/00641_000.jpg",
     "title": "Unknown Film (00641_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16424,7 +16424,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00641_001.jpg",
+    "imageUrl": "/film_packaging/archive/00641_001.jpg",
     "title": "Unknown Film (00641_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16437,7 +16437,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00642_000.jpg",
+    "imageUrl": "/film_packaging/archive/00642_000.jpg",
     "title": "Unknown Film (00642_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16450,7 +16450,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00642_001.jpg",
+    "imageUrl": "/film_packaging/archive/00642_001.jpg",
     "title": "Unknown Film (00642_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16463,7 +16463,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00643_000.jpg",
+    "imageUrl": "/film_packaging/archive/00643_000.jpg",
     "title": "Unknown Film (00643_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16476,7 +16476,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00643_001.jpg",
+    "imageUrl": "/film_packaging/archive/00643_001.jpg",
     "title": "Unknown Film (00643_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16489,7 +16489,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_000.jpg",
+    "imageUrl": "/film_packaging/archive/00644_000.jpg",
     "title": "Unknown Film (00644_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16502,7 +16502,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_001.jpg",
+    "imageUrl": "/film_packaging/archive/00644_001.jpg",
     "title": "Unknown Film (00644_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16515,7 +16515,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_002.jpg",
+    "imageUrl": "/film_packaging/archive/00644_002.jpg",
     "title": "Unknown Film (00644_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16528,7 +16528,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_003.jpg",
+    "imageUrl": "/film_packaging/archive/00644_003.jpg",
     "title": "Unknown Film (00644_003.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16541,7 +16541,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_004.jpg",
+    "imageUrl": "/film_packaging/archive/00644_004.jpg",
     "title": "Unknown Film (00644_004.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16554,7 +16554,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_005.jpg",
+    "imageUrl": "/film_packaging/archive/00644_005.jpg",
     "title": "Unknown Film (00644_005.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16567,7 +16567,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_006.jpg",
+    "imageUrl": "/film_packaging/archive/00644_006.jpg",
     "title": "Unknown Film (00644_006.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16580,7 +16580,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00644_007.jpg",
+    "imageUrl": "/film_packaging/archive/00644_007.jpg",
     "title": "Unknown Film (00644_007.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16593,7 +16593,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_000.jpg",
+    "imageUrl": "/film_packaging/archive/00645_000.jpg",
     "title": "Unknown Film (00645_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16606,7 +16606,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_001.jpg",
+    "imageUrl": "/film_packaging/archive/00645_001.jpg",
     "title": "Unknown Film (00645_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16619,7 +16619,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_002.jpg",
+    "imageUrl": "/film_packaging/archive/00645_002.jpg",
     "title": "Unknown Film (00645_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16632,7 +16632,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_003.jpg",
+    "imageUrl": "/film_packaging/archive/00645_003.jpg",
     "title": "Unknown Film (00645_003.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16645,7 +16645,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_004.jpg",
+    "imageUrl": "/film_packaging/archive/00645_004.jpg",
     "title": "Unknown Film (00645_004.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16658,7 +16658,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00645_005.jpg",
+    "imageUrl": "/film_packaging/archive/00645_005.jpg",
     "title": "Unknown Film (00645_005.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16671,7 +16671,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00646_000.jpg",
+    "imageUrl": "/film_packaging/archive/00646_000.jpg",
     "title": "Unknown Film (00646_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16684,7 +16684,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00646_001.jpg",
+    "imageUrl": "/film_packaging/archive/00646_001.jpg",
     "title": "Unknown Film (00646_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16697,7 +16697,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00647_000.jpg",
+    "imageUrl": "/film_packaging/archive/00647_000.jpg",
     "title": "Unknown Film (00647_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16710,7 +16710,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00647_001.jpg",
+    "imageUrl": "/film_packaging/archive/00647_001.jpg",
     "title": "Unknown Film (00647_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16723,7 +16723,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00647_002.jpg",
+    "imageUrl": "/film_packaging/archive/00647_002.jpg",
     "title": "Unknown Film (00647_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16736,7 +16736,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00648_000.jpg",
+    "imageUrl": "/film_packaging/archive/00648_000.jpg",
     "title": "Unknown Film (00648_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16749,7 +16749,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00648_001.jpg",
+    "imageUrl": "/film_packaging/archive/00648_001.jpg",
     "title": "Unknown Film (00648_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16762,7 +16762,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00649_000.jpg",
+    "imageUrl": "/film_packaging/archive/00649_000.jpg",
     "title": "Unknown Film (00649_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16775,7 +16775,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00650_000.jpg",
+    "imageUrl": "/film_packaging/archive/00650_000.jpg",
     "title": "Unknown Film (00650_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16788,7 +16788,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00651_000.jpg",
+    "imageUrl": "/film_packaging/archive/00651_000.jpg",
     "title": "Unknown Film (00651_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16801,7 +16801,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00652_000.jpg",
+    "imageUrl": "/film_packaging/archive/00652_000.jpg",
     "title": "Unknown Film (00652_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16814,7 +16814,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00652_001.jpg",
+    "imageUrl": "/film_packaging/archive/00652_001.jpg",
     "title": "Unknown Film (00652_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16827,7 +16827,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00653_000.jpg",
+    "imageUrl": "/film_packaging/archive/00653_000.jpg",
     "title": "Unknown Film (00653_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16840,7 +16840,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00654_000.jpg",
+    "imageUrl": "/film_packaging/archive/00654_000.jpg",
     "title": "Unknown Film (00654_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16853,7 +16853,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00654_001.jpg",
+    "imageUrl": "/film_packaging/archive/00654_001.jpg",
     "title": "Unknown Film (00654_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16866,7 +16866,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00655_000.jpg",
+    "imageUrl": "/film_packaging/archive/00655_000.jpg",
     "title": "Unknown Film (00655_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16879,7 +16879,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00655_001.jpg",
+    "imageUrl": "/film_packaging/archive/00655_001.jpg",
     "title": "Unknown Film (00655_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16892,7 +16892,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00655_002.jpg",
+    "imageUrl": "/film_packaging/archive/00655_002.jpg",
     "title": "Unknown Film (00655_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16905,7 +16905,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00655_003.jpg",
+    "imageUrl": "/film_packaging/archive/00655_003.jpg",
     "title": "Unknown Film (00655_003.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16918,7 +16918,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00656_000.jpg",
+    "imageUrl": "/film_packaging/archive/00656_000.jpg",
     "title": "Unknown Film (00656_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16931,7 +16931,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00657_000.jpg",
+    "imageUrl": "/film_packaging/archive/00657_000.jpg",
     "title": "Unknown Film (00657_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16944,7 +16944,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_000.jpg",
+    "imageUrl": "/film_packaging/archive/00658_000.jpg",
     "title": "Unknown Film (00658_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16957,7 +16957,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_001.jpg",
+    "imageUrl": "/film_packaging/archive/00658_001.jpg",
     "title": "Unknown Film (00658_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16970,7 +16970,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_002.jpg",
+    "imageUrl": "/film_packaging/archive/00658_002.jpg",
     "title": "Unknown Film (00658_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16983,7 +16983,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_003.jpg",
+    "imageUrl": "/film_packaging/archive/00658_003.jpg",
     "title": "Unknown Film (00658_003.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -16996,7 +16996,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_004.jpg",
+    "imageUrl": "/film_packaging/archive/00658_004.jpg",
     "title": "Unknown Film (00658_004.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17009,7 +17009,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00658_005.jpg",
+    "imageUrl": "/film_packaging/archive/00658_005.jpg",
     "title": "Unknown Film (00658_005.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17022,7 +17022,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00659_000.jpg",
+    "imageUrl": "/film_packaging/archive/00659_000.jpg",
     "title": "Unknown Film (00659_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17035,7 +17035,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00660_000.jpg",
+    "imageUrl": "/film_packaging/archive/00660_000.jpg",
     "title": "Unknown Film (00660_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17048,7 +17048,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00660_001.jpg",
+    "imageUrl": "/film_packaging/archive/00660_001.jpg",
     "title": "Unknown Film (00660_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17061,7 +17061,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00661_000.jpg",
+    "imageUrl": "/film_packaging/archive/00661_000.jpg",
     "title": "Unknown Film (00661_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17074,7 +17074,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00662_000.jpg",
+    "imageUrl": "/film_packaging/archive/00662_000.jpg",
     "title": "Unknown Film (00662_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17087,7 +17087,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00663_000.jpg",
+    "imageUrl": "/film_packaging/archive/00663_000.jpg",
     "title": "Unknown Film (00663_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17100,7 +17100,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00664_000.jpg",
+    "imageUrl": "/film_packaging/archive/00664_000.jpg",
     "title": "Unknown Film (00664_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17113,7 +17113,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00664_001.jpg",
+    "imageUrl": "/film_packaging/archive/00664_001.jpg",
     "title": "Unknown Film (00664_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17126,7 +17126,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00665_000.jpg",
+    "imageUrl": "/film_packaging/archive/00665_000.jpg",
     "title": "Unknown Film (00665_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17139,7 +17139,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00666_000.jpg",
+    "imageUrl": "/film_packaging/archive/00666_000.jpg",
     "title": "Unknown Film (00666_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   },
@@ -17152,7 +17152,7 @@ const GALLERY_DATA = [
     "process": "Unknown",
     "item_type": "Unknown",
     "author": "Unknown",
-    "imageUrl": "film_packaging/archive/00666_001.jpg",
+    "imageUrl": "/film_packaging/archive/00666_001.jpg",
     "title": "Unknown Film (00666_001.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   }

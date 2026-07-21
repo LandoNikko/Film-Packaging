@@ -44,7 +44,7 @@ def generate_js_data():
                 'expiry_date': row.get('expiry_date', 'Unknown'),
                 'item_type': row.get('item_type', 'Unknown'),
                 'author': row.get('author', 'Unknown'),
-                'imageUrl': f'film_packaging/archive/{filename}',
+                'imageUrl': f'/film_packaging/archive/{filename}',
                 'title': f"{row.get('brand', 'Unknown')} {row.get('product', 'Unknown')}",
                 'details': f"{row.get('film_format', 'Unknown')} • ISO {row.get('film_speed_iso', 'Unknown')} • {row.get('process', 'Unknown')} • {row.get('item_type', 'Unknown')}"
             }
@@ -59,7 +59,7 @@ def generate_js_data():
                 'process': 'Unknown',
                 'item_type': 'Unknown',
                 'author': 'Unknown',
-                'imageUrl': f'film_packaging/archive/{filename}',
+                'imageUrl': f'/film_packaging/archive/{filename}',
                 'title': f'Unknown Film ({filename})',
                 'details': 'Unknown format • Unknown ISO • Unknown process • Unknown type'
             }

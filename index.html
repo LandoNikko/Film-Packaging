@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Packaging Archive</title>
+    <script>
+        if (/\/index\.html$/i.test(location.pathname)) {
+            location.replace('/' + location.search + location.hash);
+        }
+    </script>
     <meta name="description" content="High-resolution scans of photography film packages">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -27,8 +32,8 @@
                 <i class="ri-menu-line" aria-hidden="true"></i>
             </button>
             <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/gallery/">Gallery</a></li>
             </ul>
         </div>
     </nav>
@@ -44,8 +49,8 @@
                 <img class="site-logo-mark" src="assets/logo.png" alt="" aria-hidden="true" width="32" height="32">
                 Film Packaging Archive
             </span>
-            <a href="index.html">Home</a>
-            <a href="gallery.html">Gallery</a>
+            <a href="/">Home</a>
+            <a href="/gallery/">Gallery</a>
         </nav>
     </aside>
 
@@ -66,7 +71,7 @@
                 </p>
 
                 <div class="browse-cta">
-                    <a href="gallery.html" class="cta-button">
+                    <a href="/gallery/" class="cta-button">
                         <i class="ri-gallery-line"></i>
                         Explore Gallery
                     </a>

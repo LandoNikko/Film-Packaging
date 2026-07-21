@@ -103,7 +103,7 @@
     }
 
     function renderFeaturedChip(label, filterParam) {
-        const href = `gallery.html?${filterParam}=${encodeURIComponent(label)}`;
+        const href = `/gallery/?${filterParam}=${encodeURIComponent(label)}`;
         const brandColor = filterParam === 'brand'
             ? global.BrandColors?.resolveBrand(label)?.color
             : null;
@@ -163,7 +163,7 @@
         return (
             `<div class="home-showcase-more">` +
             `<p class="home-showcase-more-text">...and more!</p>` +
-            `<a href="gallery.html" class="cta-button">` +
+            `<a href="/gallery/" class="cta-button">` +
             `<i class="ri-gallery-line"></i>` +
             `Explore Gallery` +
             `</a>` +
@@ -194,7 +194,7 @@
             const brandBackground = brandColor?.color || '#808080';
 
             return (
-                `<a class="gallery-item" href="gallery.html#${front.filename}">` +
+                `<a class="gallery-item" href="/gallery/#${front.filename}">` +
                 `<div class="bottom-flap"></div>` +
                 `<div class="top-flap"></div>` +
                 `<div class="image-container">` +
