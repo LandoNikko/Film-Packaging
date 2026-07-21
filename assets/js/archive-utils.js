@@ -5,6 +5,20 @@
         return !value || value === 'Unknown';
     }
 
+    function entryHasUnknownValue(entry) {
+        const fields = [
+            entry.metadata?.brand,
+            entry.metadata?.product,
+            entry.metadata?.film_format,
+            entry.metadata?.film_speed_iso,
+            entry.metadata?.process,
+            entry.metadata?.author,
+            entry.front?.expiry_date
+        ];
+
+        return fields.some(isUnknown);
+    }
+
     function isMobileViewport() {
         return global.matchMedia(MOBILE_MEDIA_QUERY).matches;
     }
@@ -62,9 +76,14 @@
             contributors[author] = (contributors[author] || 0) + 1;
         });
 
+        const sortAlpha = (values) => [...values].sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+
         return {
             itemCount: entryCount,
             roundedItemCount: Math.floor(entryCount / 100) * 100,
+            brands: sortAlpha(brands),
+            formats: sortAlpha(formats),
+            processes: sortAlpha(processes),
             totalBrands: Math.ceil(brands.length / 5) * 5,
             totalFormats: formats.length,
             totalProcesses: processes.length,
@@ -72,6 +91,44 @@
             contributors: Object.entries(contributors)
                 .sort((a, b) => b[1] - a[1])
         };
+    }
+
+    function escapeHtml(value) {
+        return String(value)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+    }
+
+    function renderFeaturedChip(label, filterParam) {
+        const href = `gallery.html?${filterParam}=${encodeURIComponent(label)}`;
+        const brandColor = filterParam === 'brand'
+            ? global.BrandColors?.resolveBrand(label)?.color
+            : null;
+        const style = brandColor ? ` style="--featured-accent: ${brandColor}"` : '';
+        const accentClass = brandColor ? ' featured-chip--brand' : '';
+
+        return (
+            `<a class="featured-chip${accentClass}" href="${href}"${style}>` +
+            `${escapeHtml(label)}` +
+            `</a>`
+        );
+    }
+
+    function renderFeaturedSection(stats) {
+        const groups = [
+            { id: 'featuredBrands', values: stats.brands, param: 'brand' },
+            { id: 'featuredFormats', values: stats.formats, param: 'format' },
+            { id: 'featuredProcesses', values: stats.processes, param: 'process' }
+        ];
+
+        groups.forEach(({ id, values, param }) => {
+            const grid = document.getElementById(id);
+            if (!grid) return;
+            grid.innerHTML = values.map((value) => renderFeaturedChip(value, param)).join('');
+        });
     }
 
     function setText(id, value) {
@@ -120,7 +177,9 @@
 
         if (reshuffle || !homeShowcasePicks) {
             homeShowcasePicks = shuffleArray(
-                groupItemsByBaseFilename(data).filter((entry) => entry.front)
+                groupItemsByBaseFilename(data).filter((entry) =>
+                    entry.front && !entryHasUnknownValue(entry)
+                )
             );
         }
 
@@ -129,16 +188,22 @@
         const itemCards = picks.map(({ front, metadata }) => {
             const thumb = front.imageUrl.replace('/archive/', '/lowres/');
             const title = metadata.product || front.title;
+            const brand = metadata.brand || 'Unknown';
+            const brandColor = global.BrandColors?.resolveBrand(brand);
+            const textColor = global.BrandColors?.textColorForBrand(brand) || '#1A1A1A';
+            const brandBackground = brandColor?.color || '#808080';
+
             return (
                 `<a class="gallery-item" href="gallery.html#${front.filename}">` +
                 `<div class="bottom-flap"></div>` +
                 `<div class="top-flap"></div>` +
                 `<div class="image-container">` +
-                `<img src="${thumb}" alt="${title}" loading="lazy" ` +
+                `<img src="${thumb}" alt="${escapeHtml(title)}" loading="lazy" ` +
                 `onerror="this.onerror=null; this.src='${front.imageUrl}';">` +
                 `</div>` +
+                `<div class="brand-header" style="color: ${textColor}; background-color: ${brandBackground};">${escapeHtml(brand)}</div>` +
                 `<div class="gallery-item-info">` +
-                `<h2 class="gallery-item-title">${title}</h2>` +
+                `<h2 class="gallery-item-title">${escapeHtml(title)}</h2>` +
                 `</div>` +
                 `</a>`
             );
@@ -187,16 +252,30 @@
         setText('heroItemCount', `${stats.roundedItemCount}+`);
         applyHeaderStats(stats);
         initHomeShowcase(data);
+        renderFeaturedSection(stats);
 
         const grid = document.getElementById('contributorsGrid');
         if (!grid) return;
 
-        grid.innerHTML = stats.contributors.map(([name, count]) =>
-            `<div class="contributor-card"><div class="contributor-info">` +
-            `<h3>${name}</h3>` +
-            `<span class="contribution-count">${formatContributionCount(count)}</span>` +
-            `</div></div>`
-        ).join('');
+        const contributeCard = (
+            `<a class="contributor-card contributor-card--cta" ` +
+            `href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" ` +
+            `target="_blank" rel="noopener noreferrer">` +
+            `<div class="contributor-info">` +
+            `<h3>Contribute</h3>` +
+            `<span class="contribution-count">Submit your own scans</span>` +
+            `</div></a>`
+        );
+
+        grid.innerHTML = stats.contributors.map(([name, count]) => {
+            const displayName = isUnknown(name) ? 'Anonymous' : name;
+            return (
+                `<div class="contributor-card"><div class="contributor-info">` +
+                `<h3>${escapeHtml(displayName)}</h3>` +
+                `<span class="contribution-count">${formatContributionCount(count)}</span>` +
+                `</div></div>`
+            );
+        }).join('') + contributeCard;
     }
 
     global.ArchiveUtils = {

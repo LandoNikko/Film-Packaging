@@ -520,12 +520,53 @@ footer {
 
 .about-actions {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
 }
 
 .about-actions .resource-card {
     height: 100%;
+}
+
+.featured-groups {
+    display: grid;
+    gap: 2.5rem;
+}
+
+.featured-group h2 {
+    text-align: center;
+    margin: 0 0 1rem;
+}
+
+.featured-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+    justify-content: center;
+}
+
+.featured-chip {
+    display: inline-flex;
+    align-items: center;
+    width: fit-content;
+    max-width: 100%;
+    padding: 0.625rem 0.75rem;
+    background: var(--card-bg);
+    border: 2px solid var(--border-primary);
+    color: var(--text-color);
+    text-decoration: none;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    line-height: 1.2;
+    transition: transform 0.3s ease;
+}
+
+.featured-chip:hover {
+    transform: translateY(-2px);
+}
+
+.featured-chip--brand {
+    border-bottom: 4px solid var(--featured-accent, var(--border-primary));
 }
 
 .about-text {
@@ -585,8 +626,21 @@ footer {
     transition: transform 0.3s ease;
 }
 
+a.contributor-card {
+    text-decoration: none;
+    color: inherit;
+}
+
 .contributor-card:hover {
     transform: translateY(-2px);
+}
+
+.contributor-card--cta {
+    border-color: var(--accent-kodak);
+}
+
+.contributor-card--cta .contribution-count {
+    color: var(--text-color);
 }
 
 .contributor-info h3 {
@@ -808,6 +862,7 @@ footer {
     min-height: 0;
     overflow-y: auto;
     padding: 1rem 1rem max(1rem, env(safe-area-inset-bottom));
+    margin-top: 3rem;
     -webkit-overflow-scrolling: touch;
 }
 

@@ -19,8 +19,9 @@ class FilmGallery {
         try {
             await this.loadGalleryData();
             this.populateFilters();
-            this.sortGallery('brand');
-            this.renderGallery();
+            this.applyUrlFilters();
+            this.currentSort = { ...this.defaultSort };
+            this.filterGallery();
             this.updateResetButtonVisibility();
         } finally {
             this.showLoading(false);
@@ -341,6 +342,31 @@ class FilmGallery {
         });
     }
 
+    applyUrlFilters() {
+        const params = new URLSearchParams(window.location.search);
+        const filterMap = {
+            brand: 'brand',
+            format: 'format',
+            process: 'process'
+        };
+        let applied = false;
+
+        Object.entries(filterMap).forEach(([param, name]) => {
+            const value = params.get(param);
+            if (!value) return;
+
+            const checkbox = [...document.querySelectorAll(`input[name="${name}"]`)]
+                .find((input) => input.value === value);
+            if (!checkbox) return;
+
+            checkbox.checked = true;
+            this.updateToggleText(name);
+            applied = true;
+        });
+
+        return applied;
+    }
+
     updateToggleText(filterType) {
         const selected = this.getSelectedFilterValues(filterType);
         const toggleButton = document.querySelector(`[data-target="${filterType}-section"]`);
@@ -436,37 +462,54 @@ class FilmGallery {
             this.currentSort.type = sortBy;
         }
 
+        const isUnknownSortValue = (value) => !value || value === 'unknown';
+
         this.filteredData.sort((a, b) => {
             let aValue, bValue;
-            
-            switch(sortBy) {
+            let aUnknown = false;
+            let bUnknown = false;
+
+            switch (sortBy) {
                 case 'brand':
-                    aValue = a.brand.toLowerCase();
-                    bValue = b.brand.toLowerCase();
+                    aValue = (a.brand || '').toLowerCase();
+                    bValue = (b.brand || '').toLowerCase();
+                    aUnknown = isUnknownSortValue(aValue);
+                    bUnknown = isUnknownSortValue(bValue);
                     break;
                 case 'format':
                     aValue = (a.film_format || '').toLowerCase();
                     bValue = (b.film_format || '').toLowerCase();
+                    aUnknown = isUnknownSortValue(aValue);
+                    bUnknown = isUnknownSortValue(bValue);
                     break;
                 case 'process':
                     aValue = (a.process || '').toLowerCase();
                     bValue = (b.process || '').toLowerCase();
+                    aUnknown = isUnknownSortValue(aValue);
+                    bUnknown = isUnknownSortValue(bValue);
                     break;
-                case 'expiry':
-                    const aExpiry = a.expiry_date && a.expiry_date !== 'Unknown' ? a.expiry_date : '000000';
-                    const bExpiry = b.expiry_date && b.expiry_date !== 'Unknown' ? b.expiry_date : '000000';
-                    aValue = aExpiry;
-                    bValue = bExpiry;
+                case 'expiry': {
+                    aUnknown = !a.expiry_date || a.expiry_date === 'Unknown' || a.expiry_date.length !== 6;
+                    bUnknown = !b.expiry_date || b.expiry_date === 'Unknown' || b.expiry_date.length !== 6;
+                    aValue = aUnknown ? '' : a.expiry_date;
+                    bValue = bUnknown ? '' : b.expiry_date;
                     break;
+                }
                 default:
                     return 0;
             }
-            
-            if (sortBy === 'expiry') {
-                return this.currentSort.ascending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
-            } else {
-                return this.currentSort.ascending ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
+
+            if (aUnknown !== bUnknown) {
+                return aUnknown ? 1 : -1;
             }
+
+            if (aUnknown && bUnknown) {
+                return 0;
+            }
+
+            return this.currentSort.ascending
+                ? aValue.localeCompare(bValue)
+                : bValue.localeCompare(aValue);
         });
 
         this.updateSortIcons();

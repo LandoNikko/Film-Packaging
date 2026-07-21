@@ -2,7 +2,7 @@ Film Packaging Archive is an open source community-driven archive of high-resolu
 
 **Live site:** [landonikko.github.io/Film-Packaging](https://landonikko.github.io/Film-Packaging/)
 
-Fork of dekuNukem/Film-Packaging: Browsable frontend for the main archive with search, stats, filter, gallery and lightbox.
+A browsable frontend of the main archive with search, stats, filter, gallery and lightbox.
 
 ![Website](https://i.imgur.com/bp2oXCM.jpeg)
 
@@ -12,13 +12,15 @@ Fork of dekuNukem/Film-Packaging: Browsable frontend for the main archive with s
 | ![Example](https://i.imgur.com/ij82Kms.jpeg) | ![Example](https://i.imgur.com/gkkFxHh.jpeg) |
 | ![Example](https://i.imgur.com/fMMFHKv.jpeg) | ![Example](https://i.imgur.com/5MAmmwG.jpeg) |
 
-## Resources
+## Resource
 
 - [Upstream data archive](https://github.com/dekuNukem/Film-Packaging)
-    - New scans are merged in weekly
-- [Contribute](https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md)
-- [Discord](https://discord.gg/yvBx7dVG4B)
+    - New scans are automatically merged in weekly on Mondays by GitHub Actions.
 
 ## Disclaimer
 
-Images are provided for reference and educational purposes. Designs may be protected under copyright and trademark laws. Use at your own risk. The MIT License applies only to the non-image source code.
+Film Packaging Archive is an [open source project](https://github.com/dekuNukem/Film-Packaging) under the MIT license maintained by [dekuNukem](https://github.com/dekuNukem). Following the license and open source principles, this website is a passion contribution to the main project by [Lando Nikko](https://github.com/LandoNikko), to make it more accessible and user-friendly for the general public. 
+
+The images are provided by individuals for the project. They are meant to be for reference, educational, and archival purposes. The designs may be protected under copyright and trademark laws. Use at your own risk. 
+
+The MIT License applies only to the non-image source codes.

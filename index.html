@@ -29,7 +29,6 @@
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
             </ul>
         </div>
     </nav>
@@ -47,7 +46,6 @@
             </span>
             <a href="index.html">Home</a>
             <a href="gallery.html">Gallery</a>
-            <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">Contribute</a>
         </nav>
     </aside>
 
@@ -94,27 +92,41 @@
 
             <div class="fold-line"></div>
 
+            <section class="content-section featured-section">
+                <div class="featured-groups">
+                    <div class="featured-group">
+                        <h2>Brands</h2>
+                        <div class="featured-grid" id="featuredBrands"></div>
+                    </div>
+                    <div class="featured-group">
+                        <h2>Formats</h2>
+                        <div class="featured-grid" id="featuredFormats"></div>
+                    </div>
+                    <div class="featured-group">
+                        <h2>Processes</h2>
+                        <div class="featured-grid" id="featuredProcesses"></div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="fold-line"></div>
+
             <section class="content-section">
                 <div class="about-actions">
-                    <a href="https://discord.gg/yvBx7dVG4B" class="resource-card">
-                        <i class="ri-discord-line"></i>
-                        <h3>Discord</h3>
-                        <p>Community discussion</p>
+                    <a href="https://github.com/dekuNukem/Film-Packaging/archive/refs/heads/master.zip" class="resource-card">
+                        <i class="ri-folder-zip-line"></i>
+                        <h3>Download full repository</h3>
+                        <p>High-res scans are in film_packaging/archive/ <br>(~3.5GB)</p>
                     </a>
                     <a href="film_packaging/database.csv" class="resource-card">
                         <i class="ri-database-2-line"></i>
                         <h3>Download dataset</h3>
                         <p>(CSV)</p>
                     </a>
-                    <a href="https://github.com/dekuNukem/Film-Packaging/archive/refs/heads/master.zip" class="resource-card">
-                        <i class="ri-folder-zip-line"></i>
-                        <h3>Download full repository</h3>
-                        <p>High-res scans are in film_packaging/archive/<br>(~3.5GB)</p>
-                    </a>
-                    <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer" class="resource-card">
-                        <i class="ri-add-line"></i>
-                        <h3>Contribute</h3>
-                        <p>Submit your own scans</p>
+                    <a href="https://discord.gg/yvBx7dVG4B" class="resource-card">
+                        <i class="ri-discord-line"></i>
+                        <h3>Discord</h3>
+                        <p>Community discussion</p>
                     </a>
                 </div>
             </section>
@@ -125,6 +137,7 @@
                 <div class="about-text text-body" style="margin-bottom: 2rem;">
                     <p>Film packaging captures the evolution of photography, technology, and design trends.</p>
                     <p>Its preservation helps document history, inspire modern designs, and support research of branding and cultural aesthetics.</p>
+                    <p>You can help preserve this history by submitting your own scans. Read the contribution guide <a href="https://github.com/dekuNukem/Film-Packaging/blob/master/contribution_guide.md" target="_blank" rel="noopener noreferrer">here</a>, duplicates are allowed!</p>
                 </div>
                 <h2>Thank you</h2>
                 <div class="contributors-grid" id="contributorsGrid"></div>
@@ -140,6 +153,7 @@
     </button>
 
     <script src="assets/js/site-footer.js"></script>
+    <script src="assets/js/brand-colors.js"></script>
     <script src="assets/js/archive-utils.js"></script>
     <script src="assets/js/nav.js"></script>
     <script src="assets/js/scroll-chrome.js"></script>
