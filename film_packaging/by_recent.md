@@ -12276,8 +12276,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -12285,7 +12285,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    

@@ -267,6 +267,7 @@ Total scans : 1084
 - [[Chrisbes] Reflx Lab 640T AHU (ref: 2ce9)](#chrisbes-reflx-lab-640t-ahu-ref-2ce9)
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
+- [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
 - [[Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)](#dialupdude-fujifilm-400-speed-film-ref-7f19)
 - [[Dialupdude] Fujifilm Nexia A200 (ref: 43c0)](#dialupdude-fujifilm-nexia-a200-ref-43c0)
 - [[Dialupdude] Fujifilm Simple Ace (ref: 17e6)](#dialupdude-fujifilm-simple-ace-ref-17e6)
@@ -671,6 +672,7 @@ Total scans : 1084
 - [[waldoboro] Fujifilm Fujicolor Super HG (ref: 1b30)](#waldoboro-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[waldoboro] Fujifilm Fujicolor Superia 100 (ref: 30bf)](#waldoboro-fujifilm-fujicolor-superia-100-ref-30bf)
 - [[waldoboro] Fukkatsu Color Print Film (ref: 3213)](#waldoboro-fukkatsu-color-print-film-ref-3213)
+- [[waldoboro] Kodak Ektacolor Pro 400 (ref: aa72)](#waldoboro-kodak-ektacolor-pro-400-ref-aa72)
 - [[waldoboro] Kodak Gold 200 (ref: 7d4b)](#waldoboro-kodak-gold-200-ref-7d4b)
 - [[waldoboro] Kodak Kodachrome (ref: 3d0a)](#waldoboro-kodak-kodachrome-ref-3d0a)
 - [[waldoboro] Perutz Primera (ref: cbfb)](#waldoboro-perutz-primera-ref-cbfb)
@@ -5039,6 +5041,34 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 
 <a href="./archive/00561_000.jpg" target="_blank">
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
 </a>
 
 #### [Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)
@@ -13705,6 +13735,20 @@ UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
 </a>
 
+#### [waldoboro] Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
+</a>
+
 #### [waldoboro] Kodak Gold 200 (ref: 7d4b)
 
 ```
@@ -13981,8 +14025,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -13990,7 +14034,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    

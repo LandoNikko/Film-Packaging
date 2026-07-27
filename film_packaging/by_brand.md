@@ -23,6 +23,7 @@ Total scans : 1084
 -----
 
 - [1Shot Color Print Film (ref: 8cf0)](#1shot-color-print-film-ref-8cf0)
+- [1Shot Fun Shooter Flash (ref: 31aa)](#1shot-fun-shooter-flash-ref-31aa)
 - [A Girl Has Film Tetris 200 (ref: b309)](#a-girl-has-film-tetris-200-ref-b309)
 - [ADOX CHS 100 II (ref: 8adf)](#adox-chs-100-ii-ref-8adf)
 - [ADOX CMS 20 II Pro (ref: 0bea)](#adox-cms-20-ii-pro-ref-0bea)
@@ -357,6 +358,7 @@ Total scans : 1084
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
 - [Kodak Ektachrome-X (ref: cca3)](#kodak-ektachrome-x-ref-cca3)
+- [Kodak Ektacolor Pro 400 (ref: aa72)](#kodak-ektacolor-pro-400-ref-aa72)
 - [Kodak Ektacolor Pro Gold (ref: c3f8)](#kodak-ektacolor-pro-gold-ref-c3f8)
 - [Kodak Ektagraphic HC Slide Film (ref: d2a2)](#kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [Kodak Ektar 100 (ref: 4631)](#kodak-ektar-100-ref-4631)
@@ -700,6 +702,34 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 
 <a href="./archive/00561_000.jpg" target="_blank">
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
 </a>
 
 #### A Girl Has Film Tetris 200 (ref: b309)
@@ -7229,6 +7259,20 @@ UUID  : 109f05cb335c476a8b019d13347ccca3
 
 <a href="./archive/00574_000.jpg" target="_blank">
 	<img src="./lowres/00574_000.jpg" alt="Kodak Ektachrome-X 120 film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
 </a>
 
 #### Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -13981,8 +14025,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -13990,7 +14034,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    

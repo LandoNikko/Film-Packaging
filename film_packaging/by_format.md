@@ -406,6 +406,7 @@ Total scans : 1084
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [[35mm] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#35mm-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[35mm] Kodak Ektachrome-X (ref: aec5)](#35mm-kodak-ektachrome-x-ref-aec5)
+- [[35mm] Kodak Ektacolor Pro 400 (ref: aa72)](#35mm-kodak-ektacolor-pro-400-ref-aa72)
 - [[35mm] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#35mm-kodak-ektagraphic-hc-slide-film-ref-d2a2)
 - [[35mm] Kodak Ektar 100 (ref: 95ec)](#35mm-kodak-ektar-100-ref-95ec)
 - [[35mm] Kodak Ektar 100 (ref: 3498)](#35mm-kodak-ektar-100-ref-3498)
@@ -627,6 +628,7 @@ Total scans : 1084
 - [[APS] Kodak Advantix Ultra Max (ref: 1ca2)](#aps-kodak-advantix-ultra-max-ref-1ca2)
 - [[APS] Lloyds Pharmacy APS Film (ref: c7cf)](#aps-lloyds-pharmacy-aps-film-ref-c7cf)
 - [[Disc Film] Kodak Kodacolor Gold (ref: 4ccd)](#disc-film-kodak-kodacolor-gold-ref-4ccd)
+- [[Disposable Camera] 1Shot Fun Shooter Flash (ref: 31aa)](#disposable-camera-1shot-fun-shooter-flash-ref-31aa)
 - [[Disposable Camera] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#disposable-camera-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[Disposable Camera] Fujifilm Hi-Speed 1600 (ref: 8a6f)](#disposable-camera-fujifilm-hi-speed-1600-ref-8a6f)
 - [[Disposable Camera] Fujifilm Simple Ace (ref: 17e6)](#disposable-camera-fujifilm-simple-ace-ref-17e6)
@@ -8336,6 +8338,20 @@ UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
+#### [35mm] Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
+</a>
+
 #### [35mm] Kodak Ektagraphic HC Slide Film (ref: d2a2)
 
 ```
@@ -12778,6 +12794,34 @@ UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
 </a>
 
+#### [Disposable Camera] 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
+</a>
+
 #### [Disposable Camera] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
 
 ```
@@ -13981,8 +14025,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -13990,7 +14034,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    

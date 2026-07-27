@@ -252,6 +252,7 @@ Total scans : 1084
 - [[C-22] Kodak Kodacolor-X (ref: 5302)](#c-22-kodak-kodacolor-x-ref-5302)
 - [[C-22] Porst Color N21 (ref: 494a)](#c-22-porst-color-n21-ref-494a)
 - [[C-41] 1Shot Color Print Film (ref: 8cf0)](#c-41-1shot-color-print-film-ref-8cf0)
+- [[C-41] 1Shot Fun Shooter Flash (ref: 31aa)](#c-41-1shot-fun-shooter-flash-ref-31aa)
 - [[C-41] A Girl Has Film Tetris 200 (ref: b309)](#c-41-a-girl-has-film-tetris-200-ref-b309)
 - [[C-41] Agfa AgfaColor HDC Plus (ref: 016b)](#c-41-agfa-agfacolor-hdc-plus-ref-016b)
 - [[C-41] Agfa AgfaColor HDC Plus (ref: d22b)](#c-41-agfa-agfacolor-hdc-plus-ref-d22b)
@@ -375,6 +376,7 @@ Total scans : 1084
 - [[C-41] Kodak Black & White + (ref: 2ff3)](#c-41-kodak-black-white-ref-2ff3)
 - [[C-41] Kodak ColorPlus (ref: 79ca)](#c-41-kodak-colorplus-ref-79ca)
 - [[C-41] Kodak ColorPlus (ref: 6637)](#c-41-kodak-colorplus-ref-6637)
+- [[C-41] Kodak Ektacolor Pro 400 (ref: aa72)](#c-41-kodak-ektacolor-pro-400-ref-aa72)
 - [[C-41] Kodak Ektacolor Pro Gold (ref: c3f8)](#c-41-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[C-41] Kodak Ektar 100 (ref: 4631)](#c-41-kodak-ektar-100-ref-4631)
 - [[C-41] Kodak Ektar 100 (ref: 95ec)](#c-41-kodak-ektar-100-ref-95ec)
@@ -5315,6 +5317,34 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
+#### [C-41] 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
+</a>
+
 #### [C-41] A Girl Has Film Tetris 200 (ref: b309)
 
 ```
@@ -7438,6 +7468,20 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 
 <a href="./archive/00091_000.jpg" target="_blank">
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="500">
+</a>
+
+#### [C-41] Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
 </a>
 
 #### [C-41] Kodak Ektacolor Pro Gold (ref: c3f8)
@@ -13981,8 +14025,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -13990,7 +14034,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    

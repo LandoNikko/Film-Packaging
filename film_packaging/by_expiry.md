@@ -480,6 +480,7 @@ Total scans : 1084
 - [[2025] Polaroid B&W i-Type Film (ref: 963a)](#2025-polaroid-b-w-i-type-film-ref-963a)
 - [[2025] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#2025-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[2025] 1Shot Color Print Film (ref: 8cf0)](#2025-1shot-color-print-film-ref-8cf0)
+- [[2025] 1Shot Fun Shooter Flash (ref: 31aa)](#2025-1shot-fun-shooter-flash-ref-31aa)
 - [[2025] CineStill 400Dynamic (ref: fccd)](#2025-cinestill-400dynamic-ref-fccd)
 - [[2025] Fujifilm 400 (ref: 82be)](#2025-fujifilm-400-ref-82be)
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
@@ -621,6 +622,7 @@ Total scans : 1084
 - [[2028] Harman Phoenix II (ref: 37c7)](#2028-harman-phoenix-ii-ref-37c7)
 - [[2028] Harman Phoenix II (ref: 41d4)](#2028-harman-phoenix-ii-ref-41d4)
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
+- [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
 - [[2028] Rollei Retro 400S (ref: f345)](#2028-rollei-retro-400s-ref-f345)
@@ -10342,6 +10344,34 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
+#### [2025] 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
+</a>
+
 #### [2025] CineStill 400Dynamic (ref: fccd)
 
 ```
@@ -12796,6 +12826,20 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
+#### [2028] Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
+</a>
+
 #### [2028] Rollei RPX 400 (ref: 2155)
 
 ```
@@ -13981,8 +14025,8 @@ Rank  Username                      Contributions
 6     @recycling.film               66    
 7     @Hol.m35                      62    
 8     nyctomanica                   57    
-9     Mauphoto                      28    
-10    Dialupdude                    27    
+9     Dialupdude                    30    
+10    Mauphoto                      28    
 11    The Compartmentalist          25    
 12    @ob.skura                     19    
 13    fine-seat                     19    
@@ -13990,7 +14034,7 @@ Rank  Username                      Contributions
 15    kaimon                        19    
 16    Nano_Burger                   18    
 17    toader                        17    
-18    waldoboro                     16    
+18    waldoboro                     17    
 19    Chrisbes                      16    
 20    yc128                         14    
 21    b0baspace                     14    
