@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 1236
+// Total items: 1240
 
 const GALLERY_DATA = [
   {
@@ -17154,6 +17154,58 @@ const GALLERY_DATA = [
     "author": "Unknown",
     "imageUrl": "/film_packaging/archive/00666_001.jpg",
     "title": "Unknown Film (00666_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00667_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00667_000.jpg",
+    "title": "Unknown Film (00667_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00668_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00668_000.jpg",
+    "title": "Unknown Film (00668_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00668_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00668_001.jpg",
+    "title": "Unknown Film (00668_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00668_002.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00668_002.jpg",
+    "title": "Unknown Film (00668_002.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   }
 ];
