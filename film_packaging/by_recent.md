@@ -12269,13 +12269,13 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 Rank  Username                      Contributions
 --------------------------------------------------
 1     dekuNukem                     339   
-2     Luci 101                      100   
+2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @ellafridalindblom            67    
-6     @recycling.film               66    
-7     @Hol.m35                      62    
-8     nyctomanica                   57    
+5     @Hol.m35                      67    
+6     @ellafridalindblom            67    
+7     @recycling.film               66    
+8     nyctomanica                   65    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -12283,10 +12283,10 @@ Rank  Username                      Contributions
 13    fine-seat                     19    
 14    Camera.Riley                  19    
 15    kaimon                        19    
-16    Nano_Burger                   18    
-17    toader                        17    
-18    waldoboro                     17    
-19    Chrisbes                      16    
+16    Chrisbes                      19    
+17    Nano_Burger                   18    
+18    toader                        17    
+19    waldoboro                     17    
 20    yc128                         14    
 21    b0baspace                     14    
 22    @SirBrentsworth               13    
@@ -12296,26 +12296,29 @@ Rank  Username                      Contributions
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
-29    @toastergod101                7     
-30    @filmfotofella                7     
-31    GreatGizmo74                  6     
-32    nick                          6     
-33    Greg                          6     
-34    Kraksen                       5     
-35    @gregrouxphotography          5     
-36    Tobias                        5     
-37    Henry Gunn                    4     
-38    TheSelousScout                4     
-39    @sachynmital                  3     
-40    Tallbird Cowboy               3     
-41    @seklerek                     2     
-42    @ftfilmphotos                 2     
-43    @tylerdrey                    2     
-44    Yrikonchik                    1     
-45    @ad.astra.per.aspera.1894     1     
-46    Aoi Yuki                      1     
-47    lemoniter                     1     
-48    @shotbyliampewpew             1     
+29    MCB18                         9     
+30    @toastergod101                7     
+31    @filmfotofella                7     
+32    GreatGizmo74                  6     
+33    nick                          6     
+34    Greg                          6     
+35    Kraksen                       5     
+36    @gregrouxphotography          5     
+37    Tobias                        5     
+38    Henry Gunn                    4     
+39    TheSelousScout                4     
+40    @sachynmital                  3     
+41    Tallbird Cowboy               3     
+42    @seklerek                     2     
+43    @ftfilmphotos                 2     
+44    @tylerdrey                    2     
+45    Rafa Laguillo                 2     
+46    Yrikonchik                    1     
+47    @ad.astra.per.aspera.1894     1     
+48    Aoi Yuki                      1     
+49    lemoniter                     1     
+50    @shotbyliampewpew             1     
+51    Joo                           1     
 ```
 
 ## Questions or Comments?
