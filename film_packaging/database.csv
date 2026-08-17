@@ -727,11 +727,11 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 405,0,film_box_outside,Svema,Foto 32,35mm,32,BW,199307,1760697633,12f5d31745c68c9c9fc7e0c29f5ec929,64289ff9fd4b4e589c5654a044dbd1fd,00405_000.jpg,@recycling.film,,Refill,36exp
 406,0,film_box_outside,Nishika,Color Print Film,35mm,100,C-41,199312,1760697742,2a5a3caace822e238c465a2a28ea7b93,c8f31c7a1adf423bbc4d35eae399baeb,00406_000.jpg,@recycling.film,,Single Pack,36exp
 407,0,film_cartridge,GAF,Color Slide Film,35mm,500,Unknown,197901,1760697843,d8177988f4f70468bf0f4970fa61f5d5,b57e8c465ff94e02afa31d267b846815,00407_000.jpg,@recycling.film,,Single Pack,20exp
-408,0,film_box_outside,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698227,a669553f6fb9efb54d6fba4b4235e51f,d82a8047531f4e4bbdfe4c0bb95c81b7,00408_000.jpg,@recycling.film,,Single Pack,36exp
-408,1,film_box_leaflet,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698230,4397a7d2fd3c51695e394da9795d42e1,1515034bddc345419da08ea6a497ee34,00408_001.jpg,@recycling.film,,Single Pack,36exp
-408,2,film_box_leaflet,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698232,45c539d3aa101ccd46610183666a682d,062fdd558f6c48fda2979f72c7443cad,00408_002.jpg,@recycling.film,,Single Pack,36exp
-408,3,film_box_processing_envelope,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698234,5782dbbc009e5deaec752329e5ac2800,acc4b02a5b2d422ebda7149636e817b3,00408_003.jpg,@recycling.film,,Single Pack,36exp
-408,4,film_box_processing_envelope,ORWO,Chrom UT18,35mm,50,Unknown,Unknown,1760698237,7bec9440e18c3c73eed0d3bd2f013446,437046f79d2141bfb2af8247bc1a6ba3,00408_004.jpg,@recycling.film,,Single Pack,36exp
+408,0,film_box_outside,ORWO,OrwoChrom UT18,35mm,50,Unknown,Unknown,1760698227,a669553f6fb9efb54d6fba4b4235e51f,d82a8047531f4e4bbdfe4c0bb95c81b7,00408_000.jpg,@recycling.film,,Single Pack,36exp
+408,1,film_box_leaflet,ORWO,OrwoChrom UT18,35mm,50,Unknown,Unknown,1760698230,4397a7d2fd3c51695e394da9795d42e1,1515034bddc345419da08ea6a497ee34,00408_001.jpg,@recycling.film,,Single Pack,36exp
+408,2,film_box_leaflet,ORWO,OrwoChrom UT18,35mm,50,Unknown,Unknown,1760698232,45c539d3aa101ccd46610183666a682d,062fdd558f6c48fda2979f72c7443cad,00408_002.jpg,@recycling.film,,Single Pack,36exp
+408,3,film_box_processing_envelope,ORWO,OrwoChrom UT18,35mm,50,Unknown,Unknown,1760698234,5782dbbc009e5deaec752329e5ac2800,acc4b02a5b2d422ebda7149636e817b3,00408_003.jpg,@recycling.film,,Single Pack,36exp
+408,4,film_box_processing_envelope,ORWO,OrwoChrom UT18,35mm,50,Unknown,Unknown,1760698237,7bec9440e18c3c73eed0d3bd2f013446,437046f79d2141bfb2af8247bc1a6ba3,00408_004.jpg,@recycling.film,,Single Pack,36exp
 409,0,film_box_outside,Ilford,XP2,35mm,400,C-41,199410,1760698707,de6e6a9bcc39473443e7dccb4b3907ed,bc6e58d62eb34ad6a54ea8d4ac877d94,00409_000.jpg,@recycling.film,,Single Pack,20exp
 409,1,film_box_leaflet,Ilford,XP2,35mm,400,C-41,199410,1760698709,e422f41d415342fbd85b38b9686576fc,bdd3a188431042dabb560e85287b517a,00409_001.jpg,@recycling.film,,Single Pack,20exp
 409,2,film_box_leaflet,Ilford,XP2,35mm,400,C-41,199410,1760698963,247d051115148904f66cb07149bce580,94aea5ecf4ab4e74b8e7205d7912c232,00409_002.jpg,@recycling.film,,Single Pack,20exp
@@ -950,9 +950,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 527,0,film_box_outside,Optik Oldschool,OptiColour 200,35mm,200,C-41,202711,1772458341,2fff25ee03286f25db4dcc1217da9684,c72fdf2e60bf4d488f2ac0b2251d099e,00527_000.jpg,@Hol.m35,,Single Pack,36exp
 528,0,film_box_outside,efke,KB-25,35mm,25,BW,200903,1772458463,0a6894da44def44d0580be30ea5d52b2,b41fb584f713486eb5a5da2fe16e4d17,00528_000.jpg,Tobias,,Single Pack,36exp
 528,1,film_box_inside,efke,KB-25,35mm,25,BW,200903,1772458465,1d80bf9752e75310ed85cd074eebc947,98d3ecfcdc824e7bbaef2d5a1f52bd05,00528_001.jpg,Tobias,,Single Pack,36exp
-529,0,film_box_outside,Foton,Fotopan,35mm,400,BW,197904,1772458931,0d968cac004250f74b9c41a79b7695ad,e411c38ab057475f8874bd176d3e6ba7,00529_000.jpg,Luci 101,,Single Pack,36exp
-529,1,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458932,9c5473f96aa4bc16c456dd10edc3e21b,c106929fe57e459dbac9ee8e10ca9b50,00529_001.jpg,Luci 101,,Single Pack,36exp
-529,2,film_box_leaflet,Foton,Fotopan,35mm,400,BW,197904,1772458936,e4a48e9bc0c77b8f0b096db1e0aeffba,1dc440471e384b01a55f1877dc636836,00529_002.jpg,Luci 101,,Single Pack,36exp
+529,0,film_box_outside,Foton,Fotopan CD,35mm,400,BW,197904,1772458931,0d968cac004250f74b9c41a79b7695ad,e411c38ab057475f8874bd176d3e6ba7,00529_000.jpg,Luci 101,,Single Pack,36exp
+529,1,film_box_leaflet,Foton,Fotopan CD,35mm,400,BW,197904,1772458932,9c5473f96aa4bc16c456dd10edc3e21b,c106929fe57e459dbac9ee8e10ca9b50,00529_001.jpg,Luci 101,,Single Pack,36exp
+529,2,film_box_leaflet,Foton,Fotopan CD,35mm,400,BW,197904,1772458936,e4a48e9bc0c77b8f0b096db1e0aeffba,1dc440471e384b01a55f1877dc636836,00529_002.jpg,Luci 101,,Single Pack,36exp
 530,0,film_box_outside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459101,069a00a5fc8a6d50f8723310c2fe2e03,2ba82c28507045deadcde0588535a9b6,00530_000.jpg,Luci 101,,Single Pack,36exp
 530,1,film_box_inside,ORWO,OrwoChrome RC100,35mm,100,E-6,199509,1772459104,fd5b3b16ba8f05e8f7ddf9f192f6e908,427907b346804a719d109c5c7d407e84,00530_001.jpg,Luci 101,,Single Pack,36exp
 531,0,film_box_outside,ORWO,DK5,35mm,Unknown,BW,198301,1772459309,8cc178e169596fe03b92c8561302a763,227450eabb63400cb0f7fb663797e815,00531_000.jpg,Luci 101,,Bulk Roll,50m

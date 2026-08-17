@@ -75,7 +75,7 @@ Total scans : 1084
 - [[2026-03-02] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#2026-03-02-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[2026-03-02] ORWO DK5 (ref: e815)](#2026-03-02-orwo-dk5-ref-e815)
 - [[2026-03-02] ORWO OrwoChrome RC100 (ref: a9b6)](#2026-03-02-orwo-orwochrome-rc100-ref-a9b6)
-- [[2026-03-02] Foton Fotopan (ref: 6ba7)](#2026-03-02-foton-fotopan-ref-6ba7)
+- [[2026-03-02] Foton Fotopan CD (ref: 6ba7)](#2026-03-02-foton-fotopan-cd-ref-6ba7)
 - [[2026-03-02] efke KB-25 (ref: 4d17)](#2026-03-02-efke-kb-25-ref-4d17)
 - [[2026-03-02] Optik Oldschool OptiColour 200 (ref: 099e)](#2026-03-02-optik-oldschool-opticolour-200-ref-099e)
 - [[2026-03-02] Fujifilm Fujicolor 100 (ref: ac71)](#2026-03-02-fujifilm-fujicolor-100-ref-ac71)
@@ -195,7 +195,7 @@ Total scans : 1084
 - [[2025-10-17] Kodak Super-XX (ref: 07c8)](#2025-10-17-kodak-super-xx-ref-07c8)
 - [[2025-10-17] Kodak Tri-X Pan (ref: 85e9)](#2025-10-17-kodak-tri-x-pan-ref-85e9)
 - [[2025-10-17] Ilford XP2 (ref: 7d94)](#2025-10-17-ilford-xp2-ref-7d94)
-- [[2025-10-17] ORWO Chrom UT18 (ref: 81b7)](#2025-10-17-orwo-chrom-ut18-ref-81b7)
+- [[2025-10-17] ORWO OrwoChrom UT18 (ref: 81b7)](#2025-10-17-orwo-orwochrom-ut18-ref-81b7)
 - [[2025-10-17] GAF Color Slide Film (ref: 6815)](#2025-10-17-gaf-color-slide-film-ref-6815)
 - [[2025-10-17] Nishika Color Print Film (ref: baeb)](#2025-10-17-nishika-color-print-film-ref-baeb)
 - [[2025-10-17] Svema Foto 32 (ref: d1fd)](#2025-10-17-svema-foto-32-ref-d1fd)
@@ -1889,17 +1889,17 @@ UUID  : 2ba82c28507045deadcde0588535a9b6
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
 <a href="./archive/00529_002.jpg" target="_blank">
-	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
 <a href="./archive/00529_001.jpg" target="_blank">
-	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
-#### [2026-03-02] Foton Fotopan (ref: 6ba7)
+#### [2026-03-02] Foton Fotopan CD (ref: 6ba7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -1910,7 +1910,7 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
 <a href="./archive/00529_000.jpg" target="_blank">
-	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
@@ -4288,31 +4288,31 @@ UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 `UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
 
 <a href="./archive/00408_004.jpg" target="_blank">
-	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
+	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 
 `UUID: acc4b02a5b2d422ebda7149636e817b3`↓
 
 <a href="./archive/00408_003.jpg" target="_blank">
-	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
 </a>
 
 
 `UUID: 062fdd558f6c48fda2979f72c7443cad`↓
 
 <a href="./archive/00408_002.jpg" target="_blank">
-	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
 </a>
 
 
 `UUID: 1515034bddc345419da08ea6a497ee34`↓
 
 <a href="./archive/00408_001.jpg" target="_blank">
-	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
 </a>
 
-#### [2025-10-17] ORWO Chrom UT18 (ref: 81b7)
+#### [2025-10-17] ORWO OrwoChrom UT18 (ref: 81b7)
 
 ```
 Format: 35mm         |  Process : Unknown 
@@ -4323,7 +4323,7 @@ UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
 ```
 
 <a href="./archive/00408_000.jpg" target="_blank">
-	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
 </a>
 
 #### [2025-10-17] GAF Color Slide Film (ref: 6815)
@@ -12305,20 +12305,25 @@ Rank  Username                      Contributions
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
-38    Henry Gunn                    4     
-39    TheSelousScout                4     
-40    @sachynmital                  3     
-41    Tallbird Cowboy               3     
-42    @seklerek                     2     
-43    @ftfilmphotos                 2     
-44    @tylerdrey                    2     
-45    Rafa Laguillo                 2     
-46    Yrikonchik                    1     
-47    @ad.astra.per.aspera.1894     1     
-48    Aoi Yuki                      1     
-49    lemoniter                     1     
-50    @shotbyliampewpew             1     
-51    Joo                           1     
+38    Rafa Laguillo                 5     
+39    @janjuudas                    5     
+40    Henry Gunn                    4     
+41    TheSelousScout                4     
+42    @sachynmital                  3     
+43    Tallbird Cowboy               3     
+44    @seklerek                     2     
+45    @ftfilmphotos                 2     
+46    @tylerdrey                    2     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Questions or Comments?

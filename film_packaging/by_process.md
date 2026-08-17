@@ -34,6 +34,7 @@ Total scans : 1084
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
 - [[BW] Agfa Agfapan  APX 25 (ref: 805f)](#bw-agfa-agfapan-apx-25-ref-805f)
 - [[BW] Agfa Agfapan APX 100 (ref: e271)](#bw-agfa-agfapan-apx-100-ref-e271)
+- [[BW] Agfa Agfapan APX 25 (ref: 5a92)](#bw-agfa-agfapan-apx-25-ref-5a92)
 - [[BW] Agfa Agfapan APX 400 (ref: 5855)](#bw-agfa-agfapan-apx-400-ref-5855)
 - [[BW] Agfa Agfapan APX 400 (ref: 19bc)](#bw-agfa-agfapan-apx-400-ref-19bc)
 - [[BW] Agfa Agfapan Rapid (ref: 5e7b)](#bw-agfa-agfapan-rapid-ref-5e7b)
@@ -51,6 +52,7 @@ Total scans : 1084
 - [[BW] Agfa Isopan ISS Rapid (ref: 3aee)](#bw-agfa-isopan-iss-rapid-ref-3aee)
 - [[BW] Agfa Isopan Portrait (ref: b974)](#bw-agfa-isopan-portrait-ref-b974)
 - [[BW] Agfa Isopan Portrait (ref: 19b5)](#bw-agfa-isopan-portrait-ref-19b5)
+- [[BW] Agfa Plaques Chromo Isolar (ref: 2c8a)](#bw-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[BW] Agfa Trockenplatten (ref: 0937)](#bw-agfa-trockenplatten-ref-0937)
 - [[BW] Agfa Trockenplatten (ref: 41a8)](#bw-agfa-trockenplatten-ref-41a8)
 - [[BW] Alien Film 5222/XX (ref: 3e49)](#bw-alien-film-5222xx-ref-3e49)
@@ -82,7 +84,7 @@ Total scans : 1084
 - [[BW] Foma Fomapan21 (ref: 75d9)](#bw-foma-fomapan21-ref-75d9)
 - [[BW] Foma Ortho 400 (ref: 89e7)](#bw-foma-ortho-400-ref-89e7)
 - [[BW] Foma Ortho 400 (ref: c559)](#bw-foma-ortho-400-ref-c559)
-- [[BW] Foton Fotopan (ref: 6ba7)](#bw-foton-fotopan-ref-6ba7)
+- [[BW] Foton Fotopan CD (ref: 6ba7)](#bw-foton-fotopan-cd-ref-6ba7)
 - [[BW] Foton Fotopan F (ref: 0ad6)](#bw-foton-fotopan-f-ref-0ad6)
 - [[BW] Foton Mikrofilm Negatywowy Super Orto (ref: 003e)](#bw-foton-mikrofilm-negatywowy-super-orto-ref-003e)
 - [[BW] Foton Super Orto (ref: 050b)](#bw-foton-super-orto-ref-050b)
@@ -141,6 +143,7 @@ Total scans : 1084
 - [[BW] Kentmere PAN 400 (ref: a327)](#bw-kentmere-pan-400-ref-a327)
 - [[BW] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#bw-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[BW] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#bw-kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [[BW] Kodak Ektapan P3200 (ref: 2254)](#bw-kodak-ektapan-p3200-ref-2254)
 - [[BW] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#bw-kodak-hawkeye-2485-surveillance-film-ref-0037)
 - [[BW] Kodak High Contrast Copy Film (ref: db52)](#bw-kodak-high-contrast-copy-film-ref-db52)
 - [[BW] Kodak High Speed Infrared (ref: 4294)](#bw-kodak-high-speed-infrared-ref-4294)
@@ -207,6 +210,7 @@ Total scans : 1084
 - [[BW] Lucky SHD 100 (ref: 7feb)](#bw-lucky-shd-100-ref-7feb)
 - [[BW] Lucky SHD 100 New Generation (ref: 23f6)](#bw-lucky-shd-100-new-generation-ref-23f6)
 - [[BW] Lucky SHD400 (ref: 15b5)](#bw-lucky-shd400-ref-15b5)
+- [[BW] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#bw-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[BW] Mr. Negative Black Cat (ref: cc7d)](#bw-mr-negative-black-cat-ref-cc7d)
 - [[BW] ORWO DK5 (ref: e815)](#bw-orwo-dk5-ref-e815)
 - [[BW] ORWO DK5 (ref: a2dd)](#bw-orwo-dk5-ref-a2dd)
@@ -215,6 +219,7 @@ Total scans : 1084
 - [[BW] ORWO NP15 (ref: 9a20)](#bw-orwo-np15-ref-9a20)
 - [[BW] ORWO NP22 (ref: 5437)](#bw-orwo-np22-ref-5437)
 - [[BW] ORWO UK18 (ref: c92d)](#bw-orwo-uk18-ref-c92d)
+- [[BW] Ogapan Panchromatic (ref: 9c23)](#bw-ogapan-panchromatic-ref-9c23)
 - [[BW] Ogapan Panchromatic (ref: a972)](#bw-ogapan-panchromatic-ref-a972)
 - [[BW] Optik Oldschool OptiMono 100 (ref: 312c)](#bw-optik-oldschool-optimono-100-ref-312c)
 - [[BW] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#bw-perfect-photo-inc-perfect-pan-film-ref-c214)
@@ -425,6 +430,7 @@ Total scans : 1084
 - [[C-41] Kodak Portra 160 (ref: ce56)](#c-41-kodak-portra-160-ref-ce56)
 - [[C-41] Kodak Portra 160 (ref: 6b0a)](#c-41-kodak-portra-160-ref-6b0a)
 - [[C-41] Kodak Portra 160 NC (ref: d52e)](#c-41-kodak-portra-160-nc-ref-d52e)
+- [[C-41] Kodak Portra 160NC (ref: e513)](#c-41-kodak-portra-160nc-ref-e513)
 - [[C-41] Kodak Portra 400 (ref: cf9c)](#c-41-kodak-portra-400-ref-cf9c)
 - [[C-41] Kodak Portra 400 (ref: f4af)](#c-41-kodak-portra-400-ref-f4af)
 - [[C-41] Kodak Portra 400 (ref: 9f18)](#c-41-kodak-portra-400-ref-9f18)
@@ -441,6 +447,7 @@ Total scans : 1084
 - [[C-41] Kodak Sport Single Use Camera (ref: 4618)](#c-41-kodak-sport-single-use-camera-ref-4618)
 - [[C-41] Kodak Ultra (ref: 69a1)](#c-41-kodak-ultra-ref-69a1)
 - [[C-41] Kodak Ultra (ref: 5701)](#c-41-kodak-ultra-ref-5701)
+- [[C-41] Kodak UltraMax (ref: 145b)](#c-41-kodak-ultramax-ref-145b)
 - [[C-41] Kodak UltraMax (ref: 3b23)](#c-41-kodak-ultramax-ref-3b23)
 - [[C-41] Kodak UltraMax (ref: 3c02)](#c-41-kodak-ultramax-ref-3c02)
 - [[C-41] Kodak UltraMax (ref: e3ba)](#c-41-kodak-ultramax-ref-e3ba)
@@ -455,6 +462,7 @@ Total scans : 1084
 - [[C-41] Konica Konica Color SR-G 160 (ref: 64c5)](#c-41-konica-konica-color-sr-g-160-ref-64c5)
 - [[C-41] Konica KonicaColor VX 100 (ref: 8350)](#c-41-konica-konicacolor-vx-100-ref-8350)
 - [[C-41] Konica KonicaColor VX 200 (ref: fe53)](#c-41-konica-konicacolor-vx-200-ref-fe53)
+- [[C-41] Konica SXG 100 (ref: 4096)](#c-41-konica-sxg-100-ref-4096)
 - [[C-41] Konica Sepia Professional (ref: 0b40)](#c-41-konica-sepia-professional-ref-0b40)
 - [[C-41] Konica VX 100 Super (ref: 90b4)](#c-41-konica-vx-100-super-ref-90b4)
 - [[C-41] Konica Minolta Commercial Color Film (ref: e903)](#c-41-konica-minolta-commercial-color-film-ref-e903)
@@ -481,6 +489,7 @@ Total scans : 1084
 - [[C-41] Lucky C200 (ref: e6f8)](#c-41-lucky-c200-ref-e6f8)
 - [[C-41] Lucky C200 (ref: 9c6c)](#c-41-lucky-c200-ref-9c6c)
 - [[C-41] Lucky C200 (ref: b0cc)](#c-41-lucky-c200-ref-b0cc)
+- [[C-41] Lucky LuckyColor BR100 (ref: a71c)](#c-41-lucky-luckycolor-br100-ref-a71c)
 - [[C-41] Lucky Super New 200 (ref: e0a7)](#c-41-lucky-super-new-200-ref-e0a7)
 - [[C-41] Marix Professional Negative Movie Color Film (ref: c457)](#c-41-marix-professional-negative-movie-color-film-ref-c457)
 - [[C-41] Max Spielmann Maxi Color (ref: bf60)](#c-41-max-spielmann-maxi-color-ref-bf60)
@@ -697,10 +706,10 @@ Total scans : 1084
 - [[Unknown] Kodak High Speed Ektachrome (ref: c335)](#unknown-kodak-high-speed-ektachrome-ref-c335)
 - [[Unknown] Kodak High Speed Ektachrome (ref: 7533)](#unknown-kodak-high-speed-ektachrome-ref-7533)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
-- [[Unknown] ORWO Chrom UT18 (ref: 81b7)](#unknown-orwo-chrom-ut18-ref-81b7)
 - [[Unknown] ORWO Chrom UT21 (ref: 3fd5)](#unknown-orwo-chrom-ut21-ref-3fd5)
 - [[Unknown] ORWO NC 19 (ref: dca5)](#unknown-orwo-nc-19-ref-dca5)
 - [[Unknown] ORWO OWRO Color PC7 (ref: 08f0)](#unknown-orwo-owro-color-pc7-ref-08f0)
+- [[Unknown] ORWO OrwoChrom UT18 (ref: 81b7)](#unknown-orwo-orwochrom-ut18-ref-81b7)
 - [[Unknown] ORWO OrwoColor UT13 (ref: a05d)](#unknown-orwo-orwocolor-ut13-ref-a05d)
 - [[Unknown] ORWO UK 17 (ref: 19a0)](#unknown-orwo-uk-17-ref-19a0)
 - [[Unknown] ORWO UP 27 DS 8 (ref: 4d5a)](#unknown-orwo-up-27-ds-8-ref-4d5a)
@@ -991,6 +1000,27 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
+#### [BW] Agfa Agfapan APX 25 (ref: 5a92)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-15   |  Author  : Warren Umbach
+UUID  : 3f10b7f948b641459292c754ec265a92
+```
+
+<a href="./archive/00696_000.jpg" target="_blank">
+	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
+</a>
+
+
+`UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
+
+<a href="./archive/00696_001.jpg" target="_blank">
+	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
+</a>
+
 #### [BW] Agfa Agfapan APX 400 (ref: 5855)
 
 ```
@@ -1262,6 +1292,20 @@ UUID  : 08e940883895476d8de94bc5137419b5
 
 <a href="./archive/00456_000.jpg" target="_blank">
 	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
+</a>
+
+#### [BW] Agfa Plaques Chromo Isolar (ref: 2c8a)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : 69f7043994f94dffb90d512ed5bc2c8a
+```
+
+<a href="./archive/00693_000.jpg" target="_blank">
+	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
 </a>
 
 #### [BW] Agfa Trockenplatten (ref: 0937)
@@ -1880,7 +1924,7 @@ UUID  : 676655ff95914769b0869d71d824c559
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
-#### [BW] Foton Fotopan (ref: 6ba7)
+#### [BW] Foton Fotopan CD (ref: 6ba7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -1891,21 +1935,21 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
 <a href="./archive/00529_000.jpg" target="_blank">
-	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan 35mm film box outside" loading="lazy" width="500" height="469">
+	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
 <a href="./archive/00529_001.jpg" target="_blank">
-	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="283" height="500">
+	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
 
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
 <a href="./archive/00529_002.jpg" target="_blank">
-	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan 35mm film box leaflet" loading="lazy" width="270" height="500">
+	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 #### [BW] Foton Fotopan F (ref: 0ad6)
@@ -3035,6 +3079,20 @@ UUID  : f2a364463c5d40ad9e438566b786d2a2
 
 <a href="./archive/00589_000.jpg" target="_blank">
 	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
+</a>
+
+#### [BW] Kodak Ektapan P3200 (ref: 2254)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-15   |  Author  : @titanic_159
+UUID  : 0d327a604980442d8f0a4fd9b4b92254
+```
+
+<a href="./archive/00695_000.jpg" target="_blank">
+	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
 </a>
 
 #### [BW] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)
@@ -4294,6 +4352,20 @@ UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
 	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
 </a>
 
+#### [BW] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
+```
+
+<a href="./archive/00692_000.jpg" target="_blank">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
 #### [BW] Mr. Negative Black Cat (ref: cc7d)
 
 ```
@@ -4544,6 +4616,20 @@ UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 
 <a href="./archive/00535_006.jpg" target="_blank">
 	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
+</a>
+
+#### [BW] Ogapan Panchromatic (ref: 9c23)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1962-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-16   |  Author  : Constantino
+UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
+```
+
+<a href="./archive/00698_000.jpg" target="_blank">
+	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
 #### [BW] Ogapan Panchromatic (ref: a972)
@@ -8380,6 +8466,27 @@ UUID  : 6052675492004641b862ed8f7c99d52e
 	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
 </a>
 
+#### [C-41] Kodak Portra 160NC (ref: e513)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2007-02 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-15   |  Author  : @flyingcamerastudio
+UUID  : 9eb720d7de6e45bc97014b3e0717e513
+```
+
+<a href="./archive/00697_000.jpg" target="_blank">
+	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
+
+<a href="./archive/00697_001.jpg" target="_blank">
+	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
+</a>
+
 #### [C-41] Kodak Portra 400 (ref: cf9c)
 
 ```
@@ -8645,6 +8752,20 @@ UUID  : d01783be3b70456095411ca387865701
 
 <a href="./archive/00333_000.jpg" target="_blank">
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
+</a>
+
+#### [C-41] Kodak UltraMax (ref: 145b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : a6d5604fc4404666acf42801bbc8145b
+```
+
+<a href="./archive/00694_000.jpg" target="_blank">
+	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
 </a>
 
 #### [C-41] Kodak UltraMax (ref: 3b23)
@@ -8918,6 +9039,27 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 
 <a href="./archive/00138_001.jpg" target="_blank">
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
+</a>
+
+#### [C-41] Konica SXG 100 (ref: 4096)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : 20062d10b38a496d855defd42ce44096
+```
+
+<a href="./archive/00691_000.jpg" target="_blank">
+	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
+
+<a href="./archive/00691_001.jpg" target="_blank">
+	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
 </a>
 
 #### [C-41] Konica Sepia Professional (ref: 0b40)
@@ -9394,6 +9536,34 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### [C-41] Lucky LuckyColor BR100 (ref: a71c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : cd7927f99b904e108562dd8d7cb7a71c
+```
+
+<a href="./archive/00690_000.jpg" target="_blank">
+	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: fce0cfdd0da64de8bb959da8b873361f`↓
+
+<a href="./archive/00690_001.jpg" target="_blank">
+	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 52de88685d124b9f92ce453036122f49`↓
+
+<a href="./archive/00690_002.jpg" target="_blank">
+	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
 </a>
 
 #### [C-41] Lucky Super New 200 (ref: e0a7)
@@ -13951,48 +14121,6 @@ Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original,
 	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
-#### [Unknown] ORWO Chrom UT18 (ref: 81b7)
-
-```
-Format: 35mm         |  Process : Unknown 
-ISO   : 50           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
-Added : 2025-10-17   |  Author  : @recycling.film
-UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
-```
-
-<a href="./archive/00408_000.jpg" target="_blank">
-	<img src="./lowres/00408_000.jpg" alt="ORWO Chrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
-</a>
-
-
-`UUID: 1515034bddc345419da08ea6a497ee34`↓
-
-<a href="./archive/00408_001.jpg" target="_blank">
-	<img src="./lowres/00408_001.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
-</a>
-
-
-`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
-
-<a href="./archive/00408_002.jpg" target="_blank">
-	<img src="./lowres/00408_002.jpg" alt="ORWO Chrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
-</a>
-
-
-`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
-
-<a href="./archive/00408_003.jpg" target="_blank">
-	<img src="./lowres/00408_003.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
-</a>
-
-
-`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
-
-<a href="./archive/00408_004.jpg" target="_blank">
-	<img src="./lowres/00408_004.jpg" alt="ORWO Chrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
-</a>
-
 #### [Unknown] ORWO Chrom UT21 (ref: 3fd5)
 
 ```
@@ -14096,6 +14224,48 @@ UUID  : 0bd454e6225a4c5799d36e51135208f0
 
 <a href="./archive/00673_001.jpg" target="_blank">
 	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [Unknown] ORWO OrwoChrom UT18 (ref: 81b7)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2025-10-17   |  Author  : @recycling.film
+UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
+```
+
+<a href="./archive/00408_000.jpg" target="_blank">
+	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
+</a>
+
+
+`UUID: 1515034bddc345419da08ea6a497ee34`↓
+
+<a href="./archive/00408_001.jpg" target="_blank">
+	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
+</a>
+
+
+`UUID: 062fdd558f6c48fda2979f72c7443cad`↓
+
+<a href="./archive/00408_002.jpg" target="_blank">
+	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
+</a>
+
+
+`UUID: acc4b02a5b2d422ebda7149636e817b3`↓
+
+<a href="./archive/00408_003.jpg" target="_blank">
+	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
+</a>
+
+
+`UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
+
+<a href="./archive/00408_004.jpg" target="_blank">
+	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 #### [Unknown] ORWO OrwoColor UT13 (ref: a05d)
@@ -14432,20 +14602,25 @@ Rank  Username                      Contributions
 35    Kraksen                       5     
 36    @gregrouxphotography          5     
 37    Tobias                        5     
-38    Henry Gunn                    4     
-39    TheSelousScout                4     
-40    @sachynmital                  3     
-41    Tallbird Cowboy               3     
-42    @seklerek                     2     
-43    @ftfilmphotos                 2     
-44    @tylerdrey                    2     
-45    Rafa Laguillo                 2     
-46    Yrikonchik                    1     
-47    @ad.astra.per.aspera.1894     1     
-48    Aoi Yuki                      1     
-49    lemoniter                     1     
-50    @shotbyliampewpew             1     
-51    Joo                           1     
+38    Rafa Laguillo                 5     
+39    @janjuudas                    5     
+40    Henry Gunn                    4     
+41    TheSelousScout                4     
+42    @sachynmital                  3     
+43    Tallbird Cowboy               3     
+44    @seklerek                     2     
+45    @ftfilmphotos                 2     
+46    @tylerdrey                    2     
+47    Warren Umbach                 2     
+48    @flyingcamerastudio           2     
+49    Yrikonchik                    1     
+50    @ad.astra.per.aspera.1894     1     
+51    Aoi Yuki                      1     
+52    lemoniter                     1     
+53    @shotbyliampewpew             1     
+54    Joo                           1     
+55    @titanic_159                  1     
+56    Constantino                   1     
 ```
 
 ## Questions or Comments?
