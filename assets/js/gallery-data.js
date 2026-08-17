@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 1270
+// Total items: 1284
 
 const GALLERY_DATA = [
   {
@@ -10251,7 +10251,7 @@ const GALLERY_DATA = [
   {
     "filename": "00408_000.jpg",
     "brand": "ORWO",
-    "product": "Chrom UT18",
+    "product": "OrwoChrom UT18",
     "film_format": "35mm",
     "film_speed_iso": "50",
     "process": "Unknown",
@@ -10259,13 +10259,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_outside",
     "author": "@recycling.film",
     "imageUrl": "/film_packaging/archive/00408_000.jpg",
-    "title": "ORWO Chrom UT18",
+    "title": "ORWO OrwoChrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_outside"
   },
   {
     "filename": "00408_001.jpg",
     "brand": "ORWO",
-    "product": "Chrom UT18",
+    "product": "OrwoChrom UT18",
     "film_format": "35mm",
     "film_speed_iso": "50",
     "process": "Unknown",
@@ -10273,13 +10273,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
     "imageUrl": "/film_packaging/archive/00408_001.jpg",
-    "title": "ORWO Chrom UT18",
+    "title": "ORWO OrwoChrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
   {
     "filename": "00408_002.jpg",
     "brand": "ORWO",
-    "product": "Chrom UT18",
+    "product": "OrwoChrom UT18",
     "film_format": "35mm",
     "film_speed_iso": "50",
     "process": "Unknown",
@@ -10287,13 +10287,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_leaflet",
     "author": "@recycling.film",
     "imageUrl": "/film_packaging/archive/00408_002.jpg",
-    "title": "ORWO Chrom UT18",
+    "title": "ORWO OrwoChrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_leaflet"
   },
   {
     "filename": "00408_003.jpg",
     "brand": "ORWO",
-    "product": "Chrom UT18",
+    "product": "OrwoChrom UT18",
     "film_format": "35mm",
     "film_speed_iso": "50",
     "process": "Unknown",
@@ -10301,13 +10301,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_processing_envelope",
     "author": "@recycling.film",
     "imageUrl": "/film_packaging/archive/00408_003.jpg",
-    "title": "ORWO Chrom UT18",
+    "title": "ORWO OrwoChrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
   {
     "filename": "00408_004.jpg",
     "brand": "ORWO",
-    "product": "Chrom UT18",
+    "product": "OrwoChrom UT18",
     "film_format": "35mm",
     "film_speed_iso": "50",
     "process": "Unknown",
@@ -10315,7 +10315,7 @@ const GALLERY_DATA = [
     "item_type": "film_box_processing_envelope",
     "author": "@recycling.film",
     "imageUrl": "/film_packaging/archive/00408_004.jpg",
-    "title": "ORWO Chrom UT18",
+    "title": "ORWO OrwoChrom UT18",
     "details": "35mm • ISO 50 • Unknown • film_box_processing_envelope"
   },
   {
@@ -13373,7 +13373,7 @@ const GALLERY_DATA = [
   {
     "filename": "00529_000.jpg",
     "brand": "Foton",
-    "product": "Fotopan",
+    "product": "Fotopan CD",
     "film_format": "35mm",
     "film_speed_iso": "400",
     "process": "BW",
@@ -13381,13 +13381,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_outside",
     "author": "Luci 101",
     "imageUrl": "/film_packaging/archive/00529_000.jpg",
-    "title": "Foton Fotopan",
+    "title": "Foton Fotopan CD",
     "details": "35mm • ISO 400 • BW • film_box_outside"
   },
   {
     "filename": "00529_001.jpg",
     "brand": "Foton",
-    "product": "Fotopan",
+    "product": "Fotopan CD",
     "film_format": "35mm",
     "film_speed_iso": "400",
     "process": "BW",
@@ -13395,13 +13395,13 @@ const GALLERY_DATA = [
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
     "imageUrl": "/film_packaging/archive/00529_001.jpg",
-    "title": "Foton Fotopan",
+    "title": "Foton Fotopan CD",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
   {
     "filename": "00529_002.jpg",
     "brand": "Foton",
-    "product": "Fotopan",
+    "product": "Fotopan CD",
     "film_format": "35mm",
     "film_speed_iso": "400",
     "process": "BW",
@@ -13409,7 +13409,7 @@ const GALLERY_DATA = [
     "item_type": "film_box_leaflet",
     "author": "Luci 101",
     "imageUrl": "/film_packaging/archive/00529_002.jpg",
-    "title": "Foton Fotopan",
+    "title": "Foton Fotopan CD",
     "details": "35mm • ISO 400 • BW • film_box_leaflet"
   },
   {
@@ -17596,6 +17596,188 @@ const GALLERY_DATA = [
     "author": "Unknown",
     "imageUrl": "/film_packaging/archive/00689_000.jpg",
     "title": "Unknown Film (00689_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00690_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00690_000.jpg",
+    "title": "Unknown Film (00690_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00690_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00690_001.jpg",
+    "title": "Unknown Film (00690_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00690_002.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00690_002.jpg",
+    "title": "Unknown Film (00690_002.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00691_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00691_000.jpg",
+    "title": "Unknown Film (00691_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00691_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00691_001.jpg",
+    "title": "Unknown Film (00691_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00692_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00692_000.jpg",
+    "title": "Unknown Film (00692_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00693_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00693_000.jpg",
+    "title": "Unknown Film (00693_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00694_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00694_000.jpg",
+    "title": "Unknown Film (00694_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00695_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00695_000.jpg",
+    "title": "Unknown Film (00695_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00696_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00696_000.jpg",
+    "title": "Unknown Film (00696_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00696_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00696_001.jpg",
+    "title": "Unknown Film (00696_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00697_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00697_000.jpg",
+    "title": "Unknown Film (00697_000.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00697_001.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00697_001.jpg",
+    "title": "Unknown Film (00697_001.jpg)",
+    "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
+  },
+  {
+    "filename": "00698_000.jpg",
+    "brand": "Unknown",
+    "product": "Unknown",
+    "film_format": "Unknown",
+    "film_speed_iso": "Unknown",
+    "process": "Unknown",
+    "item_type": "Unknown",
+    "author": "Unknown",
+    "imageUrl": "/film_packaging/archive/00698_000.jpg",
+    "title": "Unknown Film (00698_000.jpg)",
     "details": "Unknown format • Unknown ISO • Unknown process • Unknown type"
   }
 ];
