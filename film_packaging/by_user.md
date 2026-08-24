@@ -27,6 +27,7 @@ Total scans : 1084
 - [[@Hol.m35] Agfa Vista Plus 200 (ref: f5f7)](#holm35-agfa-vista-plus-200-ref-f5f7)
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@Hol.m35] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#holm35-camera-film-photo-limited-kiki-pan-320-ref-3937)
+- [[@Hol.m35] Candido Color Negative Film 800 (ref: c39e)](#holm35-candido-color-negative-film-800-ref-c39e)
 - [[@Hol.m35] Freestyle 500T (ref: 8073)](#holm35-freestyle-500t-ref-8073)
 - [[@Hol.m35] Fujifilm 400 (ref: 1f1d)](#holm35-fujifilm-400-ref-1f1d)
 - [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
@@ -190,6 +191,7 @@ Total scans : 1084
 - [[@photos.by.qi] Lomography Lomochrome Purple (ref: 8b00)](#photosbyqi-lomography-lomochrome-purple-ref-8b00)
 - [[@photos.by.qi] Space Cat Film Mars 250D (ref: 5027)](#photosbyqi-space-cat-film-mars-250d-ref-5027)
 - [[@photos.by.qi] Walkens Speed 400 (ref: 740f)](#photosbyqi-walkens-speed-400-ref-740f)
+- [[@pommegranny] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#pommegranny-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[@recycling.film] ADOX KB 17 (ref: 88a5)](#recyclingfilm-adox-kb-17-ref-88a5)
 - [[@recycling.film] Agfa AgfaChrome 50 S (ref: 71a8)](#recyclingfilm-agfa-agfachrome-50-s-ref-71a8)
 - [[@recycling.film] Agfa Agfacolor Negative Film Special CNS (ref: 9b03)](#recyclingfilm-agfa-agfacolor-negative-film-special-cns-ref-9b03)
@@ -412,8 +414,10 @@ Total scans : 1084
 - [[Pelicram] Wolfen NP100 (ref: 71a6)](#pelicram-wolfen-np100-ref-71a6)
 - [[Rafa Laguillo] Agfa Plaques Chromo Isolar (ref: 2c8a)](#rafa-laguillo-agfa-plaques-chromo-isolar-ref-2c8a)
 - [[Rafa Laguillo] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#rafa-laguillo-kodak-no3-special-kodak-autographic-film-ref-ac3c)
+- [[Rafa Laguillo] Kodak Plus-X (ref: a250)](#rafa-laguillo-kodak-plus-x-ref-a250)
 - [[Rafa Laguillo] Kodak UltraMax (ref: 145b)](#rafa-laguillo-kodak-ultramax-ref-145b)
 - [[Rafa Laguillo] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)](#rafa-laguillo-werlisa-werlisa-sport-100-ref-d7fe)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -661,6 +665,7 @@ Total scans : 1084
 - [[nyctomanica] Kodak Kodachrome 64 (ref: b007)](#nyctomanica-kodak-kodachrome-64-ref-b007)
 - [[nyctomanica] Kodak Kodacolor Gold (ref: 4ccd)](#nyctomanica-kodak-kodacolor-gold-ref-4ccd)
 - [[nyctomanica] Kodak Kodalith ortho film type 3 (ref: e5fd)](#nyctomanica-kodak-kodalith-ortho-film-type-3-ref-e5fd)
+- [[nyctomanica] Kodak Technical Pan (ref: 951e)](#nyctomanica-kodak-technical-pan-ref-951e)
 - [[nyctomanica] Kodak Vericolor 400 (ref: d8e3)](#nyctomanica-kodak-vericolor-400-ref-d8e3)
 - [[nyctomanica] Lomography Color Slide / X-Pro 200 (ref: 22bc)](#nyctomanica-lomography-color-slide--x-pro-200-ref-22bc)
 - [[nyctomanica] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#nyctomanica-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
@@ -802,6 +807,27 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 
 <a href="./archive/00585_001.jpg" target="_blank">
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
+</a>
+
+#### [@Hol.m35] Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
 #### [@Hol.m35] Freestyle 500T (ref: 8073)
@@ -3719,6 +3745,27 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 
 <a href="./archive/00228_000.jpg" target="_blank">
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
+</a>
+
+#### [@pommegranny] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
 </a>
 
 #### [@recycling.film] ADOX KB 17 (ref: 88a5)
@@ -8181,6 +8228,20 @@ UUID  : 96dd905b730e446fbe34b5daef15ac3c
 	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
 </a>
 
+#### [Rafa Laguillo] Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
+</a>
+
 #### [Rafa Laguillo] Kodak UltraMax (ref: 145b)
 
 ```
@@ -8207,6 +8268,27 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 
 <a href="./archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+#### [Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
 #### [Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)
@@ -13508,6 +13590,27 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
 </a>
 
+#### [nyctomanica] Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
 #### [nyctomanica] Kodak Vericolor 400 (ref: d8e3)
 
 ```
@@ -14569,10 +14672,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14594,15 +14697,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
@@ -14613,14 +14716,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?

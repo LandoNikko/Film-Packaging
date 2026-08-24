@@ -12272,10 +12272,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -12297,15 +12297,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
@@ -12316,14 +12316,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?

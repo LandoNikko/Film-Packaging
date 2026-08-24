@@ -268,6 +268,7 @@ Total scans : 1084
 - [[35mm] Building 2 500T (ref: 70d9)](#35mm-building-2-500t-ref-70d9)
 - [[35mm] Building 2 50D (ref: e548)](#35mm-building-2-50d-ref-e548)
 - [[35mm] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#35mm-camera-film-photo-limited-kiki-pan-320-ref-3937)
+- [[35mm] Candido Color Negative Film 800 (ref: c39e)](#35mm-candido-color-negative-film-800-ref-c39e)
 - [[35mm] Candido Colour Negative Film (ref: 6cd2)](#35mm-candido-colour-negative-film-ref-6cd2)
 - [[35mm] CineStill 400Dynamic (ref: fccd)](#35mm-cinestill-400dynamic-ref-fccd)
 - [[35mm] CineStill 50D (ref: 3452)](#35mm-cinestill-50d-ref-3452)
@@ -354,6 +355,7 @@ Total scans : 1084
 - [[35mm] GT Photo GT24 (ref: 92c2)](#35mm-gt-photo-gt24-ref-92c2)
 - [[35mm] Great Films Processing Kodachrome (ref: c012)](#35mm-great-films-processing-kodachrome-ref-c012)
 - [[35mm] Hands On Film Midnight 1600 (ref: 4411)](#35mm-hands-on-film-midnight-1600-ref-4411)
+- [[35mm] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#35mm-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[35mm] Harman Phoenix (ref: 8eb4)](#35mm-harman-phoenix-ref-8eb4)
 - [[35mm] Harman Phoenix II (ref: 40df)](#35mm-harman-phoenix-ii-ref-40df)
 - [[35mm] Harman Phoenix II (ref: 41d4)](#35mm-harman-phoenix-ii-ref-41d4)
@@ -485,6 +487,7 @@ Total scans : 1084
 - [[35mm] Kodak T-MAX P3200 (ref: 43a2)](#35mm-kodak-t-max-p3200-ref-43a2)
 - [[35mm] Kodak T-MAX P3200 (ref: e727)](#35mm-kodak-t-max-p3200-ref-e727)
 - [[35mm] Kodak Technical Pan (ref: f4cf)](#35mm-kodak-technical-pan-ref-f4cf)
+- [[35mm] Kodak Technical Pan (ref: 951e)](#35mm-kodak-technical-pan-ref-951e)
 - [[35mm] Kodak Tri-X (ref: d9af)](#35mm-kodak-tri-x-ref-d9af)
 - [[35mm] Kodak Tri-X 400 (ref: 7145)](#35mm-kodak-tri-x-400-ref-7145)
 - [[35mm] Kodak Tri-X 400 (ref: c671)](#35mm-kodak-tri-x-400-ref-c671)
@@ -601,12 +604,14 @@ Total scans : 1084
 - [[35mm] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#35mm-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [[35mm] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#35mm-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[35mm] Walkens Speed 400 (ref: 740f)](#35mm-walkens-speed-400-ref-740f)
+- [[35mm] Werlisa Werlisa Sport 100 (ref: d7fe)](#35mm-werlisa-werlisa-sport-100-ref-d7fe)
 - [[35mm] Wolfen NC500 (ref: 91c1)](#35mm-wolfen-nc500-ref-91c1)
 - [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
 - [[35mm] York Photo Labs DXG 200 (ref: 4bf8)](#35mm-york-photo-labs-dxg-200-ref-4bf8)
 - [[35mm] efke KB-25 (ref: 4d17)](#35mm-efke-kb-25-ref-4d17)
 - [[6.5x9cm] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#65x9cm-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)](#65x9cm-illingworths-fleet-h-d-ref-54fe)
+- [[616] Kodak Plus-X (ref: a250)](#616-kodak-plus-x-ref-a250)
 - [[616] Kodak Super-XX (ref: 07c8)](#616-kodak-super-xx-ref-07c8)
 - [[616] Kodak Verichrome (ref: e465)](#616-kodak-verichrome-ref-e465)
 - [[620] Agfa Agfacolor CNS (ref: 0d8a)](#620-agfa-agfacolor-cns-ref-0d8a)
@@ -5858,6 +5863,27 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
 </a>
 
+#### [35mm] Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+</a>
+
 #### [35mm] Candido Colour Negative Film (ref: 6cd2)
 
 ```
@@ -7362,6 +7388,27 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 
 <a href="./archive/00206_000.jpg" target="_blank">
 	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" width="473" height="500">
+</a>
+
+#### [35mm] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
 </a>
 
 #### [35mm] Harman Phoenix (ref: 8eb4)
@@ -9853,6 +9900,27 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
 </a>
 
+#### [35mm] Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
 #### [35mm] Kodak Tri-X (ref: d9af)
 
 ```
@@ -12067,6 +12135,27 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
 </a>
 
+#### [35mm] Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
 #### [35mm] Wolfen NC500 (ref: 91c1)
 
 ```
@@ -12156,6 +12245,20 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 
 <a href="./archive/00207_000.jpg" target="_blank">
 	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" height="421">
+</a>
+
+#### [616] Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 #### [616] Kodak Super-XX (ref: 07c8)
@@ -14569,10 +14672,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14594,15 +14697,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
@@ -14613,14 +14716,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?

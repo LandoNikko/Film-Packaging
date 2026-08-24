@@ -42,6 +42,7 @@ Total scans : 1084
 - [[1956] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#1956-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[1957] Kodak Plus-X (ref: b867)](#1957-kodak-plus-x-ref-b867)
 - [[1957] Gevaert Gevachrome 30 (ref: c0e3)](#1957-gevaert-gevachrome-30-ref-c0e3)
+- [[1957] Kodak Plus-X (ref: a250)](#1957-kodak-plus-x-ref-a250)
 - [[1957] Kodak Tri-X (ref: d9af)](#1957-kodak-tri-x-ref-d9af)
 - [[1958] Kodak Plus-X (ref: 7958)](#1958-kodak-plus-x-ref-7958)
 - [[1958] Kodak Panatomic-X (ref: 7ed1)](#1958-kodak-panatomic-x-ref-7ed1)
@@ -251,6 +252,7 @@ Total scans : 1084
 - [[2000] Kodak Ektacolor Pro Gold (ref: c3f8)](#2000-kodak-ektacolor-pro-gold-ref-c3f8)
 - [[2000] Kodak Vericolor III (ref: 4b3e)](#2000-kodak-vericolor-iii-ref-4b3e)
 - [[2000] Agfa AgfaColor HDC Plus (ref: 016b)](#2000-agfa-agfacolor-hdc-plus-ref-016b)
+- [[2000] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#2000-hansa-hansacolor-100-super-plus-ref-67b2)
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
 - [[2001] Agfa AgfaColor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
@@ -300,6 +302,7 @@ Total scans : 1084
 - [[2004] Kodak Portra 400VC (ref: b67b)](#2004-kodak-portra-400vc-ref-b67b)
 - [[2004] Perutz Primera (ref: cbfb)](#2004-perutz-primera-ref-cbfb)
 - [[2005] Agfa Agfapan APX 25 (ref: 5a92)](#2005-agfa-agfapan-apx-25-ref-5a92)
+- [[2005] Kodak Technical Pan (ref: 951e)](#2005-kodak-technical-pan-ref-951e)
 - [[2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)](#2005-fujifilm-fujicolor-superia-x-tra-ref-0446)
 - [[2005] Ilford Delta 100 Professional (ref: 93b9)](#2005-ilford-delta-100-professional-ref-93b9)
 - [[2005] Agfa AgfaColor XRG 200 (ref: 689e)](#2005-agfa-agfacolor-xrg-200-ref-689e)
@@ -381,6 +384,7 @@ Total scans : 1084
 - [[2009] Polaroid 690 (ref: bd98)](#2009-polaroid-690-ref-bd98)
 - [[2009] Polaroid TZ Artistic Fade to Black (ref: de21)](#2009-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[2009] Kodak Elite Chrome Extra Color (ref: 71f9)](#2009-kodak-elite-chrome-extra-color-ref-71f9)
+- [[2009] Werlisa Werlisa Sport 100 (ref: d7fe)](#2009-werlisa-werlisa-sport-100-ref-d7fe)
 - [[2010] Photocité 400 ISO (ref: e370)](#2010-photocité-400-iso-ref-e370)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
@@ -647,6 +651,7 @@ Total scans : 1084
 - [[2028] Ilford HP5 Plus (ref: df49)](#2028-ilford-hp5-plus-ref-df49)
 - [[2028] Lomography Lomochrome Metropolis (ref: ec77)](#2028-lomography-lomochrome-metropolis-ref-ec77)
 - [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
+- [[2028] Candido Color Negative Film 800 (ref: c39e)](#2028-candido-color-negative-film-800-ref-c39e)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford FP4 Plus (ref: 3bc0)](#2028-ilford-fp4-plus-ref-3bc0)
@@ -1083,6 +1088,20 @@ Notes : 30 most likely is European Scheiner film speed
 
 <a href="./archive/00432_000.jpg" target="_blank">
 	<img src="./lowres/00432_000.jpg" alt="Gevaert Gevachrome 30 122 film box outside" loading="lazy" width="500" height="420">
+</a>
+
+#### [1957] Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 #### [1957] Kodak Tri-X (ref: d9af)
@@ -6243,6 +6262,27 @@ UUID  : 2dab58330f43463e9441b6777fce016b
 	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
 </a>
 
+#### [2000] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
+</a>
+
 #### [2001] Fujifilm Fujichrome Velvia (ref: 3182)
 
 ```
@@ -7154,6 +7194,27 @@ UUID  : 3f10b7f948b641459292c754ec265a92
 
 <a href="./archive/00696_001.jpg" target="_blank">
 	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
+</a>
+
+#### [2005] Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
 #### [2005] Fujifilm Fujicolor Superia X-TRA (ref: 0446)
@@ -8621,6 +8682,27 @@ UUID  : b15598742abf4dada03cecd44e4071f9
 
 <a href="./archive/00631_000.jpg" target="_blank">
 	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
+#### [2009] Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
 #### [2010] Photocité 400 ISO (ref: e370)
@@ -13297,6 +13379,27 @@ UUID  : bba34206627f485b9a3119d4c2dd312c
 	<img src="./lowres/00689_000.jpg" alt="Optik Oldschool OptiMono 100 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
+#### [2028] Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+</a>
+
 #### [2028] Kodak Ektacolor Pro 400 (ref: aa72)
 
 ```
@@ -14569,10 +14672,10 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      67    
+5     @Hol.m35                      69    
 6     @ellafridalindblom            67    
-7     @recycling.film               66    
-8     nyctomanica                   65    
+7     nyctomanica                   67    
+8     @recycling.film               66    
 9     Dialupdude                    30    
 10    Mauphoto                      28    
 11    The Compartmentalist          25    
@@ -14594,15 +14697,15 @@ Rank  Username                      Contributions
 27    lilyu.xyz                     9     
 28    lt_col_tall                   9     
 29    MCB18                         9     
-30    @toastergod101                7     
-31    @filmfotofella                7     
-32    GreatGizmo74                  6     
-33    nick                          6     
-34    Greg                          6     
-35    Kraksen                       5     
-36    @gregrouxphotography          5     
-37    Tobias                        5     
-38    Rafa Laguillo                 5     
+30    Rafa Laguillo                 8     
+31    @toastergod101                7     
+32    @filmfotofella                7     
+33    GreatGizmo74                  6     
+34    nick                          6     
+35    Greg                          6     
+36    Kraksen                       5     
+37    @gregrouxphotography          5     
+38    Tobias                        5     
 39    @janjuudas                    5     
 40    Henry Gunn                    4     
 41    TheSelousScout                4     
@@ -14613,14 +14716,15 @@ Rank  Username                      Contributions
 46    @tylerdrey                    2     
 47    Warren Umbach                 2     
 48    @flyingcamerastudio           2     
-49    Yrikonchik                    1     
-50    @ad.astra.per.aspera.1894     1     
-51    Aoi Yuki                      1     
-52    lemoniter                     1     
-53    @shotbyliampewpew             1     
-54    Joo                           1     
-55    @titanic_159                  1     
-56    Constantino                   1     
+49    @pommegranny                  2     
+50    Yrikonchik                    1     
+51    @ad.astra.per.aspera.1894     1     
+52    Aoi Yuki                      1     
+53    lemoniter                     1     
+54    @shotbyliampewpew             1     
+55    Joo                           1     
+56    @titanic_159                  1     
+57    Constantino                   1     
 ```
 
 ## Questions or Comments?
