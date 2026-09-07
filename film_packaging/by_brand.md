@@ -199,6 +199,7 @@ Total scans : 1084
 - [Fujifilm Fujicolor Super HG (ref: feb7)](#fujifilm-fujicolor-super-hg-ref-feb7)
 - [Fujifilm Fujicolor Super HG (ref: 9942)](#fujifilm-fujicolor-super-hg-ref-9942)
 - [Fujifilm Fujicolor Super HG (ref: ee94)](#fujifilm-fujicolor-super-hg-ref-ee94)
+- [Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)](#fujifilm-fujicolor-super-hg-ii-200-ref-7ac0)
 - [Fujifilm Fujicolor Super HR (ref: 7fd2)](#fujifilm-fujicolor-super-hr-ref-7fd2)
 - [Fujifilm Fujicolor Super HR (ref: aaa0)](#fujifilm-fujicolor-super-hr-ref-aaa0)
 - [Fujifilm Fujicolor Superia (ref: d1b7)](#fujifilm-fujicolor-superia-ref-d1b7)
@@ -237,6 +238,7 @@ Total scans : 1084
 - [Fujifilm Velvia 50 (ref: 9678)](#fujifilm-velvia-50-ref-9678)
 - [Fukkatsu Color Print Film (ref: 3213)](#fukkatsu-color-print-film-ref-3213)
 - [GAF Color Slide Film (ref: dea6)](#gaf-color-slide-film-ref-dea6)
+- [GAF Color Slide Film (ref: 57a5)](#gaf-color-slide-film-ref-57a5)
 - [GAF Color Slide Film (ref: 6815)](#gaf-color-slide-film-ref-6815)
 - [GT Photo GT24 (ref: 92c2)](#gt-photo-gt24-ref-92c2)
 - [Gevaert Gevachrome 30 (ref: c0e3)](#gevaert-gevachrome-30-ref-c0e3)
@@ -361,6 +363,7 @@ Total scans : 1084
 - [Kodak Ektachrome Professional Type B (ref: 1d9d)](#kodak-ektachrome-professional-type-b-ref-1d9d)
 - [Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#kodak-ektachrome-slide-duplicating-film-ref-596a)
 - [Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#kodak-ektachrome-slide-duplicating-film-ref-d53a)
+- [Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)](#kodak-ektachrome-slide-duplicating-film-5071-ref-76f8)
 - [Kodak Ektachrome-X (ref: c057)](#kodak-ektachrome-x-ref-c057)
 - [Kodak Ektachrome-X (ref: ae7e)](#kodak-ektachrome-x-ref-ae7e)
 - [Kodak Ektachrome-X (ref: aec5)](#kodak-ektachrome-x-ref-aec5)
@@ -378,6 +381,7 @@ Total scans : 1084
 - [Kodak FarbWelt 400 (ref: e9b6)](#kodak-farbwelt-400-ref-e9b6)
 - [Kodak Gold (ref: 1962)](#kodak-gold-ref-1962)
 - [Kodak Gold (ref: 2f8d)](#kodak-gold-ref-2f8d)
+- [Kodak Gold (ref: f2a2)](#kodak-gold-ref-f2a2)
 - [Kodak Gold (ref: ea58)](#kodak-gold-ref-ea58)
 - [Kodak Gold (ref: bdd5)](#kodak-gold-ref-bdd5)
 - [Kodak Gold (ref: d48d)](#kodak-gold-ref-d48d)
@@ -426,6 +430,7 @@ Total scans : 1084
 - [Kodak Kodacolor Gold 200 (ref: f368)](#kodak-kodacolor-gold-200-ref-f368)
 - [Kodak Kodacolor Gold 400 (ref: 473d)](#kodak-kodacolor-gold-400-ref-473d)
 - [Kodak Kodacolor II (ref: f435)](#kodak-kodacolor-ii-ref-f435)
+- [Kodak Kodacolor II (ref: c326)](#kodak-kodacolor-ii-ref-c326)
 - [Kodak Kodacolor II (ref: 4108)](#kodak-kodacolor-ii-ref-4108)
 - [Kodak Kodacolor II (ref: b19e)](#kodak-kodacolor-ii-ref-b19e)
 - [Kodak Kodacolor II (ref: 7310)](#kodak-kodacolor-ii-ref-7310)
@@ -498,6 +503,8 @@ Total scans : 1084
 - [Kodak Tri-X Pan (ref: 9a93)](#kodak-tri-x-pan-ref-9a93)
 - [Kodak Tri-X Pan (ref: 85e9)](#kodak-tri-x-pan-ref-85e9)
 - [Kodak Tri-X Pan (ref: f201)](#kodak-tri-x-pan-ref-f201)
+- [Kodak Tri-X Pan (ref: b4e8)](#kodak-tri-x-pan-ref-b4e8)
+- [Kodak Tri-X Pan (ref: 4257)](#kodak-tri-x-pan-ref-4257)
 - [Kodak Ultra (ref: 69a1)](#kodak-ultra-ref-69a1)
 - [Kodak Ultra (ref: 5701)](#kodak-ultra-ref-5701)
 - [Kodak UltraMax (ref: 145b)](#kodak-ultramax-ref-145b)
@@ -526,6 +533,7 @@ Total scans : 1084
 - [Konica Sepia Professional (ref: 0b40)](#konica-sepia-professional-ref-0b40)
 - [Konica VX 100 Super (ref: 90b4)](#konica-vx-100-super-ref-90b4)
 - [Konica Minolta Centuria 100 (ref: 00ae)](#konica-minolta-centuria-100-ref-00ae)
+- [Konica Minolta Centuria Super (ref: 95f0)](#konica-minolta-centuria-super-ref-95f0)
 - [Konica Minolta Commercial Color Film (ref: e903)](#konica-minolta-commercial-color-film-ref-e903)
 - [Kosmo Foto Mono (ref: b74f)](#kosmo-foto-mono-ref-b74f)
 - [Lloyds Pharmacy APS Film (ref: c7cf)](#lloyds-pharmacy-aps-film-ref-c7cf)
@@ -559,6 +567,7 @@ Total scans : 1084
 - [Lucky C200 (ref: e6f8)](#lucky-c200-ref-e6f8)
 - [Lucky C200 (ref: 9c6c)](#lucky-c200-ref-9c6c)
 - [Lucky C200 (ref: b0cc)](#lucky-c200-ref-b0cc)
+- [Lucky C400 (ref: a02c)](#lucky-c400-ref-a02c)
 - [Lucky LuckyColor BR100 (ref: a71c)](#lucky-luckycolor-br100-ref-a71c)
 - [Lucky SHD 100 (ref: 7feb)](#lucky-shd-100-ref-7feb)
 - [Lucky SHD 100 New Generation (ref: 23f6)](#lucky-shd-100-new-generation-ref-23f6)
@@ -566,6 +575,7 @@ Total scans : 1084
 - [Lucky Super New 200 (ref: e0a7)](#lucky-super-new-200-ref-e0a7)
 - [Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
+- [MarixFilm Aircolor (ref: d9c4)](#marixfilm-aircolor-ref-d9c4)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
 - [Max Spielmann Pro-Zoom MX 400 (ref: 38c5)](#max-spielmann-pro-zoom-mx-400-ref-38c5)
 - [Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#minolta-minolta-16-color-film-for-prints-ref-a2ff)
@@ -697,6 +707,7 @@ Total scans : 1084
 - [Sharan Black-and-white Negative Film (ref: a884)](#sharan-black-and-white-negative-film-ref-a884)
 - [Sharan Color Negative Film (ref: 4913)](#sharan-color-negative-film-ref-4913)
 - [Space Cat Film Mars 250D (ref: 5027)](#space-cat-film-mars-250d-ref-5027)
+- [Stavanger Foto Frontier (ref: c51e)](#stavanger-foto-frontier-ref-c51e)
 - [Street Candy Film ATM400 (ref: 4380)](#street-candy-film-atm400-ref-4380)
 - [SupaSnaps Snappit Film (ref: c41b)](#supasnaps-snappit-film-ref-c41b)
 - [Svema FN 64 (ref: 600a)](#svema-fn-64-ref-600a)
@@ -2493,7 +2504,7 @@ UUID  : 716e410a3823476e9befa704361f43c9
 
 ```
 Format: 120          |  Process : BW      
-ISO   : 20           |  Expiry  : 1970-03 
+ISO   : 20           |  Expiry  : 1979-03 
 Type  : Single Pack  |  Quantity: N/A     
 Added : 2026-05-26   |  Author  : Tobias  
 UUID  : 32a76ef752524fab9f27ebe632b527f5
@@ -4188,6 +4199,20 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
 </a>
 
+#### Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1997-10 
+Type  : Multi-Pack-4 |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
+```
+
+<a href="./archive/00708_000.jpg" target="_blank">
+	<img src="./lowres/00708_000.jpg" alt="Fujifilm Fujicolor Super HG II 200 35mm film box outside" loading="lazy" width="385" height="500">
+</a>
+
 #### Fujifilm Fujicolor Super HR (ref: 7fd2)
 
 ```
@@ -4852,6 +4877,20 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 
 <a href="./archive/00054_005.jpg" target="_blank">
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
+</a>
+
+#### GAF Color Slide Film (ref: 57a5)
+
+```
+Format: 35mm         |  Process : AR-2    
+ISO   : 200          |  Expiry  : 1974-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
+```
+
+<a href="./archive/00709_000.jpg" target="_blank">
+	<img src="./lowres/00709_000.jpg" alt="GAF Color Slide Film 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
 #### GAF Color Slide Film (ref: 6815)
@@ -7345,6 +7384,34 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
+#### Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 4            |  Expiry  : 1980-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 65c654459db94987a653ce34ae6f76f8
+```
+
+<a href="./archive/00711_000.jpg" target="_blank">
+	<img src="./lowres/00711_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: 47e00ad5d78a47e1ae51f6c80bd86c08`↓
+
+<a href="./archive/00711_001.jpg" target="_blank">
+	<img src="./lowres/00711_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+
+`UUID: 87e70efe7ceb41608a89a09a355de58e`↓
+
+<a href="./archive/00711_002.jpg" target="_blank">
+	<img src="./lowres/00711_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="203" height="500">
+</a>
+
 #### Kodak Ektachrome-X (ref: c057)
 
 ```
@@ -7637,6 +7704,20 @@ UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 
 <a href="./archive/00149_000.jpg" target="_blank">
 	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### Kodak Gold (ref: f2a2)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2001-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 86c04a01042341b8a7ae95c660f4f2a2
+```
+
+<a href="./archive/00712_000.jpg" target="_blank">
+	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
 </a>
 
 #### Kodak Gold (ref: ea58)
@@ -8684,6 +8765,20 @@ UUID  : 8b179d290e4a462bb49bcec4f7c7f435
 	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
+#### Kodak Kodacolor II (ref: c326)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 80           |  Expiry  : 1976-05 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : db6491a822bb44a183c95744cb26c326
+```
+
+<a href="./archive/00710_000.jpg" target="_blank">
+	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
+</a>
+
 #### Kodak Kodacolor II (ref: 4108)
 
 ```
@@ -9507,7 +9602,7 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 #### Kodak Sport Single Use Camera (ref: 4618)
 
 ```
-Format: 35mm         |  Process : C-41    
+Format: Disposable Camera|  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-05 
 Type  : Single Pack  |  Quantity: 27exp   
 Added : 2026-04-13   |  Author  : Dialupdude
@@ -9515,7 +9610,7 @@ UUID  : e9b9c65612ae498080917cde3fd94618
 ```
 
 <a href="./archive/00562_000.jpg" target="_blank">
-	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera 35mm film box outside" loading="lazy" width="303" height="500">
+	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera Disposable Camera film box outside" loading="lazy" width="303" height="500">
 </a>
 
 #### Kodak Super Speed Ortho Portrait (ref: b625)
@@ -10052,6 +10147,34 @@ UUID  : 496c4c1b618442bf933f48660acef201
 	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
+#### Kodak Tri-X Pan (ref: b4e8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1990-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8f3e3aab508a454fbe868b1025adb4e8
+```
+
+<a href="./archive/00713_000.jpg" target="_blank">
+	<img src="./lowres/00713_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
+#### Kodak Tri-X Pan (ref: 4257)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1994-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 4f04fc9a2284495cb367f76cc7054257
+```
+
+<a href="./archive/00714_000.jpg" target="_blank">
+	<img src="./lowres/00714_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### Kodak Ultra (ref: 69a1)
 
 ```
@@ -10561,6 +10684,27 @@ UUID  : c93974535a3441acb0edbbd16b0f00ae
 
 <a href="./archive/00640_001.jpg" target="_blank">
 	<img src="./lowres/00640_001.jpg" alt="Konica Minolta Centuria 100 35mm film box inside" loading="lazy" width="401" height="500">
+</a>
+
+#### Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
 </a>
 
 #### Konica Minolta Commercial Color Film (ref: e903)
@@ -11160,6 +11304,27 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
+#### Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
+</a>
+
 #### Lucky LuckyColor BR100 (ref: a71c)
 
 ```
@@ -11298,6 +11463,20 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 
 <a href="./archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
+</a>
+
+#### MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
 #### Max Spielmann Maxi Color (ref: bf60)
@@ -14203,6 +14382,20 @@ UUID  : 1595b93966854178a03bc6d0de705027
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
+#### Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
 #### Street Candy Film ATM400 (ref: 4380)
 
 ```
@@ -14672,7 +14865,7 @@ Rank  Username                      Contributions
 2     Luci 101                      102   
 3     @photos.by.qi                 72    
 4     Pelicram                      71    
-5     @Hol.m35                      69    
+5     @Hol.m35                      71    
 6     @ellafridalindblom            67    
 7     nyctomanica                   67    
 8     @recycling.film               66    
@@ -14695,36 +14888,37 @@ Rank  Username                      Contributions
 25    @zruk_ts                      10    
 26    minidiscus                    10    
 27    lilyu.xyz                     9     
-28    lt_col_tall                   9     
-29    MCB18                         9     
-30    Rafa Laguillo                 8     
-31    @toastergod101                7     
-32    @filmfotofella                7     
-33    GreatGizmo74                  6     
-34    nick                          6     
-35    Greg                          6     
-36    Kraksen                       5     
-37    @gregrouxphotography          5     
-38    Tobias                        5     
-39    @janjuudas                    5     
-40    Henry Gunn                    4     
-41    TheSelousScout                4     
-42    @sachynmital                  3     
-43    Tallbird Cowboy               3     
-44    @seklerek                     2     
-45    @ftfilmphotos                 2     
-46    @tylerdrey                    2     
-47    Warren Umbach                 2     
-48    @flyingcamerastudio           2     
-49    @pommegranny                  2     
-50    Yrikonchik                    1     
-51    @ad.astra.per.aspera.1894     1     
-52    Aoi Yuki                      1     
-53    lemoniter                     1     
-54    @shotbyliampewpew             1     
-55    Joo                           1     
-56    @titanic_159                  1     
-57    Constantino                   1     
+28    Kraksen                       9     
+29    lt_col_tall                   9     
+30    MCB18                         9     
+31    benjaminbeeroll               9     
+32    Rafa Laguillo                 8     
+33    @toastergod101                7     
+34    @filmfotofella                7     
+35    GreatGizmo74                  6     
+36    nick                          6     
+37    Greg                          6     
+38    @gregrouxphotography          5     
+39    Tobias                        5     
+40    @janjuudas                    5     
+41    Henry Gunn                    4     
+42    TheSelousScout                4     
+43    @sachynmital                  3     
+44    Tallbird Cowboy               3     
+45    @seklerek                     2     
+46    @ftfilmphotos                 2     
+47    @tylerdrey                    2     
+48    Warren Umbach                 2     
+49    @flyingcamerastudio           2     
+50    @pommegranny                  2     
+51    Yrikonchik                    1     
+52    @ad.astra.per.aspera.1894     1     
+53    Aoi Yuki                      1     
+54    lemoniter                     1     
+55    @shotbyliampewpew             1     
+56    Joo                           1     
+57    @titanic_159                  1     
+58    Constantino                   1     
 ```
 
 ## Questions or Comments?

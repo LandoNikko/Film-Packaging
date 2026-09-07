@@ -1039,7 +1039,7 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 560,0,film_box_outside,Lucky,C200,35mm,200,C-41,201301,1776109862,50d82b5c3ca2ded34818712f96447d47,698e4d8dc2ef4a5d8ea7c8d0e0d9f727,00560_000.jpg,Dialupdude,,Single Pack,36exp
 560,1,film_box_inside,Lucky,C200,35mm,200,C-41,201301,1776109864,340cfd8d7a800e8b34435bae98ce6c0e,59c76e90f1b947c28da172d2c7f5e2df,00560_001.jpg,Dialupdude,,Single Pack,36exp
 561,0,film_box_outside,1Shot,Color Print Film,35mm,400,C-41,202508,1776109926,4f687796229a4538fae9c761174b9738,7e2a1df614294a7680f4b9478c578cf0,00561_000.jpg,Dialupdude,,Single Pack,24exp
-562,0,film_box_outside,Kodak,Sport Single Use Camera,35mm,800,C-41,202605,1776110020,b9bd75154be4a9d8e2ee5f1656279b91,e9b9c65612ae498080917cde3fd94618,00562_000.jpg,Dialupdude,,Single Pack,27exp
+562,0,film_box_outside,Kodak,Sport Single Use Camera,Disposable Camera,800,C-41,202605,1776110020,b9bd75154be4a9d8e2ee5f1656279b91,e9b9c65612ae498080917cde3fd94618,00562_000.jpg,Dialupdude,,Single Pack,27exp
 563,0,film_box_outside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202307,1776110174,c4a791a5614f206146135dd616344473,a0f16870196d400eb47971a65ab747a7,00563_000.jpg,Dialupdude,,Single Pack,16exp
 563,1,film_box_inside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202307,1776110176,a889c79735009c6b95c90fefecabdf21,0c52f0b46fc847ce8dba3f2f22609100,00563_001.jpg,Dialupdude,,Single Pack,16exp
 564,0,film_box_outside,Polaroid,Color i-Type Film,Instant Integral Film,640,Instant,202403,1776110235,6bf347637de7f576abd101354f945af2,a66f7c510e5e49e0b14a1165b59d32e9,00564_000.jpg,Dialupdude,,Single Pack,8exp
@@ -1066,9 +1066,9 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 567,11,film_box_processing_envelope,ORWO,OrwoColor UT13,8mm,16,Unknown,197110,1779792879,cb91aeae40131eaace785b3ce9094ca8,09e49f5c233746daba9dfc6a30560007,00567_011.jpg,Luci 101,,Single Pack,7.5m
 568,0,film_box_outside,Optik Oldschool,Motion 200T,35mm,200,ECN-2,202804,1779793629,c2f436aec7085ca6d710e0a4fd401bc1,b389844cc8c04ab8b936315354330d90,00568_000.jpg,@Hol.m35,,Single Pack,36exp
 569,0,film_box_outside,Optik Oldschool,Motion 500T,35mm,500,ECN-2,202804,1779793660,fea3582c6f2dec4da42b4cc31614df1f,f437c859b1564324968e289acecfbd42,00569_000.jpg,@Hol.m35,,Single Pack,36exp
-570,0,film_box_outside,Efke,R14,120,20,BW,197003,1779793999,5d660a8e6769d44c6cf303430f971a88,32a76ef752524fab9f27ebe632b527f5,00570_000.jpg,Tobias,,Single Pack,N/A
-570,1,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794003,73a55891a6442967cf13d1da0e11fe52,64e01932547643cd806e82e0faf38af2,00570_001.jpg,Tobias,,Single Pack,N/A
-570,2,film_box_leaflet,Efke,R14,120,20,BW,197003,1779794006,11912b0d00b68b39c3532bda32d13752,cb7b9dc522034a9e8e0c9efb07844543,00570_002.jpg,Tobias,,Single Pack,N/A
+570,0,film_box_outside,Efke,R14,120,20,BW,197903,1779793999,5d660a8e6769d44c6cf303430f971a88,32a76ef752524fab9f27ebe632b527f5,00570_000.jpg,Tobias,,Single Pack,N/A
+570,1,film_box_leaflet,Efke,R14,120,20,BW,197903,1779794003,73a55891a6442967cf13d1da0e11fe52,64e01932547643cd806e82e0faf38af2,00570_001.jpg,Tobias,,Single Pack,N/A
+570,2,film_box_leaflet,Efke,R14,120,20,BW,197903,1779794006,11912b0d00b68b39c3532bda32d13752,cb7b9dc522034a9e8e0c9efb07844543,00570_002.jpg,Tobias,,Single Pack,N/A
 571,0,film_box_outside,Kodak,T-MAX P3200,35mm,3200,BW,202702,1779794161,a4a42b14da765117c47c36cc36847c7b,989581de448d4ccd82d8ab0950dae727,00571_000.jpg,Pelicram,,Single Pack,36exp
 572,0,film_box_outside,Kodak,Kodacolor II,120,100,C-41,197110,1779794353,6b381869e6f2899f12183e1f90a2021f,8b179d290e4a462bb49bcec4f7c7f435,00572_000.jpg,Greg,,Single Pack,N/A
 573,0,film_box_outside,Kodak,High Speed Ektachrome,120,160,Unknown,197410,1779794443,3b315e69b2d7471f028c3d841dc5f6dc,4dc3f1e6a10842dbb0b1ac038b5ac335,00573_000.jpg,Greg,,Single Pack,N/A
