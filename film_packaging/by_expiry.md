@@ -15,9 +15,9 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 08 2026
-Unique items: 578
-Total scans : 1084
+Last Updated:
+Unique items:
+Total scans :
 ```
 
 -----
@@ -39,7 +39,7 @@ Total scans : 1084
 - [[1951] Kodak Plus-X (ref: 4b73)](#1951-kodak-plus-x-ref-4b73)
 - [[1951] Kodak Verichrome (ref: c9c2)](#1951-kodak-verichrome-ref-c9c2)
 - [[1956] Ansco Plenachrome (ref: 3c6c)](#1956-ansco-plenachrome-ref-3c6c)
-- [[1956] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#1956-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
+- [[1956] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#1956-filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
 - [[1957] Kodak Plus-X (ref: b867)](#1957-kodak-plus-x-ref-b867)
 - [[1957] Gevaert Gevachrome 30 (ref: c0e3)](#1957-gevaert-gevachrome-30-ref-c0e3)
 - [[1957] Kodak Plus-X (ref: a250)](#1957-kodak-plus-x-ref-a250)
@@ -272,7 +272,7 @@ Total scans : 1084
 - [[2001] Fujifilm Fujichrome 64T Type II Professional (ref: 74a1)](#2001-fujifilm-fujichrome-64t-type-ii-professional-ref-74a1)
 - [[2001] Kodak Gold (ref: ea58)](#2001-kodak-gold-ref-ea58)
 - [[2001] Kodak Ektachrome 400X (ref: 5b82)](#2001-kodak-ektachrome-400x-ref-5b82)
-- [[2001] Kodak Värikuvafilmi (ref: f9ff)](#2001-kodak-värikuvafilmi-ref-f9ff)
+- [[2001] Kodak VÃ¤rikuvafilmi (ref: f9ff)](#2001-kodak-vã-rikuvafilmi-ref-f9ff)
 - [[2002] Kodak Gold (ref: bdd5)](#2002-kodak-gold-ref-bdd5)
 - [[2002] Polaroid High Definition (ref: deb6)](#2002-polaroid-high-definition-ref-deb6)
 - [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
@@ -398,7 +398,7 @@ Total scans : 1084
 - [[2009] Polaroid TZ Artistic Fade to Black (ref: de21)](#2009-polaroid-tz-artistic-fade-to-black-ref-de21)
 - [[2009] Kodak Elite Chrome Extra Color (ref: 71f9)](#2009-kodak-elite-chrome-extra-color-ref-71f9)
 - [[2009] Werlisa Werlisa Sport 100 (ref: d7fe)](#2009-werlisa-werlisa-sport-100-ref-d7fe)
-- [[2010] Photocité 400 ISO (ref: e370)](#2010-photocité-400-iso-ref-e370)
+- [[2010] PhotocitÃ© 400 ISO (ref: e370)](#2010-photocitã-400-iso-ref-e370)
 - [[2010] Fujifilm Fujicolor Superia Reala (ref: a624)](#2010-fujifilm-fujicolor-superia-reala-ref-a624)
 - [[2010] Fujifilm Neopan 400 Presto (ref: 21a7)](#2010-fujifilm-neopan-400-presto-ref-21a7)
 - [[2010] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#2010-impossible-project-px-600-silver-shade--first-flush-ref-8636)
@@ -561,7 +561,7 @@ Total scans : 1084
 - [[2026] Ilford Ortho Plus (ref: 1952)](#2026-ilford-ortho-plus-ref-1952)
 - [[2026] Kodak Gold 200 (ref: 795c)](#2026-kodak-gold-200-ref-795c)
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
-- [[2026] Lomography Lomochrome Color’92 (ref: 0960)](#2026-lomography-lomochrome-color-92-ref-0960)
+- [[2026] Lomography Lomochrome Colorâ€™92 (ref: 0960)](#2026-lomography-lomochrome-colorâ-92-ref-0960)
 - [[2026] Escura Showa Camera Film (ref: 826b)](#2026-escura-showa-camera-film-ref-826b)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
@@ -702,7 +702,7 @@ Total scans : 1084
 - [[Unknown] Gevaert Superchrom (ref: 0217)](#unknown-gevaert-superchrom-ref-0217)
 - [[Unknown] Gevaert Ultra Panchro Normal (ref: 1ff6)](#unknown-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[Unknown] Great Films Processing Kodachrome (ref: c012)](#unknown-great-films-processing-kodachrome-ref-c012)
-- [[Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[Unknown] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#unknown-hasselblad-hassel-plã-tar-erorto-ref-ec67)
 - [[Unknown] Ilford HP3 (ref: ae35)](#unknown-ilford-hp3-ref-ae35)
 - [[Unknown] Ilford R.25 F.P Special (ref: ec05)](#unknown-ilford-r25-fp-special-ref-ec05)
 - [[Unknown] Illingworth's Fleet H&D (ref: 54fe)](#unknown-illingworths-fleet-h-d-ref-54fe)
@@ -714,7 +714,7 @@ Total scans : 1084
 - [[Unknown] Kodak Super-XX (ref: e684)](#unknown-kodak-super-xx-ref-e684)
 - [[Unknown] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#unknown-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[Unknown] Kodak Tri-X 400 Pro (ref: f05c)](#unknown-kodak-tri-x-400-pro-ref-f05c)
-- [[Unknown] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#unknown-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
+- [[Unknown] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#unknown-lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
@@ -723,7 +723,7 @@ Total scans : 1084
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)](#unknown-optik-oldschool-opticolour-200-ref-80d7)
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: a7c9)](#unknown-optik-oldschool-opticolour-200-ref-a7c9)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
-- [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
+- [[Unknown] PhÃ¶bus-Platten Sheet Film (ref: d505)](#unknown-phã-bus-platten-sheet-film-ref-d505)
 - [[Unknown] Polaroid Type 42 (ref: f92c)](#unknown-polaroid-type-42-ref-f92c)
 - [[Unknown] Reflx Lab 200T (ref: d847)](#unknown-reflx-lab-200t-ref-d847)
 - [[Unknown] Reflx Lab 320D AHU (ref: 0bd5)](#unknown-reflx-lab-320d-ahu-ref-0bd5)
@@ -1063,7 +1063,7 @@ UUID  : 39756172435749ed870105a77fa53c6c
 	<img src="./lowres/00385_000.jpg" alt="Ansco Plenachrome 120 film box outside" loading="lazy" width="500" height="405">
 </a>
 
-#### [1956] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
+#### [1956] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -1074,7 +1074,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [1957] Kodak Plus-X (ref: b867)
@@ -6664,7 +6664,7 @@ UUID  : 877e28be6f7240898a95616c39a95b82
 	<img src="./lowres/00278_001.jpg" alt="Kodak Ektachrome 400X 120 film box inside" loading="lazy" width="411" height="500">
 </a>
 
-#### [2001] Kodak Värikuvafilmi (ref: f9ff)
+#### [2001] Kodak VÃ¤rikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -6675,7 +6675,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 #### [2002] Kodak Gold (ref: bdd5)
@@ -8967,7 +8967,7 @@ UUID  : 738ee5f957e543ee8baa4824dcacd7fe
 	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
-#### [2010] Photocité 400 ISO (ref: e370)
+#### [2010] PhotocitÃ© 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -8978,7 +8978,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [2010] Fujifilm Fujicolor Superia Reala (ref: a624)
@@ -11818,7 +11818,7 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
 </a>
 
-#### [2026] Lomography Lomochrome Color’92 (ref: 0960)
+#### [2026] Lomography Lomochrome Colorâ€™92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -11829,7 +11829,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [2026] Escura Showa Camera Film (ref: 826b)
@@ -14336,7 +14336,7 @@ UUID  : 0f14cf86439a4009a252f730c308c012
 	<img src="./lowres/00445_003.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="321">
 </a>
 
-#### [Unknown] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+#### [Unknown] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -14347,7 +14347,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 #### [Unknown] Ilford HP3 (ref: ae35)
@@ -14540,7 +14540,7 @@ UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
 	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
 </a>
 
-#### [Unknown] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### [Unknown] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -14551,7 +14551,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### [Unknown] Minox MinoColor 100 Pro (ref: 5338)
@@ -14724,7 +14724,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
 </a>
 
-#### [Unknown] Phöbus-Platten Sheet Film (ref: d505)
+#### [Unknown] PhÃ¶bus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -14735,7 +14735,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [Unknown] Polaroid Type 42 (ref: f92c)
@@ -14977,66 +14977,6 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ## Contributor List
 
 ```
-Rank  Username                      Contributions
---------------------------------------------------
-1     dekuNukem                     339   
-2     Luci 101                      102   
-3     @photos.by.qi                 72    
-4     Pelicram                      71    
-5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
-8     @recycling.film               66    
-9     Dialupdude                    30    
-10    Mauphoto                      28    
-11    The Compartmentalist          25    
-12    benjaminbeeroll               20    
-13    @ob.skura                     19    
-14    fine-seat                     19    
-15    Camera.Riley                  19    
-16    kaimon                        19    
-17    Chrisbes                      19    
-18    Nano_Burger                   18    
-19    toader                        17    
-20    waldoboro                     17    
-21    yc128                         14    
-22    b0baspace                     14    
-23    @SirBrentsworth               13    
-24    benikum                       12    
-25    u/ReeeSchmidtyWerber          11    
-26    @zruk_ts                      10    
-27    minidiscus                    10    
-28    lilyu.xyz                     9     
-29    Kraksen                       9     
-30    lt_col_tall                   9     
-31    MCB18                         9     
-32    Rafa Laguillo                 8     
-33    @toastergod101                7     
-34    @filmfotofella                7     
-35    GreatGizmo74                  6     
-36    nick                          6     
-37    Greg                          6     
-38    @gregrouxphotography          5     
-39    Tobias                        5     
-40    @janjuudas                    5     
-41    Henry Gunn                    4     
-42    TheSelousScout                4     
-43    @sachynmital                  3     
-44    Tallbird Cowboy               3     
-45    @seklerek                     2     
-46    @ftfilmphotos                 2     
-47    @tylerdrey                    2     
-48    Warren Umbach                 2     
-49    @flyingcamerastudio           2     
-50    @pommegranny                  2     
-51    Yrikonchik                    1     
-52    @ad.astra.per.aspera.1894     1     
-53    Aoi Yuki                      1     
-54    lemoniter                     1     
-55    @shotbyliampewpew             1     
-56    Joo                           1     
-57    @titanic_159                  1     
-58    Constantino                   1     
 ```
 
 ## Questions or Comments?

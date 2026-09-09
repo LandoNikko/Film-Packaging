@@ -181,7 +181,7 @@ def make_md(sort_name, sorted_dbase, ftk=None, ftf=None):
     return result_text
 
 def write_to_file(file_path, content):
-    with open(file_path, 'w') as file:
+    with open(file_path, 'w', encoding='utf-8', newline='\n') as file:
         file.write(content)
 
 # ----------

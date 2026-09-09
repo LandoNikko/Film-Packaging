@@ -15,13 +15,150 @@ Want to contribute? [Check out the guidelines!](../contribution_guide.md)
 ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
 
 ```
-Last Updated: Jun 08 2026
-Unique items: 578
-Total scans : 1084
+Last Updated:
+Unique items:
+Total scans :
 ```
 
 -----
 
+- [[2026-09-07] Polaroid 600 Platinum (ref: cd53)](#2026-09-07-polaroid-600-platinum-ref-cd53)
+- [[2026-09-07] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#2026-09-07-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
+- [[2026-09-07] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#2026-09-07-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
+- [[2026-09-07] Kodak Kodachrome (ref: 07e0)](#2026-09-07-kodak-kodachrome-ref-07e0)
+- [[2026-09-07] Kodak Verichrome (ref: 11b9)](#2026-09-07-kodak-verichrome-ref-11b9)
+- [[2026-09-07] Kodak Tri-X Pan (ref: 4257)](#2026-09-07-kodak-tri-x-pan-ref-4257)
+- [[2026-09-07] Kodak Tri-X Pan (ref: b4e8)](#2026-09-07-kodak-tri-x-pan-ref-b4e8)
+- [[2026-09-07] Kodak Gold (ref: f2a2)](#2026-09-07-kodak-gold-ref-f2a2)
+- [[2026-09-07] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)](#2026-09-07-kodak-ektachrome-slide-duplicating-film-5071-ref-76f8)
+- [[2026-09-07] Kodak Kodacolor II (ref: c326)](#2026-09-07-kodak-kodacolor-ii-ref-c326)
+- [[2026-09-07] GAF Color Slide Film (ref: 57a5)](#2026-09-07-gaf-color-slide-film-ref-57a5)
+- [[2026-09-07] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)](#2026-09-07-fujifilm-fujicolor-super-hg-ii-200-ref-7ac0)
+- [[2026-09-07] Konica Minolta Centuria Super (ref: 95f0)](#2026-09-07-konica-minolta-centuria-super-ref-95f0)
+- [[2026-09-07] MarixFilm Aircolor (ref: d9c4)](#2026-09-07-marixfilm-aircolor-ref-d9c4)
+- [[2026-09-07] Stavanger Foto Frontier (ref: c51e)](#2026-09-07-stavanger-foto-frontier-ref-c51e)
+- [[2026-09-02] Lucky C400 (ref: a02c)](#2026-09-02-lucky-c400-ref-a02c)
+- [[2026-08-21] Kodak Technical Pan (ref: 951e)](#2026-08-21-kodak-technical-pan-ref-951e)
+- [[2026-08-21] Candido Color Negative Film 800 (ref: c39e)](#2026-08-21-candido-color-negative-film-800-ref-c39e)
+- [[2026-08-21] Kodak Plus-X (ref: a250)](#2026-08-21-kodak-plus-x-ref-a250)
+- [[2026-08-21] Werlisa Werlisa Sport 100 (ref: d7fe)](#2026-08-21-werlisa-werlisa-sport-100-ref-d7fe)
+- [[2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)](#2026-08-19-hansa-hansacolor-100-super-plus-ref-67b2)
+- [[2026-08-16] Ogapan Panchromatic (ref: 9c23)](#2026-08-16-ogapan-panchromatic-ref-9c23)
+- [[2026-08-15] Kodak Portra 160NC (ref: e513)](#2026-08-15-kodak-portra-160nc-ref-e513)
+- [[2026-08-15] Agfa Agfapan APX 25 (ref: 5a92)](#2026-08-15-agfa-agfapan-apx-25-ref-5a92)
+- [[2026-08-15] Kodak Ektapan P3200 (ref: 2254)](#2026-08-15-kodak-ektapan-p3200-ref-2254)
+- [[2026-08-13] Kodak UltraMax (ref: 145b)](#2026-08-13-kodak-ultramax-ref-145b)
+- [[2026-08-13] Agfa Plaques Chromo Isolar (ref: 2c8a)](#2026-08-13-agfa-plaques-chromo-isolar-ref-2c8a)
+- [[2026-08-13] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#2026-08-13-lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [[2026-08-13] Konica SXG 100 (ref: 4096)](#2026-08-13-konica-sxg-100-ref-4096)
+- [[2026-08-13] Lucky LuckyColor BR100 (ref: a71c)](#2026-08-13-lucky-luckycolor-br100-ref-a71c)
+- [[2026-08-04] Optik Oldschool OptiMono 100 (ref: 312c)](#2026-08-04-optik-oldschool-optimono-100-ref-312c)
+- [[2026-08-04] Fujifilm Instax Mini Contact Sheet (ref: f0f7)](#2026-08-04-fujifilm-instax-mini-contact-sheet-ref-f0f7)
+- [[2026-08-04] Fujifilm Instax Mini Macaron (ref: 7ae7)](#2026-08-04-fujifilm-instax-mini-macaron-ref-7ae7)
+- [[2026-08-04] Fujifilm Instax Mini (ref: c9b1)](#2026-08-04-fujifilm-instax-mini-ref-c9b1)
+- [[2026-08-04] Lomography Color Negative 120 Film 400 (ref: 7f5f)](#2026-08-04-lomography-color-negative-120-film-400-ref-7f5f)
+- [[2026-08-04] Polaroid Originals Color i-Type Film (ref: 79a3)](#2026-08-04-polaroid-originals-color-i-type-film-ref-79a3)
+- [[2026-08-04] Polaroid Originals Color 600 Film (ref: 97cb)](#2026-08-04-polaroid-originals-color-600-film-ref-97cb)
+- [[2026-08-04] Polaroid Originals Color SX-70 Film (ref: 7238)](#2026-08-04-polaroid-originals-color-sx-70-film-ref-7238)
+- [[2026-08-04] Kodak Imagelink HQ Microfilm (ref: 5a0f)](#2026-08-04-kodak-imagelink-hq-microfilm-ref-5a0f)
+- [[2026-08-04] Kodak Portra 160 NC (ref: d52e)](#2026-08-04-kodak-portra-160-nc-ref-d52e)
+- [[2026-08-04] Kodak RS Pan (ref: 70d7)](#2026-08-04-kodak-rs-pan-ref-70d7)
+- [[2026-08-04] Kodak Technical Pan Film 2415 (ref: 20de)](#2026-08-04-kodak-technical-pan-film-2415-ref-20de)
+- [[2026-08-04] Kodak Plus-X Pan (ref: 9a4c)](#2026-08-04-kodak-plus-x-pan-ref-9a4c)
+- [[2026-08-04] Kodak Infrared Aerographic Film 2424 (ref: 840c)](#2026-08-04-kodak-infrared-aerographic-film-2424-ref-840c)
+- [[2026-08-04] Kodak RAR Film 2479 (ref: 63e7)](#2026-08-04-kodak-rar-film-2479-ref-63e7)
+- [[2026-08-04] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#2026-08-04-kodak-no3-special-kodak-autographic-film-ref-ac3c)
+- [[2026-08-04] ORWO OWRO Color PC7 (ref: 08f0)](#2026-08-04-orwo-owro-color-pc7-ref-08f0)
+- [[2026-08-04] Reflx Lab Fortuna (ref: 56a5)](#2026-08-04-reflx-lab-fortuna-ref-56a5)
+- [[2026-08-04] Reflx Lab 200T (ref: d847)](#2026-08-04-reflx-lab-200t-ref-d847)
+- [[2026-08-04] Lomography Lomochrome Metropolis (ref: ec77)](#2026-08-04-lomography-lomochrome-metropolis-ref-ec77)
+- [[2026-08-04] Ogapan Panchromatic (ref: a972)](#2026-08-04-ogapan-panchromatic-ref-a972)
+- [[2026-07-21] 1Shot Fun Shooter Flash (ref: 31aa)](#2026-07-21-1shot-fun-shooter-flash-ref-31aa)
+- [[2026-07-21] Kodak Ektacolor Pro 400 (ref: aa72)](#2026-07-21-kodak-ektacolor-pro-400-ref-aa72)
+- [[2026-07-16] Konica Konica Color SR-G 160 (ref: 64c5)](#2026-07-16-konica-konica-color-sr-g-160-ref-64c5)
+- [[2026-07-16] Fujifilm 200 (ref: 6286)](#2026-07-16-fujifilm-200-ref-6286)
+- [[2026-07-16] Kodak Gold Plus (ref: 114f)](#2026-07-16-kodak-gold-plus-ref-114f)
+- [[2026-07-13] Fujifilm Fujicolor Pro 400H (ref: 4be2)](#2026-07-13-fujifilm-fujicolor-pro-400h-ref-4be2)
+- [[2026-07-13] Kodak Portra 400 (ref: f4af)](#2026-07-13-kodak-portra-400-ref-f4af)
+- [[2026-07-13] Optik Oldschool OptiColour 200 (ref: 3617)](#2026-07-13-optik-oldschool-opticolour-200-ref-3617)
+- [[2026-07-13] Polaroid 669 (ref: 2e70)](#2026-07-13-polaroid-669-ref-2e70)
+- [[2026-07-13] Fujifilm Provia 100F (ref: 5c1e)](#2026-07-13-fujifilm-provia-100f-ref-5c1e)
+- [[2026-07-13] ORWO DK5 (ref: a2dd)](#2026-07-13-orwo-dk5-ref-a2dd)
+- [[2026-06-26] Cinemot Lisboa 1999 (ref: 6a4f)](#2026-06-26-cinemot-lisboa-1999-ref-6a4f)
+- [[2026-06-26] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#2026-06-26-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
+- [[2026-06-25] Kodak Gold III (ref: cd39)](#2026-06-25-kodak-gold-iii-ref-cd39)
+- [[2026-06-25] Lomography Color Negative 120 Film 100 (ref: 42fc)](#2026-06-25-lomography-color-negative-120-film-100-ref-42fc)
+- [[2026-06-25] Mira Films 800 Color Film (ref: 32e1)](#2026-06-25-mira-films-800-color-film-ref-32e1)
+- [[2026-06-25] Konica VX 100 Super (ref: 90b4)](#2026-06-25-konica-vx-100-super-ref-90b4)
+- [[2026-06-25] Fujifilm 400 Speed Film (ref: 7f19)](#2026-06-25-fujifilm-400-speed-film-ref-7f19)
+- [[2026-06-24] Kodak Kodachrome 40 (ref: 2a3e)](#2026-06-24-kodak-kodachrome-40-ref-2a3e)
+- [[2026-06-24] Kodak Gold 200 (ref: 795c)](#2026-06-24-kodak-gold-200-ref-795c)
+- [[2026-06-24] Fujifilm Nexia A200 (ref: 43c0)](#2026-06-24-fujifilm-nexia-a200-ref-43c0)
+- [[2026-06-24] Kodak Tri-X (ref: d9af)](#2026-06-24-kodak-tri-x-ref-d9af)
+- [[2026-06-24] Fujifilm Simple Ace (ref: 17e6)](#2026-06-24-fujifilm-simple-ace-ref-17e6)
+- [[2026-06-24] ORWO UP 27 DS 8 (ref: 4d5a)](#2026-06-24-orwo-up-27-ds-8-ref-4d5a)
+- [[2026-06-24] ORWO UK 17 (ref: 19a0)](#2026-06-24-orwo-uk-17-ref-19a0)
+- [[2026-06-24] Polaroid High Definition (ref: ac7c)](#2026-06-24-polaroid-high-definition-ref-ac7c)
+- [[2026-06-24] Perutz CR 100 (ref: b5df)](#2026-06-24-perutz-cr-100-ref-b5df)
+- [[2026-06-24] Lucky Super New 200 (ref: e0a7)](#2026-06-24-lucky-super-new-200-ref-e0a7)
+- [[2026-06-24] Konica Minolta Centuria 100 (ref: 00ae)](#2026-06-24-konica-minolta-centuria-100-ref-00ae)
+- [[2026-06-24] Ilford Pan F 50 (ref: c977)](#2026-06-24-ilford-pan-f-50-ref-c977)
+- [[2026-06-24] Foma Fomapan Classic 100 (ref: 4eb6)](#2026-06-24-foma-fomapan-classic-100-ref-4eb6)
+- [[2026-06-24] Agfa CT Precisa (ref: ca9c)](#2026-06-24-agfa-ct-precisa-ref-ca9c)
+- [[2026-06-24] Lucky SHD 100 New Generation (ref: 23f6)](#2026-06-24-lucky-shd-100-new-generation-ref-23f6)
+- [[2026-06-24] Lucky SHD 100 (ref: 7feb)](#2026-06-24-lucky-shd-100-ref-7feb)
+- [[2026-06-24] Kodak T-MAX 400 (ref: 0a2e)](#2026-06-24-kodak-t-max-400-ref-0a2e)
+- [[2026-06-24] Kodak T-MAX 100 (ref: 2fbc)](#2026-06-24-kodak-t-max-100-ref-2fbc)
+- [[2026-06-24] Schlecker Fotoland AS Color 200 (ref: 2bf6)](#2026-06-24-schlecker-fotoland-as-color-200-ref-2bf6)
+- [[2026-06-24] Kodak Elite Chrome Extra Color (ref: 71f9)](#2026-06-24-kodak-elite-chrome-extra-color-ref-71f9)
+- [[2026-06-24] Kodak Kodacolor VR Plus 400 (ref: 5e5d)](#2026-06-24-kodak-kodacolor-vr-plus-400-ref-5e5d)
+- [[2026-06-24] Fujifilm Velvia 50 (ref: 9678)](#2026-06-24-fujifilm-velvia-50-ref-9678)
+- [[2026-06-24] Fujifilm Superia 100 (ref: 0f0c)](#2026-06-24-fujifilm-superia-100-ref-0f0c)
+- [[2026-06-24] Agfa Vista Spider-Pack (ref: c0cc)](#2026-06-24-agfa-vista-spider-pack-ref-c0cc)
+- [[2026-06-19] Gevaert Panchro Super (ref: fd4c)](#2026-06-19-gevaert-panchro-super-ref-fd4c)
+- [[2026-06-19] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)](#2026-06-19-polaroid-purple-600-film-reclaimed-series-ref-aad6)
+- [[2026-06-18] Polaroid Originals B&W Spectra Film (ref: 7f24)](#2026-06-18-polaroid-originals-b-w-spectra-film-ref-7f24)
+- [[2026-06-18] Polaroid Originals Color Spectra Film (ref: 7d0a)](#2026-06-18-polaroid-originals-color-spectra-film-ref-7d0a)
+- [[2026-06-18] Fujifilm Instax Wide (ref: 51ce)](#2026-06-18-fujifilm-instax-wide-ref-51ce)
+- [[2026-06-18] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#2026-06-18-polaroid-land-pack-film-type-107-ref-1b9a)
+- [[2026-06-18] Fujifilm Instax Wide Monochrome (ref: 58d8)](#2026-06-18-fujifilm-instax-wide-monochrome-ref-58d8)
+- [[2026-06-18] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)](#2026-06-18-one-instant-type-100-peel-apart-colorfilm-ref-ff2c)
+- [[2026-06-18] Fujifilm FP-100C Silk (ref: b7aa)](#2026-06-18-fujifilm-fp-100c-silk-ref-b7aa)
+- [[2026-06-18] Fujifilm FP-3000B (ref: 9d7e)](#2026-06-18-fujifilm-fp-3000b-ref-9d7e)
+- [[2026-06-18] Lomography Color Slide / X-Pro 200 (ref: 22bc)](#2026-06-18-lomography-color-slide--x-pro-200-ref-22bc)
+- [[2026-06-18] Polaroid 690 (ref: bd98)](#2026-06-18-polaroid-690-ref-bd98)
+- [[2026-06-18] Polaroid 100 Chocolate Film (ref: a70f)](#2026-06-18-polaroid-100-chocolate-film-ref-a70f)
+- [[2026-06-18] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)](#2026-06-18-impossible-project-polaroid-type-100-chocolate-paul-giambarba-edition-ref-6028)
+- [[2026-06-18] Polaroid 664 (ref: 4f1a)](#2026-06-18-polaroid-664-ref-4f1a)
+- [[2026-06-18] Impossible Project Color 600 (ref: b84c)](#2026-06-18-impossible-project-color-600-ref-b84c)
+- [[2026-06-18] Impossible Project Color 600 (ref: 55a1)](#2026-06-18-impossible-project-color-600-ref-55a1)
+- [[2026-06-18] Polaroid 664 (ref: 4c40)](#2026-06-18-polaroid-664-ref-4c40)
+- [[2026-06-18] Polaroid 125i Gloss (ref: 7dd1)](#2026-06-18-polaroid-125i-gloss-ref-7dd1)
+- [[2026-06-18] Polaroid 669 (ref: 2c27)](#2026-06-18-polaroid-669-ref-2c27)
+- [[2026-06-18] Kodak Ektachrome 64T (ref: 4b11)](#2026-06-18-kodak-ektachrome-64t-ref-4b11)
+- [[2026-06-18] Polaroid 1200 (ref: a657)](#2026-06-18-polaroid-1200-ref-a657)
+- [[2026-06-18] Kodak Vericolor 400 (ref: d8e3)](#2026-06-18-kodak-vericolor-400-ref-d8e3)
+- [[2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)](#2026-06-16-polaroid-high-contrast-polachrome-ref-c984)
+- [[2026-06-16] Fujifilm FP-100B (ref: f3dd)](#2026-06-16-fujifilm-fp-100b-ref-f3dd)
+- [[2026-06-16] Polaroid 672 (ref: b335)](#2026-06-16-polaroid-672-ref-b335)
+- [[2026-06-16] Kodak Ektachrome Professional Film 5018 (ref: 6ace)](#2026-06-16-kodak-ektachrome-professional-film-5018-ref-6ace)
+- [[2026-06-16] Polaroid 100 Sepia Film (ref: 9893)](#2026-06-16-polaroid-100-sepia-film-ref-9893)
+- [[2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)](#2026-06-16-impossible-project-px-600-silver-shade--first-flush-ref-8636)
+- [[2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)](#2026-06-16-impossible-project-px-70-color-shade--first-flush-ref-1ad9)
+- [[2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)](#2026-06-16-kodak-kodalith-ortho-film-type-3-ref-e5fd)
+- [[2026-06-16] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#2026-06-16-kodak-hawkeye-2485-surveillance-film-ref-0037)
+- [[2026-06-16] Kodak Kodacolor Gold (ref: 4ccd)](#2026-06-16-kodak-kodacolor-gold-ref-4ccd)
+- [[2026-06-16] Polaroid 100 Blue Film (ref: 93b8)](#2026-06-16-polaroid-100-blue-film-ref-93b8)
+- [[2026-06-16] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)](#2026-06-16-impossible-project-px-680-color-shade--first-flush-ref-580b)
+- [[2026-06-16] Polaroid TZ Artistic Fade to Black (ref: de21)](#2026-06-16-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[2026-06-16] Kodak Ektachrome 320T (ref: 0e11)](#2026-06-16-kodak-ektachrome-320t-ref-0e11)
+- [[2026-06-16] Kodak Ektagraphic HC Slide Film (ref: d2a2)](#2026-06-16-kodak-ektagraphic-hc-slide-film-ref-d2a2)
+- [[2026-06-16] Agfa Agfacolor CNS (ref: 0d8a)](#2026-06-16-agfa-agfacolor-cns-ref-0d8a)
+- [[2026-06-16] Kodak Kodachrome 64 (ref: b007)](#2026-06-16-kodak-kodachrome-64-ref-b007)
+- [[2026-06-16] Fujifilm 400 (ref: 1f1d)](#2026-06-16-fujifilm-400-ref-1f1d)
+- [[2026-06-16] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#2026-06-16-camera-film-photo-limited-kiki-pan-320-ref-3937)
+- [[2026-06-10] Kodak Ektachrome 160T (ref: f21a)](#2026-06-10-kodak-ektachrome-160t-ref-f21a)
+- [[2026-06-10] Kodak Ektachrome E200 (ref: 9879)](#2026-06-10-kodak-ektachrome-e200-ref-9879)
 - [[2026-06-08] Fujifilm Fujicolor Pro 400H (ref: 29e0)](#2026-06-08-fujifilm-fujicolor-pro-400h-ref-29e0)
 - [[2026-05-26] Foton Super Orto (ref: 050b)](#2026-05-26-foton-super-orto-ref-050b)
 - [[2026-05-26] Mr. Negative Black Cat (ref: cc7d)](#2026-05-26-mr-negative-black-cat-ref-cc7d)
@@ -118,7 +255,7 @@ Total scans : 1084
 - [[2025-11-25] Kodak Gold 200 (ref: 7d4b)](#2025-11-25-kodak-gold-200-ref-7d4b)
 - [[2025-11-25] Fujifilm Fujicolor Super HG (ref: 1b30)](#2025-11-25-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[2025-11-25] Ilford Ortho Plus (ref: 1952)](#2025-11-25-ilford-ortho-plus-ref-1952)
-- [[2025-11-25] Photocité 400 ISO (ref: e370)](#2025-11-25-photocité-400-iso-ref-e370)
+- [[2025-11-25] PhotocitÃ© 400 ISO (ref: e370)](#2025-11-25-photocitã-400-iso-ref-e370)
 - [[2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)](#2025-11-25-seagull-seagull-color-ir100-ref-8fd8)
 - [[2025-11-25] Kodak Ektachrome Elite 200 (ref: b736)](#2025-11-25-kodak-ektachrome-elite-200-ref-b736)
 - [[2025-11-20] Agfa Isopan Portrait (ref: b974)](#2025-11-20-agfa-isopan-portrait-ref-b974)
@@ -230,7 +367,7 @@ Total scans : 1084
 - [[2025-10-07] Kodak Plus-X (ref: 7958)](#2025-10-07-kodak-plus-x-ref-7958)
 - [[2025-10-07] Ilford FP3 Series 2 (ref: 03e7)](#2025-10-07-ilford-fp3-series-2-ref-03e7)
 - [[2025-10-07] Agfa Isopan ISS (ref: b9d7)](#2025-10-07-agfa-isopan-iss-ref-b9d7)
-- [[2025-10-07] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#2025-10-07-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
+- [[2025-10-07] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#2025-10-07-filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
 - [[2025-10-06] Fujifilm Superia Premium 400 (ref: ef1f)](#2025-10-06-fujifilm-superia-premium-400-ref-ef1f)
 - [[2025-10-06] Agfa Vista Plus 200 (ref: f5f7)](#2025-10-06-agfa-vista-plus-200-ref-f5f7)
 - [[2025-10-05] Minox MinoColor 3 (ref: d209)](#2025-10-05-minox-minocolor-3-ref-d209)
@@ -267,7 +404,7 @@ Total scans : 1084
 - [[2025-09-17] Fujifilm Fujichrome 64T (ref: 311b)](#2025-09-17-fujifilm-fujichrome-64t-ref-311b)
 - [[2025-09-17] Kodak Tri-X Pan (ref: f201)](#2025-09-17-kodak-tri-x-pan-ref-f201)
 - [[2025-09-17] Kodak UltraMax (ref: e3ba)](#2025-09-17-kodak-ultramax-ref-e3ba)
-- [[2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)](#2025-09-17-lomography-lomochrome-color-92-ref-0960)
+- [[2025-09-17] Lomography Lomochrome Colorâ€™92 (ref: 0960)](#2025-09-17-lomography-lomochrome-colorâ-92-ref-0960)
 - [[2025-09-13] Jessops Diamond Everyday (ref: 6d5a)](#2025-09-13-jessops-diamond-everyday-ref-6d5a)
 - [[2025-09-13] Jessops CS100 (ref: 4288)](#2025-09-13-jessops-cs100-ref-4288)
 - [[2025-09-13] Kodak Ultra (ref: 5701)](#2025-09-13-kodak-ultra-ref-5701)
@@ -320,7 +457,7 @@ Total scans : 1084
 - [[2025-09-03] Defender Extra Special Fast Panchromatic (ref: afcf)](#2025-09-03-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[2025-09-03] Defender Extra Fast Panchromatic (ref: 348b)](#2025-09-03-defender-extra-fast-panchromatic-ref-348b)
 - [[2025-09-03] Agfa Trockenplatten (ref: 0937)](#2025-09-03-agfa-trockenplatten-ref-0937)
-- [[2025-09-03] Phöbus-Platten Sheet Film (ref: d505)](#2025-09-03-phöbus-platten-sheet-film-ref-d505)
+- [[2025-09-03] PhÃ¶bus-Platten Sheet Film (ref: d505)](#2025-09-03-phã-bus-platten-sheet-film-ref-d505)
 - [[2025-09-01] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2025-09-01-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2025-09-01] Kodak Kodacolor-X (ref: 0ce5)](#2025-09-01-kodak-kodacolor-x-ref-0ce5)
 - [[2025-09-01] Kodak Ektachrome 100 Plus (ref: 0183)](#2025-09-01-kodak-ektachrome-100-plus-ref-0183)
@@ -398,7 +535,7 @@ Total scans : 1084
 - [[2025-08-19] Illingworth's Fleet H&D (ref: 54fe)](#2025-08-19-illingworths-fleet-h-d-ref-54fe)
 - [[2025-08-19] Hands On Film Midnight 1600 (ref: 4411)](#2025-08-19-hands-on-film-midnight-1600-ref-4411)
 - [[2025-08-19] Foton Fotopan F (ref: 0ad6)](#2025-08-19-foton-fotopan-f-ref-0ad6)
-- [[2025-08-19] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#2025-08-19-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[2025-08-19] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#2025-08-19-hasselblad-hassel-plã-tar-erorto-ref-ec67)
 - [[2025-08-19] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#2025-08-19-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2025-08-18] Fujifilm Fujicolor C200 (ref: 2ff8)](#2025-08-18-fujifilm-fujicolor-c200-ref-2ff8)
 - [[2025-08-18] Kodak UltraMax (ref: e4ad)](#2025-08-18-kodak-ultramax-ref-e4ad)
@@ -456,7 +593,7 @@ Total scans : 1084
 - [[2025-07-31] Kodak Gold (ref: 2f8d)](#2025-07-31-kodak-gold-ref-2f8d)
 - [[2025-07-31] Agfa Isopan ISS (ref: 75fa)](#2025-07-31-agfa-isopan-iss-ref-75fa)
 - [[2025-07-31] Lomography Babylon (ref: 7afa)](#2025-07-31-lomography-babylon-ref-7afa)
-- [[2025-07-31] Kodak Värikuvafilmi (ref: f9ff)](#2025-07-31-kodak-värikuvafilmi-ref-f9ff)
+- [[2025-07-31] Kodak VÃ¤rikuvafilmi (ref: f9ff)](#2025-07-31-kodak-vã-rikuvafilmi-ref-f9ff)
 - [[2025-07-31] Kentmere PAN 400 (ref: a327)](#2025-07-31-kentmere-pan-400-ref-a327)
 - [[2025-07-31] Kodak T-MAX P3200 (ref: 521a)](#2025-07-31-kodak-t-max-p3200-ref-521a)
 - [[2025-07-31] Lomography Tiger (ref: 26dd)](#2025-07-31-lomography-tiger-ref-26dd)
@@ -603,6 +740,2580 @@ Total scans : 1084
 
 
 -----
+
+
+`UUID: 7d1eb96de3bd4ec98b6ee8f0a0e8c774`↓
+
+<a href="./archive/00719_001.jpg" target="_blank">
+	<img src="./lowres/00719_001.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="500" height="446">
+</a>
+
+#### [2026-09-07] Polaroid 600 Platinum (ref: cd53)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 1999-07 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d58fc4af4f314da988547af34b1bcd53
+```
+
+<a href="./archive/00719_000.jpg" target="_blank">
+	<img src="./lowres/00719_000.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="358" height="500">
+</a>
+
+#### [2026-09-07] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : d0ca629041344c4f8f6d3200341f4edf
+```
+
+<a href="./archive/00718_000.jpg" target="_blank">
+	<img src="./lowres/00718_000.jpg" alt="Mystic Color Lab Superior 35mm Color Print Film 35mm film box outside" loading="lazy" width="477" height="500">
+</a>
+
+#### [2026-09-07] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 1978-12 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8c90c60b8e4c42aabac785f3d8effd30
+Notes : Respooled Kodak Plus-X film inside
+```
+
+<a href="./archive/00717_000.jpg" target="_blank">
+	<img src="./lowres/00717_000.jpg" alt="Minolta 16 Black & White Fast Fine Grain Film 16mm film box outside" loading="lazy" width="500" height="397">
+</a>
+
+
+`UUID: 0c688af82cff40cb89b4f56d31c19087`↓
+
+<a href="./archive/00716_001.jpg" target="_blank">
+	<img src="./lowres/00716_001.jpg" alt="Kodak Kodachrome 35mm film box inside" loading="lazy" width="373" height="500">
+</a>
+
+#### [2026-09-07] Kodak Kodachrome (ref: 07e0)
+
+```
+Format: 35mm         |  Process : K-14    
+ISO   : 64           |  Expiry  : 1992-01 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : ba34255d470942dea9572eaabf1007e0
+```
+
+<a href="./archive/00716_000.jpg" target="_blank">
+	<img src="./lowres/00716_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: 71ea70e8b54043d38aa0111553cc3e9c`↓
+
+<a href="./archive/00715_004.jpg" target="_blank">
+	<img src="./lowres/00715_004.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: 294b05778f5f41a78ffeac20fd3152d1`↓
+
+<a href="./archive/00715_003.jpg" target="_blank">
+	<img src="./lowres/00715_003.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: be74feb2516148c4a276a5da135a4ff4`↓
+
+<a href="./archive/00715_002.jpg" target="_blank">
+	<img src="./lowres/00715_002.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
+</a>
+
+
+`UUID: b784e9c6507c4b909225f0c3767166c0`↓
+
+<a href="./archive/00715_001.jpg" target="_blank">
+	<img src="./lowres/00715_001.jpg" alt="Kodak Verichrome 127 film box leaflet" loading="lazy" width="378" height="500">
+</a>
+
+#### [2026-09-07] Kodak Verichrome (ref: 11b9)
+
+```
+Format: 127          |  Process : BW      
+ISO   : 80           |  Expiry  : 1958-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : dd47848372c7405eb8f05754480c11b9
+```
+
+<a href="./archive/00715_000.jpg" target="_blank">
+	<img src="./lowres/00715_000.jpg" alt="Kodak Verichrome 127 film box outside" loading="lazy" width="500" height="468">
+</a>
+
+#### [2026-09-07] Kodak Tri-X Pan (ref: 4257)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1994-02 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 4f04fc9a2284495cb367f76cc7054257
+```
+
+<a href="./archive/00714_000.jpg" target="_blank">
+	<img src="./lowres/00714_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [2026-09-07] Kodak Tri-X Pan (ref: b4e8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1990-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 8f3e3aab508a454fbe868b1025adb4e8
+```
+
+<a href="./archive/00713_000.jpg" target="_blank">
+	<img src="./lowres/00713_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="420" height="500">
+</a>
+
+#### [2026-09-07] Kodak Gold (ref: f2a2)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2001-05 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 86c04a01042341b8a7ae95c660f4f2a2
+```
+
+<a href="./archive/00712_000.jpg" target="_blank">
+	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
+</a>
+
+
+`UUID: 87e70efe7ceb41608a89a09a355de58e`↓
+
+<a href="./archive/00711_002.jpg" target="_blank">
+	<img src="./lowres/00711_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="203" height="500">
+</a>
+
+
+`UUID: 47e00ad5d78a47e1ae51f6c80bd86c08`↓
+
+<a href="./archive/00711_001.jpg" target="_blank">
+	<img src="./lowres/00711_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="209" height="500">
+</a>
+
+#### [2026-09-07] Kodak Ektachrome Slide Duplicating Film 5071 (ref: 76f8)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 4            |  Expiry  : 1980-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 65c654459db94987a653ce34ae6f76f8
+```
+
+<a href="./archive/00711_000.jpg" target="_blank">
+	<img src="./lowres/00711_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [2026-09-07] Kodak Kodacolor II (ref: c326)
+
+```
+Format: 126          |  Process : C-41    
+ISO   : 80           |  Expiry  : 1976-05 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : db6491a822bb44a183c95744cb26c326
+```
+
+<a href="./archive/00710_000.jpg" target="_blank">
+	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
+</a>
+
+#### [2026-09-07] GAF Color Slide Film (ref: 57a5)
+
+```
+Format: 35mm         |  Process : AR-2    
+ISO   : 200          |  Expiry  : 1974-04 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
+```
+
+<a href="./archive/00709_000.jpg" target="_blank">
+	<img src="./lowres/00709_000.jpg" alt="GAF Color Slide Film 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+#### [2026-09-07] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 1997-10 
+Type  : Multi-Pack-4 |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : benjaminbeeroll
+UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
+```
+
+<a href="./archive/00708_000.jpg" target="_blank">
+	<img src="./lowres/00708_000.jpg" alt="Fujifilm Fujicolor Super HG II 200 35mm film box outside" loading="lazy" width="385" height="500">
+</a>
+
+
+`UUID: 708f40122825442b96dd887a89c90e35`↓
+
+<a href="./archive/00707_001.jpg" target="_blank">
+	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
+</a>
+
+#### [2026-09-07] Konica Minolta Centuria Super (ref: 95f0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2007-04 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 23707163dc014de2947bf1669c2195f0
+```
+
+<a href="./archive/00707_000.jpg" target="_blank">
+	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+#### [2026-09-07] MarixFilm Aircolor (ref: d9c4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 0f36fe976d604dea826c31a5f534d9c4
+```
+
+<a href="./archive/00706_000.jpg" target="_blank">
+	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+#### [2026-09-07] Stavanger Foto Frontier (ref: c51e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-07   |  Author  : Kraksen 
+UUID  : 354788b12a2a4555a7c1717abfd5c51e
+```
+
+<a href="./archive/00705_000.jpg" target="_blank">
+	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+
+`UUID: fb51d773895c4f18a3d354ca130f50c8`↓
+
+<a href="./archive/00704_001.jpg" target="_blank">
+	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
+</a>
+
+#### [2026-09-02] Lucky C400 (ref: a02c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-02   |  Author  : @Hol.m35
+UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
+```
+
+<a href="./archive/00704_000.jpg" target="_blank">
+	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
+</a>
+
+
+`UUID: 8882c643007f427fad8d9033cefd64d0`↓
+
+<a href="./archive/00703_001.jpg" target="_blank">
+	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
+#### [2026-08-21] Kodak Technical Pan (ref: 951e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : nyctomanica
+UUID  : 79d06b422e074d53a6d37add1a0a951e
+```
+
+<a href="./archive/00703_000.jpg" target="_blank">
+	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
+</a>
+
+
+`UUID: 07b09cec6d9948a2b546a3d122001e62`↓
+
+<a href="./archive/00702_001.jpg" target="_blank">
+	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
+</a>
+
+#### [2026-08-21] Candido Color Negative Film 800 (ref: c39e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-21   |  Author  : @Hol.m35
+UUID  : c4f0677d117446678179ccfafb84c39e
+```
+
+<a href="./archive/00702_000.jpg" target="_blank">
+	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
+</a>
+
+#### [2026-08-21] Kodak Plus-X (ref: a250)
+
+```
+Format: 616          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
+```
+
+<a href="./archive/00701_000.jpg" target="_blank">
+	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
+</a>
+
+
+`UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
+
+<a href="./archive/00700_001.jpg" target="_blank">
+	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
+#### [2026-08-21] Werlisa Werlisa Sport 100 (ref: d7fe)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-21   |  Author  : Rafa Laguillo
+UUID  : 738ee5f957e543ee8baa4824dcacd7fe
+```
+
+<a href="./archive/00700_000.jpg" target="_blank">
+	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
+</a>
+
+
+`UUID: c8f70224514b43a599f262caebbdfc02`↓
+
+<a href="./archive/00699_001.jpg" target="_blank">
+	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
+</a>
+
+#### [2026-08-19] Hansa Hansacolor 100 Super Plus (ref: 67b2)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-19   |  Author  : @pommegranny
+UUID  : ec5187c506fe4e84bc10fa21d39467b2
+```
+
+<a href="./archive/00699_000.jpg" target="_blank">
+	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
+</a>
+
+#### [2026-08-16] Ogapan Panchromatic (ref: 9c23)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 40           |  Expiry  : 1962-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-16   |  Author  : Constantino
+UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
+```
+
+<a href="./archive/00698_000.jpg" target="_blank">
+	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
+</a>
+
+
+`UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
+
+<a href="./archive/00697_001.jpg" target="_blank">
+	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
+</a>
+
+#### [2026-08-15] Kodak Portra 160NC (ref: e513)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2007-02 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-15   |  Author  : @flyingcamerastudio
+UUID  : 9eb720d7de6e45bc97014b3e0717e513
+```
+
+<a href="./archive/00697_000.jpg" target="_blank">
+	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
+</a>
+
+
+`UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
+
+<a href="./archive/00696_001.jpg" target="_blank">
+	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
+</a>
+
+#### [2026-08-15] Agfa Agfapan APX 25 (ref: 5a92)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 25           |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-15   |  Author  : Warren Umbach
+UUID  : 3f10b7f948b641459292c754ec265a92
+```
+
+<a href="./archive/00696_000.jpg" target="_blank">
+	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [2026-08-15] Kodak Ektapan P3200 (ref: 2254)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-15   |  Author  : @titanic_159
+UUID  : 0d327a604980442d8f0a4fd9b4b92254
+```
+
+<a href="./archive/00695_000.jpg" target="_blank">
+	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
+</a>
+
+#### [2026-08-13] Kodak UltraMax (ref: 145b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : a6d5604fc4404666acf42801bbc8145b
+```
+
+<a href="./archive/00694_000.jpg" target="_blank">
+	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
+#### [2026-08-13] Agfa Plaques Chromo Isolar (ref: 2c8a)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : 69f7043994f94dffb90d512ed5bc2c8a
+```
+
+<a href="./archive/00693_000.jpg" target="_blank">
+	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
+</a>
+
+#### [2026-08-13] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-08-13   |  Author  : Rafa Laguillo
+UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
+```
+
+<a href="./archive/00692_000.jpg" target="_blank">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+</a>
+
+
+`UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
+
+<a href="./archive/00691_001.jpg" target="_blank">
+	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
+</a>
+
+#### [2026-08-13] Konica SXG 100 (ref: 4096)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : 20062d10b38a496d855defd42ce44096
+```
+
+<a href="./archive/00691_000.jpg" target="_blank">
+	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 52de88685d124b9f92ce453036122f49`↓
+
+<a href="./archive/00690_002.jpg" target="_blank">
+	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
+</a>
+
+
+`UUID: fce0cfdd0da64de8bb959da8b873361f`↓
+
+<a href="./archive/00690_001.jpg" target="_blank">
+	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
+</a>
+
+#### [2026-08-13] Lucky LuckyColor BR100 (ref: a71c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-13   |  Author  : @janjuudas
+UUID  : cd7927f99b904e108562dd8d7cb7a71c
+```
+
+<a href="./archive/00690_000.jpg" target="_blank">
+	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2026-08-04] Optik Oldschool OptiMono 100 (ref: 312c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : bba34206627f485b9a3119d4c2dd312c
+```
+
+<a href="./archive/00689_000.jpg" target="_blank">
+	<img src="./lowres/00689_000.jpg" alt="Optik Oldschool OptiMono 100 35mm film box outside" loading="lazy" width="484" height="500">
+</a>
+
+#### [2026-08-04] Fujifilm Instax Mini Contact Sheet (ref: f0f7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 913f40168de04c539a616da939a0f0f7
+```
+
+<a href="./archive/00688_000.jpg" target="_blank">
+	<img src="./lowres/00688_000.jpg" alt="Fujifilm Instax Mini Contact Sheet Instant Integral Film film box outside" loading="lazy" width="500" height="421">
+</a>
+
+#### [2026-08-04] Fujifilm Instax Mini Macaron (ref: 7ae7)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2026-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
+```
+
+<a href="./archive/00687_000.jpg" target="_blank">
+	<img src="./lowres/00687_000.jpg" alt="Fujifilm Instax Mini Macaron Instant Integral Film film box outside" loading="lazy" width="500" height="403">
+</a>
+
+#### [2026-08-04] Fujifilm Instax Mini (ref: c9b1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2025-03 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : a63f7025a5284603ad7a1c071311c9b1
+```
+
+<a href="./archive/00686_000.jpg" target="_blank">
+	<img src="./lowres/00686_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="373">
+</a>
+
+#### [2026-08-04] Lomography Color Negative 120 Film 400 (ref: 7f5f)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : @Hol.m35
+UUID  : 2ec124d60b12488db346643ed8d17f5f
+```
+
+<a href="./archive/00685_000.jpg" target="_blank">
+	<img src="./lowres/00685_000.jpg" alt="Lomography Color Negative 120 Film 400 120 film box outside" loading="lazy" width="500" height="311">
+</a>
+
+
+`UUID: a8d722a9a637412caf68e01c018e7320`↓
+
+<a href="./archive/00608_002.jpg" target="_blank">
+	<img src="./lowres/00608_002.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
+</a>
+
+
+`UUID: 1c1866395d4f4e15b072c977ca0bcb64`↓
+
+<a href="./archive/00608_001.jpg" target="_blank">
+	<img src="./lowres/00608_001.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
+</a>
+
+
+`UUID: 2e98ef6cbf384bf88e7522000db35e07`↓
+
+<a href="./archive/00684_001.jpg" target="_blank">
+	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
+</a>
+
+#### [2026-08-04] Polaroid Originals Color i-Type Film (ref: 79a3)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : e7e2198738634eaa91f172f160e679a3
+```
+
+<a href="./archive/00684_000.jpg" target="_blank">
+	<img src="./lowres/00684_000.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: 42a65f5e6e67475e85a143297ab4302f`↓
+
+<a href="./archive/00683_001.jpg" target="_blank">
+	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
+#### [2026-08-04] Polaroid Originals Color 600 Film (ref: 97cb)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9edcedcc654b4e04bb4f2b65079597cb
+```
+
+<a href="./archive/00683_000.jpg" target="_blank">
+	<img src="./lowres/00683_000.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+
+`UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
+
+<a href="./archive/00682_001.jpg" target="_blank">
+	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
+</a>
+
+#### [2026-08-04] Polaroid Originals Color SX-70 Film (ref: 7238)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 160          |  Expiry  : 2019-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-08-04   |  Author  : nyctomanica
+UUID  : 9fd8da93b07c484baea216014e0e7238
+```
+
+<a href="./archive/00682_000.jpg" target="_blank">
+	<img src="./lowres/00682_000.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
+</a>
+
+#### [2026-08-04] Kodak Imagelink HQ Microfilm (ref: 5a0f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 2006-05 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
+```
+
+<a href="./archive/00681_000.jpg" target="_blank">
+	<img src="./lowres/00681_000.jpg" alt="Kodak Imagelink HQ Microfilm 35mm film box outside" loading="lazy" width="500" height="491">
+</a>
+
+#### [2026-08-04] Kodak Portra 160 NC (ref: d52e)
+
+```
+Format: 70mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2009-01 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 6052675492004641b862ed8f7c99d52e
+```
+
+<a href="./archive/00680_000.jpg" target="_blank">
+	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
+</a>
+
+#### [2026-08-04] Kodak RS Pan (ref: 70d7)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 650          |  Expiry  : 1964-06 
+Type  : Bulk Roll    |  Quantity: 60ft    
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : d1ac939ca9074be8a403c2a5cc1570d7
+```
+
+<a href="./archive/00679_000.jpg" target="_blank">
+	<img src="./lowres/00679_000.jpg" alt="Kodak RS Pan 70mm film box outside" loading="lazy" width="478" height="500">
+</a>
+
+#### [2026-08-04] Kodak Technical Pan Film 2415 (ref: 20de)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1985-04 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : ea5df46bb39745879d81fd9c6eeb20de
+```
+
+<a href="./archive/00678_000.jpg" target="_blank">
+	<img src="./lowres/00678_000.jpg" alt="Kodak Technical Pan Film 2415 70mm film box outside" loading="lazy" width="500" height="433">
+</a>
+
+#### [2026-08-04] Kodak Plus-X Pan (ref: 9a4c)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1972-06 
+Type  : Bulk Roll    |  Quantity: 100ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : dd83cce80c7f4a3888777d7446d59a4c
+```
+
+<a href="./archive/00677_000.jpg" target="_blank">
+	<img src="./lowres/00677_000.jpg" alt="Kodak Plus-X Pan 70mm film box outside" loading="lazy" width="500" height="429">
+</a>
+
+#### [2026-08-04] Kodak Infrared Aerographic Film 2424 (ref: 840c)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2006-08 
+Type  : Bulk Roll    |  Quantity: 150ft   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : 9a2383f804754840938f77217718840c
+```
+
+<a href="./archive/00676_000.jpg" target="_blank">
+	<img src="./lowres/00676_000.jpg" alt="Kodak Infrared Aerographic Film 2424 70mm film box outside" loading="lazy" width="500" height="428">
+</a>
+
+
+`UUID: eb607dad18f842249d1c5fe6da85b5a8`↓
+
+<a href="./archive/00675_002.jpg" target="_blank">
+	<img src="./lowres/00675_002.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="465" height="500">
+</a>
+
+
+`UUID: b1d13110d50c40d1ab22d5850144e5e2`↓
+
+<a href="./archive/00675_001.jpg" target="_blank">
+	<img src="./lowres/00675_001.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="470" height="500">
+</a>
+
+#### [2026-08-04] Kodak RAR Film 2479 (ref: 63e7)
+
+```
+Format: 70mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 1987-05 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-08-04   |  Author  : MCB18   
+UUID  : e09ac20993b946ad8fc2c588f84263e7
+```
+
+<a href="./archive/00675_000.jpg" target="_blank">
+	<img src="./lowres/00675_000.jpg" alt="Kodak RAR Film 2479 70mm film box outside" loading="lazy" width="500" height="420">
+</a>
+
+
+`UUID: dfd07954551f4d55bc38b73c137755bf`↓
+
+<a href="./archive/00674_001.jpg" target="_blank">
+	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
+</a>
+
+#### [2026-08-04] Kodak No3 Special Kodak Autographic Film (ref: ac3c)
+
+```
+Format: 118          |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1916-01 
+Type  : Single Pack  |  Quantity: 4exp    
+Added : 2026-08-04   |  Author  : Rafa Laguillo
+UUID  : 96dd905b730e446fbe34b5daef15ac3c
+```
+
+<a href="./archive/00674_000.jpg" target="_blank">
+	<img src="./lowres/00674_000.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box outside" loading="lazy" width="500" height="378">
+</a>
+
+
+`UUID: 6ec554be94e845f2b64e3fdc27833293`↓
+
+<a href="./archive/00673_001.jpg" target="_blank">
+	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [2026-08-04] ORWO OWRO Color PC7 (ref: 08f0)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Bulk Roll    |  Quantity: 905ft   
+Added : 2026-08-04   |  Author  : Luci 101
+UUID  : 0bd454e6225a4c5799d36e51135208f0
+```
+
+<a href="./archive/00673_000.jpg" target="_blank">
+	<img src="./lowres/00673_000.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="477" height="499">
+</a>
+
+#### [2026-08-04] Reflx Lab Fortuna (ref: 56a5)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-12 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
+```
+
+<a href="./archive/00672_000.jpg" target="_blank">
+	<img src="./lowres/00672_000.jpg" alt="Reflx Lab Fortuna 110 film box outside" loading="lazy" width="500" height="390">
+</a>
+
+#### [2026-08-04] Reflx Lab 200T (ref: d847)
+
+```
+Format: 120          |  Process : ECN-2   
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : a7c0fcc9a1eb4a2a970df6cb14e2d847
+```
+
+<a href="./archive/00671_000.jpg" target="_blank">
+	<img src="./lowres/00671_000.jpg" alt="Reflx Lab 200T 120 film box outside" loading="lazy" width="249" height="500">
+</a>
+
+#### [2026-08-04] Lomography Lomochrome Metropolis (ref: ec77)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-08-04   |  Author  : Chrisbes
+UUID  : 862c394687c644068ae4721a7c93ec77
+```
+
+<a href="./archive/00670_000.jpg" target="_blank">
+	<img src="./lowres/00670_000.jpg" alt="Lomography Lomochrome Metropolis 110 film box outside" loading="lazy" width="364" height="500">
+</a>
+
+#### [2026-08-04] Ogapan Panchromatic (ref: a972)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 40           |  Expiry  : 1975-10 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-08-04   |  Author  : Joo     
+UUID  : e1bcabfe74584823ac1e3c593244a972
+```
+
+<a href="./archive/00669_000.jpg" target="_blank">
+	<img src="./lowres/00669_000.jpg" alt="Ogapan Panchromatic 120 film box outside" loading="lazy" width="500" height="369">
+</a>
+
+
+`UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
+
+<a href="./archive/00668_002.jpg" target="_blank">
+	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
+</a>
+
+
+`UUID: 8944f67aa29643259d4be53ad960d2d7`↓
+
+<a href="./archive/00668_001.jpg" target="_blank">
+	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
+</a>
+
+#### [2026-07-21] 1Shot Fun Shooter Flash (ref: 31aa)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-07-21   |  Author  : Dialupdude
+UUID  : 2711bf31703f431eb53fe9b536ea31aa
+```
+
+<a href="./archive/00668_000.jpg" target="_blank">
+	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
+</a>
+
+#### [2026-07-21] Kodak Ektacolor Pro 400 (ref: aa72)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-21   |  Author  : waldoboro
+UUID  : 1b8269534ca14fac97e07722d3c8aa72
+```
+
+<a href="./archive/00667_000.jpg" target="_blank">
+	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
+</a>
+
+
+`UUID: d8b9395871644903b4e7251339cca0c8`↓
+
+<a href="./archive/00666_001.jpg" target="_blank">
+	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
+</a>
+
+#### [2026-07-16] Konica Konica Color SR-G 160 (ref: 64c5)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 160          |  Expiry  : 1999-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-16   |  Author  : Chrisbes
+UUID  : 5f88d84525c440fc8879978b1b2864c5
+```
+
+<a href="./archive/00666_000.jpg" target="_blank">
+	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
+</a>
+
+#### [2026-07-16] Fujifilm 200 (ref: 6286)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-10 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 86c7f4981b304bd18ebeeb7c43836286
+```
+
+<a href="./archive/00665_000.jpg" target="_blank">
+	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
+</a>
+
+
+`UUID: 40b52c82185045d3ab35b798f0e7d875`↓
+
+<a href="./archive/00664_001.jpg" target="_blank">
+	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
+</a>
+
+#### [2026-07-16] Kodak Gold Plus (ref: 114f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1994-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-07-16   |  Author  : @gregrouxphotography
+UUID  : 3bba5e916d5d4460a7c644296d22114f
+```
+
+<a href="./archive/00664_000.jpg" target="_blank">
+	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
+</a>
+
+#### [2026-07-13] Fujifilm Fujicolor Pro 400H (ref: 4be2)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2015-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 5c7c873716ad4ae3abe59d1532e34be2
+```
+
+<a href="./archive/00663_000.jpg" target="_blank">
+	<img src="./lowres/00663_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="404" height="500">
+</a>
+
+#### [2026-07-13] Kodak Portra 400 (ref: f4af)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2021-07 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : bd9d52c15a7b4d49b87ce856282cf4af
+```
+
+<a href="./archive/00662_000.jpg" target="_blank">
+	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
+</a>
+
+#### [2026-07-13] Optik Oldschool OptiColour 200 (ref: 3617)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : Chrisbes
+UUID  : 03e5b3b597e74b01b87a2d0f16623617
+```
+
+<a href="./archive/00661_000.jpg" target="_blank">
+	<img src="./lowres/00661_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="423">
+</a>
+
+
+`UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
+
+<a href="./archive/00587_001.jpg" target="_blank">
+	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
+</a>
+
+
+`UUID: 2e5f63ccf4454fad8c3deadb0c7ff0a6`↓
+
+<a href="./archive/00660_001.jpg" target="_blank">
+	<img src="./lowres/00660_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="154">
+</a>
+
+#### [2026-07-13] Polaroid 669 (ref: 2e70)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2008-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : e879c9f5665f4692a40ab8d839412e70
+```
+
+<a href="./archive/00660_000.jpg" target="_blank">
+	<img src="./lowres/00660_000.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="225">
+</a>
+
+#### [2026-07-13] Fujifilm Provia 100F (ref: 5c1e)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2021-02 
+Type  : Multi-Pack-5 |  Quantity: N/A     
+Added : 2026-07-13   |  Author  : nyctomanica
+UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
+```
+
+<a href="./archive/00659_000.jpg" target="_blank">
+	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
+</a>
+
+
+`UUID: 9790f346b50243b6b83c3e7f2773b441`↓
+
+<a href="./archive/00658_005.jpg" target="_blank">
+	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
+</a>
+
+
+`UUID: 2015c96803d743838ac7ad1354443309`↓
+
+<a href="./archive/00658_004.jpg" target="_blank">
+	<img src="./lowres/00658_004.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="151">
+</a>
+
+
+`UUID: 4cfed229ab4b4d82b3a97fadcaed5a9f`↓
+
+<a href="./archive/00658_003.jpg" target="_blank">
+	<img src="./lowres/00658_003.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="130">
+</a>
+
+
+`UUID: 33ab1f5ae3984ff3b0a1593e23f4ac06`↓
+
+<a href="./archive/00658_002.jpg" target="_blank">
+	<img src="./lowres/00658_002.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+
+`UUID: 1c986802fc464163804128400195738e`↓
+
+<a href="./archive/00658_001.jpg" target="_blank">
+	<img src="./lowres/00658_001.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+#### [2026-07-13] ORWO DK5 (ref: a2dd)
+
+```
+Format: 16mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1984-05 
+Type  : Single Pack  |  Quantity: 30.5m   
+Added : 2026-07-13   |  Author  : Luci 101
+UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
+```
+
+<a href="./archive/00658_000.jpg" target="_blank">
+	<img src="./lowres/00658_000.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
+</a>
+
+#### [2026-06-26] Cinemot Lisboa 1999 (ref: 6a4f)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-07 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : aff79fa9e25b4654826ed6443d266a4f
+```
+
+<a href="./archive/00657_000.jpg" target="_blank">
+	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
+</a>
+
+#### [2026-06-26] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-08 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-26   |  Author  : Pelicram
+UUID  : a2fd70d8c82d42aa8db0f45ced94081a
+```
+
+<a href="./archive/00656_000.jpg" target="_blank">
+	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
+</a>
+
+
+`UUID: e0fc0873b5984d59871410b4488f10b8`↓
+
+<a href="./archive/00655_003.jpg" target="_blank">
+	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
+</a>
+
+
+`UUID: 249b3fd912e34d758f9548dc619e297f`↓
+
+<a href="./archive/00655_002.jpg" target="_blank">
+	<img src="./lowres/00655_002.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="350" height="500">
+</a>
+
+
+`UUID: b13207a08b84442e941d7f514281bf7b`↓
+
+<a href="./archive/00655_001.jpg" target="_blank">
+	<img src="./lowres/00655_001.jpg" alt="Kodak Gold III 35mm film box inside" loading="lazy" width="332" height="500">
+</a>
+
+#### [2026-06-25] Kodak Gold III (ref: cd39)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1998-10 
+Type  : Multi-Pack-3 |  Quantity: 30exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : f7c1098f0fe74126bf9cef9c261bcd39
+```
+
+<a href="./archive/00655_000.jpg" target="_blank">
+	<img src="./lowres/00655_000.jpg" alt="Kodak Gold III 35mm film box outside" loading="lazy" width="319" height="500">
+</a>
+
+
+`UUID: 6c0182aec6d945dd83da3c1714d68856`↓
+
+<a href="./archive/00654_001.jpg" target="_blank">
+	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-25] Lomography Color Negative 120 Film 100 (ref: 42fc)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 100          |  Expiry  : 2025-06 
+Type  : Multi-Pack-3 |  Quantity: N/A     
+Added : 2026-06-25   |  Author  : @Hol.m35
+UUID  : 13977400bfd24db0bde214b6c6a342fc
+```
+
+<a href="./archive/00654_000.jpg" target="_blank">
+	<img src="./lowres/00654_000.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-25] Mira Films 800 Color Film (ref: 32e1)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 89552dfaf57742d8b1aed15a511832e1
+```
+
+<a href="./archive/00653_000.jpg" target="_blank">
+	<img src="./lowres/00653_000.jpg" alt="Mira Films 800 Color Film 35mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 4c99e38ae90f43e8baa4e0cd9b0a313b`↓
+
+<a href="./archive/00652_001.jpg" target="_blank">
+	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
+</a>
+
+#### [2026-06-25] Konica VX 100 Super (ref: 90b4)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : 39efe40e04c44643850d8442b4c490b4
+```
+
+<a href="./archive/00652_000.jpg" target="_blank">
+	<img src="./lowres/00652_000.jpg" alt="Konica VX 100 Super 35mm film box outside" loading="lazy" width="253" height="500">
+</a>
+
+#### [2026-06-25] Fujifilm 400 Speed Film (ref: 7f19)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-25   |  Author  : Dialupdude
+UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
+```
+
+<a href="./archive/00651_000.jpg" target="_blank">
+	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [2026-06-24] Kodak Kodachrome 40 (ref: 2a3e)
+
+```
+Format: Super 8      |  Process : K-14    
+ISO   : 40           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 1d9c43a04f37409ab0699ff47af92a3e
+```
+
+<a href="./archive/00650_000.jpg" target="_blank">
+	<img src="./lowres/00650_000.jpg" alt="Kodak Kodachrome 40 Super 8 film box outside" loading="lazy" width="500" height="500">
+</a>
+
+#### [2026-06-24] Kodak Gold 200 (ref: 795c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-07 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 31931d00c51447a8a625da94ce34795c
+```
+
+<a href="./archive/00649_000.jpg" target="_blank">
+	<img src="./lowres/00649_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="417" height="500">
+</a>
+
+
+`UUID: 3325f0ecfe9547a784fe0995fa87786d`↓
+
+<a href="./archive/00648_001.jpg" target="_blank">
+	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
+</a>
+
+#### [2026-06-24] Fujifilm Nexia A200 (ref: 43c0)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 200          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 25exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 711fdcd259474949990498f964f443c0
+```
+
+<a href="./archive/00648_000.jpg" target="_blank">
+	<img src="./lowres/00648_000.jpg" alt="Fujifilm Nexia A200 APS film box outside" loading="lazy" width="500" height="391">
+</a>
+
+
+`UUID: 115a438eac9b45be97a18b95330a1376`↓
+
+<a href="./archive/00647_002.jpg" target="_blank">
+	<img src="./lowres/00647_002.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: bbfaaca0d3814a6eab600f2808631887`↓
+
+<a href="./archive/00647_001.jpg" target="_blank">
+	<img src="./lowres/00647_001.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
+</a>
+
+#### [2026-06-24] Kodak Tri-X (ref: d9af)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 1957-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
+```
+
+<a href="./archive/00647_000.jpg" target="_blank">
+	<img src="./lowres/00647_000.jpg" alt="Kodak Tri-X 35mm film box outside" loading="lazy" width="423" height="500">
+</a>
+
+
+`UUID: 2cf26c089ea24fea95775f5be9229114`↓
+
+<a href="./archive/00646_001.jpg" target="_blank">
+	<img src="./lowres/00646_001.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="189">
+</a>
+
+#### [2026-06-24] Fujifilm Simple Ace (ref: 17e6)
+
+```
+Format: Disposable Camera|  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-24   |  Author  : Dialupdude
+UUID  : f2fbd963d7e0416398b986f9fe3e17e6
+```
+
+<a href="./archive/00646_000.jpg" target="_blank">
+	<img src="./lowres/00646_000.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 40a58b7e988545bf92632d63444d5882`↓
+
+<a href="./archive/00645_005.jpg" target="_blank">
+	<img src="./lowres/00645_005.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
+</a>
+
+
+`UUID: cd691432ee7647dc957113b53761fc22`↓
+
+<a href="./archive/00645_004.jpg" target="_blank">
+	<img src="./lowres/00645_004.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
+</a>
+
+
+`UUID: 7159606d395544acaf3c2165bff483bb`↓
+
+<a href="./archive/00645_003.jpg" target="_blank">
+	<img src="./lowres/00645_003.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="220">
+</a>
+
+
+`UUID: 12b9144a733040cd98b4bc777edb8ada`↓
+
+<a href="./archive/00645_002.jpg" target="_blank">
+	<img src="./lowres/00645_002.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: 83c559fc31a54302abdca7e453c2c199`↓
+
+<a href="./archive/00645_001.jpg" target="_blank">
+	<img src="./lowres/00645_001.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="215">
+</a>
+
+#### [2026-06-24] ORWO UP 27 DS 8 (ref: 4d5a)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 400          |  Expiry  : 1983-11 
+Type  : Single Pack  |  Quantity: 10m     
+Added : 2026-06-24   |  Author  : Luci 101
+UUID  : b009e5b8edc4410da0efdcc563624d5a
+```
+
+<a href="./archive/00645_000.jpg" target="_blank">
+	<img src="./lowres/00645_000.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="493" height="500">
+</a>
+
+
+`UUID: 48fccd412b844d60b070182826cdaeb8`↓
+
+<a href="./archive/00644_007.jpg" target="_blank">
+	<img src="./lowres/00644_007.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
+</a>
+
+
+`UUID: 5a476f294a8248f4b9b7b30c8eea9de9`↓
+
+<a href="./archive/00644_006.jpg" target="_blank">
+	<img src="./lowres/00644_006.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
+</a>
+
+
+`UUID: f6f02f751669490c950960c0320f9166`↓
+
+<a href="./archive/00644_005.jpg" target="_blank">
+	<img src="./lowres/00644_005.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
+</a>
+
+
+`UUID: f013eceab9d04aadaf18c831d872c365`↓
+
+<a href="./archive/00644_004.jpg" target="_blank">
+	<img src="./lowres/00644_004.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
+</a>
+
+
+`UUID: d2e91c708e4b4238a14592852d6efddf`↓
+
+<a href="./archive/00644_003.jpg" target="_blank">
+	<img src="./lowres/00644_003.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="221">
+</a>
+
+
+`UUID: 6b199b64e4254322be23a8f8fa6c0431`↓
+
+<a href="./archive/00644_002.jpg" target="_blank">
+	<img src="./lowres/00644_002.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="227">
+</a>
+
+
+`UUID: deb198cc152945e6bbae1b7744b025e1`↓
+
+<a href="./archive/00644_001.jpg" target="_blank">
+	<img src="./lowres/00644_001.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="218">
+</a>
+
+#### [2026-06-24] ORWO UK 17 (ref: 19a0)
+
+```
+Format: 8mm          |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1989-05 
+Type  : Single Pack  |  Quantity: 7.5m    
+Added : 2026-06-24   |  Author  : Luci 101
+UUID  : cba0bd2a5ffd43c38164a5e9a2f719a0
+```
+
+<a href="./archive/00644_000.jpg" target="_blank">
+	<img src="./lowres/00644_000.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="496">
+</a>
+
+
+`UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
+
+<a href="./archive/00643_001.jpg" target="_blank">
+	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
+</a>
+
+#### [2026-06-24] Polaroid High Definition (ref: ac7c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-03 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : f55d7221fceb4391b83cac2360c5ac7c
+```
+
+<a href="./archive/00643_000.jpg" target="_blank">
+	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 87e07caa491d425390bf58ed01117d2b`↓
+
+<a href="./archive/00642_001.jpg" target="_blank">
+	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 35mm film box inside" loading="lazy" width="375" height="500">
+</a>
+
+#### [2026-06-24] Perutz CR 100 (ref: b5df)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2006-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 8952a19caaea4975a38cd877ca5ab5df
+```
+
+<a href="./archive/00642_000.jpg" target="_blank">
+	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
+
+`UUID: 7da671d2345d450b88824b0bbb584b81`↓
+
+<a href="./archive/00641_001.jpg" target="_blank">
+	<img src="./lowres/00641_001.jpg" alt="Lucky Super New 200 35mm film box inside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2026-06-24] Lucky Super New 200 (ref: e0a7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2013-01 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 2510bd0dd10940e0888b722ec00de0a7
+```
+
+<a href="./archive/00641_000.jpg" target="_blank">
+	<img src="./lowres/00641_000.jpg" alt="Lucky Super New 200 35mm film box outside" loading="lazy" width="429" height="499">
+</a>
+
+
+`UUID: cd9c544f57314e79b7c1cbc0cc74bedc`↓
+
+<a href="./archive/00640_001.jpg" target="_blank">
+	<img src="./lowres/00640_001.jpg" alt="Konica Minolta Centuria 100 35mm film box inside" loading="lazy" width="401" height="500">
+</a>
+
+#### [2026-06-24] Konica Minolta Centuria 100 (ref: 00ae)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : c93974535a3441acb0edbbd16b0f00ae
+```
+
+<a href="./archive/00640_000.jpg" target="_blank">
+	<img src="./lowres/00640_000.jpg" alt="Konica Minolta Centuria 100 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
+
+`UUID: 909196252dc745b0987bafacb8d8e568`↓
+
+<a href="./archive/00639_001.jpg" target="_blank">
+	<img src="./lowres/00639_001.jpg" alt="Ilford Pan F 50 35mm film box inside" loading="lazy" width="417" height="500">
+</a>
+
+#### [2026-06-24] Ilford Pan F 50 (ref: c977)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2006-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : a9fca2c069e94c0b8bafaf79a473c977
+```
+
+<a href="./archive/00639_000.jpg" target="_blank">
+	<img src="./lowres/00639_000.jpg" alt="Ilford Pan F 50 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: 05cf2d1a425147a682821c81d4893541`↓
+
+<a href="./archive/00638_001.jpg" target="_blank">
+	<img src="./lowres/00638_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="500" height="420">
+</a>
+
+#### [2026-06-24] Foma Fomapan Classic 100 (ref: 4eb6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2008-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 0eabec768b1245e1bae0afaa62f04eb6
+```
+
+<a href="./archive/00638_000.jpg" target="_blank">
+	<img src="./lowres/00638_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="496" height="499">
+</a>
+
+
+`UUID: b3d44227f6b04bb3b248247daa95619c`↓
+
+<a href="./archive/00637_001.jpg" target="_blank">
+	<img src="./lowres/00637_001.jpg" alt="Agfa CT Precisa 35mm film box inside" loading="lazy" width="398" height="500">
+</a>
+
+#### [2026-06-24] Agfa CT Precisa (ref: ca9c)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2002-03 
+Type  : Single Pack  |  Quantity: 27exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 4816ed9ade314598a0c96412b06dca9c
+```
+
+<a href="./archive/00637_000.jpg" target="_blank">
+	<img src="./lowres/00637_000.jpg" alt="Agfa CT Precisa 35mm film box outside" loading="lazy" width="393" height="500">
+</a>
+
+
+`UUID: 69f9ef82b5984b94b2385b0e5b9f7cf9`↓
+
+<a href="./archive/00636_001.jpg" target="_blank">
+	<img src="./lowres/00636_001.jpg" alt="Lucky SHD 100 New Generation 35mm film box inside" loading="lazy" width="411" height="500">
+</a>
+
+#### [2026-06-24] Lucky SHD 100 New Generation (ref: 23f6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : a3557cdb2ef942a9809d9c4360bf23f6
+```
+
+<a href="./archive/00636_000.jpg" target="_blank">
+	<img src="./lowres/00636_000.jpg" alt="Lucky SHD 100 New Generation 35mm film box outside" loading="lazy" width="422" height="500">
+</a>
+
+
+`UUID: 937506c89d544dd4a46be76ceb570dd5`↓
+
+<a href="./archive/00635_001.jpg" target="_blank">
+	<img src="./lowres/00635_001.jpg" alt="Lucky SHD 100 35mm film box inside" loading="lazy" width="430" height="499">
+</a>
+
+#### [2026-06-24] Lucky SHD 100 (ref: 7feb)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 8dfb0a6557b34a5fad8d96d4498e7feb
+```
+
+<a href="./archive/00635_000.jpg" target="_blank">
+	<img src="./lowres/00635_000.jpg" alt="Lucky SHD 100 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+
+`UUID: dc35920942a94cceb1f8586cc95ffe59`↓
+
+<a href="./archive/00634_001.jpg" target="_blank">
+	<img src="./lowres/00634_001.jpg" alt="Kodak T-MAX 400 35mm film box inside" loading="lazy" width="398" height="500">
+</a>
+
+#### [2026-06-24] Kodak T-MAX 400 (ref: 0a2e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2006-11 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 9e8ce3c9962b416abe196c890efc0a2e
+```
+
+<a href="./archive/00634_000.jpg" target="_blank">
+	<img src="./lowres/00634_000.jpg" alt="Kodak T-MAX 400 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+
+`UUID: 09fadb744cc445a2a817f41c02d174e9`↓
+
+<a href="./archive/00633_001.jpg" target="_blank">
+	<img src="./lowres/00633_001.jpg" alt="Kodak T-MAX 100 35mm film box inside" loading="lazy" width="409" height="500">
+</a>
+
+#### [2026-06-24] Kodak T-MAX 100 (ref: 2fbc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2006-09 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : b58543ef54c0480288f0fb8b7ac62fbc
+```
+
+<a href="./archive/00633_000.jpg" target="_blank">
+	<img src="./lowres/00633_000.jpg" alt="Kodak T-MAX 100 35mm film box outside" loading="lazy" width="405" height="500">
+</a>
+
+#### [2026-06-24] Schlecker Fotoland AS Color 200 (ref: 2bf6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2012-10 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
+```
+
+<a href="./archive/00632_000.jpg" target="_blank">
+	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [2026-06-24] Kodak Elite Chrome Extra Color (ref: 71f9)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2009-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : b15598742abf4dada03cecd44e4071f9
+```
+
+<a href="./archive/00631_000.jpg" target="_blank">
+	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
+#### [2026-06-24] Kodak Kodacolor VR Plus 400 (ref: 5e5d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 2234581367c84a208c391ba92b3f5e5d
+```
+
+<a href="./archive/00630_000.jpg" target="_blank">
+	<img src="./lowres/00630_000.jpg" alt="Kodak Kodacolor VR Plus 400 35mm film box outside" loading="lazy" width="500" height="385">
+</a>
+
+#### [2026-06-24] Fujifilm Velvia 50 (ref: 9678)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 2012-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : ee425a725d52448b95cb0664aabf9678
+```
+
+<a href="./archive/00629_000.jpg" target="_blank">
+	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
+</a>
+
+#### [2026-06-24] Fujifilm Superia 100 (ref: 0f0c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 29973b9ee68243218c8d30c3403a0f0c
+```
+
+<a href="./archive/00628_000.jpg" target="_blank">
+	<img src="./lowres/00628_000.jpg" alt="Fujifilm Superia 100 35mm film box outside" loading="lazy" width="434" height="500">
+</a>
+
+#### [2026-06-24] Agfa Vista Spider-Pack (ref: c0cc)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2006-09 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-24   |  Author  : Mauphoto
+UUID  : 356cb49254644befb12eaa34c997c0cc
+```
+
+<a href="./archive/00627_000.jpg" target="_blank">
+	<img src="./lowres/00627_000.jpg" alt="Agfa Vista Spider-Pack 35mm film box outside" loading="lazy" width="322" height="499">
+</a>
+
+
+`UUID: 0a568b688bc24662b34171fa2c3b9c66`↓
+
+<a href="./archive/00626_008.jpg" target="_blank">
+	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
+</a>
+
+
+`UUID: 6d493e3285ed4d46a52c37302b1994a5`↓
+
+<a href="./archive/00626_007.jpg" target="_blank">
+	<img src="./lowres/00626_007.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="236" height="500">
+</a>
+
+
+`UUID: be23e2485409449bb52a1a26b40ed836`↓
+
+<a href="./archive/00626_006.jpg" target="_blank">
+	<img src="./lowres/00626_006.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="500" height="473">
+</a>
+
+
+`UUID: 01f9be26056b478ebd7e272472d6b099`↓
+
+<a href="./archive/00626_005.jpg" target="_blank">
+	<img src="./lowres/00626_005.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="420" height="500">
+</a>
+
+
+`UUID: aa90f548900f488c9a94a92ea2fad652`↓
+
+<a href="./archive/00626_004.jpg" target="_blank">
+	<img src="./lowres/00626_004.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="375" height="500">
+</a>
+
+
+`UUID: 569a709dfd81453eb07497318bfa3fe1`↓
+
+<a href="./archive/00626_003.jpg" target="_blank">
+	<img src="./lowres/00626_003.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: ea9a2f40873143a88560e070a11a1ea8`↓
+
+<a href="./archive/00626_002.jpg" target="_blank">
+	<img src="./lowres/00626_002.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+
+`UUID: 5956110884104f6a823597bd4cda1155`↓
+
+<a href="./archive/00626_001.jpg" target="_blank">
+	<img src="./lowres/00626_001.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
+</a>
+
+#### [2026-06-19] Gevaert Panchro Super (ref: fd4c)
+
+```
+Format: 8mm          |  Process : BW      
+ISO   : 32           |  Expiry  : 1948-05 
+Type  : Bulk Roll    |  Quantity: 25ft    
+Added : 2026-06-19   |  Author  : Luci 101
+UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
+```
+
+<a href="./archive/00626_000.jpg" target="_blank">
+	<img src="./lowres/00626_000.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="482">
+</a>
+
+
+`UUID: fbc0c57441fc4f109bdeb5a574a71fac`↓
+
+<a href="./archive/00625_001.jpg" target="_blank">
+	<img src="./lowres/00625_001.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="239" height="499">
+</a>
+
+#### [2026-06-19] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-19   |  Author  : nyctomanica
+UUID  : caa728e6906b495b93d68895585eaad6
+```
+
+<a href="./archive/00625_000.jpg" target="_blank">
+	<img src="./lowres/00625_000.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="239" height="499">
+</a>
+
+
+`UUID: bab1df5b180e4f69aa79689d243ae87b`↓
+
+<a href="./archive/00624_001.jpg" target="_blank">
+	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+#### [2026-06-18] Polaroid Originals B&W Spectra Film (ref: 7f24)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 109eaba178c64f64a473ccce42f77f24
+```
+
+<a href="./archive/00624_000.jpg" target="_blank">
+	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
+</a>
+
+
+`UUID: b8809a0a73bc4c719d575231bdca4fc5`↓
+
+<a href="./archive/00623_002.jpg" target="_blank">
+	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
+</a>
+
+
+`UUID: 538e8ad4aa6648ffbcf9f98f7848f3e1`↓
+
+<a href="./archive/00623_001.jpg" target="_blank">
+	<img src="./lowres/00623_001.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [2026-06-18] Polaroid Originals Color Spectra Film (ref: 7d0a)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2019-05 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
+```
+
+<a href="./archive/00623_000.jpg" target="_blank">
+	<img src="./lowres/00623_000.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
+</a>
+
+#### [2026-06-18] Fujifilm Instax Wide (ref: 51ce)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2021-05 
+Type  : Multi-Pack-2 |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 6fd9245fee514c42b71121e489f051ce
+```
+
+<a href="./archive/00622_000.jpg" target="_blank">
+	<img src="./lowres/00622_000.jpg" alt="Fujifilm Instax Wide Instant Integral Film film box outside" loading="lazy" width="500" height="367">
+</a>
+
+#### [2026-06-18] Polaroid Land Pack Film Type 107 (ref: 1b9a)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 3000         |  Expiry  : 1973-06 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : e8d583d1b8a346cb95ae1cd69bb71b9a
+```
+
+<a href="./archive/00621_000.jpg" target="_blank">
+	<img src="./lowres/00621_000.jpg" alt="Polaroid Land Pack Film Type 107 Instant Pack Film film box outside" loading="lazy" width="500" height="410">
+</a>
+
+#### [2026-06-18] Fujifilm Instax Wide Monochrome (ref: 58d8)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 800          |  Expiry  : 2020-09 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 48b08b5b3a8a4edc98fd29e6fd1c58d8
+```
+
+<a href="./archive/00620_000.jpg" target="_blank">
+	<img src="./lowres/00620_000.jpg" alt="Fujifilm Instax Wide Monochrome Instant Integral Film film box outside" loading="lazy" width="500" height="351">
+</a>
+
+#### [2026-06-18] One Instant Type 100 Peel-Apart Colorfilm (ref: ff2c)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2019-09 
+Type  : Multi-Pack-3 |  Quantity: 1exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 20749de9fbb140d88baffc08facbff2c
+```
+
+<a href="./archive/00619_000.jpg" target="_blank">
+	<img src="./lowres/00619_000.jpg" alt="One Instant Type 100 Peel-Apart Colorfilm Instant Pack Film film box outside" loading="lazy" width="500" height="442">
+</a>
+
+#### [2026-06-18] Fujifilm FP-100C Silk (ref: b7aa)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2015-01 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 38650eb6e4cc42f8bd6b7875dcc5b7aa
+```
+
+<a href="./archive/00618_000.jpg" target="_blank">
+	<img src="./lowres/00618_000.jpg" alt="Fujifilm FP-100C Silk Instant Pack Film film box outside" loading="lazy" width="500" height="333">
+</a>
+
+
+`UUID: 487b8dd980bd49e9b21c32a2a72657d1`↓
+
+<a href="./archive/00617_001.jpg" target="_blank">
+	<img src="./lowres/00617_001.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box inside" loading="lazy" width="352" height="500">
+</a>
+
+#### [2026-06-18] Fujifilm FP-3000B (ref: 9d7e)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 3200         |  Expiry  : 2015-06 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 8382f7e52acc4167bd2aaae4ec319d7e
+```
+
+<a href="./archive/00617_000.jpg" target="_blank">
+	<img src="./lowres/00617_000.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box outside" loading="lazy" width="500" height="375">
+</a>
+
+#### [2026-06-18] Lomography Color Slide / X-Pro 200 (ref: 22bc)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2018-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : fa1a525240b548f599483ad50ba122bc
+Notes : aka Rollei Crossbird, AGFA Aviphot Chrome 200?
+```
+
+<a href="./archive/00616_000.jpg" target="_blank">
+	<img src="./lowres/00616_000.jpg" alt="Lomography Color Slide / X-Pro 200 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
+#### [2026-06-18] Polaroid 690 (ref: bd98)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 4624d642b93d4c75a7a2d53a4a33bd98
+```
+
+<a href="./archive/00615_000.jpg" target="_blank">
+	<img src="./lowres/00615_000.jpg" alt="Polaroid 690 Instant Pack Film film box outside" loading="lazy" width="500" height="391">
+</a>
+
+#### [2026-06-18] Polaroid 100 Chocolate Film (ref: a70f)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : d8e74033014e4db9af13c8b1aac4a70f
+```
+
+<a href="./archive/00614_000.jpg" target="_blank">
+	<img src="./lowres/00614_000.jpg" alt="Polaroid 100 Chocolate Film Instant Pack Film film box outside" loading="lazy" width="500" height="379">
+</a>
+
+#### [2026-06-18] Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition (ref: 6028)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2010-12 
+Type  : Single Pack  |  Quantity: Unknown 
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 9b939ce0c8d7401c936cfcbc85c76028
+```
+
+<a href="./archive/00613_000.jpg" target="_blank">
+	<img src="./lowres/00613_000.jpg" alt="Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition Instant Pack Film film box outside" loading="lazy" width="500" height="355">
+</a>
+
+#### [2026-06-18] Polaroid 664 (ref: 4f1a)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : c2158d300cde448bb229862cfa014f1a
+```
+
+<a href="./archive/00612_000.jpg" target="_blank">
+	<img src="./lowres/00612_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="500" height="412">
+</a>
+
+#### [2026-06-18] Impossible Project Color 600 (ref: b84c)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2016-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : dfb73aa922ec405b8fd100ed1785b84c
+```
+
+<a href="./archive/00611_000.jpg" target="_blank">
+	<img src="./lowres/00611_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="415" height="500">
+</a>
+
+#### [2026-06-18] Impossible Project Color 600 (ref: 55a1)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2014-01 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
+```
+
+<a href="./archive/00610_000.jpg" target="_blank">
+	<img src="./lowres/00610_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="414" height="500">
+</a>
+
+#### [2026-06-18] Polaroid 664 (ref: 4c40)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : cb070eea20764039a6b29ad007c54c40
+Notes : Also called Polapan Pro 100?
+```
+
+<a href="./archive/00609_000.jpg" target="_blank">
+	<img src="./lowres/00609_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="364" height="500">
+</a>
+
+#### [2026-06-18] Polaroid 125i Gloss (ref: 7dd1)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 22exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 1a7ddb61af5a486d85577e89cf317dd1
+```
+
+<a href="./archive/00608_000.jpg" target="_blank">
+	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
+</a>
+
+
+`UUID: 8a98a85e7a474b69bdcb6ab34cf07935`↓
+
+<a href="./archive/00607_001.jpg" target="_blank">
+	<img src="./lowres/00607_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="357">
+</a>
+
+#### [2026-06-18] Polaroid 669 (ref: 2c27)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-03 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
+```
+
+<a href="./archive/00607_000.jpg" target="_blank">
+	<img src="./lowres/00607_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="360">
+</a>
+
+
+`UUID: 51e54b2648a04424b6cd438fa9c24ce6`↓
+
+<a href="./archive/00606_001.jpg" target="_blank">
+	<img src="./lowres/00606_001.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2026-06-18] Kodak Ektachrome 64T (ref: 4b11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 64           |  Expiry  : 2004-03 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : ae1e47c3a7ce4d399556eba279964b11
+```
+
+<a href="./archive/00606_000.jpg" target="_blank">
+	<img src="./lowres/00606_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" height="223">
+</a>
+
+#### [2026-06-18] Polaroid 1200 (ref: a657)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 640          |  Expiry  : 2007-01 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 19b92b8aeb2b4e82b1ca2efa19eda657
+Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10)
+```
+
+<a href="./archive/00605_000.jpg" target="_blank">
+	<img src="./lowres/00605_000.jpg" alt="Polaroid 1200 Instant Integral Film film box outside" loading="lazy" width="465" height="500">
+</a>
+
+#### [2026-06-18] Kodak Vericolor 400 (ref: d8e3)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 1994-08 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-18   |  Author  : nyctomanica
+UUID  : 77390b1f4e8f4519817b767e55c1d8e3
+```
+
+<a href="./archive/00604_000.jpg" target="_blank">
+	<img src="./lowres/00604_000.jpg" alt="Kodak Vericolor 400 35mm film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [2026-06-16] Polaroid High Contrast PolaChrome (ref: c984)
+
+```
+Format: 35mm         |  Process : Instant 
+ISO   : 40           |  Expiry  : 1995-12 
+Type  : Single Pack  |  Quantity: 12exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 65ce4d13cc6142b69fc5d1bea401c984
+```
+
+<a href="./archive/00603_000.jpg" target="_blank">
+	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
+</a>
+
+#### [2026-06-16] Fujifilm FP-100B (ref: f3dd)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 100          |  Expiry  : 2010-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
+```
+
+<a href="./archive/00602_000.jpg" target="_blank">
+	<img src="./lowres/00602_000.jpg" alt="Fujifilm FP-100B Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [2026-06-16] Polaroid 672 (ref: b335)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 400          |  Expiry  : 2004-01 
+Type  : Single Pack  |  Quantity: 20exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : a2615a83b6774edda1567fe0e8deb335
+```
+
+<a href="./archive/00601_000.jpg" target="_blank">
+	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
+</a>
+
+#### [2026-06-16] Kodak Ektachrome Professional Film 5018 (ref: 6ace)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 50           |  Expiry  : 1985-01 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 83f596535e834c1a941be969aab46ace
+```
+
+<a href="./archive/00600_000.jpg" target="_blank">
+	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+#### [2026-06-16] Polaroid 100 Sepia Film (ref: 9893)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 1500         |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 3dc991e05c9b43cdbb85b18aabc29893
+```
+
+<a href="./archive/00599_000.jpg" target="_blank">
+	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
+</a>
+
+
+`UUID: f95f44f60de24d11b8140ecd0493b540`↓
+
+<a href="./archive/00598_002.jpg" target="_blank">
+	<img src="./lowres/00598_002.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="350">
+</a>
+
+
+`UUID: a1e2cdb1abb74300a8387b69c97a4f4b`↓
+
+<a href="./archive/00598_001.jpg" target="_blank">
+	<img src="./lowres/00598_001.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="481" height="500">
+</a>
+
+#### [2026-06-16] Impossible Project PX 600 Silver Shade / First Flush (ref: 8636)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2010-04 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : d77ac027dc34418082f8f65887ca8636
+```
+
+<a href="./archive/00598_000.jpg" target="_blank">
+	<img src="./lowres/00598_000.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="345" height="500">
+</a>
+
+
+`UUID: d0c2a5e34bb54cedad81a49f4c338f7a`↓
+
+<a href="./archive/00597_001.jpg" target="_blank">
+	<img src="./lowres/00597_001.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="363">
+</a>
+
+#### [2026-06-16] Impossible Project PX 70 Color Shade / First Flush (ref: 1ad9)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2010-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 690311c1402d40eca1ced80f9af11ad9
+```
+
+<a href="./archive/00597_000.jpg" target="_blank">
+	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
+</a>
+
+#### [2026-06-16] Kodak Kodalith ortho film type 3 (ref: e5fd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1993-05 
+Type  : Single Pack  |  Quantity: 30m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : da9c265a3e194bd1ad83549961c6e5fd
+```
+
+<a href="./archive/00596_000.jpg" target="_blank">
+	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
+</a>
+
+
+`UUID: 58ff417d1c8a48af9746c73bf4037948`↓
+
+<a href="./archive/00595_001.jpg" target="_blank">
+	<img src="./lowres/00595_001.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="490" height="500">
+</a>
+
+#### [2026-06-16] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2005-11 
+Type  : Single Pack  |  Quantity: 17m     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : ffa83233d791403f98c607bb78ad0037
+Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
+```
+
+<a href="./archive/00595_000.jpg" target="_blank">
+	<img src="./lowres/00595_000.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+#### [2026-06-16] Kodak Kodacolor Gold (ref: 4ccd)
+
+```
+Format: Disc Film    |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 15exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
+```
+
+<a href="./archive/00594_000.jpg" target="_blank">
+	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
+</a>
+
+#### [2026-06-16] Polaroid 100 Blue Film (ref: 93b8)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 80           |  Expiry  : 2009-04 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 5efc4291de384f9fa47153d007d293b8
+```
+
+<a href="./archive/00593_000.jpg" target="_blank">
+	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [2026-06-16] Impossible Project PX 680 Color Shade / First Flush (ref: 580b)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 600          |  Expiry  : 2011-07 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 21d81b0f422340189e48c53b02b8580b
+```
+
+<a href="./archive/00592_000.jpg" target="_blank">
+	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
+</a>
+
+
+`UUID: 307ef2f11d7f4a3cb540da795f1b3d5a`↓
+
+<a href="./archive/00591_001.jpg" target="_blank">
+	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
+</a>
+
+#### [2026-06-16] Polaroid TZ Artistic Fade to Black (ref: de21)
+
+```
+Format: Instant Integral Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2009-10 
+Type  : Single Pack  |  Quantity: 8exp    
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 1db6d025cc904e11858f76ce0053de21
+```
+
+<a href="./archive/00591_000.jpg" target="_blank">
+	<img src="./lowres/00591_000.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box outside" loading="lazy" width="410" height="499">
+</a>
+
+#### [2026-06-16] Kodak Ektachrome 320T (ref: 0e11)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 320          |  Expiry  : 2007-02 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 39eee484e9cf4b8aaade4a1092010e11
+```
+
+<a href="./archive/00590_000.jpg" target="_blank">
+	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+#### [2026-06-16] Kodak Ektagraphic HC Slide Film (ref: d2a2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1989-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : f2a364463c5d40ad9e438566b786d2a2
+```
+
+<a href="./archive/00589_000.jpg" target="_blank">
+	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
+</a>
+
+#### [2026-06-16] Agfa Agfacolor CNS (ref: 0d8a)
+
+```
+Format: 620          |  Process : CNS     
+ISO   : 80           |  Expiry  : 1981-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : c5ed76a41fde41e1b07d83ed38800d8a
+```
+
+<a href="./archive/00588_000.jpg" target="_blank">
+	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
+</a>
+
+#### [2026-06-16] Kodak Kodachrome 64 (ref: b007)
+
+```
+Format: 220          |  Process : K-14    
+ISO   : 64           |  Expiry  : 2010-11 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : nyctomanica
+UUID  : 36d1da1ac9804ac39bd98ab19d4db007
+```
+
+<a href="./archive/00587_000.jpg" target="_blank">
+	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
+</a>
+
+
+`UUID: 1e7dab1f092343d4ba0295f2068dd5fd`↓
+
+<a href="./archive/00586_001.jpg" target="_blank">
+	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
+</a>
+
+#### [2026-06-16] Fujifilm 400 (ref: 1f1d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2026-09 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : @Hol.m35
+UUID  : 624c7d05c28a4bfb834ba537631e1f1d
+```
+
+<a href="./archive/00586_000.jpg" target="_blank">
+	<img src="./lowres/00586_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="412" height="500">
+</a>
+
+
+`UUID: 8dbce7087a9940b49d6c56476194f04b`↓
+
+<a href="./archive/00585_001.jpg" target="_blank">
+	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
+</a>
+
+#### [2026-06-16] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 320          |  Expiry  : 2028-12 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-06-16   |  Author  : @Hol.m35
+UUID  : b0f0117fd8d74332b67a2e8be3db3937
+```
+
+<a href="./archive/00585_000.jpg" target="_blank">
+	<img src="./lowres/00585_000.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box outside" loading="lazy" width="435" height="500">
+</a>
+
+#### [2026-06-10] Kodak Ektachrome 160T (ref: f21a)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 160          |  Expiry  : 2003-02 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : 308fb333b27a4dab9072d131425ef21a
+```
+
+<a href="./archive/00584_000.jpg" target="_blank">
+	<img src="./lowres/00584_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
+#### [2026-06-10] Kodak Ektachrome E200 (ref: 9879)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Bulk Roll    |  Quantity: 30.5m   
+Added : 2026-06-10   |  Author  : nyctomanica
+UUID  : c8b4e91fe2e34428a095ae48184f9879
+```
+
+<a href="./archive/00583_000.jpg" target="_blank">
+	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
 
 #### [2026-06-08] Fujifilm Fujicolor Pro 400H (ref: 29e0)
 
@@ -2657,7 +5368,7 @@ UUID  : cc385be1b2a04a35aef42d7e6dc51952
 	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
 </a>
 
-#### [2025-11-25] Photocité 400 ISO (ref: e370)
+#### [2025-11-25] PhotocitÃ© 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -2668,7 +5379,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)
@@ -5097,7 +7808,7 @@ UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
 	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
-#### [2025-10-07] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
+#### [2025-10-07] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -5108,7 +7819,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [2025-10-06] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -5898,7 +8609,7 @@ UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)
+#### [2025-09-17] Lomography Lomochrome Colorâ€™92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -5909,7 +8620,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 
@@ -6959,7 +9670,7 @@ UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 	<img src="./lowres/00283_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="396">
 </a>
 
-#### [2025-09-03] Phöbus-Platten Sheet Film (ref: d505)
+#### [2025-09-03] PhÃ¶bus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -6970,7 +9681,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [2025-09-01] Fujifilm Fujichrome Provia 100F (ref: 1b4b)
@@ -8402,7 +11113,7 @@ UUID  : f2002785f14a4aba9fd1da2386890ad6
 	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" width="495" height="500">
 </a>
 
-#### [2025-08-19] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
+#### [2025-08-19] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -8413,7 +11124,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 
@@ -9571,7 +12282,7 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" height="398">
 </a>
 
-#### [2025-07-31] Kodak Värikuvafilmi (ref: f9ff)
+#### [2025-07-31] Kodak VÃ¤rikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -9582,7 +12293,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 
@@ -12266,66 +14977,6 @@ UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ## Contributor List
 
 ```
-Rank  Username                      Contributions
---------------------------------------------------
-1     dekuNukem                     339   
-2     Luci 101                      102   
-3     @photos.by.qi                 72    
-4     Pelicram                      71    
-5     @Hol.m35                      71    
-6     @ellafridalindblom            67    
-7     nyctomanica                   67    
-8     @recycling.film               66    
-9     Dialupdude                    30    
-10    Mauphoto                      28    
-11    The Compartmentalist          25    
-12    benjaminbeeroll               20    
-13    @ob.skura                     19    
-14    fine-seat                     19    
-15    Camera.Riley                  19    
-16    kaimon                        19    
-17    Chrisbes                      19    
-18    Nano_Burger                   18    
-19    toader                        17    
-20    waldoboro                     17    
-21    yc128                         14    
-22    b0baspace                     14    
-23    @SirBrentsworth               13    
-24    benikum                       12    
-25    u/ReeeSchmidtyWerber          11    
-26    @zruk_ts                      10    
-27    minidiscus                    10    
-28    lilyu.xyz                     9     
-29    Kraksen                       9     
-30    lt_col_tall                   9     
-31    MCB18                         9     
-32    Rafa Laguillo                 8     
-33    @toastergod101                7     
-34    @filmfotofella                7     
-35    GreatGizmo74                  6     
-36    nick                          6     
-37    Greg                          6     
-38    @gregrouxphotography          5     
-39    Tobias                        5     
-40    @janjuudas                    5     
-41    Henry Gunn                    4     
-42    TheSelousScout                4     
-43    @sachynmital                  3     
-44    Tallbird Cowboy               3     
-45    @seklerek                     2     
-46    @ftfilmphotos                 2     
-47    @tylerdrey                    2     
-48    Warren Umbach                 2     
-49    @flyingcamerastudio           2     
-50    @pommegranny                  2     
-51    Yrikonchik                    1     
-52    @ad.astra.per.aspera.1894     1     
-53    Aoi Yuki                      1     
-54    lemoniter                     1     
-55    @shotbyliampewpew             1     
-56    Joo                           1     
-57    @titanic_159                  1     
-58    Constantino                   1     
 ```
 
 ## Questions or Comments?

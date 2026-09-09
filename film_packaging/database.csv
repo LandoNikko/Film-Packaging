@@ -1083,3 +1083,233 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 581,1,film_box_leaflet,Foton,Super Orto,35mm,Unknown,BW,198101,1779795561,03e3a143b508f106ec23d32228c6b7ad,dac6a8226d604131a12b525d0c7f29a2,00581_001.jpg,Luci 101,,Bulk Roll,30.5m
 581,2,film_box_leaflet,Foton,Super Orto,35mm,Unknown,BW,198101,1779795570,9c2230d73ea382124b10878b56a040ec,cb5f9744b147427a8def924a9f529543,00581_002.jpg,Luci 101,,Bulk Roll,30.5m
 582,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,35mm,400,C-41,201209,1780929169,57a789a2ceae507584f37ae98435ec30,27bbbeae605a4e1997859f2d3e6029e0,00582_000.jpg,@recycling.film,,Single Pack,36exp
+583,0,film_box_outside,Kodak,Ektachrome E200,35mm,200,E-6,200310,1781102261,8cf4a11749f68f8c63d54f85ecc751db,c8b4e91fe2e34428a095ae48184f9879,00583_000.jpg,nyctomanica,,Bulk Roll,30.5m
+584,0,film_box_outside,Kodak,Ektachrome 160T,35mm,160,E-6,200302,1781102300,f5adc55a611974be57ee5acaa0200ae7,308fb333b27a4dab9072d131425ef21a,00584_000.jpg,nyctomanica,,Bulk Roll,30.5m
+585,0,film_box_outside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609508,f5fa9a52ec94d1a3c5888308f1bfac82,b0f0117fd8d74332b67a2e8be3db3937,00585_000.jpg,@Hol.m35,,Single Pack,36exp
+585,1,film_box_inside,Camera Film Photo Limited,Kiki Pan 320,35mm,320,BW,202812,1781609515,0c1f46dfd430ee4a0e19027f227b889d,8dbce7087a9940b49d6c56476194f04b,00585_001.jpg,@Hol.m35,,Single Pack,36exp
+586,0,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609568,c2bfc62275efa1138299621d50b56562,624c7d05c28a4bfb834ba537631e1f1d,00586_000.jpg,@Hol.m35,,Single Pack,36exp
+586,1,film_box_outside,Fujifilm,400,35mm,400,C-41,202609,1781609571,f99a2bcb1bebee64f259fc042e3d8d36,1e7dab1f092343d4ba0295f2068dd5fd,00586_001.jpg,@Hol.m35,,Single Pack,36exp
+587,0,film_box_outside,Kodak,Kodachrome 64,220,64,K-14,201011,1781609852,3fb41701f9270eac4d2d0ffc0a9f8306,36d1da1ac9804ac39bd98ab19d4db007,00587_000.jpg,nyctomanica,,Single Pack,36exp
+587,1,film_box_processing_envelope,Kodak,Kodachrome 64,220,64,K-14,201011,1783941686,0ad3e119b9747a48eef27750191a742e,95f0416b8f6d40cfb3a8e15892c5f2ae,00587_001.jpg,nyctomanica,,Single Pack,36exp
+588,0,film_box_outside,Agfa,Agfacolor CNS,620,80,CNS,198101,1781610009,a5cdab1883327384e606bcc0ae0d5a45,c5ed76a41fde41e1b07d83ed38800d8a,00588_000.jpg,nyctomanica,,Single Pack,N/A
+589,0,film_box_outside,Kodak,Ektagraphic HC Slide Film,35mm,25,BW,198903,1781610117,77fdbdfd746a970f11ad49677ee54fa6,f2a364463c5d40ad9e438566b786d2a2,00589_000.jpg,nyctomanica,,Single Pack,36exp
+590,0,film_box_outside,Kodak,Ektachrome 320T,35mm,320,E-6,200702,1781610151,d955a6fa1180b192a7d132e4ff59a191,39eee484e9cf4b8aaade4a1092010e11,00590_000.jpg,nyctomanica,,Single Pack,36exp
+591,0,film_box_outside,Polaroid,TZ Artistic Fade to Black,Instant Integral Film,125,Instant,200910,1781610333,c1b4ed63707ea16e0bac39bf7d4d4d1c,1db6d025cc904e11858f76ce0053de21,00591_000.jpg,nyctomanica,,Single Pack,8exp
+591,1,film_box_inside,Polaroid,TZ Artistic Fade to Black,Instant Integral Film,125,Instant,200910,1781610338,13586e309b046eb80a3c16eb6850b683,307ef2f11d7f4a3cb540da795f1b3d5a,00591_001.jpg,nyctomanica,,Single Pack,8exp
+592,0,film_box_outside,Impossible Project,PX 680 Color Shade / First Flush,Instant Integral Film,600,Instant,201107,1781610445,f3a2d7e90ad919ded4ce0888253cf9d7,21d81b0f422340189e48c53b02b8580b,00592_000.jpg,nyctomanica,,Single Pack,8exp
+593,0,film_box_outside,Polaroid,100 Blue Film,Instant Pack Film,80,Instant,200904,1781610553,22d24ac51670be2de5f7e7e0e98e7e54,5efc4291de384f9fa47153d007d293b8,00593_000.jpg,nyctomanica,,Single Pack,10exp
+594,0,film_box_outside,Kodak,Kodacolor Gold,Disc Film,400,C-41,Unknown,1781610711,e567077be59aa73de437f372303f38a5,7f9897837fc645f5bbe5c6c18bb84ccd,00594_000.jpg,nyctomanica,,Single Pack,15exp
+595,0,film_box_outside,Kodak,Hawkeye 2485 Surveillance Film,35mm,250,BW,200511,1781610943,cedf19a36e11a354055108cb08347e51,ffa83233d791403f98c607bb78ad0037,00595_000.jpg,nyctomanica,"ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads ""KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005""",Single Pack,17m
+595,1,film_box_outside,Kodak,Hawkeye 2485 Surveillance Film,35mm,250,BW,200511,1781610946,ca1b08f179e5ee9c33f6008a7ff29a2d,58ff417d1c8a48af9746c73bf4037948,00595_001.jpg,nyctomanica,"ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads ""KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005""",Single Pack,17m
+596,0,film_box_outside,Kodak,Kodalith ortho film type 3,35mm,Unknown,BW,199305,1781611075,5607e66df5024bff44b9c2063bc293c2,da9c265a3e194bd1ad83549961c6e5fd,00596_000.jpg,nyctomanica,,Single Pack,30m
+597,0,film_box_outside,Impossible Project,PX 70 Color Shade / First Flush,Instant Integral Film,125,Instant,201007,1781611199,867c478dfd082c198797bf7e6f493010,690311c1402d40eca1ced80f9af11ad9,00597_000.jpg,nyctomanica,,Single Pack,8exp
+597,1,film_box_inside,Impossible Project,PX 70 Color Shade / First Flush,Instant Integral Film,125,Instant,201007,1781611206,848b47d32499dbf1fa7c6af98520a0c1,d0c2a5e34bb54cedad81a49f4c338f7a,00597_001.jpg,nyctomanica,,Single Pack,8exp
+598,0,film_box_outside,Impossible Project,PX 600 Silver Shade / First Flush,Instant Integral Film,600,Instant,201004,1781611481,a5ce6126da3322d8a9f8059ab9e8bf91,d77ac027dc34418082f8f65887ca8636,00598_000.jpg,nyctomanica,,Single Pack,8exp
+598,1,film_box_outside,Impossible Project,PX 600 Silver Shade / First Flush,Instant Integral Film,600,Instant,201004,1781611483,e50742c6db3ffc4e90946b61942309c8,a1e2cdb1abb74300a8387b69c97a4f4b,00598_001.jpg,nyctomanica,,Single Pack,8exp
+598,2,film_box_inside,Impossible Project,PX 600 Silver Shade / First Flush,Instant Integral Film,600,Instant,201004,1781611487,b6bd7955e942f8fb155ae4fd62b5e5e2,f95f44f60de24d11b8140ecd0493b540,00598_002.jpg,nyctomanica,,Single Pack,8exp
+599,0,film_box_outside,Polaroid,100 Sepia Film,Instant Pack Film,1500,Instant,200910,1781611819,4426b084dd906fbb8dd45ef4ab65834b,3dc991e05c9b43cdbb85b18aabc29893,00599_000.jpg,nyctomanica,,Single Pack,10exp
+600,0,film_box_outside,Kodak,Ektachrome Professional Film 5018,35mm,50,E-6,198501,1781612385,b63a3e7e715d620d6f1c871b1fea659d,83f596535e834c1a941be969aab46ace,00600_000.jpg,nyctomanica,,Single Pack,30m
+601,0,film_box_outside,Polaroid,672,Instant Pack Film,400,Instant,200401,1781612603,d463d8c4403e27c28ea9cc21fdaa28bc,a2615a83b6774edda1567fe0e8deb335,00601_000.jpg,nyctomanica,,Single Pack,20exp
+602,0,film_box_outside,Fujifilm,FP-100B,Instant Pack Film,100,Instant,201005,1781612689,47ad780686f6defee0509bf5e9d527bc,ea6ab39216914f77b0ca7ed0f243f3dd,00602_000.jpg,nyctomanica,,Single Pack,10exp
+603,0,film_box_outside,Polaroid,High Contrast PolaChrome,35mm,40,Instant,199512,1781612753,6d1799bed132f4d40a05ab04adf1a201,65ce4d13cc6142b69fc5d1bea401c984,00603_000.jpg,nyctomanica,,Single Pack,12exp
+604,0,film_box_outside,Kodak,Vericolor 400,35mm,400,C-41,199408,1781784021,ddf16b3cbf036486076b1f4256ed2cc8,77390b1f4e8f4519817b767e55c1d8e3,00604_000.jpg,nyctomanica,,Bulk Roll,30.5m
+605,0,film_box_outside,Polaroid,1200,Instant Integral Film,640,Instant,200701,1781784091,f7f5553ab27d5f026edca52e7f2b0276,19b92b8aeb2b4e82b1ca2efa19eda657,00605_000.jpg,nyctomanica,Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10),Single Pack,12exp
+606,0,film_box_outside,Kodak,Ektachrome 64T,35mm,64,E-6,200403,1781784133,4993095ce225d7d32ee88b23dd4aaa27,ae1e47c3a7ce4d399556eba279964b11,00606_000.jpg,nyctomanica,,Bulk Roll,30.5m
+606,1,film_box_outside,Kodak,Ektachrome 64T,35mm,64,E-6,200403,1781784137,2b24225f1ab12889aa92871720ac3908,51e54b2648a04424b6cd438fa9c24ce6,00606_001.jpg,nyctomanica,,Bulk Roll,30.5m
+607,0,film_box_outside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784217,ae2201de6b3321b22fb080cd9e2af62b,20659b99ecfa48af97cdfca3d1dc2c27,00607_000.jpg,nyctomanica,,Single Pack,20exp
+607,1,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200903,1781784219,707362cf3bc3bdc1810a0946d849e3d2,8a98a85e7a474b69bdcb6ab34cf07935,00607_001.jpg,nyctomanica,,Single Pack,20exp
+608,0,film_box_outside,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1781784280,8559c912932c11ad9006935ed3d876b2,1a7ddb61af5a486d85577e89cf317dd1,00608_000.jpg,nyctomanica,,Single Pack,22exp
+608,1,film_box_leaflet,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1785851588,cd88d580931533b201c64fc0c7206625,1c1866395d4f4e15b072c977ca0bcb64,00608_001.jpg,nyctomanica,,Single Pack,22exp
+608,2,film_box_leaflet,Polaroid,125i Gloss,Instant Pack Film,125,Instant,200802,1785851597,08e6955e61ca29a5a2d9952f7a8796f3,a8d722a9a637412caf68e01c018e7320,00608_002.jpg,nyctomanica,,Single Pack,22exp
+609,0,film_box_outside,Polaroid,664,Instant Pack Film,100,Instant,200910,1781784410,1448fbf5b7cb60e3615222d267a2241d,cb070eea20764039a6b29ad007c54c40,00609_000.jpg,nyctomanica,Also called Polapan Pro 100?,Single Pack,20exp
+610,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201401,1781784476,ac2f87256e60a1eeccb3ca9539948bcf,9ee1d3c8eb704994866eb1c5c22855a1,00610_000.jpg,nyctomanica,,Single Pack,8exp
+611,0,film_box_outside,Impossible Project,Color 600,Instant Integral Film,640,Instant,201601,1781784519,10f17f6301292a148a5975cfad21684b,dfb73aa922ec405b8fd100ed1785b84c,00611_000.jpg,nyctomanica,,Single Pack,8exp
+612,0,film_box_outside,Polaroid,664,Instant Pack Film,100,Instant,200910,1781784567,544959a9be000f7d9dd4043b2571d97d,c2158d300cde448bb229862cfa014f1a,00612_000.jpg,nyctomanica,,Single Pack,20exp
+613,0,film_box_outside,Impossible Project,Polaroid Type 100 Chocolate Paul Giambarba Edition,Instant Pack Film,80,Instant,201012,1781784887,bf44a42e7f6222a96c42dff4d5219844,9b939ce0c8d7401c936cfcbc85c76028,00613_000.jpg,nyctomanica,,Single Pack,Unknown
+614,0,film_box_outside,Polaroid,100 Chocolate Film,Instant Pack Film,80,Instant,200910,1781784961,f6ab1e6cdb2daa67acb347b7aa7cfee8,d8e74033014e4db9af13c8b1aac4a70f,00614_000.jpg,nyctomanica,,Single Pack,10exp
+615,0,film_box_outside,Polaroid,690,Instant Pack Film,100,Instant,200910,1781785005,ba06be07d2799d099d9abd96fca5cf17,4624d642b93d4c75a7a2d53a4a33bd98,00615_000.jpg,nyctomanica,,Single Pack,10exp
+616,0,film_box_outside,Lomography,Color Slide / X-Pro 200,35mm,200,E-6,201806,1781785527,f1dd8a1063c60c5a822eebb1c270eb25,fa1a525240b548f599483ad50ba122bc,00616_000.jpg,nyctomanica,"aka Rollei Crossbird, AGFA Aviphot Chrome 200?",Multi-Pack-3,36exp
+617,0,film_box_outside,Fujifilm,FP-3000B,Instant Pack Film,3200,Instant,201506,1781785693,76a6fea30d61894b469854bd7d7c6858,8382f7e52acc4167bd2aaae4ec319d7e,00617_000.jpg,nyctomanica,,Single Pack,10exp
+617,1,film_box_inside,Fujifilm,FP-3000B,Instant Pack Film,3200,Instant,201506,1781785694,0740429a0435731679cee971e55b0c73,487b8dd980bd49e9b21c32a2a72657d1,00617_001.jpg,nyctomanica,,Single Pack,10exp
+618,0,film_box_outside,Fujifilm,FP-100C Silk,Instant Pack Film,100,Instant,201501,1781785753,ece3d56c6628e81a34ad21bf6a4189d6,38650eb6e4cc42f8bd6b7875dcc5b7aa,00618_000.jpg,nyctomanica,,Single Pack,10exp
+619,0,film_box_outside,One Instant,Type 100 Peel-Apart Colorfilm,Instant Pack Film,100,Instant,201909,1781786285,79735fa5b4267674c2019283f60b3c8c,20749de9fbb140d88baffc08facbff2c,00619_000.jpg,nyctomanica,,Multi-Pack-3,1exp
+620,0,film_box_outside,Fujifilm,Instax Wide Monochrome,Instant Integral Film,800,Instant,202009,1781786324,154abd793f8a852b2036db557d61e176,48b08b5b3a8a4edc98fd29e6fd1c58d8,00620_000.jpg,nyctomanica,,Single Pack,10exp
+621,0,film_box_outside,Polaroid,Land Pack Film Type 107,Instant Pack Film,3000,Instant,197306,1781786404,7b16cddf1f61afd07ff685026be40af1,e8d583d1b8a346cb95ae1cd69bb71b9a,00621_000.jpg,nyctomanica,,Single Pack,8exp
+622,0,film_box_outside,Fujifilm,Instax Wide,Instant Integral Film,800,Instant,202105,1781786464,2d27c401ff6045c90903716025cc95df,6fd9245fee514c42b71121e489f051ce,00622_000.jpg,nyctomanica,,Multi-Pack-2,10exp
+623,0,film_box_outside,Polaroid Originals,Color Spectra Film,Instant Integral Film,640,Instant,201905,1781786604,09ab6e12f23063981d009b1148328566,1761ed58b3bc423cb93dcf6fa3e77d0a,00623_000.jpg,nyctomanica,,Single Pack,8exp
+623,1,film_box_outside,Polaroid Originals,Color Spectra Film,Instant Integral Film,640,Instant,201905,1781786607,cdca8bcb25aaaa668daa615f87bedcd3,538e8ad4aa6648ffbcf9f98f7848f3e1,00623_001.jpg,nyctomanica,,Single Pack,8exp
+623,2,film_box_inside,Polaroid Originals,Color Spectra Film,Instant Integral Film,640,Instant,201905,1781786610,20d5a9d3048b9b311c455b94fe6326f1,b8809a0a73bc4c719d575231bdca4fc5,00623_002.jpg,nyctomanica,,Single Pack,8exp
+624,0,film_box_outside,Polaroid Originals,B&W Spectra Film,Instant Integral Film,640,Instant,201906,1781786784,600bf95f28ac7b0311e1f7109d0dbdba,109eaba178c64f64a473ccce42f77f24,00624_000.jpg,nyctomanica,,Single Pack,8exp
+624,1,film_box_outside,Polaroid Originals,B&W Spectra Film,Instant Integral Film,640,Instant,201906,1781786785,9d86a462be6efde24f32e186ffce8a30,bab1df5b180e4f69aa79689d243ae87b,00624_001.jpg,nyctomanica,,Single Pack,8exp
+625,0,film_box_outside,Polaroid,Purple 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202703,1781860726,bc09f2364a4deac25a28ad006d5941f3,caa728e6906b495b93d68895585eaad6,00625_000.jpg,nyctomanica,,Single Pack,8exp
+625,1,film_box_inside,Polaroid,Purple 600 Film Reclaimed Series,Instant Integral Film,640,Instant,202703,1781860728,c0a04bb8debe6ae0156843f9c5495890,fbc0c57441fc4f109bdeb5a574a71fac,00625_001.jpg,nyctomanica,,Single Pack,8exp
+626,0,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861117,dcf202f70295b867d1eed0dbc4ee24fe,6a8186f72d304b3c84ff8ffa7935fd4c,00626_000.jpg,Luci 101,,Bulk Roll,25ft
+626,1,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861119,a2ddcd8042d701c53bb13b4332c26994,5956110884104f6a823597bd4cda1155,00626_001.jpg,Luci 101,,Bulk Roll,25ft
+626,2,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861121,efa7ff391cb19fc5b2fc02b7d5770a21,ea9a2f40873143a88560e070a11a1ea8,00626_002.jpg,Luci 101,,Bulk Roll,25ft
+626,3,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861122,962f5014deb433f51ea28a7ce2d7a9ba,569a709dfd81453eb07497318bfa3fe1,00626_003.jpg,Luci 101,,Bulk Roll,25ft
+626,4,film_box_outside,Gevaert,Panchro Super,8mm,32,BW,194805,1781861124,b3d41f54159552954f695b0e1a4c017d,aa90f548900f488c9a94a92ea2fad652,00626_004.jpg,Luci 101,,Bulk Roll,25ft
+626,5,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861127,b954a82ef567aee8e943ed3a1689140a,01f9be26056b478ebd7e272472d6b099,00626_005.jpg,Luci 101,,Bulk Roll,25ft
+626,6,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861131,86f567ebddb3b796a4bfb11d193613e7,be23e2485409449bb52a1a26b40ed836,00626_006.jpg,Luci 101,,Bulk Roll,25ft
+626,7,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861134,79ad59b752b997078b14a9df23c5ace5,6d493e3285ed4d46a52c37302b1994a5,00626_007.jpg,Luci 101,,Bulk Roll,25ft
+626,8,film_box_leaflet,Gevaert,Panchro Super,8mm,32,BW,194805,1781861136,59cc9c6a36834553c7a0ab5a1b2fb764,0a568b688bc24662b34171fa2c3b9c66,00626_008.jpg,Luci 101,,Bulk Roll,25ft
+627,0,film_box_outside,Agfa,Vista Spider-Pack,35mm,100,C-41,200609,1782293657,bd4c4e82a12a45c899c511a02c56da5f,356cb49254644befb12eaa34c997c0cc,00627_000.jpg,Mauphoto,,Multi-Pack-3,36exp
+628,0,film_box_outside,Fujifilm,Superia 100,35mm,100,C-41,201112,1782293695,ea534f08736cd23cf3d0a0ead156637b,29973b9ee68243218c8d30c3403a0f0c,00628_000.jpg,Mauphoto,,Single Pack,36exp
+629,0,film_box_outside,Fujifilm,Velvia 50,35mm,50,E-6,201212,1782293729,86a9f62ee27fc7f47f0d4bcf5056de23,ee425a725d52448b95cb0664aabf9678,00629_000.jpg,Mauphoto,,Single Pack,36exp
+630,0,film_box_outside,Kodak,Kodacolor VR Plus 400,35mm,400,C-41,200904,1782293810,d9de22e25308260d57e4221228f23068,2234581367c84a208c391ba92b3f5e5d,00630_000.jpg,Mauphoto,,Single Pack,36exp
+631,0,film_box_outside,Kodak,Elite Chrome Extra Color,35mm,100,E-6,200912,1782293877,10a01c6ce217b39f87c80040be29c69e,b15598742abf4dada03cecd44e4071f9,00631_000.jpg,Mauphoto,,Single Pack,36exp
+632,0,film_box_outside,Schlecker Fotoland,AS Color 200,35mm,200,C-41,201210,1782293956,17e2332a4ead0876f1fad509ccf783d3,5a16cb60bf3d4de3bc16a789a1af2bf6,00632_000.jpg,Mauphoto,,Single Pack,12exp
+633,0,film_box_outside,Kodak,T-MAX 100,35mm,100,BW,200609,1782294073,98269d9d839bc06b75f20a7a3e618677,b58543ef54c0480288f0fb8b7ac62fbc,00633_000.jpg,Mauphoto,,Single Pack,24exp
+633,1,film_box_inside,Kodak,T-MAX 100,35mm,100,BW,200609,1782294082,a5ad939113db3dc802bcd6eb4e7686a6,09fadb744cc445a2a817f41c02d174e9,00633_001.jpg,Mauphoto,,Single Pack,24exp
+634,0,film_box_outside,Kodak,T-MAX 400,35mm,400,BW,200611,1782294117,5e6144b198226607625872ec75cfda09,9e8ce3c9962b416abe196c890efc0a2e,00634_000.jpg,Mauphoto,,Single Pack,24exp
+634,1,film_box_inside,Kodak,T-MAX 400,35mm,400,BW,200611,1782294121,400aebbd8f652a7667ce6620c77eb905,dc35920942a94cceb1f8586cc95ffe59,00634_001.jpg,Mauphoto,,Single Pack,24exp
+635,0,film_box_outside,Lucky,SHD 100,35mm,100,BW,200805,1782294284,b398b20a2b25646a888ee9f8bd12ae4f,8dfb0a6557b34a5fad8d96d4498e7feb,00635_000.jpg,Mauphoto,,Single Pack,36exp
+635,1,film_box_inside,Lucky,SHD 100,35mm,100,BW,200805,1782294285,15a8f31f43ea3f9de357b579b2d4d412,937506c89d544dd4a46be76ceb570dd5,00635_001.jpg,Mauphoto,,Single Pack,36exp
+636,0,film_box_outside,Lucky,SHD 100 New Generation,35mm,100,BW,200910,1782294375,0e9c30b005ef727123cb94687ad23f36,a3557cdb2ef942a9809d9c4360bf23f6,00636_000.jpg,Mauphoto,,Single Pack,36exp
+636,1,film_box_inside,Lucky,SHD 100 New Generation,35mm,100,BW,200910,1782294377,49bfad4d38767d99617a228ef61469bf,69f9ef82b5984b94b2385b0e5b9f7cf9,00636_001.jpg,Mauphoto,,Single Pack,36exp
+637,0,film_box_outside,Agfa,CT Precisa,35mm,100,E-6,200203,1782294517,e976a70059a4dbfa956f7537c307cb82,4816ed9ade314598a0c96412b06dca9c,00637_000.jpg,Mauphoto,,Single Pack,27exp
+637,1,film_box_inside,Agfa,CT Precisa,35mm,100,E-6,200203,1782294518,8c3f124a8f04f70d32e601235e4468a9,b3d44227f6b04bb3b248247daa95619c,00637_001.jpg,Mauphoto,,Single Pack,27exp
+638,0,film_box_outside,Foma,Fomapan Classic 100,35mm,100,BW,200803,1782294597,b9398ac914bc9696241f78519eb58c06,0eabec768b1245e1bae0afaa62f04eb6,00638_000.jpg,Mauphoto,,Single Pack,36exp
+638,1,film_box_inside,Foma,Fomapan Classic 100,35mm,100,BW,200803,1782294599,eb8986917092d35339eab83481cd776f,05cf2d1a425147a682821c81d4893541,00638_001.jpg,Mauphoto,,Single Pack,36exp
+639,0,film_box_outside,Ilford,Pan F 50,35mm,50,BW,200602,1782294828,cdbaf495947d5f0017db0d5910417fc4,a9fca2c069e94c0b8bafaf79a473c977,00639_000.jpg,Mauphoto,,Single Pack,36exp
+639,1,film_box_inside,Ilford,Pan F 50,35mm,50,BW,200602,1782294830,d8fd8f23c719df4ba77ca02a7e814252,909196252dc745b0987bafacb8d8e568,00639_001.jpg,Mauphoto,,Single Pack,36exp
+640,0,film_box_outside,Konica Minolta,Centuria 100,35mm,100,E-6,200802,1782294891,1111e2688a501f562b4e9dc3b071ae68,c93974535a3441acb0edbbd16b0f00ae,00640_000.jpg,Mauphoto,,Single Pack,36exp
+640,1,film_box_inside,Konica Minolta,Centuria 100,35mm,100,E-6,200802,1782294897,917e2cfcc190a80361b749b198c5cc16,cd9c544f57314e79b7c1cbc0cc74bedc,00640_001.jpg,Mauphoto,,Single Pack,36exp
+641,0,film_box_outside,Lucky,Super New 200,35mm,200,C-41,201301,1782295134,97b7236aaf08f2ead265c20495105986,2510bd0dd10940e0888b722ec00de0a7,00641_000.jpg,Mauphoto,,Single Pack,36exp
+641,1,film_box_inside,Lucky,Super New 200,35mm,200,C-41,201301,1782295135,93f9c1cb055951a87563c57868a5894b,7da671d2345d450b88824b0bbb584b81,00641_001.jpg,Mauphoto,,Single Pack,36exp
+642,0,film_box_outside,Perutz,CR 100,35mm,100,E-6,200603,1782295191,21954679c222f85caec9db057144b137,8952a19caaea4975a38cd877ca5ab5df,00642_000.jpg,Mauphoto,,Single Pack,36exp
+642,1,film_box_inside,Perutz,CR 100,35mm,100,E-6,200603,1782295197,dd72b155ef5037ae81b811072f6fcf3c,87e07caa491d425390bf58ed01117d2b,00642_001.jpg,Mauphoto,,Single Pack,36exp
+643,0,film_box_outside,Polaroid,High Definition,35mm,100,C-41,200603,1782295266,77e5ecb631c71dc67b22a119814ad2d8,f55d7221fceb4391b83cac2360c5ac7c,00643_000.jpg,Mauphoto,,Single Pack,24exp
+643,1,film_box_inside,Polaroid,High Definition,35mm,100,C-41,200603,1782295267,7ff4195097ea4e7bc4b32badc2cf1f49,666ac89d17504a12b4a11a3ebcc3b460,00643_001.jpg,Mauphoto,,Single Pack,24exp
+644,0,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295972,025e0311787845f6f27ac4629b53c5d3,cba0bd2a5ffd43c38164a5e9a2f719a0,00644_000.jpg,Luci 101,,Single Pack,7.5m
+644,1,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295974,561df3f7be275192abdca146b64f2572,deb198cc152945e6bbae1b7744b025e1,00644_001.jpg,Luci 101,,Single Pack,7.5m
+644,2,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295977,a978cbe6637f435fe30d94bf5323e13b,6b199b64e4254322be23a8f8fa6c0431,00644_002.jpg,Luci 101,,Single Pack,7.5m
+644,3,film_box_outside,ORWO,UK 17,8mm,40,Unknown,198905,1782295979,df5bc92f703b4083cfda6be8628359b5,d2e91c708e4b4238a14592852d6efddf,00644_003.jpg,Luci 101,,Single Pack,7.5m
+644,4,film_box_processing_envelope,ORWO,UK 17,8mm,40,Unknown,198905,1782295990,b3129e18d3778a9f00711e478d923187,f013eceab9d04aadaf18c831d872c365,00644_004.jpg,Luci 101,,Single Pack,7.5m
+644,5,film_box_processing_envelope,ORWO,UK 17,8mm,40,Unknown,198905,1782295996,b2c6a3ee5ec8c9b653231d3d283ccf6b,f6f02f751669490c950960c0320f9166,00644_005.jpg,Luci 101,,Single Pack,7.5m
+644,6,film_box_leaflet,ORWO,UK 17,8mm,40,Unknown,198905,1782296001,c22e76387eee07b25756f63ea2c925bf,5a476f294a8248f4b9b7b30c8eea9de9,00644_006.jpg,Luci 101,,Single Pack,7.5m
+644,7,film_box_leaflet,ORWO,UK 17,8mm,40,Unknown,198905,1782296011,a4c8d853a257ccb4e33480ba6a7c057e,48fccd412b844d60b070182826cdaeb8,00644_007.jpg,Luci 101,,Single Pack,7.5m
+645,0,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299914,c905cbeaff9afa9fe3766330733c7df9,b009e5b8edc4410da0efdcc563624d5a,00645_000.jpg,Luci 101,,Single Pack,10m
+645,1,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299921,bccb689b92de28997f84d027b967b228,83c559fc31a54302abdca7e453c2c199,00645_001.jpg,Luci 101,,Single Pack,10m
+645,2,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299923,4d90b45e8a92fb47ef5ffa900a58cb70,12b9144a733040cd98b4bc777edb8ada,00645_002.jpg,Luci 101,,Single Pack,10m
+645,3,film_box_outside,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299925,6b7100fe3dd4b7e36857d9bfaf2e8cc8,7159606d395544acaf3c2165bff483bb,00645_003.jpg,Luci 101,,Single Pack,10m
+645,4,film_box_leaflet,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299930,ec31e60038c4fe22b57f18e6afdc43c2,cd691432ee7647dc957113b53761fc22,00645_004.jpg,Luci 101,,Single Pack,10m
+645,5,film_box_leaflet,ORWO,UP 27 DS 8,8mm,400,Unknown,198311,1782299932,369eaa5f4e02ee8a8f866234f41a32c5,40a58b7e988545bf92632d63444d5882,00645_005.jpg,Luci 101,,Single Pack,10m
+646,0,film_box_outside,Fujifilm,Simple Ace,Disposable Camera,400,C-41,202703,1782300252,374d042c47c50b1bf6bce1f9ca87980b,f2fbd963d7e0416398b986f9fe3e17e6,00646_000.jpg,Dialupdude,,Single Pack,27exp
+646,1,film_box_outside,Fujifilm,Simple Ace,Disposable Camera,400,C-41,202703,1782300257,209107b2d7c3501cbd6c738f45de77f1,2cf26c089ea24fea95775f5be9229114,00646_001.jpg,Dialupdude,,Single Pack,27exp
+647,0,film_box_outside,Kodak,Tri-X,35mm,200,BW,195710,1782300399,e7f6b63dfa8126797aa152d50e0258c2,4064ecb41a56469a8c8aebb32e7dd9af,00647_000.jpg,Dialupdude,,Single Pack,36exp
+647,1,film_box_leaflet,Kodak,Tri-X,35mm,200,BW,195710,1782300401,cc8490aedce8e2a2211445be1befc4e7,bbfaaca0d3814a6eab600f2808631887,00647_001.jpg,Dialupdude,,Single Pack,36exp
+647,2,film_box_leaflet,Kodak,Tri-X,35mm,200,BW,195710,1782300404,883497e91e6e4f0314b6f6ea649a6c33,115a438eac9b45be97a18b95330a1376,00647_002.jpg,Dialupdude,,Single Pack,36exp
+648,0,film_box_outside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300509,60e484e3d3022a0c5a14abcb1de72c8e,711fdcd259474949990498f964f443c0,00648_000.jpg,Dialupdude,,Single Pack,25exp
+648,1,film_box_inside,Fujifilm,Nexia A200,APS,200,C-41,201112,1782300512,78a5ce25d3b5f650eb14cf43d33ee080,3325f0ecfe9547a784fe0995fa87786d,00648_001.jpg,Dialupdude,,Single Pack,25exp
+649,0,film_box_outside,Kodak,Gold 200,35mm,200,C-41,202607,1782300546,51baf1d45726d4313261d8792732b54d,31931d00c51447a8a625da94ce34795c,00649_000.jpg,Dialupdude,,Single Pack,24exp
+650,0,film_box_outside,Kodak,Kodachrome 40,Super 8,40,K-14,Unknown,1782300612,5132af26f17ff379e30f0ed50f8bc383,1d9c43a04f37409ab0699ff47af92a3e,00650_000.jpg,Dialupdude,,Single Pack,Unknown
+651,0,film_box_outside,Fujifilm,400 Speed Film,35mm,400,C-41,202708,1782390295,26cc249739a7f1a41d91bda309fe7c7c,fbe4ce2683e744b1b2ffae6b1c767f19,00651_000.jpg,Dialupdude,,Single Pack,36exp
+652,0,film_box_outside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391521,ff2200708c9da4234687737230c95ddf,39efe40e04c44643850d8442b4c490b4,00652_000.jpg,Dialupdude,,Single Pack,24exp
+652,1,film_box_inside,Konica,VX 100 Super,35mm,100,C-41,200511,1782391523,fd1ff5e1b648b33326626014d48ea0d7,4c99e38ae90f43e8baa4e0cd9b0a313b,00652_001.jpg,Dialupdude,,Single Pack,24exp
+653,0,film_box_outside,Mira Films,800 Color Film,35mm,800,C-41,202712,1782391571,b0823845cab91bf9e329c7caf10b3127,89552dfaf57742d8b1aed15a511832e1,00653_000.jpg,Dialupdude,,Single Pack,36exp
+654,0,film_box_outside,Lomography,Color Negative 120 Film 100,120,100,C-41,202506,1782391826,214b169d41d156401f0b27ba1c7dacac,13977400bfd24db0bde214b6c6a342fc,00654_000.jpg,@Hol.m35,,Multi-Pack-3,N/A
+654,1,film_box_outside,Lomography,Color Negative 120 Film 100,120,100,C-41,202506,1782391828,3fa437f00194386f1e402354ae6d27e3,6c0182aec6d945dd83da3c1714d68856,00654_001.jpg,@Hol.m35,,Multi-Pack-3,N/A
+655,0,film_box_outside,Kodak,Gold III,35mm,100,C-41,199810,1782392104,2c77147dbb630996ef9fccccdb5d6203,f7c1098f0fe74126bf9cef9c261bcd39,00655_000.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,1,film_box_inside,Kodak,Gold III,35mm,100,C-41,199810,1782392109,9d963a2823ee64eb038f5b7758a32a71,b13207a08b84442e941d7f514281bf7b,00655_001.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,2,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392112,f4151629cc653cbe8ea8db3424577eab,249b3fd912e34d758f9548dc619e297f,00655_002.jpg,Dialupdude,,Multi-Pack-3,30exp
+655,3,film_box_leaflet,Kodak,Gold III,35mm,100,C-41,199810,1782392115,4a3bcc23167ed4e1472d24b0d2d15326,e0fc0873b5984d59871410b4488f10b8,00655_003.jpg,Dialupdude,,Multi-Pack-3,30exp
+656,0,film_box_outside,Fujifilm,Fujicolor QuickSnap Jeans,Disposable Camera,400,C-41,200808,1782474702,e2a4353cb63be1e03226d2cef8284c35,a2fd70d8c82d42aa8db0f45ced94081a,00656_000.jpg,Pelicram,,Single Pack,27exp
+657,0,film_box_outside,Cinemot,Lisboa 1999,35mm,400,C-41,202707,1782474782,fba9dda595ce31a22072f0d373adfa82,aff79fa9e25b4654826ed6443d266a4f,00657_000.jpg,Pelicram,,Single Pack,36exp
+658,0,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939780,c2751ca515c9d0f21976e9cbf9d378a4,26d4fcf00a04483f8dc3d0875d3ba2dd,00658_000.jpg,Luci 101,,Single Pack,30.5m
+658,1,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939782,08d1c077ff231ed0d5a32fa0ab4b8c74,1c986802fc464163804128400195738e,00658_001.jpg,Luci 101,,Single Pack,30.5m
+658,2,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939789,755654af5c39e74e27a5ad1239844968,33ab1f5ae3984ff3b0a1593e23f4ac06,00658_002.jpg,Luci 101,,Single Pack,30.5m
+658,3,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939791,b199f8c65b2ce5706a76a95ab11157dc,4cfed229ab4b4d82b3a97fadcaed5a9f,00658_003.jpg,Luci 101,,Single Pack,30.5m
+658,4,film_box_outside,ORWO,DK5,16mm,Unknown,BW,198405,1783939793,3f67cfcf7f401150eb72f7392ef9e0c0,2015c96803d743838ac7ad1354443309,00658_004.jpg,Luci 101,,Single Pack,30.5m
+658,5,film_box_processing_envelope,ORWO,DK5,16mm,Unknown,BW,198405,1783939795,4c21d00893701e753838f4457a8d62f5,9790f346b50243b6b83c3e7f2773b441,00658_005.jpg,Luci 101,,Single Pack,30.5m
+659,0,film_box_outside,Fujifilm,Provia 100F,120,100,E-6,202102,1783939949,ef245ceabec92b6e466f0aa569e9a63b,9735f17239144e8a9ed11a5a0bac5c1e,00659_000.jpg,nyctomanica,,Multi-Pack-5,N/A
+660,0,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200810,1783940754,3cafe31f904ae4d2addd506f8a850e3c,e879c9f5665f4692a40ab8d839412e70,00660_000.jpg,nyctomanica,,Single Pack,10exp
+660,1,film_box_inside,Polaroid,669,Instant Pack Film,80,Instant,200810,1783940757,f6716d00b64c91fb939c88f0f58747d8,2e5f63ccf4454fad8c3deadb0c7ff0a6,00660_001.jpg,nyctomanica,,Single Pack,10exp
+661,0,film_box_outside,Optik Oldschool,OptiColour 200,120,200,C-41,202805,1783942037,00d011767f66ffb04d68e1a062db32e8,03e5b3b597e74b01b87a2d0f16623617,00661_000.jpg,Chrisbes,,Single Pack,N/A
+662,0,film_box_outside,Kodak,Portra 400,120,400,C-41,202107,1783942093,cfd7f5d79d3b23f39a3d16650d358b6e,bd9d52c15a7b4d49b87ce856282cf4af,00662_000.jpg,Chrisbes,,Multi-Pack-5,N/A
+663,0,film_box_outside,Fujifilm,Fujicolor Pro 400H,120,400,C-41,201502,1783942149,32cd743112206861db94538e5b4bbfd0,5c7c873716ad4ae3abe59d1532e34be2,00663_000.jpg,Chrisbes,,Multi-Pack-5,N/A
+664,0,film_box_outside,Kodak,Gold Plus,35mm,100,C-41,199410,1784198326,685501c30d34bf0ee7f40b36e3859531,3bba5e916d5d4460a7c644296d22114f,00664_000.jpg,@gregrouxphotography,,Single Pack,36exp
+664,1,film_box_inside,Kodak,Gold Plus,35mm,100,C-41,199410,1784198741,3bbfa56581d461c92648c991d7ad01e9,40b52c82185045d3ab35b798f0e7d875,00664_001.jpg,@gregrouxphotography,,Single Pack,36exp
+665,0,film_box_outside,Fujifilm,200,35mm,200,C-41,202610,1784198798,5bce97a246893e982d3079c8b2c00203,86c7f4981b304bd18ebeeb7c43836286,00665_000.jpg,@gregrouxphotography,,Multi-Pack-3,36exp
+666,0,film_box_outside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199111,3d4499961e85cd99b47116e033e6b168,5f88d84525c440fc8879978b1b2864c5,00666_000.jpg,Chrisbes,,Single Pack,N/A
+666,1,film_box_inside,Konica,Konica Color SR-G 160,120,160,C-41,199905,1784199114,a4ce1bc93ba47032e84ea1639971988a,d8b9395871644903b4e7251339cca0c8,00666_001.jpg,Chrisbes,,Single Pack,N/A
+667,0,film_box_outside,Kodak,Ektacolor Pro 400,35mm,400,C-41,202807,1784637844,d84e832c058c5304b1c3e519058d1900,1b8269534ca14fac97e07722d3c8aa72,00667_000.jpg,waldoboro,,Single Pack,36exp
+668,0,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637969,7195ce2fe9cdc9b691133ff37e816890,2711bf31703f431eb53fe9b536ea31aa,00668_000.jpg,Dialupdude,,Single Pack,27exp
+668,1,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637972,57f1892db4af7167db39945b896523df,8944f67aa29643259d4be53ad960d2d7,00668_001.jpg,Dialupdude,,Single Pack,27exp
+668,2,film_box_outside,1Shot,Fun Shooter Flash,Disposable Camera,400,C-41,202508,1784637975,67eb912f1e2a4c875e139ce8f3d9509d,d79a0d36a13c4a01aa9d42a99784d9a1,00668_002.jpg,Dialupdude,,Single Pack,27exp
+669,0,film_box_outside,Ogapan,Panchromatic,120,40,BW,197510,1785846330,eb696582ed5f8d09478f54a8dbee4f4f,e1bcabfe74584823ac1e3c593244a972,00669_000.jpg,Joo,,Single Pack,N/A
+670,0,film_box_outside,Lomography,Lomochrome Metropolis,110,400,C-41,202806,1785847280,50387c8b4477c8c18d7f7e5b17e559de,862c394687c644068ae4721a7c93ec77,00670_000.jpg,Chrisbes,,Single Pack,24exp
+671,0,film_box_outside,Reflx Lab,200T,120,200,ECN-2,Unknown,1785847332,be217cb1c3691717a18786ea1d008f2c,a7c0fcc9a1eb4a2a970df6cb14e2d847,00671_000.jpg,Chrisbes,,Single Pack,N/A
+672,0,film_box_outside,Reflx Lab,Fortuna,110,200,C-41,202812,1785847397,c653b54df4f9974974a834c8cf1c01f0,bdd39fdcda30420cb3b0cfb12bbf56a5,00672_000.jpg,Chrisbes,,Single Pack,24exp
+673,0,film_box_outside,ORWO,OWRO Color PC7,35mm,Unknown,Unknown,Unknown,1785847570,a23618921d80c2b2a1177ae6d5444b69,0bd454e6225a4c5799d36e51135208f0,00673_000.jpg,Luci 101,,Bulk Roll,905ft
+673,1,film_box_outside,ORWO,OWRO Color PC7,35mm,Unknown,Unknown,Unknown,1785847572,6e7fdb96702bf94d0bceca876b8d33d9,6ec554be94e845f2b64e3fdc27833293,00673_001.jpg,Luci 101,,Bulk Roll,905ft
+674,0,film_box_outside,Kodak,No3 Special Kodak Autographic Film,118,Unknown,BW,191601,1785847882,1efaefc5169523d6b3966881a63091da,96dd905b730e446fbe34b5daef15ac3c,00674_000.jpg,Rafa Laguillo,,Single Pack,4exp
+674,1,film_box_leaflet,Kodak,No3 Special Kodak Autographic Film,118,Unknown,BW,191608,1785847896,2977170895995325f88f5b30797e746d,dfd07954551f4d55bc38b73c137755bf,00674_001.jpg,Rafa Laguillo,,Single Pack,4exp
+675,0,film_box_outside,Kodak,RAR Film 2479,70mm,400,BW,198705,1785850576,4a2a3bf6a9fef41c184096024e1355e4,e09ac20993b946ad8fc2c588f84263e7,00675_000.jpg,MCB18,,Bulk Roll,30.5m
+675,1,film_box_leaflet,Kodak,RAR Film 2479,70mm,400,BW,198705,1785850579,d3bea8f54f9f6e1f2c67ee6cff79029e,b1d13110d50c40d1ab22d5850144e5e2,00675_001.jpg,MCB18,,Bulk Roll,30.5m
+675,2,film_box_leaflet,Kodak,RAR Film 2479,70mm,400,BW,198705,1785850582,97406351a43b44c11bbc57adf1265436,eb607dad18f842249d1c5fe6da85b5a8,00675_002.jpg,MCB18,,Bulk Roll,30.5m
+676,0,film_box_outside,Kodak,Infrared Aerographic Film 2424,70mm,400,BW,200608,1785850689,93deb1f3a4306d211bff30fec2ed3d87,9a2383f804754840938f77217718840c,00676_000.jpg,MCB18,,Bulk Roll,150ft
+677,0,film_box_outside,Kodak,Plus-X Pan,70mm,125,BW,197206,1785850774,cdd083cc63d28bab7147b2cdc51a3d26,dd83cce80c7f4a3888777d7446d59a4c,00677_000.jpg,MCB18,,Bulk Roll,100ft
+678,0,film_box_outside,Kodak,Technical Pan Film 2415,70mm,25,BW,198504,1785850813,2b561b710c58614014f2093f531eccbc,ea5df46bb39745879d81fd9c6eeb20de,00678_000.jpg,MCB18,,Bulk Roll,150ft
+679,0,film_box_outside,Kodak,RS Pan,70mm,650,BW,196406,1785850995,090e86d10bb12ff3a0d9bbf19d4a27b7,d1ac939ca9074be8a403c2a5cc1570d7,00679_000.jpg,MCB18,,Bulk Roll,60ft
+680,0,film_box_outside,Kodak,Portra 160 NC,70mm,160,C-41,200901,1785851067,148b317709cbdab56a5014cda056ba92,6052675492004641b862ed8f7c99d52e,00680_000.jpg,MCB18,,Bulk Roll,100ft
+681,0,film_box_outside,Kodak,Imagelink HQ Microfilm,35mm,Unknown,BW,200605,1785851154,f79cfe647caef2737f2b1cdd7a2b92e8,81711b26bd3a44d7a5d7eb98207f5a0f,00681_000.jpg,MCB18,,Bulk Roll,100ft
+682,0,film_box_outside,Polaroid Originals,Color SX-70 Film,Instant Integral Film,160,Instant,201910,1785851314,b424061f3a6eeb24aa2114ef9b79fd54,9fd8da93b07c484baea216014e0e7238,00682_000.jpg,nyctomanica,,Single Pack,8exp
+682,1,film_box_inside,Polaroid Originals,Color SX-70 Film,Instant Integral Film,160,Instant,201910,1785851316,0cbe6c600edf15522e8c9a20c393b2ea,513a6fd17a134eeaa5399093d0f6f641,00682_001.jpg,nyctomanica,,Single Pack,8exp
+683,0,film_box_outside,Polaroid Originals,Color 600 Film,Instant Integral Film,640,Instant,201910,1785851447,06813c60eff1692ac0e710c32dac0786,9edcedcc654b4e04bb4f2b65079597cb,00683_000.jpg,nyctomanica,,Single Pack,8exp
+683,1,film_box_inside,Polaroid Originals,Color 600 Film,Instant Integral Film,640,Instant,201910,1785851449,b61d2846ec4f144764e6dead915c4f97,42a65f5e6e67475e85a143297ab4302f,00683_001.jpg,nyctomanica,,Single Pack,8exp
+684,0,film_box_outside,Polaroid Originals,Color i-Type Film,Instant Integral Film,640,Instant,201910,1785851522,0c4430192507481c6c082c07e8f427d0,e7e2198738634eaa91f172f160e679a3,00684_000.jpg,nyctomanica,,Single Pack,8exp
+684,1,film_box_inside,Polaroid Originals,Color i-Type Film,Instant Integral Film,640,Instant,201910,1785851524,010a93215f602bce3047e505b9b5e785,2e98ef6cbf384bf88e7522000db35e07,00684_001.jpg,nyctomanica,,Single Pack,8exp
+685,0,film_box_outside,Lomography,Color Negative 120 Film 400,120,400,C-41,202801,1785851780,9e6628140f1d8a4277cf664d54a3a5db,2ec124d60b12488db346643ed8d17f5f,00685_000.jpg,@Hol.m35,,Single Pack,N/A
+686,0,film_box_outside,Fujifilm,Instax Mini,Instant Integral Film,800,Instant,202503,1785852066,8f135c767bbc90826efd8f47369fa3cd,a63f7025a5284603ad7a1c071311c9b1,00686_000.jpg,@Hol.m35,,Multi-Pack-2,10exp
+687,0,film_box_outside,Fujifilm,Instax Mini Macaron,Instant Integral Film,800,Instant,202601,1785852107,b9b198fa8b7d6748fb2dcbd2d529018d,a871a78d1ad6479e8c1ed51f2e4b7ae7,00687_000.jpg,@Hol.m35,,Single Pack,10exp
+688,0,film_box_outside,Fujifilm,Instax Mini Contact Sheet,Instant Integral Film,800,Instant,202512,1785852139,2faccdb6427e4ca01bc77d7c9745fa24,913f40168de04c539a616da939a0f0f7,00688_000.jpg,@Hol.m35,,Single Pack,10exp
+689,0,film_box_outside,Optik Oldschool,OptiMono 100,35mm,100,BW,202806,1785852177,aa807b00edc1887cea14b31fb91a8252,bba34206627f485b9a3119d4c2dd312c,00689_000.jpg,@Hol.m35,,Single Pack,36exp
+690,0,film_box_outside,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617189,4c92314182e6737d1c63b453c0bda033,cd7927f99b904e108562dd8d7cb7a71c,00690_000.jpg,@janjuudas,,Single Pack,24exp
+690,1,film_box_leaflet,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617191,814d243e5ad70d9eba2cf4a61580c4da,fce0cfdd0da64de8bb959da8b873361f,00690_001.jpg,@janjuudas,,Single Pack,24exp
+690,2,film_box_leaflet,Lucky,LuckyColor BR100,35mm,100,C-41,199512,1786617194,6f87ad5fcbf253a823fc2c33b1629948,52de88685d124b9f92ce453036122f49,00690_002.jpg,@janjuudas,,Single Pack,24exp
+691,0,film_box_outside,Konica,SXG 100,35mm,100,C-41,200510,1786617253,bc818bbb8ebd8e701ebd75a8f752f89f,20062d10b38a496d855defd42ce44096,00691_000.jpg,@janjuudas,,Single Pack,27exp
+691,1,film_box_inside,Konica,SXG 100,35mm,100,C-41,200510,1786617254,2a6adb308b7c8aa424d3162084bbf678,6c08ae5e1ce54c0a8387e3d4d2fb1c01,00691_001.jpg,@janjuudas,,Single Pack,27exp
+692,0,film_box_outside,LumiÃ¨re Union Photographique Industrielle,Plaques au GÃ©latino-Bromure d'Argent Extra Rapides,9x12cm,Unknown,BW,Unknown,1786617832,363efa6c6884a427e19cd5557f4b9e04,bb45ef5b684b4606b02cc7f9fb16a44b,00692_000.jpg,Rafa Laguillo,,Single Pack,Unknown
+693,0,film_box_outside,Agfa,Plaques Chromo Isolar,Unknown,Unknown,BW,Unknown,1786618059,49adfebbd68d6b0b64b2c9e69826d819,69f7043994f94dffb90d512ed5bc2c8a,00693_000.jpg,Rafa Laguillo,,Single Pack,Unknown
+694,0,film_box_outside,Kodak,UltraMax,35mm,400,C-41,200808,1786618108,f25b7204534aabe6d9205c8aa95f325a,a6d5604fc4404666acf42801bbc8145b,00694_000.jpg,Rafa Laguillo,,Multi-Pack-3,36exp
+695,0,film_box_outside,Kodak,Ektapan P3200,35mm,3200,BW,202711,1786795969,eababf3f45174e760fef780fe06a149f,0d327a604980442d8f0a4fd9b4b92254,00695_000.jpg,@titanic_159,,Single Pack,36exp
+696,0,film_box_outside,Agfa,Agfapan APX 25,120,25,BW,200501,1786796084,4f694357fcc3676d570da1f60f0758e6,3f10b7f948b641459292c754ec265a92,00696_000.jpg,Warren Umbach,,Single Pack,N/A
+696,1,film_box_inside,Agfa,Agfapan APX 25,120,25,BW,200501,1786796087,b3f884b8617f29d2c59fe527ba1fac92,bbf1d55f2f804c9fa609ea93f20db17e,00696_001.jpg,Warren Umbach,,Single Pack,N/A
+697,0,film_box_outside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796433,d031a6f0223d9883f0d1f49f3401b55e,9eb720d7de6e45bc97014b3e0717e513,00697_000.jpg,@flyingcamerastudio,,Bulk Roll,100ft
+697,1,film_box_inside,Kodak,Portra 160NC,35mm,160,C-41,200702,1786796435,caa3c9fd8b9fb1db63f6a657dd0406b6,fbdf25a3d97b4a0992a1d662621afd14,00697_001.jpg,@flyingcamerastudio,,Bulk Roll,100ft
+698,0,film_box_outside,Ogapan,Panchromatic,35mm,40,BW,196210,1786881546,10945aaf6a02d317c525371adc341b5b,c01fbe88bcfc41aa89cf002ce11b9c23,00698_000.jpg,Constantino,,Single Pack,36exp
+699,0,film_box_outside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174265,8a7d8fcc671b6051ee9a98cfca496808,ec5187c506fe4e84bc10fa21d39467b2,00699_000.jpg,@pommegranny,,Single Pack,24exp
+699,1,film_box_inside,Hansa,Hansacolor 100 Super Plus,35mm,100,C-41,200011,1787174270,c30da3f558561ef9ccdc53c098dc3c63,c8f70224514b43a599f262caebbdfc02,00699_001.jpg,@pommegranny,,Single Pack,24exp
+700,0,film_box_outside,Werlisa,Werlisa Sport 100,35mm,100,C-41,200912,1787304695,66f51d04182361d2fb0d288a42d0d9a1,738ee5f957e543ee8baa4824dcacd7fe,00700_000.jpg,Rafa Laguillo,,Single Pack,24exp
+700,1,film_box_inside,Werlisa,Werlisa Sport 100,35mm,100,C-41,200912,1787304697,408d6ab22ef72783462714a4ce67be09,8d4781efd91f44d3a51f6bf402f1fdf8,00700_001.jpg,Rafa Laguillo,,Single Pack,24exp
+701,0,film_box_outside,Kodak,Plus-X,616,Unknown,BW,195710,1787304793,1b280bc13b0bc8f311ed7ff6e2ca9734,8d1ad6f1ec4d42c3b5b35ffa6718a250,00701_000.jpg,Rafa Laguillo,,Single Pack,N/A
+702,0,film_box_outside,Candido,Color Negative Film 800,35mm,800,C-41,202807,1787304938,c14a18f402b9a39319052f82da962e9b,c4f0677d117446678179ccfafb84c39e,00702_000.jpg,@Hol.m35,,Single Pack,36exp
+702,1,film_box_inside,Candido,Color Negative Film 800,35mm,800,C-41,202807,1787304939,53503df4f1757ca38de3957557406ef9,07b09cec6d9948a2b546a3d122001e62,00702_001.jpg,@Hol.m35,,Single Pack,36exp
+703,0,film_box_outside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305031,085d784366a9e3369d9f6419dc905f92,79d06b422e074d53a6d37add1a0a951e,00703_000.jpg,nyctomanica,,Single Pack,36exp
+703,1,film_box_inside,Kodak,Technical Pan,35mm,Unknown,BW,200501,1787305034,f2649f5d34bd82d9c5ef7b019692adb3,8882c643007f427fad8d9033cefd64d0,00703_001.jpg,nyctomanica,,Single Pack,36exp
+704,0,film_box_outside,Lucky,C400,35mm,400,C-41,202808,1788341368,e27570a058921564ff04164acd777e93,64c1b1b53d274a4cbe3b3d41d9c7a02c,00704_000.jpg,@Hol.m35,,Single Pack,36exp
+704,1,film_box_inside,Lucky,C400,35mm,400,C-41,202808,1788341370,2e8bb1d6e3bb6bae3e6c4125b9f916d9,fb51d773895c4f18a3d354ca130f50c8,00704_001.jpg,@Hol.m35,,Single Pack,36exp
+705,0,film_box_outside,Stavanger Foto,Frontier,35mm,250,BW,Unknown,1788779623,8cccfa869a9f4066938e645376de0bd0,354788b12a2a4555a7c1717abfd5c51e,00705_000.jpg,Kraksen,,Single Pack,36exp
+706,0,film_box_outside,MarixFilm,Aircolor,35mm,100,C-41,202506,1788779676,895e3cf812e477749da959381faacab2,0f36fe976d604dea826c31a5f534d9c4,00706_000.jpg,Kraksen,,Single Pack,36exp
+707,0,film_box_outside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779773,36158c25c96abd57aa87c9ddd2ec0f5b,23707163dc014de2947bf1669c2195f0,00707_000.jpg,Kraksen,,Single Pack,24exp
+707,1,film_box_inside,Konica Minolta,Centuria Super,35mm,400,C-41,200704,1788779777,d1ee601e033fa9259f710be6fac7fc6a,708f40122825442b96dd887a89c90e35,00707_001.jpg,Kraksen,,Single Pack,24exp
+708,0,film_box_outside,Fujifilm,Fujicolor Super HG II 200,35mm,200,C-41,199710,1788780128,e2c71398106fa63185b9d78d723f1bfd,0c8b28e5afc644b2b64475da8aaf7ac0,00708_000.jpg,benjaminbeeroll,,Multi-Pack-4,24exp
+709,0,film_box_outside,GAF,Color Slide Film,35mm,200,AR-2,197404,1788780485,5b547fe676c5a589ec86dac9aeefdaed,3c3b84f6e9b6457b80ccc95bcf9057a5,00709_000.jpg,benjaminbeeroll,,Single Pack,20exp
+710,0,film_box_outside,Kodak,Kodacolor II,126,80,C-41,197605,1788780626,006b908458a1b64bbdbe875af51bff67,db6491a822bb44a183c95744cb26c326,00710_000.jpg,benjaminbeeroll,,Single Pack,12exp
+711,0,film_box_outside,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780726,f3ca07d1aa395ee5ffdf0ab25cb66830,65c654459db94987a653ce34ae6f76f8,00711_000.jpg,benjaminbeeroll,,Single Pack,36exp
+711,1,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780727,6ab68e1cf67dd5d704d411d7eecf3f21,47e00ad5d78a47e1ae51f6c80bd86c08,00711_001.jpg,benjaminbeeroll,,Single Pack,36exp
+711,2,film_box_leaflet,Kodak,Ektachrome Slide Duplicating Film 5071,35mm,4,E-6,198009,1788780730,c88322895f66ffee63d588f1859619c9,87e70efe7ceb41608a89a09a355de58e,00711_002.jpg,benjaminbeeroll,,Single Pack,36exp
+712,0,film_box_outside,Kodak,Gold,110,400,C-41,200105,1788781059,d1ee6f03b343a1aa4514588e19eb609c,86c04a01042341b8a7ae95c660f4f2a2,00712_000.jpg,benjaminbeeroll,,Single Pack,24exp
+713,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199012,1788781105,6b8929805076b1a7e57f52b2c21ab180,8f3e3aab508a454fbe868b1025adb4e8,00713_000.jpg,benjaminbeeroll,,Single Pack,24exp
+714,0,film_box_outside,Kodak,Tri-X Pan,35mm,400,BW,199402,1788781155,29581215e1228ad373d2cec85a9351e8,4f04fc9a2284495cb367f76cc7054257,00714_000.jpg,benjaminbeeroll,,Single Pack,24exp
+715,0,film_box_outside,Kodak,Verichrome,127,80,BW,195807,1788781353,f8121c9737be14cbe4477abcfcf41359,dd47848372c7405eb8f05754480c11b9,00715_000.jpg,benjaminbeeroll,,Single Pack,N/A
+715,1,film_box_leaflet,Kodak,Verichrome,127,80,BW,195807,1788781356,8b1980f2901cf7d24bc38f049885e224,b784e9c6507c4b909225f0c3767166c0,00715_001.jpg,benjaminbeeroll,,Single Pack,N/A
+715,2,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781359,b9ed1919259f1aa5998376d71d0c9875,be74feb2516148c4a276a5da135a4ff4,00715_002.jpg,benjaminbeeroll,,Single Pack,N/A
+715,3,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781362,77734a6ec42d1b7a5808734e33d8aa8c,294b05778f5f41a78ffeac20fd3152d1,00715_003.jpg,benjaminbeeroll,,Single Pack,N/A
+715,4,film_box_processing_envelope,Kodak,Verichrome,127,80,BW,195807,1788781365,b4d3630b83ecec0792fbdceab0595b12,71ea70e8b54043d38aa0111553cc3e9c,00715_004.jpg,benjaminbeeroll,,Single Pack,N/A
+716,0,film_box_outside,Kodak,Kodachrome,35mm,64,K-14,199201,1788781527,3dc620def211e6c88bdd91cce7a17198,ba34255d470942dea9572eaabf1007e0,00716_000.jpg,benjaminbeeroll,,Single Pack,24exp
+716,1,film_box_inside,Kodak,Kodachrome,35mm,64,K-14,199201,1788781529,e611d5dbf600f29cfe4345d592fbd137,0c688af82cff40cb89b4f56d31c19087,00716_001.jpg,benjaminbeeroll,,Single Pack,24exp
+717,0,film_box_outside,Minolta,16 Black & White Fast Fine Grain Film,16mm,100,BW,197812,1788781675,c133e152d62838e6cdeb735282b6a80f,8c90c60b8e4c42aabac785f3d8effd30,00717_000.jpg,benjaminbeeroll,Respooled Kodak Plus-X film inside,Single Pack,N/A
+718,0,film_box_outside,Mystic Color Lab,Superior 35mm Color Print Film,35mm,200,C-41,200707,1788781785,886a13d2329fcbf4fc6934afaf3c7624,d0ca629041344c4f8f6d3200341f4edf,00718_000.jpg,benjaminbeeroll,,Single Pack,24exp
+719,0,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781914,1a8fc052233c80c949e02a0ece6d88bc,d58fc4af4f314da988547af34b1bcd53,00719_000.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
+719,1,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781918,e44f0e0b783ddab58129c2f4f6c54cef,7d1eb96de3bd4ec98b6ee8f0a0e8c774,00719_001.jpg,benjaminbeeroll,,Multi-Pack-2,10exp

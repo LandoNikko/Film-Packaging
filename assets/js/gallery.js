@@ -3,8 +3,8 @@ class FilmGallery {
         this.galleryData = [];
         this.filteredData = [];
         this.currentIndex = 0;
-        this.currentSort = { type: null, ascending: true };
-        this.defaultSort = { type: 'brand', ascending: true };
+        this.defaultSort = { type: 'date_added', ascending: false };
+        this.currentSort = { ...this.defaultSort };
         
         this.init();
     }
@@ -22,6 +22,8 @@ class FilmGallery {
             this.applyUrlFilters();
             this.currentSort = { ...this.defaultSort };
             this.filterGallery();
+            this.updateInitialToggleText();
+            this.updateSortIcons();
             this.updateResetButtonVisibility();
         } finally {
             this.showLoading(false);
@@ -84,17 +86,45 @@ class FilmGallery {
             
             const filterSection = toggle.closest('.filter-section');
             const icon = filterSection.querySelector('.filter-icon');
+            if (!icon) return;
+
             icon.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const filterType = toggle.getAttribute('data-target').replace('-section', '');
-                
+
+                if (filterType === 'sort') {
+                    let mode = this.getSelectedFilterValues('sort_mode')[0];
+                    if (!mode) {
+                        const dateAddedInput = document.querySelector('input[name="sort_mode"][value="date_added"]');
+                        if (dateAddedInput) dateAddedInput.checked = true;
+                        mode = 'date_added';
+                        this.updateToggleText('sort');
+                    }
+                    const sortType = mode === 'alphabetical' ? 'alphabetical' : 'date_added';
+
+                    if (this.currentSort.type === sortType) {
+                        this.currentSort.ascending = !this.currentSort.ascending;
+                    } else {
+                        this.currentSort.type = sortType;
+                        this.currentSort.ascending = sortType === 'alphabetical';
+                    }
+
+                    this.sortGallery(sortType);
+                    this.updateToggleText('sort');
+                    return;
+                }
+
                 if (this.currentSort.type === filterType) {
                     this.currentSort.ascending = !this.currentSort.ascending;
                 } else {
                     this.currentSort.type = filterType;
                     this.currentSort.ascending = true;
                 }
-                
+
+                document.querySelectorAll('input[name="sort_mode"]').forEach((input) => {
+                    input.checked = false;
+                });
+                this.updateToggleText('sort');
                 this.sortGallery(filterType);
             });
         });
@@ -314,6 +344,22 @@ class FilmGallery {
             expiryFilter.appendChild(label);
         }
 
+        const sortModeFilter = document.getElementById('sortModeFilter');
+        sortModeFilter.innerHTML = '';
+
+        [
+            { value: 'date_added', label: 'Date added' },
+            { value: 'alphabetical', label: 'Alphabetical' }
+        ].forEach(({ value, label }) => {
+            const option = document.createElement('label');
+            option.className = 'filter-option';
+            option.innerHTML = `<input type="checkbox" name="sort_mode" value="${value}"><span>${label}</span><span class="checkmark">✓</span>`;
+            sortModeFilter.appendChild(option);
+        });
+
+        const dateAddedInput = sortModeFilter.querySelector('input[value="date_added"]');
+        if (dateAddedInput) dateAddedInput.checked = true;
+
         this.attachFilterEventListeners();
         this.updateInitialToggleText();
         this.updateHeaderStats();
@@ -326,9 +372,28 @@ class FilmGallery {
     }
 
     updateInitialToggleText() {
-        ['brand', 'format', 'process', 'expiry'].forEach((filterType) => {
+        ['brand', 'format', 'process', 'expiry', 'sort'].forEach((filterType) => {
             this.updateToggleText(filterType);
         });
+    }
+
+    applySortMode(mode) {
+        const sortType = mode === 'alphabetical' ? 'alphabetical' : 'date_added';
+        const preserveDirection = this.currentSort.type === sortType;
+
+        this.currentSort.type = sortType;
+        if (!preserveDirection) {
+            this.currentSort.ascending = sortType === 'alphabetical';
+        }
+    }
+
+    getSortOrderLabel(mode) {
+        if (mode === 'alphabetical') {
+            const direction = this.currentSort.ascending ? 'A–Z' : 'Z–A';
+            return `Order (${direction})`;
+        }
+        const direction = this.currentSort.ascending ? 'Oldest' : 'Newest';
+        return `Order (${direction})`;
     }
 
     attachFilterEventListeners() {
@@ -338,6 +403,24 @@ class FilmGallery {
                     this.filterGallery();
                     this.updateToggleText(filterType);
                 });
+            });
+        });
+
+        document.querySelectorAll('input[name="sort_mode"]').forEach((checkbox) => {
+            checkbox.addEventListener('change', () => {
+                if (checkbox.checked) {
+                    document.querySelectorAll('input[name="sort_mode"]').forEach((other) => {
+                        if (other !== checkbox) other.checked = false;
+                    });
+                    this.applySortMode(checkbox.value);
+                } else if (!this.getSelectedFilterValues('sort_mode').length) {
+                    const dateAddedInput = document.querySelector('input[name="sort_mode"][value="date_added"]');
+                    if (dateAddedInput) dateAddedInput.checked = true;
+                    this.applySortMode('date_added');
+                }
+
+                this.filterGallery();
+                this.updateToggleText('sort');
             });
         });
     }
@@ -368,14 +451,17 @@ class FilmGallery {
     }
 
     updateToggleText(filterType) {
-        const selected = this.getSelectedFilterValues(filterType);
+        const inputName = filterType === 'sort' ? 'sort_mode' : filterType;
+        const selected = this.getSelectedFilterValues(inputName);
         const toggleButton = document.querySelector(`[data-target="${filterType}-section"]`);
+        if (!toggleButton) return;
         const toggleText = toggleButton.querySelector('span:first-child');
         const defaultLabels = {
             brand: 'Brands',
             format: 'Formats',
             process: 'Processes',
-            expiry: 'Expiry Dates'
+            expiry: 'Expiry Dates',
+            sort: 'Order'
         };
 
         if (selected.length === 0) {
@@ -384,6 +470,8 @@ class FilmGallery {
             const value = selected[0];
             if (filterType === 'expiry') {
                 toggleText.textContent = value === 'unknown' ? 'Unknown' : `${value}s`;
+            } else if (filterType === 'sort') {
+                toggleText.textContent = this.getSortOrderLabel(value);
             } else {
                 toggleText.textContent = value;
             }
@@ -443,6 +531,13 @@ class FilmGallery {
             if (this.getSelectedFilterValues(name).length > 0) return true;
         }
 
+        const sortMode = this.getSelectedFilterValues('sort_mode');
+        const isDefaultSortMode = sortMode.length === 1
+            && sortMode[0] === 'date_added'
+            && this.currentSort.type === this.defaultSort.type
+            && this.currentSort.ascending === this.defaultSort.ascending;
+        if (sortMode.length > 0 && !isDefaultSortMode) return true;
+
         return this.currentSort.type !== this.defaultSort.type
             || this.currentSort.ascending !== this.defaultSort.ascending;
     }
@@ -495,6 +590,20 @@ class FilmGallery {
                     bValue = bUnknown ? '' : b.expiry_date;
                     break;
                 }
+                case 'date_added': {
+                    aValue = parseInt(a.date_added, 10) || 0;
+                    bValue = parseInt(b.date_added, 10) || 0;
+                    aUnknown = !aValue;
+                    bUnknown = !bValue;
+                    break;
+                }
+                case 'alphabetical': {
+                    aValue = `${(a.brand || '').toLowerCase()}\0${(a.product || '').toLowerCase()}`;
+                    bValue = `${(b.brand || '').toLowerCase()}\0${(b.product || '').toLowerCase()}`;
+                    aUnknown = isUnknownSortValue(a.brand);
+                    bUnknown = isUnknownSortValue(b.brand);
+                    break;
+                }
                 default:
                     return 0;
             }
@@ -505,6 +614,18 @@ class FilmGallery {
 
             if (aUnknown && bUnknown) {
                 return 0;
+            }
+
+            if (sortBy === 'date_added') {
+                return this.currentSort.ascending
+                    ? aValue - bValue
+                    : bValue - aValue;
+            }
+
+            if (sortBy === 'alphabetical') {
+                return this.currentSort.ascending
+                    ? aValue.localeCompare(bValue)
+                    : bValue.localeCompare(aValue);
             }
 
             return this.currentSort.ascending
@@ -524,7 +645,9 @@ class FilmGallery {
             if (!icon || !toggle) return;
 
             const filterType = toggle.getAttribute('data-target').replace('-section', '');
-            const isActive = this.currentSort.type === filterType;
+            const isActive = filterType === 'sort'
+                ? (this.currentSort.type === 'date_added' || this.currentSort.type === 'alphabetical')
+                : this.currentSort.type === filterType;
             let iconName = 'ri-sort-desc';
 
             if (isActive) {
@@ -940,9 +1063,12 @@ class FilmGallery {
     resetAllFilters() {
         document.getElementById('searchInput').value = '';
 
-        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"]').forEach((input) => {
+        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"], input[name="sort_mode"]').forEach((input) => {
             input.checked = false;
         });
+
+        const dateAddedInput = document.querySelector('input[name="sort_mode"][value="date_added"]');
+        if (dateAddedInput) dateAddedInput.checked = true;
 
         this.currentSort = { ...this.defaultSort };
         this.updateInitialToggleText();
