@@ -159,7 +159,7 @@ Total scans :
 - [[120] Lomography Color Negative Film (ref: d986)](#120-lomography-color-negative-film-ref-d986)
 - [[120] Lomography Color Negative Film (ref: 1529)](#120-lomography-color-negative-film-ref-1529)
 - [[120] Lomography Lomochrome Color'92 (ref: 9fdb)](#120-lomography-lomochrome-color92-ref-9fdb)
-- [[120] Lomography Lomochrome Colorâ€™92 (ref: 0960)](#120-lomography-lomochrome-colorâ-92-ref-0960)
+- [[120] Lomography Lomochrome Color’92 (ref: 0960)](#120-lomography-lomochrome-color-92-ref-0960)
 - [[120] Lomography Lomochrome Turquoise (ref: 0d90)](#120-lomography-lomochrome-turquoise-ref-0d90)
 - [[120] Lomography Postdam (ref: 2769)](#120-lomography-postdam-ref-2769)
 - [[120] Lucky C200 (ref: e6f8)](#120-lucky-c200-ref-e6f8)
@@ -215,7 +215,7 @@ Total scans :
 - [[12x16.5cm] Kodak Super-XX (ref: e684)](#12x165cm-kodak-super-xx-ref-e684)
 - [[12x16.5cm] Kodak Super-sensitive Panchromatic Films (ref: 21a0)](#12x165cm-kodak-super-sensitive-panchromatic-films-ref-21a0)
 - [[12x16.5cm] Kodak Tri-X Pan (ref: 6608)](#12x165cm-kodak-tri-x-pan-ref-6608)
-- [[12x16.5cm] PhÃ¶bus-Platten Sheet Film (ref: d505)](#12x165cm-phã-bus-platten-sheet-film-ref-d505)
+- [[12x16.5cm] Phöbus-Platten Sheet Film (ref: d505)](#12x165cm-phöbus-platten-sheet-film-ref-d505)
 - [[16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)](#16mm-kodak-eastman-high-contrast-panchromatic-7369-ref-faec)
 - [[16mm] Kodak Eastman Tri-X Reversal Film 7278 (ref: 8468)](#16mm-kodak-eastman-tri-x-reversal-film-7278-ref-8468)
 - [[16mm] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#16mm-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
@@ -288,7 +288,7 @@ Total scans :
 - [[35mm] Film Corporation of America TriFCA 35 (ref: 8f0a)](#35mm-film-corporation-of-america-trifca-35-ref-8f0a)
 - [[35mm] Film Never Die IRO (ref: 2a22)](#35mm-film-never-die-iro-ref-2a22)
 - [[35mm] Film Never Die Kiro (ref: 796d)](#35mm-film-never-die-kiro-ref-796d)
-- [[35mm] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#35mm-filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
+- [[35mm] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#35mm-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[35mm] Foma Fomapan 200 (ref: 60ee)](#35mm-foma-fomapan-200-ref-60ee)
 - [[35mm] Foma Fomapan 400 Set (ref: 189e)](#35mm-foma-fomapan-400-set-ref-189e)
 - [[35mm] Foma Fomapan Classic 100 (ref: 4eb6)](#35mm-foma-fomapan-classic-100-ref-4eb6)
@@ -510,7 +510,7 @@ Total scans :
 - [[35mm] Kodak UltraMax (ref: e4ad)](#35mm-kodak-ultramax-ref-e4ad)
 - [[35mm] Kodak UltraMax (ref: aaa6)](#35mm-kodak-ultramax-ref-aaa6)
 - [[35mm] Kodak Vericolor 400 (ref: d8e3)](#35mm-kodak-vericolor-400-ref-d8e3)
-- [[35mm] Kodak VÃ¤rikuvafilmi (ref: f9ff)](#35mm-kodak-vã-rikuvafilmi-ref-f9ff)
+- [[35mm] Kodak Värikuvafilmi (ref: f9ff)](#35mm-kodak-värikuvafilmi-ref-f9ff)
 - [[35mm] Konica Centuria 200 (ref: e155)](#35mm-konica-centuria-200-ref-e155)
 - [[35mm] Konica Konica Color II (ref: fb5b)](#35mm-konica-konica-color-ii-ref-fb5b)
 - [[35mm] Konica KonicaColor VX 100 (ref: 8350)](#35mm-konica-konicacolor-vx-100-ref-8350)
@@ -573,7 +573,7 @@ Total scans :
 - [[35mm] Perutz CR 100 (ref: b5df)](#35mm-perutz-cr-100-ref-b5df)
 - [[35mm] Perutz Peromnia 21 (ref: fa4a)](#35mm-perutz-peromnia-21-ref-fa4a)
 - [[35mm] Perutz Primera (ref: cbfb)](#35mm-perutz-primera-ref-cbfb)
-- [[35mm] PhotocitÃ© 400 ISO (ref: e370)](#35mm-photocitã-400-iso-ref-e370)
+- [[35mm] Photocité 400 ISO (ref: e370)](#35mm-photocité-400-iso-ref-e370)
 - [[35mm] Polaroid High Contrast PolaChrome (ref: c984)](#35mm-polaroid-high-contrast-polachrome-ref-c984)
 - [[35mm] Polaroid High Definition (ref: ac7c)](#35mm-polaroid-high-definition-ref-ac7c)
 - [[35mm] Polaroid PolaBlue 35mm (ref: df66)](#35mm-polaroid-polablue-35mm-ref-df66)
@@ -623,7 +623,7 @@ Total scans :
 - [[35mm] Wolfen NP100 (ref: 71a6)](#35mm-wolfen-np100-ref-71a6)
 - [[35mm] York Photo Labs DXG 200 (ref: 4bf8)](#35mm-york-photo-labs-dxg-200-ref-4bf8)
 - [[35mm] efke KB-25 (ref: 4d17)](#35mm-efke-kb-25-ref-4d17)
-- [[6.5x9cm] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#65x9cm-hasselblad-hassel-plã-tar-erorto-ref-ec67)
+- [[6.5x9cm] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#65x9cm-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)](#65x9cm-illingworths-fleet-h-d-ref-54fe)
 - [[616] Kodak Plus-X (ref: a250)](#616-kodak-plus-x-ref-a250)
 - [[616] Kodak Super-XX (ref: 07c8)](#616-kodak-super-xx-ref-07c8)
@@ -660,7 +660,7 @@ Total scans :
 - [[9x12cm] Agfa Extra Rapid Platten (ref: 7418)](#9x12cm-agfa-extra-rapid-platten-ref-7418)
 - [[9x12cm] Agfa Trockenplatten (ref: 0937)](#9x12cm-agfa-trockenplatten-ref-0937)
 - [[9x12cm] Agfa Trockenplatten (ref: 41a8)](#9x12cm-agfa-trockenplatten-ref-41a8)
-- [[9x12cm] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#9x12cm-lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [[9x12cm] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#9x12cm-lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
 - [[9x12cm] Perutz Superomnia (ref: c90d)](#9x12cm-perutz-superomnia-ref-c90d)
 - [[APS] Fujifilm Nexia A200 (ref: 43c0)](#aps-fujifilm-nexia-a200-ref-43c0)
 - [[APS] Jessops Diamond Everyday (ref: 67d3)](#aps-jessops-diamond-everyday-ref-67d3)
@@ -3653,7 +3653,7 @@ UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="500" height="272">
 </a>
 
-#### [120] Lomography Lomochrome Colorâ€™92 (ref: 0960)
+#### [120] Lomography Lomochrome Color’92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -3664,7 +3664,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [120] Lomography Lomochrome Turquoise (ref: 0d90)
@@ -4794,7 +4794,7 @@ Notes : Estar Thick Base 4164
 	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
-#### [12x16.5cm] PhÃ¶bus-Platten Sheet Film (ref: d505)
+#### [12x16.5cm] Phöbus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -4805,7 +4805,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [16mm] Kodak Eastman High Contrast Panchromatic 7369 (ref: faec)
@@ -6251,7 +6251,7 @@ UUID  : a6bb919bc40b4000a753bf9d3367796d
 	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
-#### [35mm] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
+#### [35mm] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -6262,7 +6262,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [35mm] Foma Fomapan 200 (ref: 60ee)
@@ -10316,7 +10316,7 @@ UUID  : 77390b1f4e8f4519817b767e55c1d8e3
 	<img src="./lowres/00604_000.jpg" alt="Kodak Vericolor 400 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [35mm] Kodak VÃ¤rikuvafilmi (ref: f9ff)
+#### [35mm] Kodak Värikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -10327,7 +10327,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 #### [35mm] Konica Centuria 200 (ref: e155)
@@ -11529,7 +11529,7 @@ UUID  : 4e05e028af4c403786967ee168f3cbfb
 	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
 </a>
 
-#### [35mm] PhotocitÃ© 400 ISO (ref: e370)
+#### [35mm] Photocité 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -11540,7 +11540,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [35mm] Polaroid High Contrast PolaChrome (ref: c984)
@@ -12495,7 +12495,7 @@ UUID  : b41fb584f713486eb5a5da2fe16e4d17
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
 </a>
 
-#### [6.5x9cm] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
+#### [6.5x9cm] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -12506,7 +12506,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 #### [6.5x9cm] Illingworth's Fleet H&D (ref: 54fe)
@@ -13434,7 +13434,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
-#### [9x12cm] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### [9x12cm] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -13445,7 +13445,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### [9x12cm] Perutz Superomnia (ref: c90d)

@@ -49,7 +49,7 @@ Total scans :
 - [[2026-08-15] Kodak Ektapan P3200 (ref: 2254)](#2026-08-15-kodak-ektapan-p3200-ref-2254)
 - [[2026-08-13] Kodak UltraMax (ref: 145b)](#2026-08-13-kodak-ultramax-ref-145b)
 - [[2026-08-13] Agfa Plaques Chromo Isolar (ref: 2c8a)](#2026-08-13-agfa-plaques-chromo-isolar-ref-2c8a)
-- [[2026-08-13] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#2026-08-13-lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [[2026-08-13] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#2026-08-13-lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
 - [[2026-08-13] Konica SXG 100 (ref: 4096)](#2026-08-13-konica-sxg-100-ref-4096)
 - [[2026-08-13] Lucky LuckyColor BR100 (ref: a71c)](#2026-08-13-lucky-luckycolor-br100-ref-a71c)
 - [[2026-08-04] Optik Oldschool OptiMono 100 (ref: 312c)](#2026-08-04-optik-oldschool-optimono-100-ref-312c)
@@ -255,7 +255,7 @@ Total scans :
 - [[2025-11-25] Kodak Gold 200 (ref: 7d4b)](#2025-11-25-kodak-gold-200-ref-7d4b)
 - [[2025-11-25] Fujifilm Fujicolor Super HG (ref: 1b30)](#2025-11-25-fujifilm-fujicolor-super-hg-ref-1b30)
 - [[2025-11-25] Ilford Ortho Plus (ref: 1952)](#2025-11-25-ilford-ortho-plus-ref-1952)
-- [[2025-11-25] PhotocitÃ© 400 ISO (ref: e370)](#2025-11-25-photocitã-400-iso-ref-e370)
+- [[2025-11-25] Photocité 400 ISO (ref: e370)](#2025-11-25-photocité-400-iso-ref-e370)
 - [[2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)](#2025-11-25-seagull-seagull-color-ir100-ref-8fd8)
 - [[2025-11-25] Kodak Ektachrome Elite 200 (ref: b736)](#2025-11-25-kodak-ektachrome-elite-200-ref-b736)
 - [[2025-11-20] Agfa Isopan Portrait (ref: b974)](#2025-11-20-agfa-isopan-portrait-ref-b974)
@@ -367,7 +367,7 @@ Total scans :
 - [[2025-10-07] Kodak Plus-X (ref: 7958)](#2025-10-07-kodak-plus-x-ref-7958)
 - [[2025-10-07] Ilford FP3 Series 2 (ref: 03e7)](#2025-10-07-ilford-fp3-series-2-ref-03e7)
 - [[2025-10-07] Agfa Isopan ISS (ref: b9d7)](#2025-10-07-agfa-isopan-iss-ref-b9d7)
-- [[2025-10-07] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#2025-10-07-filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
+- [[2025-10-07] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#2025-10-07-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[2025-10-06] Fujifilm Superia Premium 400 (ref: ef1f)](#2025-10-06-fujifilm-superia-premium-400-ref-ef1f)
 - [[2025-10-06] Agfa Vista Plus 200 (ref: f5f7)](#2025-10-06-agfa-vista-plus-200-ref-f5f7)
 - [[2025-10-05] Minox MinoColor 3 (ref: d209)](#2025-10-05-minox-minocolor-3-ref-d209)
@@ -404,7 +404,7 @@ Total scans :
 - [[2025-09-17] Fujifilm Fujichrome 64T (ref: 311b)](#2025-09-17-fujifilm-fujichrome-64t-ref-311b)
 - [[2025-09-17] Kodak Tri-X Pan (ref: f201)](#2025-09-17-kodak-tri-x-pan-ref-f201)
 - [[2025-09-17] Kodak UltraMax (ref: e3ba)](#2025-09-17-kodak-ultramax-ref-e3ba)
-- [[2025-09-17] Lomography Lomochrome Colorâ€™92 (ref: 0960)](#2025-09-17-lomography-lomochrome-colorâ-92-ref-0960)
+- [[2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)](#2025-09-17-lomography-lomochrome-color-92-ref-0960)
 - [[2025-09-13] Jessops Diamond Everyday (ref: 6d5a)](#2025-09-13-jessops-diamond-everyday-ref-6d5a)
 - [[2025-09-13] Jessops CS100 (ref: 4288)](#2025-09-13-jessops-cs100-ref-4288)
 - [[2025-09-13] Kodak Ultra (ref: 5701)](#2025-09-13-kodak-ultra-ref-5701)
@@ -457,7 +457,7 @@ Total scans :
 - [[2025-09-03] Defender Extra Special Fast Panchromatic (ref: afcf)](#2025-09-03-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[2025-09-03] Defender Extra Fast Panchromatic (ref: 348b)](#2025-09-03-defender-extra-fast-panchromatic-ref-348b)
 - [[2025-09-03] Agfa Trockenplatten (ref: 0937)](#2025-09-03-agfa-trockenplatten-ref-0937)
-- [[2025-09-03] PhÃ¶bus-Platten Sheet Film (ref: d505)](#2025-09-03-phã-bus-platten-sheet-film-ref-d505)
+- [[2025-09-03] Phöbus-Platten Sheet Film (ref: d505)](#2025-09-03-phöbus-platten-sheet-film-ref-d505)
 - [[2025-09-01] Fujifilm Fujichrome Provia 100F (ref: 1b4b)](#2025-09-01-fujifilm-fujichrome-provia-100f-ref-1b4b)
 - [[2025-09-01] Kodak Kodacolor-X (ref: 0ce5)](#2025-09-01-kodak-kodacolor-x-ref-0ce5)
 - [[2025-09-01] Kodak Ektachrome 100 Plus (ref: 0183)](#2025-09-01-kodak-ektachrome-100-plus-ref-0183)
@@ -535,7 +535,7 @@ Total scans :
 - [[2025-08-19] Illingworth's Fleet H&D (ref: 54fe)](#2025-08-19-illingworths-fleet-h-d-ref-54fe)
 - [[2025-08-19] Hands On Film Midnight 1600 (ref: 4411)](#2025-08-19-hands-on-film-midnight-1600-ref-4411)
 - [[2025-08-19] Foton Fotopan F (ref: 0ad6)](#2025-08-19-foton-fotopan-f-ref-0ad6)
-- [[2025-08-19] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#2025-08-19-hasselblad-hassel-plã-tar-erorto-ref-ec67)
+- [[2025-08-19] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#2025-08-19-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[2025-08-19] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#2025-08-19-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2025-08-18] Fujifilm Fujicolor C200 (ref: 2ff8)](#2025-08-18-fujifilm-fujicolor-c200-ref-2ff8)
 - [[2025-08-18] Kodak UltraMax (ref: e4ad)](#2025-08-18-kodak-ultramax-ref-e4ad)
@@ -593,7 +593,7 @@ Total scans :
 - [[2025-07-31] Kodak Gold (ref: 2f8d)](#2025-07-31-kodak-gold-ref-2f8d)
 - [[2025-07-31] Agfa Isopan ISS (ref: 75fa)](#2025-07-31-agfa-isopan-iss-ref-75fa)
 - [[2025-07-31] Lomography Babylon (ref: 7afa)](#2025-07-31-lomography-babylon-ref-7afa)
-- [[2025-07-31] Kodak VÃ¤rikuvafilmi (ref: f9ff)](#2025-07-31-kodak-vã-rikuvafilmi-ref-f9ff)
+- [[2025-07-31] Kodak Värikuvafilmi (ref: f9ff)](#2025-07-31-kodak-värikuvafilmi-ref-f9ff)
 - [[2025-07-31] Kentmere PAN 400 (ref: a327)](#2025-07-31-kentmere-pan-400-ref-a327)
 - [[2025-07-31] Kodak T-MAX P3200 (ref: 521a)](#2025-07-31-kodak-t-max-p3200-ref-521a)
 - [[2025-07-31] Lomography Tiger (ref: 26dd)](#2025-07-31-lomography-tiger-ref-26dd)
@@ -1232,7 +1232,7 @@ UUID  : 69f7043994f94dffb90d512ed5bc2c8a
 	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
 </a>
 
-#### [2026-08-13] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### [2026-08-13] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -1243,7 +1243,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 
@@ -5368,7 +5368,7 @@ UUID  : cc385be1b2a04a35aef42d7e6dc51952
 	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
 </a>
 
-#### [2025-11-25] PhotocitÃ© 400 ISO (ref: e370)
+#### [2025-11-25] Photocité 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -5379,7 +5379,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [2025-11-25] Seagull Seagull Color IR100 (ref: 8fd8)
@@ -7808,7 +7808,7 @@ UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
 	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
-#### [2025-10-07] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
+#### [2025-10-07] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -7819,7 +7819,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [2025-10-06] Fujifilm Superia Premium 400 (ref: ef1f)
@@ -8609,7 +8609,7 @@ UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [2025-09-17] Lomography Lomochrome Colorâ€™92 (ref: 0960)
+#### [2025-09-17] Lomography Lomochrome Color’92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -8620,7 +8620,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 
@@ -9670,7 +9670,7 @@ UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 	<img src="./lowres/00283_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="396">
 </a>
 
-#### [2025-09-03] PhÃ¶bus-Platten Sheet Film (ref: d505)
+#### [2025-09-03] Phöbus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -9681,7 +9681,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [2025-09-01] Fujifilm Fujichrome Provia 100F (ref: 1b4b)
@@ -11113,7 +11113,7 @@ UUID  : f2002785f14a4aba9fd1da2386890ad6
 	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" width="495" height="500">
 </a>
 
-#### [2025-08-19] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
+#### [2025-08-19] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -11124,7 +11124,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 
@@ -12282,7 +12282,7 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" height="398">
 </a>
 
-#### [2025-07-31] Kodak VÃ¤rikuvafilmi (ref: f9ff)
+#### [2025-07-31] Kodak Värikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -12293,7 +12293,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 

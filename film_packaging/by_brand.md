@@ -125,7 +125,7 @@ Total scans :
 - [Film Never Die IRO (ref: 2a22)](#film-never-die-iro-ref-2a22)
 - [Film Never Die Kiro (ref: 796d)](#film-never-die-kiro-ref-796d)
 - [Film Photography Project FPP 620 Black & White Panchromatic Negative Film (ref: 60ce)](#film-photography-project-fpp-620-black-white-panchromatic-negative-film-ref-60ce)
-- [Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
+- [Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [Foma Fomapan 200 (ref: 60ee)](#foma-fomapan-200-ref-60ee)
 - [Foma Fomapan 400 Set (ref: 189e)](#foma-fomapan-400-set-ref-189e)
 - [Foma Fomapan Classic 100 (ref: 4eb6)](#foma-fomapan-classic-100-ref-4eb6)
@@ -260,7 +260,7 @@ Total scans :
 - [Harman Red (ref: da3a)](#harman-red-ref-da3a)
 - [Harman Switch Azure (ref: df9c)](#harman-switch-azure-ref-df9c)
 - [Harman Switch Azure (ref: 31bb)](#harman-switch-azure-ref-31bb)
-- [Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#hasselblad-hassel-plã-tar-erorto-ref-ec67)
+- [Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [Hazenfilm Sorolla Chrome (ref: 889f)](#hazenfilm-sorolla-chrome-ref-889f)
 - [Herzog Duxopan (ref: a9ad)](#herzog-duxopan-ref-a9ad)
 - [Hope Film Bubble (ref: 41f4)](#hope-film-bubble-ref-41f4)
@@ -522,7 +522,7 @@ Total scans :
 - [Kodak Vericolor 400 (ref: d8e3)](#kodak-vericolor-400-ref-d8e3)
 - [Kodak Vericolor 400 Plus (ref: bd88)](#kodak-vericolor-400-plus-ref-bd88)
 - [Kodak Vericolor III (ref: 4b3e)](#kodak-vericolor-iii-ref-4b3e)
-- [Kodak VÃ¤rikuvafilmi (ref: f9ff)](#kodak-vã-rikuvafilmi-ref-f9ff)
+- [Kodak Värikuvafilmi (ref: f9ff)](#kodak-värikuvafilmi-ref-f9ff)
 - [Konica Centuria 200 (ref: e155)](#konica-centuria-200-ref-e155)
 - [Konica Infrared 750nm (ref: e696)](#konica-infrared-750nm-ref-e696)
 - [Konica Infrared 750nm (ref: 6b0e)](#konica-infrared-750nm-ref-6b0e)
@@ -554,7 +554,7 @@ Total scans :
 - [Lomography Lobster Redscale Negative (ref: 4dcd)](#lomography-lobster-redscale-negative-ref-4dcd)
 - [Lomography Lomochrome Color'92 (ref: 12b4)](#lomography-lomochrome-color92-ref-12b4)
 - [Lomography Lomochrome Color'92 (ref: 9fdb)](#lomography-lomochrome-color92-ref-9fdb)
-- [Lomography Lomochrome Colorâ€™92 (ref: 0960)](#lomography-lomochrome-colorâ-92-ref-0960)
+- [Lomography Lomochrome Color’92 (ref: 0960)](#lomography-lomochrome-color-92-ref-0960)
 - [Lomography Lomochrome Metropolis (ref: 5546)](#lomography-lomochrome-metropolis-ref-5546)
 - [Lomography Lomochrome Metropolis (ref: ec77)](#lomography-lomochrome-metropolis-ref-ec77)
 - [Lomography Lomochrome Purple (ref: 8b00)](#lomography-lomochrome-purple-ref-8b00)
@@ -575,7 +575,7 @@ Total scans :
 - [Lucky SHD 100 New Generation (ref: 23f6)](#lucky-shd-100-new-generation-ref-23f6)
 - [Lucky SHD400 (ref: 15b5)](#lucky-shd400-ref-15b5)
 - [Lucky Super New 200 (ref: e0a7)](#lucky-super-new-200-ref-e0a7)
-- [LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [MarixFilm Aircolor (ref: d9c4)](#marixfilm-aircolor-ref-d9c4)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
@@ -629,8 +629,8 @@ Total scans :
 - [Perutz Perpantic Film (ref: 58b1)](#perutz-perpantic-film-ref-58b1)
 - [Perutz Primera (ref: cbfb)](#perutz-primera-ref-cbfb)
 - [Perutz Superomnia (ref: c90d)](#perutz-superomnia-ref-c90d)
-- [PhotocitÃ© 400 ISO (ref: e370)](#photocitã-400-iso-ref-e370)
-- [PhÃ¶bus-Platten Sheet Film (ref: d505)](#phã-bus-platten-sheet-film-ref-d505)
+- [Photocité 400 ISO (ref: e370)](#photocité-400-iso-ref-e370)
+- [Phöbus-Platten Sheet Film (ref: d505)](#phöbus-platten-sheet-film-ref-d505)
 - [Polaroid 100 Blue Film (ref: 93b8)](#polaroid-100-blue-film-ref-93b8)
 - [Polaroid 100 Chocolate Film (ref: a70f)](#polaroid-100-chocolate-film-ref-a70f)
 - [Polaroid 100 Sepia Film (ref: 9893)](#polaroid-100-sepia-film-ref-9893)
@@ -2836,7 +2836,7 @@ UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
-#### Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
+#### Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -2847,7 +2847,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### Foma Fomapan 200 (ref: 60ee)
@@ -5350,7 +5350,7 @@ UUID  : f81a19dc94ac47e99249911f97fe31bb
 	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
-#### Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
+#### Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -5361,7 +5361,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 #### Hazenfilm Sorolla Chrome (ref: 889f)
@@ -10502,7 +10502,7 @@ UUID  : bcb6ab106d2941429eaf1088c1194b3e
 	<img src="./lowres/00237_003.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" width="320" height="500">
 </a>
 
-#### Kodak VÃ¤rikuvafilmi (ref: f9ff)
+#### Kodak Värikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -10513,7 +10513,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 #### Konica Centuria 200 (ref: e155)
@@ -11084,7 +11084,7 @@ UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="500" height="272">
 </a>
 
-#### Lomography Lomochrome Colorâ€™92 (ref: 0960)
+#### Lomography Lomochrome Color’92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -11095,7 +11095,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### Lomography Lomochrome Metropolis (ref: 5546)
@@ -11505,7 +11505,7 @@ UUID  : 2510bd0dd10940e0888b722ec00de0a7
 	<img src="./lowres/00641_001.jpg" alt="Lucky Super New 200 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
-#### LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -11516,7 +11516,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### Marix Professional Negative Movie Color Film (ref: c457)
@@ -12768,7 +12768,7 @@ UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
 </a>
 
-#### PhotocitÃ© 400 ISO (ref: e370)
+#### Photocité 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -12779,10 +12779,10 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
-#### PhÃ¶bus-Platten Sheet Film (ref: d505)
+#### Phöbus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -12793,7 +12793,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### Polaroid 100 Blue Film (ref: 93b8)

@@ -100,7 +100,7 @@ Total scans :
 - [[@ellafridalindblom] Gevaert Superchrom (ref: 0217)](#ellafridalindblom-gevaert-superchrom-ref-0217)
 - [[@ellafridalindblom] Gevaert Ultra Panchro Normal (ref: 1ff6)](#ellafridalindblom-gevaert-ultra-panchro-normal-ref-1ff6)
 - [[@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)](#ellafridalindblom-hands-on-film-midnight-1600-ref-4411)
-- [[@ellafridalindblom] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)](#ellafridalindblom-hasselblad-hassel-plã-tar-erorto-ref-ec67)
+- [[@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#ellafridalindblom-hasselblad-hassel-plåtar-erorto-ref-ec67)
 - [[@ellafridalindblom] Ificolor SHR 100 (ref: 0198)](#ellafridalindblom-ificolor-shr-100-ref-0198)
 - [[@ellafridalindblom] Ificolor Super FG HQ 200 (ref: ff86)](#ellafridalindblom-ificolor-super-fg-hq-200-ref-ff86)
 - [[@ellafridalindblom] Ilford HP3 (ref: 6d94)](#ellafridalindblom-ilford-hp3-ref-6d94)
@@ -119,7 +119,7 @@ Total scans :
 - [[@ellafridalindblom] Konica Infrared 750nm (ref: 6b0e)](#ellafridalindblom-konica-infrared-750nm-ref-6b0e)
 - [[@ellafridalindblom] Konica Sepia Professional (ref: 0b40)](#ellafridalindblom-konica-sepia-professional-ref-0b40)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
-- [[@ellafridalindblom] PhÃ¶bus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phã-bus-platten-sheet-film-ref-d505)
+- [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
 - [[@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#ellafridalindblom-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)](#ellafridalindblom-polaroid-image-instant-film-ref-ee6d)
 - [[@ellafridalindblom] Polaroid Spectra Film (ref: 7a94)](#ellafridalindblom-polaroid-spectra-film-ref-7a94)
@@ -228,7 +228,7 @@ Total scans :
 - [[@recycling.film] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#recyclingfilm-perfect-photo-inc-perfect-pan-film-ref-c214)
 - [[@recycling.film] Perutz Peromnia 21 (ref: fa4a)](#recyclingfilm-perutz-peromnia-21-ref-fa4a)
 - [[@recycling.film] Perutz Perpantic Film (ref: 58b1)](#recyclingfilm-perutz-perpantic-film-ref-58b1)
-- [[@recycling.film] PhotocitÃ© 400 ISO (ref: e370)](#recyclingfilm-photocitã-400-iso-ref-e370)
+- [[@recycling.film] Photocité 400 ISO (ref: e370)](#recyclingfilm-photocité-400-iso-ref-e370)
 - [[@recycling.film] Polaroid Type 42 (ref: f92c)](#recyclingfilm-polaroid-type-42-ref-f92c)
 - [[@recycling.film] Seagull Seagull Color IR100 (ref: 8fd8)](#recyclingfilm-seagull-seagull-color-ir100-ref-8fd8)
 - [[@recycling.film] Svema Foto 32 (ref: 8b44)](#recyclingfilm-svema-foto-32-ref-8b44)
@@ -376,7 +376,7 @@ Total scans :
 - [[Pelicram] Bergger Pancro400 (ref: f619)](#pelicram-bergger-pancro400-ref-f619)
 - [[Pelicram] Candido Colour Negative Film (ref: 6cd2)](#pelicram-candido-colour-negative-film-ref-6cd2)
 - [[Pelicram] Cinemot Lisboa 1999 (ref: 6a4f)](#pelicram-cinemot-lisboa-1999-ref-6a4f)
-- [[Pelicram] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)](#pelicram-filmfabrik-kã-penick-dekopan-feinkorn-ref-1bb7)
+- [[Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)](#pelicram-filmfabrik-köpenick-dekopan-feinkorn-ref-1bb7)
 - [[Pelicram] Foma Fomapan 200 (ref: 60ee)](#pelicram-foma-fomapan-200-ref-60ee)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 65ad)](#pelicram-foma-fomapan-classic-100-ref-65ad)
 - [[Pelicram] Foma Fomapan Classic 100 (ref: 0030)](#pelicram-foma-fomapan-classic-100-ref-0030)
@@ -401,7 +401,7 @@ Total scans :
 - [[Pelicram] Kodak T-MAX P3200 (ref: 43a2)](#pelicram-kodak-t-max-p3200-ref-43a2)
 - [[Pelicram] Kodak T-MAX P3200 (ref: e727)](#pelicram-kodak-t-max-p3200-ref-e727)
 - [[Pelicram] Kodak Tri-X 400 (ref: c671)](#pelicram-kodak-tri-x-400-ref-c671)
-- [[Pelicram] Kodak VÃ¤rikuvafilmi (ref: f9ff)](#pelicram-kodak-vã-rikuvafilmi-ref-f9ff)
+- [[Pelicram] Kodak Värikuvafilmi (ref: f9ff)](#pelicram-kodak-värikuvafilmi-ref-f9ff)
 - [[Pelicram] Konica KonicaColor VX 200 (ref: fe53)](#pelicram-konica-konicacolor-vx-200-ref-fe53)
 - [[Pelicram] Lomography Babylon (ref: 7afa)](#pelicram-lomography-babylon-ref-7afa)
 - [[Pelicram] Lomography Fantome (ref: 4340)](#pelicram-lomography-fantome-ref-4340)
@@ -420,7 +420,7 @@ Total scans :
 - [[Rafa Laguillo] Kodak No3 Special Kodak Autographic Film (ref: ac3c)](#rafa-laguillo-kodak-no3-special-kodak-autographic-film-ref-ac3c)
 - [[Rafa Laguillo] Kodak Plus-X (ref: a250)](#rafa-laguillo-kodak-plus-x-ref-a250)
 - [[Rafa Laguillo] Kodak UltraMax (ref: 145b)](#rafa-laguillo-kodak-ultramax-ref-145b)
-- [[Rafa Laguillo] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumiãƒâ-re-union-photographique-industrielle-plaques-au-gãƒâ-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [[Rafa Laguillo] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)](#rafa-laguillo-werlisa-werlisa-sport-100-ref-d7fe)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
@@ -437,7 +437,7 @@ Total scans :
 - [[The Compartmentalist] Kodak Kodacolor II (ref: 7310)](#the-compartmentalist-kodak-kodacolor-ii-ref-7310)
 - [[The Compartmentalist] Kodak Portra 160 (ref: 6b0a)](#the-compartmentalist-kodak-portra-160-ref-6b0a)
 - [[The Compartmentalist] Kodak UltraMax (ref: e3ba)](#the-compartmentalist-kodak-ultramax-ref-e3ba)
-- [[The Compartmentalist] Lomography Lomochrome Colorâ€™92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-colorâ-92-ref-0960)
+- [[The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)](#the-compartmentalist-lomography-lomochrome-color-92-ref-0960)
 - [[The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)](#the-compartmentalist-minolta-minolta-16-color-film-for-prints-ref-a2ff)
 - [[The Compartmentalist] ORWO NP 20 SL (ref: b16c)](#the-compartmentalist-orwo-np-20-sl-ref-b16c)
 - [[The Compartmentalist] Reflx Lab Pro 100 (ref: 8bec)](#the-compartmentalist-reflx-lab-pro-100-ref-8bec)
@@ -2088,7 +2088,7 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" width="473" height="500">
 </a>
 
-#### [@ellafridalindblom] Hasselblad Hassel-plÃ¥tar E.R.Orto (ref: ec67)
+#### [@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)
 
 ```
 Format: 6.5x9cm      |  Process : BW      
@@ -2099,7 +2099,7 @@ UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
 <a href="./archive/00204_000.jpg" target="_blank">
-	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plÃ¥tar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
+	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 #### [@ellafridalindblom] Ificolor SHR 100 (ref: 0198)
@@ -2447,7 +2447,7 @@ UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
 	<img src="./lowres/00291_000.jpg" alt="Konica Minolta Commercial Color Film 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
-#### [@ellafridalindblom] PhÃ¶bus-Platten Sheet Film (ref: d505)
+#### [@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
@@ -2458,7 +2458,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
 <a href="./archive/00282_000.jpg" target="_blank">
-	<img src="./lowres/00282_000.jpg" alt="PhÃ¶bus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
+	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
 #### [@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)
@@ -4471,7 +4471,7 @@ UUID  : 795c66ef065f442ab27e4ffb9de758b1
 	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
 </a>
 
-#### [@recycling.film] PhotocitÃ© 400 ISO (ref: e370)
+#### [@recycling.film] Photocité 400 ISO (ref: e370)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -4482,7 +4482,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
 <a href="./archive/00486_000.jpg" target="_blank">
-	<img src="./lowres/00486_000.jpg" alt="PhotocitÃ© 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
+	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
 #### [@recycling.film] Polaroid Type 42 (ref: f92c)
@@ -7579,7 +7579,7 @@ UUID  : aff79fa9e25b4654826ed6443d266a4f
 	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
 </a>
 
-#### [Pelicram] Filmfabrik KÃ¶penick Dekopan Feinkorn (ref: 1bb7)
+#### [Pelicram] Filmfabrik Köpenick Dekopan Feinkorn (ref: 1bb7)
 
 ```
 Format: 35mm         |  Process : BW      
@@ -7590,7 +7590,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
 <a href="./archive/00373_000.jpg" target="_blank">
-	<img src="./lowres/00373_000.jpg" alt="Filmfabrik KÃ¶penick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
+	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [Pelicram] Foma Fomapan 200 (ref: 60ee)
@@ -8034,7 +8034,7 @@ UUID  : 0417faf4f5be42538db49741140bc671
 	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
-#### [Pelicram] Kodak VÃ¤rikuvafilmi (ref: f9ff)
+#### [Pelicram] Kodak Värikuvafilmi (ref: f9ff)
 
 ```
 Format: 35mm         |  Process : C-41    
@@ -8045,7 +8045,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
 <a href="./archive/00146_000.jpg" target="_blank">
-	<img src="./lowres/00146_000.jpg" alt="Kodak VÃ¤rikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
+	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 #### [Pelicram] Konica KonicaColor VX 200 (ref: fe53)
@@ -8342,7 +8342,7 @@ UUID  : a6d5604fc4404666acf42801bbc8145b
 	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
 </a>
 
-#### [Rafa Laguillo] LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### [Rafa Laguillo] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -8353,7 +8353,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃƒÂ¨re Union Photographique Industrielle Plaques au GÃƒÂ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### [Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)
@@ -8636,7 +8636,7 @@ UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
-#### [The Compartmentalist] Lomography Lomochrome Colorâ€™92 (ref: 0960)
+#### [The Compartmentalist] Lomography Lomochrome Color’92 (ref: 0960)
 
 ```
 Format: 120          |  Process : C-41    
@@ -8647,7 +8647,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
 <a href="./archive/00336_000.jpg" target="_blank">
-	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Colorâ€™92 120 film box outside" loading="lazy" width="500" height="275">
+	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 #### [The Compartmentalist] Minolta Minolta 16 Color Film For Prints (ref: a2ff)
