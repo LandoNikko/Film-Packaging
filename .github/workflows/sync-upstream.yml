@@ -29,7 +29,68 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git merge upstream/master -X ours \
-            -m "Sync upstream/master — kept local overrides [skip ci]" || echo "Nothing to merge"
+            -m "Sync upstream/master — kept local overrides [skip ci]"
+
+      - name: Reconcile upstream catalogue rows
+        run: |
+          python - <<'PY'
+          import csv
+          import io
+          import subprocess
+          from pathlib import Path
+
+          catalog_path = Path("film_packaging/database.csv")
+          upstream_csv = subprocess.check_output(
+              ["git", "show", "upstream/master:film_packaging/database.csv"],
+              text=True,
+          )
+
+          with catalog_path.open(encoding="utf-8", newline="") as file:
+              local_rows = list(csv.DictReader(file))
+              fieldnames = list(local_rows[0].keys()) if local_rows else []
+
+          upstream_rows = list(csv.DictReader(io.StringIO(upstream_csv)))
+          if not local_rows or not upstream_rows:
+              raise ValueError("Local or upstream database is empty")
+          if fieldnames != list(upstream_rows[0].keys()):
+              raise ValueError("Local and upstream database schemas differ")
+
+          def by_filename(rows, source):
+              result = {}
+              for row in rows:
+                  filename = row["filename"].strip()
+                  if not filename or filename in result:
+                      raise ValueError(
+                          f"Duplicate or empty filename in {source}: {filename!r}"
+                      )
+                  result[filename] = row
+              return result
+
+          local_by_filename = by_filename(local_rows, "local database")
+          upstream_by_filename = by_filename(upstream_rows, "upstream database")
+
+          additions = [
+              row for filename, row in upstream_by_filename.items()
+              if filename not in local_by_filename
+          ]
+          overrides = [
+              filename for filename in local_by_filename.keys() & upstream_by_filename.keys()
+              if local_by_filename[filename] != upstream_by_filename[filename]
+          ]
+
+          merged_rows = sorted(
+              local_rows + additions,
+              key=lambda row: (int(row["index"]), int(row["sub_index"])),
+          )
+
+          with catalog_path.open("w", encoding="utf-8", newline="") as file:
+              writer = csv.DictWriter(file, fieldnames=fieldnames, lineterminator="\n")
+              writer.writeheader()
+              writer.writerows(merged_rows)
+
+          print(f"Added {len(additions)} upstream rows.")
+          print(f"Kept {len(overrides)} local metadata overrides.")
+          PY
 
       - name: Remove upstream pycache artifacts
         run: |
@@ -43,11 +104,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Regenerate gallery data
-        run: python generate_js_data.py
+      - name: Install page-generation dependency
+        run: python -m pip install Pillow
+
+      - name: Regenerate gallery and catalogue pages
+        run: |
+          python generate_js_data.py
+          cd film_packaging && python update_page.py
 
       - name: Commit and push
         run: |
-          git add assets/js/gallery-data.js
+          git add film_packaging/database.csv assets/js/gallery-data.js film_packaging/by_*.md
           git commit -m "Auto-sync upstream + regenerate gallery data [skip ci]" || echo "No changes to commit"
           git push
