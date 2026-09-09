@@ -15,7 +15,7 @@ def make_description_string(this_entry, keyname):
     return f"{attri_disp_name:8}: {this_entry[keyname]}\n"
 
 def make_alt_text(this_entry):
-    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} {this_entry[ITEM_FORMAT_KEY]} {this_entry[ITEM_TYPE_KEY].replace("_", " ")}"
+    return f"{this_entry[ITEM_BRAND_KEY]} {this_entry[ITEM_PRODUCT_NAME_KEY]} {this_entry[ITEM_FORMAT_KEY]} {this_entry[ITEM_TYPE_KEY].replace('_', ' ')}"
 
 def make_subtitle(this_entry, foretext_key=None, foretext_func=None):
     front_bit = ""
