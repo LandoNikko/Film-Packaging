@@ -1,3 +1,79 @@
+const STAR_STORAGE_KEY = 'fpArchive:starredEntries:v1';
+const LEGACY_PIN_STORAGE_KEY = 'fpArchive:pinnedEntries:v1';
+
+class StarStore {
+    constructor() {
+        this.starred = new Set();
+        this.listeners = new Set();
+        this.load();
+
+        window.addEventListener('storage', (event) => {
+            if (event.key === STAR_STORAGE_KEY || event.key === LEGACY_PIN_STORAGE_KEY) {
+                this.load(false);
+                this.listeners.forEach((fn) => fn());
+            }
+        });
+    }
+
+    load(notify = false) {
+        let next = new Set();
+        try {
+            let raw = localStorage.getItem(STAR_STORAGE_KEY);
+            if (!raw) {
+                raw = localStorage.getItem(LEGACY_PIN_STORAGE_KEY);
+                if (raw) {
+                    localStorage.setItem(STAR_STORAGE_KEY, raw);
+                    localStorage.removeItem(LEGACY_PIN_STORAGE_KEY);
+                }
+            }
+            if (raw) {
+                const parsed = JSON.parse(raw);
+                if (Array.isArray(parsed)) {
+                    next = new Set(parsed.filter((v) => typeof v === 'string' && v.length));
+                }
+            }
+        } catch {
+            next = new Set();
+        }
+        this.starred = next;
+        if (notify) {
+            this.listeners.forEach((fn) => fn());
+        }
+    }
+
+    save() {
+        try {
+            localStorage.setItem(STAR_STORAGE_KEY, JSON.stringify([...this.starred]));
+        } catch {
+            /* storage unavailable (private mode, quota, disabled) — keep in-memory state */
+        }
+    }
+
+    has(entryId) {
+        return !!entryId && this.starred.has(entryId);
+    }
+
+    toggle(entryId) {
+        if (!entryId) return false;
+        if (this.starred.has(entryId)) {
+            this.starred.delete(entryId);
+        } else {
+            this.starred.add(entryId);
+        }
+        this.save();
+        this.listeners.forEach((fn) => fn());
+        return this.starred.has(entryId);
+    }
+
+    count() {
+        return this.starred.size;
+    }
+
+    onChange(fn) {
+        if (typeof fn === 'function') this.listeners.add(fn);
+    }
+}
+
 class FilmGallery {
     constructor() {
         this.galleryData = [];
@@ -5,6 +81,8 @@ class FilmGallery {
         this.currentIndex = 0;
         this.defaultSort = { type: 'date_added', ascending: false };
         this.currentSort = { ...this.defaultSort };
+        this.starStore = new StarStore();
+        this.starStore.onChange(() => this.handleStarChange());
         
         this.init();
     }
@@ -155,6 +233,8 @@ class FilmGallery {
         document.querySelector('.lightbox-close').addEventListener('click', () => this.closeLightbox());
 
         document.getElementById('lightboxRandom').addEventListener('click', () => this.showRandomCard());
+
+        document.getElementById('lightboxStar').addEventListener('click', () => this.toggleCurrentEntryStar());
         
         const infoToggle = document.getElementById('infoToggle');
         const lightboxInfoMeta = document.querySelector('.lightbox-info-meta');
@@ -194,6 +274,10 @@ class FilmGallery {
             if ((e.key === 'r' || e.key === 'R') && !e.ctrlKey && !e.metaKey && !e.altKey) {
                 e.preventDefault();
                 this.showRandomCard();
+            }
+            if ((e.key === 's' || e.key === 'S') && !e.ctrlKey && !e.metaKey && !e.altKey) {
+                e.preventDefault();
+                this.toggleCurrentEntryStar();
             }
         });
 
@@ -372,7 +456,7 @@ class FilmGallery {
     }
 
     updateInitialToggleText() {
-        ['brand', 'format', 'process', 'expiry', 'sort'].forEach((filterType) => {
+        ['brand', 'format', 'process', 'expiry', 'starred', 'sort'].forEach((filterType) => {
             this.updateToggleText(filterType);
         });
     }
@@ -405,6 +489,15 @@ class FilmGallery {
                 });
             });
         });
+
+        const starredCheckbox = document.querySelector('input[name="starred"]');
+        if (starredCheckbox) {
+            starredCheckbox.addEventListener('change', () => {
+                this.filterGallery();
+                this.updateToggleText('starred');
+                this.reconcileLightboxAfterFilter();
+            });
+        }
 
         document.querySelectorAll('input[name="sort_mode"]').forEach((checkbox) => {
             checkbox.addEventListener('change', () => {
@@ -461,6 +554,7 @@ class FilmGallery {
             format: 'Formats',
             process: 'Processes',
             expiry: 'Expiry Dates',
+            starred: 'Starred',
             sort: 'Order'
         };
 
@@ -470,6 +564,8 @@ class FilmGallery {
             const value = selected[0];
             if (filterType === 'expiry') {
                 toggleText.textContent = value === 'unknown' ? 'Unknown' : `${value}s`;
+            } else if (filterType === 'starred') {
+                toggleText.textContent = `Starred only`;
             } else if (filterType === 'sort') {
                 toggleText.textContent = this.getSortOrderLabel(value);
             } else {
@@ -499,6 +595,7 @@ class FilmGallery {
         const selectedFormats = this.getSelectedFilterValues('format');
         const selectedProcesses = this.getSelectedFilterValues('process');
         const selectedExpiries = this.getSelectedFilterValues('expiry');
+        const starredOnly = this.getSelectedFilterValues('starred').length > 0;
 
         this.filteredData = this.galleryData.filter(item => {
             const matchesSearch = !searchTerm ||
@@ -510,23 +607,33 @@ class FilmGallery {
             const matchesFormat = selectedFormats.length === 0 || selectedFormats.includes(item.film_format);
             const matchesProcess = selectedProcesses.length === 0 || selectedProcesses.includes(item.process);
             const matchesExpiry = this.matchesExpiryFilter(item, selectedExpiries);
+            const matchesStarred = !starredOnly || this.starStore.has(ArchiveUtils.getEntryId(item));
 
-            return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry;
+            return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry && matchesStarred;
         });
 
         if (this.currentSort.type) {
             this.sortGallery(this.currentSort.type);
         } else {
+            this.applyStarredPriority();
             this.renderGallery();
             this.updateResetButtonVisibility();
         }
+    }
+
+    applyStarredPriority() {
+        this.filteredData.sort((a, b) => {
+            const aStarred = this.starStore.has(ArchiveUtils.getEntryId(a)) ? 0 : 1;
+            const bStarred = this.starStore.has(ArchiveUtils.getEntryId(b)) ? 0 : 1;
+            return aStarred - bStarred;
+        });
     }
 
     hasActiveFilters() {
         const searchTerm = document.getElementById('searchInput')?.value.trim();
         if (searchTerm) return true;
 
-        const filterNames = ['brand', 'format', 'process', 'expiry'];
+        const filterNames = ['brand', 'format', 'process', 'expiry', 'starred'];
         for (const name of filterNames) {
             if (this.getSelectedFilterValues(name).length > 0) return true;
         }
@@ -560,6 +667,10 @@ class FilmGallery {
         const isUnknownSortValue = (value) => !value || value === 'unknown';
 
         this.filteredData.sort((a, b) => {
+            const aStarred = this.starStore.has(ArchiveUtils.getEntryId(a));
+            const bStarred = this.starStore.has(ArchiveUtils.getEntryId(b));
+            if (aStarred !== bStarred) return aStarred ? -1 : 1;
+
             let aValue, bValue;
             let aUnknown = false;
             let bUnknown = false;
@@ -700,6 +811,7 @@ class FilmGallery {
             const thumbnailItem = group.front || group.back;
             const expiry = this.formatExpiryDate(thumbnailItem?.expiry_date, true);
             const thumbnailUrl = thumbnailItem.imageUrl.replace('/archive/', '/lowres/');
+            const isStarred = this.starStore.has(group.entryId);
             
             let viewType = '';
             if (group.front && group.back) {
@@ -709,14 +821,20 @@ class FilmGallery {
             }
             
             return `
-                <article class="gallery-item" data-index="${index}" data-brand="${group.metadata.brand.toLowerCase()}" data-name="${group.metadata.title}">
+                <article class="gallery-item" data-index="${index}" data-brand="${group.metadata.brand.toLowerCase()}" data-name="${group.metadata.title}" data-entry-id="${group.entryId}">
                     <div class="bottom-flap"></div>
                     <div class="top-flap"></div>
                     <div class="image-container">
                         <img src="${thumbnailUrl}" alt="${group.metadata.title}" loading="lazy" 
                              onerror="this.onerror=null; this.src='${thumbnailItem.imageUrl}';">
                     </div>
-                    <div class="brand-header" style="color: ${textColor}; background-color: ${brandBackground};">${group.metadata.brand}</div>
+                    <div class="brand-header" style="color: ${textColor}; background-color: ${brandBackground};">
+                        <span class="brand-header-name">${group.metadata.brand}</span>
+                        <button type="button" class="gallery-star" data-star-entry="${group.entryId}" aria-pressed="${isStarred}" aria-label="${isStarred ? 'Remove star' : 'Star entry'}" title="${isStarred ? 'Starred' : 'Star'}">
+                            <i class="ri-star-line" aria-hidden="true"></i>
+                            <i class="ri-star-fill" aria-hidden="true"></i>
+                        </button>
+                    </div>
                     <div class="gallery-item-info">
                         <h2 class="gallery-item-title">${group.metadata.product}</h2>
                         <div class="gallery-item-details">
@@ -734,6 +852,15 @@ class FilmGallery {
             item.addEventListener('click', () => {
                 const index = parseInt(item.dataset.index);
                 this.openLightbox(index);
+            });
+        });
+
+        container.querySelectorAll('.gallery-star').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                e.preventDefault();
+                const entryId = btn.getAttribute('data-star-entry');
+                this.starStore.toggle(entryId);
             });
         });
     }
@@ -815,6 +942,8 @@ class FilmGallery {
         if (this.updateViewControls) {
             this.updateViewControls();
         }
+
+        this.updateLightboxStarState();
     }
 
     updateUrl(filename) {
@@ -843,7 +972,87 @@ class FilmGallery {
         window.dispatchEvent(new Event('scroll'));
     }
 
+    getCurrentEntryId() {
+        if (!this.currentGroup) return '';
+        return this.currentGroup.entryId
+            || ArchiveUtils.getEntryId(this.currentGroup.front || this.currentGroup.back);
+    }
 
+    updateLightboxStarState() {
+        const btn = document.getElementById('lightboxStar');
+        if (!btn) return;
+        const entryId = this.getCurrentEntryId();
+        const starred = this.starStore.has(entryId);
+        btn.setAttribute('aria-pressed', starred ? 'true' : 'false');
+        btn.setAttribute('aria-label', starred ? 'Remove star' : 'Star entry');
+        btn.title = starred ? 'Starred (S)' : 'Star (S)';
+        const icon = btn.querySelector('i');
+        if (icon) {
+            icon.className = starred ? 'ri-star-fill' : 'ri-star-line';
+        }
+    }
+
+    toggleCurrentEntryStar() {
+        const entryId = this.getCurrentEntryId();
+        if (!entryId) return;
+        this.starStore.toggle(entryId);
+    }
+
+    handleStarChange() {
+        const lightboxOpen = document.body.classList.contains('lightbox-open');
+        if (lightboxOpen) {
+            const currentEntryId = this.getCurrentEntryId();
+            const starredOnly = this.getSelectedFilterValues('starred').length > 0;
+            const stillStarred = this.starStore.has(currentEntryId);
+
+            this.filterGallery();
+
+            if (starredOnly && !stillStarred) {
+                this.closeLightbox();
+                return;
+            }
+
+            const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
+            const newIndex = groupedData.findIndex((group) =>
+                (group.entryId || ArchiveUtils.getEntryId(group.front || group.back)) === currentEntryId
+            );
+            if (newIndex === -1) {
+                this.closeLightbox();
+                return;
+            }
+            const preserveImageIndex = this.currentImageIndex;
+            this.openLightbox(newIndex);
+            this.currentImageIndex = Math.min(
+                preserveImageIndex,
+                this.getAvailableImages().length - 1
+            );
+            if (this.updateViewControls) this.updateViewControls();
+            this.updateLightboxStarState();
+        } else {
+            this.filterGallery();
+        }
+    }
+
+    reconcileLightboxAfterFilter() {
+        if (!document.body.classList.contains('lightbox-open')) return;
+        const currentEntryId = this.getCurrentEntryId();
+        const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
+        const newIndex = groupedData.findIndex((group) =>
+            (group.entryId || ArchiveUtils.getEntryId(group.front || group.back)) === currentEntryId
+        );
+        if (newIndex === -1) {
+            this.closeLightbox();
+            return;
+        }
+        const preserveImageIndex = this.currentImageIndex;
+        this.openLightbox(newIndex);
+        this.currentImageIndex = Math.min(
+            preserveImageIndex,
+            this.getAvailableImages().length - 1
+        );
+        if (this.updateViewControls) this.updateViewControls();
+        this.updateLightboxStarState();
+    }
 
     showImage(item) {
         const lightboxImage = document.getElementById('lightboxImage');
@@ -1063,7 +1272,7 @@ class FilmGallery {
     resetAllFilters() {
         document.getElementById('searchInput').value = '';
 
-        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"], input[name="sort_mode"]').forEach((input) => {
+        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"], input[name="starred"], input[name="sort_mode"]').forEach((input) => {
             input.checked = false;
         });
 

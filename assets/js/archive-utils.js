@@ -23,14 +23,20 @@
         return global.matchMedia(MOBILE_MEDIA_QUERY).matches;
     }
 
+    function getEntryId(item) {
+        if (!item || !item.filename) return '';
+        return item.filename.replace(/_\d{3}\.jpg$/, '');
+    }
+
     function groupItemsByBaseFilename(items) {
         const grouped = {};
 
         items.forEach((item) => {
-            const baseFilename = item.filename.replace(/_\d{3}\.jpg$/, '');
+            const baseFilename = getEntryId(item);
 
             if (!grouped[baseFilename]) {
                 grouped[baseFilename] = {
+                    entryId: baseFilename,
                     front: null,
                     back: null,
                     metadata: {
@@ -281,6 +287,7 @@
     global.ArchiveUtils = {
         MOBILE_MEDIA_QUERY,
         isMobileViewport,
+        getEntryId,
         groupItemsByBaseFilename,
         computeArchiveStats,
         applyHeaderStats,

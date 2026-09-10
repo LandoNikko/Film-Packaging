@@ -72,6 +72,27 @@
                 </div>
             </div>
 
+            <div class="filter-section filter-section--starred">
+                <div class="filter-icon-container">
+                    <i class="ri-star-line filter-icon" aria-hidden="true"></i>
+                </div>
+                <div class="filter-content-wrapper">
+                    <button class="filter-toggle" data-target="starred-section">
+                        <span>Starred</span>
+                        <span class="toggle-icon"><i class="ri-arrow-down-s-line"></i></span>
+                    </button>
+                    <div class="filter-content" id="starred-section">
+                        <div class="filter-options" id="starredFilter">
+                            <label class="filter-option">
+                                <input type="checkbox" name="starred" value="only">
+                                <span>Show starred only</span>
+                                <span class="checkmark">✓</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="sidebar-header">
                 <h3 class="text-heading"><span>Sort By</span> <span class="counter-display"><span id="itemCounter">0</span></span></h3>
             </div>
@@ -211,8 +232,13 @@
                 <button class="lightbox-btn lightbox-info-toggle" id="infoToggle" style="display: none;" title="Toggle Info">
                     <i class="ri-information-line"></i>
                 </button>
-                <button class="lightbox-btn lightbox-prev">&lt;</button>
-                <button class="lightbox-btn lightbox-next">&gt;</button>
+                <div class="lightbox-info-nav" aria-label="Gallery navigation">
+                    <button type="button" class="lightbox-btn lightbox-prev" aria-label="Previous entry">&lt;</button>
+                    <button type="button" class="lightbox-btn lightbox-next" aria-label="Next entry">&gt;</button>
+                    <button type="button" class="lightbox-btn lightbox-random-btn" id="lightboxRandom" aria-label="Random entry" title="Random (R)">
+                        <i class="ri-dice-line" aria-hidden="true"></i>
+                    </button>
+                </div>
                 <div class="lightbox-info-main">
                     <h3 id="lightboxTitle"></h3>
                     <div class="lightbox-item-details">
@@ -223,8 +249,8 @@
                     </div>
                 </div>
                 <div class="lightbox-info-side">
-                    <button type="button" class="lightbox-btn lightbox-random-btn" id="lightboxRandom" aria-label="Random entry" title="Random (R)">
-                        <i class="ri-dice-line" aria-hidden="true"></i>
+                    <button type="button" class="lightbox-btn lightbox-star-btn" id="lightboxStar" aria-pressed="false" aria-label="Star entry" title="Star (S)">
+                        <i class="ri-star-line" aria-hidden="true"></i>
                     </button>
                     <div class="lightbox-info-meta">
                         <p id="lightboxFileSize" class="image-meta"></p>

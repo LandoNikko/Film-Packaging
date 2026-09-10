@@ -915,7 +915,6 @@ body.lightbox-open #siteNav {
     }
 
     .site-header {
-        margin: 0 0 1rem;
         padding: 2rem 1rem;
     }
 
@@ -960,7 +959,7 @@ body.lightbox-open #siteNav {
     }
 
     .home-showcase-section .gallery-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
         gap: 1rem;
     }
 }

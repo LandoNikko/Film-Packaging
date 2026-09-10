@@ -349,6 +349,7 @@
     position: relative;
     width: 100%;
     height: 220px;
+    overflow: hidden;
 }
 
 .gallery-item img {
@@ -407,6 +408,91 @@
     font-family: var(--font-body);
     letter-spacing: 0.5px;
     border-top: 2px solid var(--border-primary);
+}
+
+.brand-header-name {
+    flex: 1;
+    min-width: 0;
+}
+
+.gallery-star {
+    position: relative;
+    flex-shrink: 0;
+    width: 1.15rem;
+    height: 1.15rem;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    color: var(--text-color);
+    transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.gallery-star[aria-pressed="true"],
+.gallery-item:hover .gallery-star {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.gallery-star[aria-pressed="true"] {
+    color: #fff;
+}
+
+.gallery-star:hover {
+    color: var(--text-color);
+}
+
+.gallery-star > i {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.15rem;
+    line-height: 1;
+}
+
+.gallery-star .ri-star-fill {
+    opacity: 0;
+}
+
+.gallery-star[aria-pressed="true"] .ri-star-line,
+.gallery-star:hover .ri-star-line {
+    opacity: 0;
+}
+
+.gallery-star[aria-pressed="true"] .ri-star-fill,
+.gallery-star:hover .ri-star-fill {
+    opacity: 1;
+}
+
+.gallery-star:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+}
+
+.lightbox-star-btn {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-shrink: 0;
+}
+
+.lightbox-star-btn i {
+    display: inline-block;
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.lightbox-star-btn[aria-pressed="true"] {
+    background: var(--text-color);
+    color: var(--card-bg);
 }
 
 /* Loading */
@@ -531,16 +617,24 @@
     z-index: 10;
 }
 
-.lightbox-info .lightbox-prev {
+.lightbox-info-nav {
+    position: absolute;
     left: 20px;
-    bottom: 0;
-    top: auto;
+    bottom: 20px;
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    z-index: 10;
 }
 
-.lightbox-info .lightbox-next {
-    left: 80px;
-    bottom: 0;
+.lightbox-info-nav .lightbox-prev,
+.lightbox-info-nav .lightbox-next,
+.lightbox-info-nav .lightbox-random-btn {
+    position: static;
     top: auto;
+    left: auto;
+    bottom: auto;
+    transform: none;
 }
 
 .lightbox-image-container {
@@ -966,6 +1060,19 @@
         right: 70px;
         bottom: 25px;
     }
+
+    .lightbox-info-nav {
+        left: 20px;
+        bottom: 25px;
+        gap: 8px;
+    }
+
+    .lightbox-info-nav .lightbox-prev,
+    .lightbox-info-nav .lightbox-next {
+        width: 40px;
+        height: 40px;
+        font-size: 1.25rem;
+    }
     
     .lightbox-info-toggle {
         position: absolute;
@@ -985,6 +1092,7 @@
         border: 1px dashed var(--border-secondary);
         padding: 12px;
         font-family: var(--font-mono);
+        background: var(--card-bg);
     }
     
     .lightbox-content {
@@ -992,6 +1100,14 @@
         height: 100%;
     }
 
+    .gallery-star {
+        width: 1.25rem;
+        height: 1.25rem;
+    }
+
+    .gallery-star > i {
+        font-size: 1.25rem;
+    }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -1001,5 +1117,9 @@
 
     .lightbox-random-btn i.is-jumping {
         animation: none;
+    }
+
+    .gallery-star {
+        transition: none;
     }
 }
