@@ -456,7 +456,7 @@ class FilmGallery {
     }
 
     updateInitialToggleText() {
-        ['brand', 'format', 'process', 'expiry', 'starred', 'sort'].forEach((filterType) => {
+        ['brand', 'format', 'process', 'expiry', 'sort'].forEach((filterType) => {
             this.updateToggleText(filterType);
         });
     }
@@ -489,15 +489,6 @@ class FilmGallery {
                 });
             });
         });
-
-        const starredCheckbox = document.querySelector('input[name="starred"]');
-        if (starredCheckbox) {
-            starredCheckbox.addEventListener('change', () => {
-                this.filterGallery();
-                this.updateToggleText('starred');
-                this.reconcileLightboxAfterFilter();
-            });
-        }
 
         document.querySelectorAll('input[name="sort_mode"]').forEach((checkbox) => {
             checkbox.addEventListener('change', () => {
@@ -554,7 +545,6 @@ class FilmGallery {
             format: 'Formats',
             process: 'Processes',
             expiry: 'Expiry Dates',
-            starred: 'Starred',
             sort: 'Order'
         };
 
@@ -564,8 +554,6 @@ class FilmGallery {
             const value = selected[0];
             if (filterType === 'expiry') {
                 toggleText.textContent = value === 'unknown' ? 'Unknown' : `${value}s`;
-            } else if (filterType === 'starred') {
-                toggleText.textContent = `Starred only`;
             } else if (filterType === 'sort') {
                 toggleText.textContent = this.getSortOrderLabel(value);
             } else {
@@ -595,8 +583,6 @@ class FilmGallery {
         const selectedFormats = this.getSelectedFilterValues('format');
         const selectedProcesses = this.getSelectedFilterValues('process');
         const selectedExpiries = this.getSelectedFilterValues('expiry');
-        const starredOnly = this.getSelectedFilterValues('starred').length > 0;
-
         this.filteredData = this.galleryData.filter(item => {
             const matchesSearch = !searchTerm ||
                 item.title.toLowerCase().includes(searchTerm) ||
@@ -607,9 +593,8 @@ class FilmGallery {
             const matchesFormat = selectedFormats.length === 0 || selectedFormats.includes(item.film_format);
             const matchesProcess = selectedProcesses.length === 0 || selectedProcesses.includes(item.process);
             const matchesExpiry = this.matchesExpiryFilter(item, selectedExpiries);
-            const matchesStarred = !starredOnly || this.starStore.has(ArchiveUtils.getEntryId(item));
 
-            return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry && matchesStarred;
+            return matchesSearch && matchesBrand && matchesFormat && matchesProcess && matchesExpiry;
         });
 
         if (this.currentSort.type) {
@@ -633,7 +618,7 @@ class FilmGallery {
         const searchTerm = document.getElementById('searchInput')?.value.trim();
         if (searchTerm) return true;
 
-        const filterNames = ['brand', 'format', 'process', 'expiry', 'starred'];
+        const filterNames = ['brand', 'format', 'process', 'expiry'];
         for (const name of filterNames) {
             if (this.getSelectedFilterValues(name).length > 0) return true;
         }
@@ -1002,15 +987,7 @@ class FilmGallery {
         const lightboxOpen = document.body.classList.contains('lightbox-open');
         if (lightboxOpen) {
             const currentEntryId = this.getCurrentEntryId();
-            const starredOnly = this.getSelectedFilterValues('starred').length > 0;
-            const stillStarred = this.starStore.has(currentEntryId);
-
             this.filterGallery();
-
-            if (starredOnly && !stillStarred) {
-                this.closeLightbox();
-                return;
-            }
 
             const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
             const newIndex = groupedData.findIndex((group) =>
@@ -1031,27 +1008,6 @@ class FilmGallery {
         } else {
             this.filterGallery();
         }
-    }
-
-    reconcileLightboxAfterFilter() {
-        if (!document.body.classList.contains('lightbox-open')) return;
-        const currentEntryId = this.getCurrentEntryId();
-        const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
-        const newIndex = groupedData.findIndex((group) =>
-            (group.entryId || ArchiveUtils.getEntryId(group.front || group.back)) === currentEntryId
-        );
-        if (newIndex === -1) {
-            this.closeLightbox();
-            return;
-        }
-        const preserveImageIndex = this.currentImageIndex;
-        this.openLightbox(newIndex);
-        this.currentImageIndex = Math.min(
-            preserveImageIndex,
-            this.getAvailableImages().length - 1
-        );
-        if (this.updateViewControls) this.updateViewControls();
-        this.updateLightboxStarState();
     }
 
     showImage(item) {
@@ -1272,7 +1228,7 @@ class FilmGallery {
     resetAllFilters() {
         document.getElementById('searchInput').value = '';
 
-        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"], input[name="starred"], input[name="sort_mode"]').forEach((input) => {
+        document.querySelectorAll('input[name="brand"], input[name="format"], input[name="process"], input[name="expiry"], input[name="sort_mode"]').forEach((input) => {
             input.checked = false;
         });
 
