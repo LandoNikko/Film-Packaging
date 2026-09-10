@@ -476,8 +476,7 @@ class FilmGallery {
             const direction = this.currentSort.ascending ? 'A–Z' : 'Z–A';
             return `Order (${direction})`;
         }
-        const direction = this.currentSort.ascending ? 'Oldest' : 'Newest';
-        return `Order (${direction})`;
+        return this.currentSort.ascending ? 'Last Added' : 'Latest Added';
     }
 
     attachFilterEventListeners() {

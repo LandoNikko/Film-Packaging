@@ -19131,8 +19131,8 @@ const GALLERY_DATA = [
   },
   {
     "filename": "00692_000.jpg",
-    "brand": "LumiÃ¨re Union Photographique Industrielle",
-    "product": "Plaques au GÃ©latino-Bromure d'Argent Extra Rapides",
+    "brand": "Lumière Union Photographique Industrielle",
+    "product": "Plaques au Gélatino-Bromure d'Argent Extra Rapides",
     "film_format": "9x12cm",
     "film_speed_iso": "Unknown",
     "process": "BW",
@@ -19141,7 +19141,7 @@ const GALLERY_DATA = [
     "item_type": "film_box_outside",
     "author": "Rafa Laguillo",
     "imageUrl": "/film_packaging/archive/00692_000.jpg",
-    "title": "LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides",
+    "title": "Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides",
     "details": "9x12cm • ISO Unknown • BW • film_box_outside"
   },
   {

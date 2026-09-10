@@ -23,6 +23,29 @@ INTENTIONALLY_UNMAPPED_FILENAMES = frozenset({
 })
 
 
+def repair_utf8_mojibake(value):
+    """Fix UTF-8 text."""
+    if not isinstance(value, str) or not value:
+        return value
+    if 'Ã' not in value and 'â' not in value:
+        return value
+    for encoding in ('latin-1', 'cp1252'):
+        try:
+            repaired = value.encode(encoding).decode('utf-8')
+        except (UnicodeDecodeError, UnicodeEncodeError):
+            continue
+        if repaired != value:
+            return repaired
+    return value
+
+
+def normalize_csv_text(value):
+    if value is None:
+        return value
+    text = str(value).strip()
+    return repair_utf8_mojibake(text)
+
+
 def load_csv_data(csv_file):
     if not csv_file.is_file():
         raise FileNotFoundError(f'Gallery database not found: {csv_file}')
@@ -38,6 +61,9 @@ def load_csv_data(csv_file):
             if filename in csv_data:
                 duplicate_filenames.append(filename)
                 continue
+            for key, value in row.items():
+                if isinstance(value, str):
+                    row[key] = normalize_csv_text(value)
             csv_data[filename] = row
 
     if duplicate_filenames:
