@@ -2,7 +2,7 @@ Film Packaging Archive is an open source community-driven archive of high-resolu
 
 **Live site:** [filmpackagingarchive.com](https://filmpackagingarchive.com)
 
-A browsable frontend of the main repository with stats, search, filtering, gallery and lightbox.
+A browsable frontend of the main repository with stats, search, filtering, gallery, lightbox and saving favorites.
 
 ![Website](https://i.imgur.com/f2bzTsf.jpeg)
 

@@ -12,7 +12,7 @@ url: "https://filmpackagingarchive.com"
 baseurl: ""
 remote_theme: pages-themes/primer@v0.6.0
 title: Film Packaging Archive
-description: High-resolution scans of photography film packages
+description: High resolution scans of photography film packages
 permissions:
   id-token: write
   pages: write
