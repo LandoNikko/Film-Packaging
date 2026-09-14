@@ -50,7 +50,7 @@ Total scans :
 - [[2026-08-15] Kodak Ektapan P3200 (ref: 2254)](#2026-08-15-kodak-ektapan-p3200-ref-2254)
 - [[2026-08-13] Kodak UltraMax (ref: 145b)](#2026-08-13-kodak-ultramax-ref-145b)
 - [[2026-08-13] Agfa Plaques Chromo Isolar (ref: 2c8a)](#2026-08-13-agfa-plaques-chromo-isolar-ref-2c8a)
-- [[2026-08-13] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#2026-08-13-lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [[2026-08-13] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#2026-08-13-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[2026-08-13] Konica SXG 100 (ref: 4096)](#2026-08-13-konica-sxg-100-ref-4096)
 - [[2026-08-13] Lucky LuckyColor BR100 (ref: a71c)](#2026-08-13-lucky-luckycolor-br100-ref-a71c)
 - [[2026-08-04] Optik Oldschool OptiMono 100 (ref: 312c)](#2026-08-04-optik-oldschool-optimono-100-ref-312c)
@@ -1254,7 +1254,7 @@ UUID  : 69f7043994f94dffb90d512ed5bc2c8a
 	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
 </a>
 
-#### [2026-08-13] LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### [2026-08-13] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -1265,7 +1265,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 

@@ -576,7 +576,7 @@ Total scans :
 - [Lucky SHD 100 New Generation (ref: 23f6)](#lucky-shd-100-new-generation-ref-23f6)
 - [Lucky SHD400 (ref: 15b5)](#lucky-shd400-ref-15b5)
 - [Lucky Super New 200 (ref: e0a7)](#lucky-super-new-200-ref-e0a7)
-- [LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)](#lumiã-re-union-photographique-industrielle-plaques-au-gã-latino-bromure-dargent-extra-rapides-ref-a44b)
+- [Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [Marix Professional Negative Movie Color Film (ref: c457)](#marix-professional-negative-movie-color-film-ref-c457)
 - [MarixFilm Aircolor (ref: d9c4)](#marixfilm-aircolor-ref-d9c4)
 - [Max Spielmann Maxi Color (ref: bf60)](#max-spielmann-maxi-color-ref-bf60)
@@ -11527,7 +11527,7 @@ UUID  : 2510bd0dd10940e0888b722ec00de0a7
 	<img src="./lowres/00641_001.jpg" alt="Lucky Super New 200 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
-#### LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides (ref: a44b)
+#### Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)
 
 ```
 Format: 9x12cm       |  Process : BW      
@@ -11538,7 +11538,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
 <a href="./archive/00692_000.jpg" target="_blank">
-	<img src="./lowres/00692_000.jpg" alt="LumiÃ¨re Union Photographique Industrielle Plaques au GÃ©latino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
+	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 #### Marix Professional Negative Movie Color Film (ref: c457)
