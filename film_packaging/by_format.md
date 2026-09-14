@@ -236,6 +236,7 @@ Total scans :
 - [[35mm] ADOX KB 17 (ref: 88a5)](#35mm-adox-kb-17-ref-88a5)
 - [[35mm] ADOX KB17 (ref: 2c95)](#35mm-adox-kb17-ref-2c95)
 - [[35mm] Agfa APX (ref: 5276)](#35mm-agfa-apx-ref-5276)
+- [[35mm] Agfa APX 400 (ref: 379a)](#35mm-agfa-apx-400-ref-379a)
 - [[35mm] Agfa AgfaChrome 50 S (ref: 71a8)](#35mm-agfa-agfachrome-50-s-ref-71a8)
 - [[35mm] Agfa AgfaColor CT 18 (ref: 1fef)](#35mm-agfa-agfacolor-ct-18-ref-1fef)
 - [[35mm] Agfa AgfaColor HDC Plus (ref: 016b)](#35mm-agfa-agfacolor-hdc-plus-ref-016b)
@@ -5234,6 +5235,27 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 
 <a href="./archive/00093_001.jpg" target="_blank">
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
+#### [35mm] Agfa APX 400 (ref: 379a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2030-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-11   |  Author  : DaFujiDude
+UUID  : 4cda6eac0745457482882631cdbf379a
+```
+
+<a href="./archive/00720_000.jpg" target="_blank">
+	<img src="./lowres/00720_000.jpg" alt="Agfa APX 400 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
+
+
+`UUID: 89461795b7044a0e800a3a5912ded968`↓
+
+<a href="./archive/00720_001.jpg" target="_blank">
+	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
 </a>
 
 #### [35mm] Agfa AgfaChrome 50 S (ref: 71a8)

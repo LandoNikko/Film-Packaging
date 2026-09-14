@@ -680,6 +680,7 @@ Total scans :
 - [[2029] Mr. Negative Black Cat (ref: cc7d)](#2029-mr-negative-black-cat-ref-cc7d)
 - [[2029] Kentmere PAN 400 (ref: 827e)](#2029-kentmere-pan-400-ref-827e)
 - [[2029] Kentmere PAN 400 (ref: a327)](#2029-kentmere-pan-400-ref-a327)
+- [[2030] Agfa APX 400 (ref: 379a)](#2030-agfa-apx-400-ref-379a)
 - [[2030] Kentmere PAN 200 (ref: 0e32)](#2030-kentmere-pan-200-ref-0e32)
 - [[Unknown] A Girl Has Film Tetris 200 (ref: b309)](#unknown-a-girl-has-film-tetris-200-ref-b309)
 - [[Unknown] Agfa Agfacolor Umkehr-Ultra T (ref: 01db)](#unknown-agfa-agfacolor-umkehr-ultra-t-ref-01db)
@@ -13940,6 +13941,27 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 
 <a href="./archive/00145_001.jpg" target="_blank">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="438" height="500">
+</a>
+
+#### [2030] Agfa APX 400 (ref: 379a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2030-03 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-11   |  Author  : DaFujiDude
+UUID  : 4cda6eac0745457482882631cdbf379a
+```
+
+<a href="./archive/00720_000.jpg" target="_blank">
+	<img src="./lowres/00720_000.jpg" alt="Agfa APX 400 35mm film box outside" loading="lazy" width="392" height="500">
+</a>
+
+
+`UUID: 89461795b7044a0e800a3a5912ded968`↓
+
+<a href="./archive/00720_001.jpg" target="_blank">
+	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
 </a>
 
 #### [2030] Kentmere PAN 200 (ref: 0e32)
