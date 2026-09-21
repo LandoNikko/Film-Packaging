@@ -30,8 +30,9 @@ Total scans :
 - [ADOX HR 50 (ref: 4da7)](#adox-hr-50-ref-4da7)
 - [ADOX KB 17 (ref: 88a5)](#adox-kb-17-ref-88a5)
 - [ADOX KB17 (ref: 2c95)](#adox-kb17-ref-2c95)
-- [Agfa APX (ref: 12c7)](#agfa-apx-ref-12c7)
 - [Agfa APX (ref: 5276)](#agfa-apx-ref-5276)
+- [Agfa APX 100 (ref: 12c7)](#agfa-apx-100-ref-12c7)
+- [Agfa APX 200 (ref: 9165)](#agfa-apx-200-ref-9165)
 - [Agfa APX 400 (ref: 379a)](#agfa-apx-400-ref-379a)
 - [Agfa AgfaChrome 100RS (ref: 2c42)](#agfa-agfachrome-100rs-ref-2c42)
 - [Agfa AgfaChrome 50 S (ref: eb28)](#agfa-agfachrome-50-s-ref-eb28)
@@ -324,6 +325,7 @@ Total scans :
 - [Kirkland Signature Color Print Film (ref: 0441)](#kirkland-signature-color-print-film-ref-0441)
 - [Klick 400ASA (ref: 8779)](#klick-400asa-ref-8779)
 - [Klick APS Film (ref: 4b88)](#klick-aps-film-ref-4b88)
+- [Klick Extra Definition Multi Purpose Film (ref: 2e01)](#klick-extra-definition-multi-purpose-film-ref-2e01)
 - [Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [Klick XD200 (ref: 44d7)](#klick-xd200-ref-44d7)
 - [Kodak 110 Film (ref: 8cca)](#kodak-110-film-ref-8cca)
@@ -564,6 +566,7 @@ Total scans :
 - [Lomography Orca (ref: d506)](#lomography-orca-ref-d506)
 - [Lomography Postdam (ref: 2769)](#lomography-postdam-ref-2769)
 - [Lomography Postdam (ref: d0c6)](#lomography-postdam-ref-d0c6)
+- [Lomography Redscale XR Negative (ref: e897)](#lomography-redscale-xr-negative-ref-e897)
 - [Lomography Tiger (ref: 5b62)](#lomography-tiger-ref-5b62)
 - [Lomography Tiger (ref: 26dd)](#lomography-tiger-ref-26dd)
 - [Lucky C200 (ref: f727)](#lucky-c200-ref-f727)
@@ -671,6 +674,7 @@ Total scans :
 - [Polaroid Spectra Film (ref: 7a94)](#polaroid-spectra-film-ref-7a94)
 - [Polaroid TZ Artistic Fade to Black (ref: de21)](#polaroid-tz-artistic-fade-to-black-ref-de21)
 - [Polaroid Type 42 (ref: f92c)](#polaroid-type-42-ref-f92c)
+- [Polaroid Viva (ref: 271b)](#polaroid-viva-ref-271b)
 - [Polaroid Originals B&W Spectra Film (ref: 7f24)](#polaroid-originals-b-w-spectra-film-ref-7f24)
 - [Polaroid Originals Color 600 Film (ref: 97cb)](#polaroid-originals-color-600-film-ref-97cb)
 - [Polaroid Originals Color SX-70 Film (ref: 7238)](#polaroid-originals-color-sx-70-film-ref-7238)
@@ -689,7 +693,7 @@ Total scans :
 - [Reflx Lab Pro 100 (ref: 8bec)](#reflx-lab-pro-100-ref-8bec)
 - [Reflx Lab Pro 100 (ref: 1311)](#reflx-lab-pro-100-ref-1311)
 - [Reto Amber D400 (ref: 08ad)](#reto-amber-d400-ref-08ad)
-- [Ricoh Golden "16" (ref: c02c)](#ricoh-golden-16-ref-c02c)
+- [Ricoh Golden 16 (ref: c02c)](#ricoh-golden-16-ref-c02c)
 - [Robot NR-Cassette (ref: bc7a)](#robot-nr-cassette-ref-bc7a)
 - [Rollei Infrared (ref: eae2)](#rollei-infrared-ref-eae2)
 - [Rollei Infrared (ref: 4f54)](#rollei-infrared-ref-4f54)
@@ -896,27 +900,6 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
 </a>
 
-#### Agfa APX (ref: 12c7)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 100          |  Expiry  : 2008-07 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-01-04   |  Author  : dekuNukem
-UUID  : a20bbca534454915a6970b6ede2212c7
-```
-
-<a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
-</a>
-
-
-`UUID: dd262792b6a446dcab73a07738f8a8dd`↓
-
-<a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
-</a>
-
 #### Agfa APX (ref: 5276)
 
 ```
@@ -936,6 +919,41 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 
 <a href="./archive/00093_001.jpg" target="_blank">
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
+</a>
+
+#### Agfa APX 100 (ref: 12c7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2008-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
+UUID  : a20bbca534454915a6970b6ede2212c7
+```
+
+<a href="./archive/00011_000.jpg" target="_blank">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
+</a>
+
+
+`UUID: dd262792b6a446dcab73a07738f8a8dd`↓
+
+<a href="./archive/00011_001.jpg" target="_blank">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
+</a>
+
+#### Agfa APX 200 (ref: 9165)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2030-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : DaFujiDude
+UUID  : afe453ec6b4e476dbacceffdf0e89165
+```
+
+<a href="./archive/00723_000.jpg" target="_blank">
+	<img src="./lowres/00723_000.jpg" alt="Agfa APX 200 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 #### Agfa APX 400 (ref: 379a)
@@ -6612,6 +6630,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
 </a>
 
+#### Klick Extra Definition Multi Purpose Film (ref: 2e01)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-14   |  Author  : dekuNukem
+UUID  : 1de78d118b71405fbc6d5129f08b2e01
+```
+
+<a href="./archive/00721_000.jpg" target="_blank">
+	<img src="./lowres/00721_000.jpg" alt="Klick Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="429" height="500">
+</a>
+
 #### Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
 
 ```
@@ -8468,7 +8500,7 @@ UUID  : 6239a04366d74208a9010cd231688833
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: Unknown 
+Type  : Single Pack  |  Quantity: 15m     
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
@@ -9090,7 +9122,7 @@ UUID  : 5d0c054ebc17452397de86653bf42361
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-01 
+ISO   : Unknown      |  Expiry  : 1916-08 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
@@ -11266,6 +11298,27 @@ Notes : Black & White POSTDAM 35mm Kino Film
 
 <a href="./archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### Lomography Redscale XR Negative (ref: e897)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50-200       |  Expiry  : 2028-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : @Hol.m35
+UUID  : 4594095faf2d4c10bb4a81f5253ce897
+```
+
+<a href="./archive/00724_000.jpg" target="_blank">
+	<img src="./lowres/00724_000.jpg" alt="Lomography Redscale XR Negative 35mm film box outside" loading="lazy" width="343" height="500">
+</a>
+
+
+`UUID: f9bbb1fb19074f028460d8005465d92d`↓
+
+<a href="./archive/00724_001.jpg" target="_blank">
+	<img src="./lowres/00724_001.jpg" alt="Lomography Redscale XR Negative 35mm film box inside" loading="lazy" width="376" height="499">
 </a>
 
 #### Lomography Tiger (ref: 5b62)
@@ -13688,6 +13741,34 @@ UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
+#### Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
+</a>
+
 #### Polaroid Originals B&W Spectra Film (ref: 7f24)
 
 ```
@@ -14024,7 +14105,7 @@ UUID  : 075938ec54de4c4bbee63671e4c208ad
 	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" width="399" height="500">
 </a>
 
-#### Ricoh Golden "16" (ref: c02c)
+#### Ricoh Golden 16 (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -14035,35 +14116,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### Robot NR-Cassette (ref: bc7a)

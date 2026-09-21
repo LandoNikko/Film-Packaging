@@ -53,6 +53,7 @@ Total scans :
 - [[@Hol.m35] Lomography Color Negative Film (ref: d986)](#holm35-lomography-color-negative-film-ref-d986)
 - [[@Hol.m35] Lomography Postdam (ref: 2769)](#holm35-lomography-postdam-ref-2769)
 - [[@Hol.m35] Lomography Postdam (ref: d0c6)](#holm35-lomography-postdam-ref-d0c6)
+- [[@Hol.m35] Lomography Redscale XR Negative (ref: e897)](#holm35-lomography-redscale-xr-negative-ref-e897)
 - [[@Hol.m35] Lucky C200 (ref: e6f8)](#holm35-lucky-c200-ref-e6f8)
 - [[@Hol.m35] Lucky C200 (ref: b0cc)](#holm35-lucky-c200-ref-b0cc)
 - [[@Hol.m35] Lucky C400 (ref: a02c)](#holm35-lucky-c400-ref-a02c)
@@ -282,6 +283,7 @@ Total scans :
 - [[Chrisbes] Reflx Lab 800T (ref: 6b6b)](#chrisbes-reflx-lab-800t-ref-6b6b)
 - [[Chrisbes] Reflx Lab Fortuna (ref: 56a5)](#chrisbes-reflx-lab-fortuna-ref-56a5)
 - [[Constantino] Ogapan Panchromatic (ref: 9c23)](#constantino-ogapan-panchromatic-ref-9c23)
+- [[DaFujiDude] Agfa APX 200 (ref: 9165)](#dafujidude-agfa-apx-200-ref-9165)
 - [[DaFujiDude] Agfa APX 400 (ref: 379a)](#dafujidude-agfa-apx-400-ref-379a)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
 - [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
@@ -476,7 +478,7 @@ Total scans :
 - [[benjaminbeeroll] Mystic Color Lab Superior 35mm Color Print Film (ref: 4edf)](#benjaminbeeroll-mystic-color-lab-superior-35mm-color-print-film-ref-4edf)
 - [[benjaminbeeroll] Polaroid 600 Platinum (ref: cd53)](#benjaminbeeroll-polaroid-600-platinum-ref-cd53)
 - [[dekuNukem] ADOX KB17 (ref: 2c95)](#dekunukem-adox-kb17-ref-2c95)
-- [[dekuNukem] Agfa APX (ref: 12c7)](#dekunukem-agfa-apx-ref-12c7)
+- [[dekuNukem] Agfa APX 100 (ref: 12c7)](#dekunukem-agfa-apx-100-ref-12c7)
 - [[dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)](#dekunukem-agfa-agfacolor-ct-18-ref-1fef)
 - [[dekuNukem] Agfa AgfaColor HDC Plus (ref: d22b)](#dekunukem-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[dekuNukem] Agfa AgfaColor Optima 200 (ref: 393d)](#dekunukem-agfa-agfacolor-optima-200-ref-393d)
@@ -536,6 +538,7 @@ Total scans :
 - [[dekuNukem] Kentmere PAN 400 (ref: 827e)](#dekunukem-kentmere-pan-400-ref-827e)
 - [[dekuNukem] Klick 400ASA (ref: 8779)](#dekunukem-klick-400asa-ref-8779)
 - [[dekuNukem] Klick APS Film (ref: 4b88)](#dekunukem-klick-aps-film-ref-4b88)
+- [[dekuNukem] Klick Extra Definition Multi Purpose Film (ref: 2e01)](#dekunukem-klick-extra-definition-multi-purpose-film-ref-2e01)
 - [[dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)](#dekunukem-klick-max-extra-definition-multi-purpose-film-ref-8ae4)
 - [[dekuNukem] Klick XD200 (ref: 44d7)](#dekunukem-klick-xd200-ref-44d7)
 - [[dekuNukem] Kodak Advantix Ultra (ref: 566b)](#dekunukem-kodak-advantix-ultra-ref-566b)
@@ -607,7 +610,7 @@ Total scans :
 - [[dekuNukem] Polaroid Polavision Phototape Land Cassette Type 608 (ref: 90b9)](#dekunukem-polaroid-polavision-phototape-land-cassette-type-608-ref-90b9)
 - [[dekuNukem] Premium Super XG (ref: 8ccd)](#dekunukem-premium-super-xg-ref-8ccd)
 - [[dekuNukem] PrinzColor Colour Negative Film (ref: 448c)](#dekunukem-prinzcolor-colour-negative-film-ref-448c)
-- [[dekuNukem] Ricoh Golden "16" (ref: c02c)](#dekunukem-ricoh-golden-16-ref-c02c)
+- [[dekuNukem] Ricoh Golden 16 (ref: c02c)](#dekunukem-ricoh-golden-16-ref-c02c)
 - [[dekuNukem] Robot NR-Cassette (ref: bc7a)](#dekunukem-robot-nr-cassette-ref-bc7a)
 - [[dekuNukem] Rollei Infrared (ref: 4f54)](#dekunukem-rollei-infrared-ref-4f54)
 - [[dekuNukem] Rollei Retro 80S (ref: e6c0)](#dekunukem-rollei-retro-80s-ref-e6c0)
@@ -701,6 +704,7 @@ Total scans :
 - [[nyctomanica] Polaroid Land Pack Film Type 107 (ref: 1b9a)](#nyctomanica-polaroid-land-pack-film-type-107-ref-1b9a)
 - [[nyctomanica] Polaroid Purple 600 Film Reclaimed Series (ref: aad6)](#nyctomanica-polaroid-purple-600-film-reclaimed-series-ref-aad6)
 - [[nyctomanica] Polaroid TZ Artistic Fade to Black (ref: de21)](#nyctomanica-polaroid-tz-artistic-fade-to-black-ref-de21)
+- [[nyctomanica] Polaroid Viva (ref: 271b)](#nyctomanica-polaroid-viva-ref-271b)
 - [[nyctomanica] Polaroid Originals B&W Spectra Film (ref: 7f24)](#nyctomanica-polaroid-originals-b-w-spectra-film-ref-7f24)
 - [[nyctomanica] Polaroid Originals Color 600 Film (ref: 97cb)](#nyctomanica-polaroid-originals-color-600-film-ref-97cb)
 - [[nyctomanica] Polaroid Originals Color SX-70 Film (ref: 7238)](#nyctomanica-polaroid-originals-color-sx-70-film-ref-7238)
@@ -1294,6 +1298,27 @@ Notes : Black & White POSTDAM 35mm Kino Film
 
 <a href="./archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
+</a>
+
+#### [@Hol.m35] Lomography Redscale XR Negative (ref: e897)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 50-200       |  Expiry  : 2028-06 
+Type  : Multi-Pack-3 |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : @Hol.m35
+UUID  : 4594095faf2d4c10bb4a81f5253ce897
+```
+
+<a href="./archive/00724_000.jpg" target="_blank">
+	<img src="./lowres/00724_000.jpg" alt="Lomography Redscale XR Negative 35mm film box outside" loading="lazy" width="343" height="500">
+</a>
+
+
+`UUID: f9bbb1fb19074f028460d8005465d92d`↓
+
+<a href="./archive/00724_001.jpg" target="_blank">
+	<img src="./lowres/00724_001.jpg" alt="Lomography Redscale XR Negative 35mm film box inside" loading="lazy" width="376" height="499">
 </a>
 
 #### [@Hol.m35] Lucky C200 (ref: e6f8)
@@ -5354,6 +5379,20 @@ UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
+#### [DaFujiDude] Agfa APX 200 (ref: 9165)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2030-10 
+Type  : Single Pack  |  Quantity: 36exp   
+Added : 2026-09-17   |  Author  : DaFujiDude
+UUID  : afe453ec6b4e476dbacceffdf0e89165
+```
+
+<a href="./archive/00723_000.jpg" target="_blank">
+	<img src="./lowres/00723_000.jpg" alt="Agfa APX 200 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
 #### [DaFujiDude] Agfa APX 400 (ref: 379a)
 
 ```
@@ -5527,7 +5566,7 @@ UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: Unknown 
+Type  : Single Pack  |  Quantity: 15m     
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
@@ -8319,7 +8358,7 @@ UUID  : 69f7043994f94dffb90d512ed5bc2c8a
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-01 
+ISO   : Unknown      |  Expiry  : 1916-08 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
@@ -9387,7 +9426,7 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
 </a>
 
-#### [dekuNukem] Agfa APX (ref: 12c7)
+#### [dekuNukem] Agfa APX 100 (ref: 12c7)
 
 ```
 Format: 120          |  Process : BW      
@@ -9398,14 +9437,14 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
 <a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
 #### [dekuNukem] Agfa AgfaColor CT 18 (ref: 1fef)
@@ -10814,6 +10853,20 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 
 <a href="./archive/00063_001.jpg" target="_blank">
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
+</a>
+
+#### [dekuNukem] Klick Extra Definition Multi Purpose Film (ref: 2e01)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 24exp   
+Added : 2026-09-14   |  Author  : dekuNukem
+UUID  : 1de78d118b71405fbc6d5129f08b2e01
+```
+
+<a href="./archive/00721_000.jpg" target="_blank">
+	<img src="./lowres/00721_000.jpg" alt="Klick Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 #### [dekuNukem] Klick Max Extra Definition Multi Purpose Film (ref: 8ae4)
@@ -12435,7 +12488,7 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
 </a>
 
-#### [dekuNukem] Ricoh Golden "16" (ref: c02c)
+#### [dekuNukem] Ricoh Golden 16 (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -12446,35 +12499,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [dekuNukem] Robot NR-Cassette (ref: bc7a)
@@ -14239,6 +14292,34 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 
 <a href="./archive/00591_001.jpg" target="_blank">
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
+</a>
+
+#### [nyctomanica] Polaroid Viva (ref: 271b)
+
+```
+Format: Instant Pack Film|  Process : Instant 
+ISO   : 125          |  Expiry  : 2008-05 
+Type  : Single Pack  |  Quantity: 10exp   
+Added : 2026-09-14   |  Author  : nyctomanica
+UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
+```
+
+<a href="./archive/00722_000.jpg" target="_blank">
+	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
+</a>
+
+
+`UUID: 416145134d20498dbd4947aaeef1ce5b`↓
+
+<a href="./archive/00722_001.jpg" target="_blank">
+	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
+</a>
+
+
+`UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
+
+<a href="./archive/00722_002.jpg" target="_blank">
+	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
 </a>
 
 #### [nyctomanica] Polaroid Originals B&W Spectra Film (ref: 7f24)
