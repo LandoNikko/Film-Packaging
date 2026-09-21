@@ -1,7 +1,7 @@
 // Gallery Data Generator
 // This file contains all the gallery data to avoid CORS issues
 // Generated from film_packaging/database.csv and archive directory
-// Total items: 1321
+// Total items: 1328
 
 const GALLERY_DATA = [
   {
@@ -19818,6 +19818,111 @@ const GALLERY_DATA = [
     "imageUrl": "/film_packaging/archive/00720_001.jpg",
     "title": "Agfa APX 400",
     "details": "35mm • ISO 400 • BW • film_box_inside"
+  },
+  {
+    "filename": "00721_000.jpg",
+    "brand": "Klick",
+    "product": "Extra Definition Multi Purpose Film",
+    "film_format": "35mm",
+    "film_speed_iso": "200",
+    "process": "C-41",
+    "expiry_date": "200506",
+    "date_added": "1789391494",
+    "item_type": "film_box_outside",
+    "author": "dekuNukem",
+    "imageUrl": "/film_packaging/archive/00721_000.jpg",
+    "title": "Klick Extra Definition Multi Purpose Film",
+    "details": "35mm • ISO 200 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00722_000.jpg",
+    "brand": "Polaroid",
+    "product": "Viva",
+    "film_format": "Instant Pack Film",
+    "film_speed_iso": "125",
+    "process": "Instant",
+    "expiry_date": "200805",
+    "date_added": "1789391860",
+    "item_type": "film_box_outside",
+    "author": "nyctomanica",
+    "imageUrl": "/film_packaging/archive/00722_000.jpg",
+    "title": "Polaroid Viva",
+    "details": "Instant Pack Film • ISO 125 • Instant • film_box_outside"
+  },
+  {
+    "filename": "00722_001.jpg",
+    "brand": "Polaroid",
+    "product": "Viva",
+    "film_format": "Instant Pack Film",
+    "film_speed_iso": "125",
+    "process": "Instant",
+    "expiry_date": "200805",
+    "date_added": "1789391862",
+    "item_type": "film_box_inside",
+    "author": "nyctomanica",
+    "imageUrl": "/film_packaging/archive/00722_001.jpg",
+    "title": "Polaroid Viva",
+    "details": "Instant Pack Film • ISO 125 • Instant • film_box_inside"
+  },
+  {
+    "filename": "00722_002.jpg",
+    "brand": "Polaroid",
+    "product": "Viva",
+    "film_format": "Instant Pack Film",
+    "film_speed_iso": "125",
+    "process": "Instant",
+    "expiry_date": "200805",
+    "date_added": "1789391866",
+    "item_type": "film_box_inside",
+    "author": "nyctomanica",
+    "imageUrl": "/film_packaging/archive/00722_002.jpg",
+    "title": "Polaroid Viva",
+    "details": "Instant Pack Film • ISO 125 • Instant • film_box_inside"
+  },
+  {
+    "filename": "00723_000.jpg",
+    "brand": "Agfa",
+    "product": "APX 200",
+    "film_format": "35mm",
+    "film_speed_iso": "200",
+    "process": "BW",
+    "expiry_date": "203010",
+    "date_added": "1789641702",
+    "item_type": "film_box_outside",
+    "author": "DaFujiDude",
+    "imageUrl": "/film_packaging/archive/00723_000.jpg",
+    "title": "Agfa APX 200",
+    "details": "35mm • ISO 200 • BW • film_box_outside"
+  },
+  {
+    "filename": "00724_000.jpg",
+    "brand": "Lomography",
+    "product": "Redscale XR Negative",
+    "film_format": "35mm",
+    "film_speed_iso": "50-200",
+    "process": "C-41",
+    "expiry_date": "202806",
+    "date_added": "1789641806",
+    "item_type": "film_box_outside",
+    "author": "@Hol.m35",
+    "imageUrl": "/film_packaging/archive/00724_000.jpg",
+    "title": "Lomography Redscale XR Negative",
+    "details": "35mm • ISO 50-200 • C-41 • film_box_outside"
+  },
+  {
+    "filename": "00724_001.jpg",
+    "brand": "Lomography",
+    "product": "Redscale XR Negative",
+    "film_format": "35mm",
+    "film_speed_iso": "50-200",
+    "process": "C-41",
+    "expiry_date": "202806",
+    "date_added": "1789641809",
+    "item_type": "film_box_inside",
+    "author": "@Hol.m35",
+    "imageUrl": "/film_packaging/archive/00724_001.jpg",
+    "title": "Lomography Redscale XR Negative",
+    "details": "35mm • ISO 50-200 • C-41 • film_box_inside"
   }
 ];
 

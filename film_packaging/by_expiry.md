@@ -55,7 +55,7 @@ Total scans :
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Feinkorn (ref: dba0)](#1961-veb-fotochemische-werke-berlin-dekopan-feinkorn-ref-dba0)
 - [[1961] VEB Fotochemische Werke Berlin Dekopan Super S (ref: 1620)](#1961-veb-fotochemische-werke-berlin-dekopan-super-s-ref-1620)
 - [[1961] Kodak Kodachrome (ref: e19e)](#1961-kodak-kodachrome-ref-e19e)
-- [[1961] Ricoh Golden 16 (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
+- [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1962] Kodak Verichrome Pan (ref: 7984)](#1962-kodak-verichrome-pan-ref-7984)
 - [[1962] Kodak Kodachrome (ref: 3d0a)](#1962-kodak-kodachrome-ref-3d0a)
 - [[1962] Ogapan Panchromatic (ref: 9c23)](#1962-ogapan-panchromatic-ref-9c23)
@@ -373,7 +373,7 @@ Total scans :
 - [[2008] Foma Fomapan Classic 100 (ref: 4eb6)](#2008-foma-fomapan-classic-100-ref-4eb6)
 - [[2008] Lucky SHD 100 (ref: 7feb)](#2008-lucky-shd-100-ref-7feb)
 - [[2008] Polaroid Viva (ref: 271b)](#2008-polaroid-viva-ref-271b)
-- [[2008] Agfa APX 100 (ref: 12c7)](#2008-agfa-apx-100-ref-12c7)
+- [[2008] Agfa APX (ref: 12c7)](#2008-agfa-apx-ref-12c7)
 - [[2008] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)](#2008-fujifilm-fujicolor-quicksnap-jeans-ref-081a)
 - [[2008] Kodak UltraMax (ref: 145b)](#2008-kodak-ultramax-ref-145b)
 - [[2008] Agfa CT Precisa 100 (ref: bc36)](#2008-agfa-ct-precisa-100-ref-bc36)
@@ -750,7 +750,7 @@ Total scans :
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-08 
+ISO   : Unknown      |  Expiry  : 1916-01 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
@@ -1370,7 +1370,7 @@ UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
 	<img src="./lowres/00575_000.jpg" alt="Kodak Kodachrome 828 film box outside" loading="lazy" width="442" height="500">
 </a>
 
-#### [1961] Ricoh Golden 16 (ref: c02c)
+#### [1961] Ricoh Golden "16" (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -1381,35 +1381,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [1962] Kodak Verichrome Pan (ref: 7984)
@@ -8544,7 +8544,7 @@ UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
 	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
 </a>
 
-#### [2008] Agfa APX 100 (ref: 12c7)
+#### [2008] Agfa APX (ref: 12c7)
 
 ```
 Format: 120          |  Process : BW      
@@ -8555,14 +8555,14 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
 <a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
 <a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
 #### [2008] Fujifilm Fujicolor QuickSnap Jeans (ref: 081a)
@@ -14549,7 +14549,7 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 15m     
+Type  : Single Pack  |  Quantity: Unknown 
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```

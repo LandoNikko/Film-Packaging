@@ -31,8 +31,8 @@ Total scans :
 - [[BW] ADOX HR 50 (ref: 4da7)](#bw-adox-hr-50-ref-4da7)
 - [[BW] ADOX KB 17 (ref: 88a5)](#bw-adox-kb-17-ref-88a5)
 - [[BW] ADOX KB17 (ref: 2c95)](#bw-adox-kb17-ref-2c95)
+- [[BW] Agfa APX (ref: 12c7)](#bw-agfa-apx-ref-12c7)
 - [[BW] Agfa APX (ref: 5276)](#bw-agfa-apx-ref-5276)
-- [[BW] Agfa APX 100 (ref: 12c7)](#bw-agfa-apx-100-ref-12c7)
 - [[BW] Agfa APX 200 (ref: 9165)](#bw-agfa-apx-200-ref-9165)
 - [[BW] Agfa APX 400 (ref: 379a)](#bw-agfa-apx-400-ref-379a)
 - [[BW] Agfa Agfapan  APX 25 (ref: 805f)](#bw-agfa-agfapan-apx-25-ref-805f)
@@ -237,7 +237,7 @@ Total scans :
 - [[BW] Perutz Perpantic Film (ref: 58b1)](#bw-perutz-perpantic-film-ref-58b1)
 - [[BW] Perutz Superomnia (ref: c90d)](#bw-perutz-superomnia-ref-c90d)
 - [[BW] Phöbus-Platten Sheet Film (ref: d505)](#bw-phöbus-platten-sheet-film-ref-d505)
-- [[BW] Ricoh Golden 16 (ref: c02c)](#bw-ricoh-golden-16-ref-c02c)
+- [[BW] Ricoh Golden "16" (ref: c02c)](#bw-ricoh-golden-16-ref-c02c)
 - [[BW] Rollei Infrared (ref: eae2)](#bw-rollei-infrared-ref-eae2)
 - [[BW] Rollei Infrared (ref: 4f54)](#bw-rollei-infrared-ref-4f54)
 - [[BW] Rollei RPX 100 (ref: 7cd1)](#bw-rollei-rpx-100-ref-7cd1)
@@ -963,6 +963,27 @@ UUID  : 14047842e1a641268bfd4d01fcf02c95
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
 </a>
 
+#### [BW] Agfa APX (ref: 12c7)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 100          |  Expiry  : 2008-07 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2025-01-04   |  Author  : dekuNukem
+UUID  : a20bbca534454915a6970b6ede2212c7
+```
+
+<a href="./archive/00011_000.jpg" target="_blank">
+	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
+</a>
+
+
+`UUID: dd262792b6a446dcab73a07738f8a8dd`↓
+
+<a href="./archive/00011_001.jpg" target="_blank">
+	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
+</a>
+
 #### [BW] Agfa APX (ref: 5276)
 
 ```
@@ -982,27 +1003,6 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 
 <a href="./archive/00093_001.jpg" target="_blank">
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
-</a>
-
-#### [BW] Agfa APX 100 (ref: 12c7)
-
-```
-Format: 120          |  Process : BW      
-ISO   : 100          |  Expiry  : 2008-07 
-Type  : Single Pack  |  Quantity: N/A     
-Added : 2025-01-04   |  Author  : dekuNukem
-UUID  : a20bbca534454915a6970b6ede2212c7
-```
-
-<a href="./archive/00011_000.jpg" target="_blank">
-	<img src="./lowres/00011_000.jpg" alt="Agfa APX 100 120 film box outside" loading="lazy" width="500" height="388">
-</a>
-
-
-`UUID: dd262792b6a446dcab73a07738f8a8dd`↓
-
-<a href="./archive/00011_001.jpg" target="_blank">
-	<img src="./lowres/00011_001.jpg" alt="Agfa APX 100 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
 #### [BW] Agfa APX 200 (ref: 9165)
@@ -3336,7 +3336,7 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 
 ```
 Format: 118          |  Process : BW      
-ISO   : Unknown      |  Expiry  : 1916-08 
+ISO   : Unknown      |  Expiry  : 1916-01 
 Type  : Single Pack  |  Quantity: 4exp    
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
@@ -4953,7 +4953,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
-#### [BW] Ricoh Golden 16 (ref: c02c)
+#### [BW] Ricoh Golden "16" (ref: c02c)
 
 ```
 Format: 16mm         |  Process : BW      
@@ -4964,35 +4964,35 @@ UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
 <a href="./archive/00383_000.jpg" target="_blank">
-	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden 16 16mm film box outside" loading="lazy" width="500" height="388">
+	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
 <a href="./archive/00383_001.jpg" target="_blank">
-	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="197">
+	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
 <a href="./archive/00383_002.jpg" target="_blank">
-	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden 16 16mm film box processing envelope" loading="lazy" width="500" height="220">
+	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
 <a href="./archive/00383_003.jpg" target="_blank">
-	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="331" height="500">
+	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
 <a href="./archive/00383_004.jpg" target="_blank">
-	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden 16 16mm film box leaflet" loading="lazy" width="362" height="500">
+	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 #### [BW] Rollei Infrared (ref: eae2)
@@ -13904,7 +13904,7 @@ UUID  : 6239a04366d74208a9010cd231688833
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 15m     
+Type  : Single Pack  |  Quantity: Unknown 
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```

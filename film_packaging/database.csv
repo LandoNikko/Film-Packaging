@@ -1315,3 +1315,10 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 719,1,film_box_outside,Polaroid,600 Platinum,Instant Integral Film,640,Instant,199907,1788781918,e44f0e0b783ddab58129c2f4f6c54cef,7d1eb96de3bd4ec98b6ee8f0a0e8c774,00719_001.jpg,benjaminbeeroll,,Multi-Pack-2,10exp
 720,0,film_box_outside,Agfa,APX 400,35mm,400,BW,203003,1789118600,65612d187f978a2452505715c0476449,4cda6eac0745457482882631cdbf379a,00720_000.jpg,DaFujiDude,,Single Pack,36exp
 720,1,film_box_inside,Agfa,APX 400,35mm,400,BW,203003,1789118601,9e7fdb5e009a8e9d18ac7277a8c5b4b9,89461795b7044a0e800a3a5912ded968,00720_001.jpg,DaFujiDude,,Single Pack,36exp
+721,0,film_box_outside,Klick,Extra Definition Multi Purpose Film,35mm,200,C-41,200506,1789391494,5491ec28e0010f7dc514675b725b0f61,1de78d118b71405fbc6d5129f08b2e01,00721_000.jpg,dekuNukem,,Single Pack,24exp
+722,0,film_box_outside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391860,489b4037fff845ee97e142dfe780906d,6d66aeca6f0a4d0ca41f675d329f271b,00722_000.jpg,nyctomanica,,Single Pack,10exp
+722,1,film_box_inside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391862,dbf5043e9f707bfe8577d1c5d0844e9d,416145134d20498dbd4947aaeef1ce5b,00722_001.jpg,nyctomanica,,Single Pack,10exp
+722,2,film_box_inside,Polaroid,Viva,Instant Pack Film,125,Instant,200805,1789391866,51a077c6cf45dbdb02615d1a9a4b6875,4a805b8a79584a5ea8a47cb537f403ea,00722_002.jpg,nyctomanica,,Single Pack,10exp
+723,0,film_box_outside,Agfa,APX 200,35mm,200,BW,203010,1789641702,e465ec0f6b0d08759ceb25166e6149f1,afe453ec6b4e476dbacceffdf0e89165,00723_000.jpg,DaFujiDude,,Single Pack,36exp
+724,0,film_box_outside,Lomography,Redscale XR Negative,35mm,50-200,C-41,202806,1789641806,f6f6e727f8066ef1a461d1f56e431989,4594095faf2d4c10bb4a81f5253ce897,00724_000.jpg,@Hol.m35,,Multi-Pack-3,36exp
+724,1,film_box_inside,Lomography,Redscale XR Negative,35mm,50-200,C-41,202806,1789641809,299db6ffb41e07c7469dd0526e21788a,f9bbb1fb19074f028460d8005465d92d,00724_001.jpg,@Hol.m35,,Multi-Pack-3,36exp
