@@ -858,8 +858,7 @@ class FilmGallery {
         
         const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
         const targetGroupIndex = groupedData.findIndex(group => {
-            return (group.front && group.front.filename === hash) || 
-                   (group.back && group.back.filename === hash);
+            return group.images.some((image) => image.filename === hash);
         });
         
         if (targetGroupIndex !== -1) {
@@ -876,9 +875,7 @@ class FilmGallery {
         this.currentGroup = group;
         this.currentImageIndex = 0;
         
-        const availableImages = [];
-        if (group.front) availableImages.push(group.front);
-        if (group.back) availableImages.push(group.back);
+        const availableImages = this.getGroupImages(group);
         
         if (availableImages.length === 0) return;
         
@@ -959,7 +956,7 @@ class FilmGallery {
     getCurrentEntryId() {
         if (!this.currentGroup) return '';
         return this.currentGroup.entryId
-            || ArchiveUtils.getEntryId(this.currentGroup.front || this.currentGroup.back);
+            || ArchiveUtils.getEntryId(this.getGroupImages()[0]);
     }
 
     updateLightboxStarState() {
@@ -990,7 +987,7 @@ class FilmGallery {
 
             const groupedData = ArchiveUtils.groupItemsByBaseFilename(this.filteredData);
             const newIndex = groupedData.findIndex((group) =>
-                (group.entryId || ArchiveUtils.getEntryId(group.front || group.back)) === currentEntryId
+                (group.entryId || ArchiveUtils.getEntryId(this.getGroupImages(group)[0])) === currentEntryId
             );
             if (newIndex === -1) {
                 this.closeLightbox();
@@ -1025,10 +1022,6 @@ class FilmGallery {
         lightboxImage.alt = item.title;
         
         this.updateUrl(item.filename);
-        
-        const availableImages = [];
-        if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
-        if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
         
         const lightboxISO = document.getElementById('lightboxISO');
         const lightboxFormat = document.getElementById('lightboxFormat');
@@ -1107,9 +1100,7 @@ class FilmGallery {
 
     showPreviousImage() {
         if (this.currentGroup) {
-            const availableImages = [];
-            if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
-            if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
+            const availableImages = this.getAvailableImages();
             
             if (this.currentImageIndex > 0) {
                 this.currentImageIndex--;
@@ -1126,9 +1117,7 @@ class FilmGallery {
 
     showNextImage() {
         if (this.currentGroup) {
-            const availableImages = [];
-            if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
-            if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
+            const availableImages = this.getAvailableImages();
             
             if (this.currentImageIndex < availableImages.length - 1) {
                 this.currentImageIndex++;
@@ -1155,11 +1144,13 @@ class FilmGallery {
 
 
     getAvailableImages() {
-        if (!this.currentGroup) return [];
-        const availableImages = [];
-        if (this.currentGroup.front) availableImages.push(this.currentGroup.front);
-        if (this.currentGroup.back) availableImages.push(this.currentGroup.back);
-        return availableImages;
+        return this.getGroupImages(this.currentGroup);
+    }
+
+    getGroupImages(group) {
+        if (!group) return [];
+        if (Array.isArray(group.images)) return group.images;
+        return [group.front, group.back].filter(Boolean);
     }
 
     showPreviousCard() {
@@ -1464,23 +1455,27 @@ class FilmGallery {
             if (this.currentGroup) {
                 const hasFront = this.currentGroup.front !== null;
                 const hasBack = this.currentGroup.back !== null;
+                const currentImage = this.getAvailableImages()[this.currentImageIndex];
                 
                 frontViewBtn.style.display = hasFront ? 'block' : 'none';
                 backViewBtn.style.display = hasBack ? 'block' : 'none';
                 
-                if (this.currentImageIndex === 0) {
+                if (currentImage === this.currentGroup.front) {
                     frontViewBtn.classList.add('active');
                     backViewBtn.classList.remove('active');
-                } else {
+                } else if (currentImage === this.currentGroup.back) {
                     frontViewBtn.classList.remove('active');
                     backViewBtn.classList.add('active');
+                } else {
+                    frontViewBtn.classList.remove('active');
+                    backViewBtn.classList.remove('active');
                 }
             }
         };
 
         frontViewBtn.addEventListener('click', () => {
             if (this.currentGroup && this.currentGroup.front) {
-                this.currentImageIndex = 0;
+                this.currentImageIndex = this.getAvailableImages().indexOf(this.currentGroup.front);
                 this.showImage(this.currentGroup.front);
                 updateViewButtons();
                 this.resetZoom();
@@ -1489,7 +1484,7 @@ class FilmGallery {
 
         backViewBtn.addEventListener('click', () => {
             if (this.currentGroup && this.currentGroup.back) {
-                this.currentImageIndex = 1;
+                this.currentImageIndex = this.getAvailableImages().indexOf(this.currentGroup.back);
                 this.showImage(this.currentGroup.back);
                 updateViewButtons();
                 this.resetZoom();

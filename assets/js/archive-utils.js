@@ -39,6 +39,7 @@
                     entryId: baseFilename,
                     front: null,
                     back: null,
+                    images: [],
                     metadata: {
                         brand: item.brand,
                         product: item.product,
@@ -51,6 +52,7 @@
                 };
             }
 
+            grouped[baseFilename].images.push(item);
             if (item.filename.includes('_000.jpg')) {
                 grouped[baseFilename].front = item;
             } else if (item.filename.includes('_001.jpg')) {
@@ -58,7 +60,11 @@
             }
         });
 
-        return Object.values(grouped);
+        return Object.values(grouped).map((group) => {
+            group.images.sort((a, b) => a.filename.localeCompare(b.filename));
+            group.front ||= group.images[0] || null;
+            return group;
+        });
     }
 
     function computeArchiveStats(data) {
