@@ -20,6 +20,7 @@ INTENTIONALLY_UNMAPPED_FILENAMES = frozenset({
     '00153_001.jpg',
     '00312_000.jpg',
     '00574_001.jpg',
+    '00755_001.jpg',
 })
 
 
@@ -179,4 +180,4 @@ if (typeof module !== 'undefined' && module.exports) {{
     return gallery_data
 
 if __name__ == '__main__':
-    generate_js_data() 
+    generate_js_data()

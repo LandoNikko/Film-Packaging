@@ -28,6 +28,7 @@ Total scans :
 - [[@Hol.m35] Boots Colour Print Film (ref: a30f)](#holm35-boots-colour-print-film-ref-a30f)
 - [[@Hol.m35] Camera Film Photo Limited Kiki Pan 320 (ref: 3937)](#holm35-camera-film-photo-limited-kiki-pan-320-ref-3937)
 - [[@Hol.m35] Candido Color Negative Film 800 (ref: c39e)](#holm35-candido-color-negative-film-800-ref-c39e)
+- [[@Hol.m35] Cyberpunk 800T (ref: 553e)](#holm35-cyberpunk-800t-ref-553e)
 - [[@Hol.m35] Freestyle 500T (ref: 8073)](#holm35-freestyle-500t-ref-8073)
 - [[@Hol.m35] Fujifilm 400 (ref: 1f1d)](#holm35-fujifilm-400-ref-1f1d)
 - [[@Hol.m35] Fujifilm Fujicolor 100 (ref: ac71)](#holm35-fujifilm-fujicolor-100-ref-ac71)
@@ -67,6 +68,7 @@ Total scans :
 - [[@Hol.m35] Optik Oldschool OptiColour 200 (ref: 80d7)](#holm35-optik-oldschool-opticolour-200-ref-80d7)
 - [[@Hol.m35] Optik Oldschool OptiMono 100 (ref: 312c)](#holm35-optik-oldschool-optimono-100-ref-312c)
 - [[@Hol.m35] Optik Oldschool SantaColor (ref: dd85)](#holm35-optik-oldschool-santacolor-ref-dd85)
+- [[@Hol.m35] PandaCamera DoubleX (ref: a290)](#holm35-pandacamera-doublex-ref-a290)
 - [[@Hol.m35] Rollei Retro 400S (ref: f2cf)](#holm35-rollei-retro-400s-ref-f2cf)
 - [[@Hol.m35] Rollei Retro 400S (ref: f345)](#holm35-rollei-retro-400s-ref-f345)
 - [[@Hol.m35] Street Candy Film ATM400 (ref: 4380)](#holm35-street-candy-film-atm400-ref-4380)
@@ -89,6 +91,8 @@ Total scans :
 - [[@ellafridalindblom] Defender Extra Fast Panchromatic (ref: 348b)](#ellafridalindblom-defender-extra-fast-panchromatic-ref-348b)
 - [[@ellafridalindblom] Defender Extra Special Fast Panchromatic (ref: afcf)](#ellafridalindblom-defender-extra-special-fast-panchromatic-ref-afcf)
 - [[@ellafridalindblom] Defender Portrait HGS (ref: d69c)](#ellafridalindblom-defender-portrait-hgs-ref-d69c)
+- [[@ellafridalindblom] Du Pont Defender X-F Pan (ref: d495)](#ellafridalindblom-du-pont-defender-x-f-pan-ref-d495)
+- [[@ellafridalindblom] Foma Repro (ref: f1d2)](#ellafridalindblom-foma-repro-ref-f1d2)
 - [[@ellafridalindblom] Foton Fotopan F (ref: 0ad6)](#ellafridalindblom-foton-fotopan-f-ref-0ad6)
 - [[@ellafridalindblom] Fujifilm Fujichrome 64T (ref: 311b)](#ellafridalindblom-fujifilm-fujichrome-64t-ref-311b)
 - [[@ellafridalindblom] Fujifilm Fujichrome Sensia 100 (ref: a859)](#ellafridalindblom-fujifilm-fujichrome-sensia-100-ref-a859)
@@ -97,11 +101,14 @@ Total scans :
 - [[@ellafridalindblom] Fujifilm Neopan 400 (ref: c088)](#ellafridalindblom-fujifilm-neopan-400-ref-c088)
 - [[@ellafridalindblom] Fujifilm Neopan 400 Presto (ref: 21a7)](#ellafridalindblom-fujifilm-neopan-400-presto-ref-21a7)
 - [[@ellafridalindblom] Fujifilm Neopan SS (ref: d848)](#ellafridalindblom-fujifilm-neopan-ss-ref-d848)
+- [[@ellafridalindblom] Gevaert Panchromosa (ref: 0e63)](#ellafridalindblom-gevaert-panchromosa-ref-0e63)
 - [[@ellafridalindblom] Gevaert Studio Film (ref: 75f9)](#ellafridalindblom-gevaert-studio-film-ref-75f9)
 - [[@ellafridalindblom] Gevaert Superchrom (ref: 0217)](#ellafridalindblom-gevaert-superchrom-ref-0217)
 - [[@ellafridalindblom] Gevaert Ultra Panchro Normal (ref: 1ff6)](#ellafridalindblom-gevaert-ultra-panchro-normal-ref-1ff6)
+- [[@ellafridalindblom] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)](#ellafridalindblom-goecker-extra-rapid-emulsionsplade-ideal-ref-95c5)
 - [[@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)](#ellafridalindblom-hands-on-film-midnight-1600-ref-4411)
 - [[@ellafridalindblom] Hasselblad Hassel-plåtar E.R.Orto (ref: ec67)](#ellafridalindblom-hasselblad-hassel-plåtar-erorto-ref-ec67)
+- [[@ellafridalindblom] Hauff Pancola-Lichthoffrei (ref: d1fb)](#ellafridalindblom-hauff-pancola-lichthoffrei-ref-d1fb)
 - [[@ellafridalindblom] Ificolor SHR 100 (ref: 0198)](#ellafridalindblom-ificolor-shr-100-ref-0198)
 - [[@ellafridalindblom] Ificolor Super FG HQ 200 (ref: ff86)](#ellafridalindblom-ificolor-super-fg-hq-200-ref-ff86)
 - [[@ellafridalindblom] Ilford HP3 (ref: 6d94)](#ellafridalindblom-ilford-hp3-ref-6d94)
@@ -120,10 +127,15 @@ Total scans :
 - [[@ellafridalindblom] Konica Infrared 750nm (ref: 6b0e)](#ellafridalindblom-konica-infrared-750nm-ref-6b0e)
 - [[@ellafridalindblom] Konica Sepia Professional (ref: 0b40)](#ellafridalindblom-konica-sepia-professional-ref-0b40)
 - [[@ellafridalindblom] Konica Minolta Commercial Color Film (ref: e903)](#ellafridalindblom-konica-minolta-commercial-color-film-ref-e903)
+- [[@ellafridalindblom] Mimosa Porträtyp (ref: e547)](#ellafridalindblom-mimosa-porträtyp-ref-e547)
+- [[@ellafridalindblom] Mimosa Porträtyp-Antihalo (ref: 7200)](#ellafridalindblom-mimosa-porträtyp-antihalo-ref-7200)
+- [[@ellafridalindblom] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#ellafridalindblom-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)](#ellafridalindblom-phöbus-platten-sheet-film-ref-d505)
 - [[@ellafridalindblom] Polaroid Green 600 Film Reclaimed Series (ref: 0180)](#ellafridalindblom-polaroid-green-600-film-reclaimed-series-ref-0180)
 - [[@ellafridalindblom] Polaroid Image Instant Film (ref: ee6d)](#ellafridalindblom-polaroid-image-instant-film-ref-ee6d)
 - [[@ellafridalindblom] Polaroid Spectra Film (ref: 7a94)](#ellafridalindblom-polaroid-spectra-film-ref-7a94)
+- [[@ellafridalindblom] Seed Dry Plates (ref: ad62)](#ellafridalindblom-seed-dry-plates-ref-ad62)
+- [[@ellafridalindblom] Seed Dry Plates (ref: 477d)](#ellafridalindblom-seed-dry-plates-ref-477d)
 - [[@filmfotofella] CineStill 400Dynamic (ref: fccd)](#filmfotofella-cinestill-400dynamic-ref-fccd)
 - [[@filmfotofella] Kodak 110 Film (ref: 8cca)](#filmfotofella-kodak-110-film-ref-8cca)
 - [[@filmfotofella] Kodak Kodacolor 400 (ref: 9e4c)](#filmfotofella-kodak-kodacolor-400-ref-9e4c)
@@ -214,6 +226,7 @@ Total scans :
 - [[@recycling.film] Ilford HP5 Plus (ref: 072e)](#recyclingfilm-ilford-hp5-plus-ref-072e)
 - [[@recycling.film] Ilford HP5 Plus (ref: c725)](#recyclingfilm-ilford-hp5-plus-ref-c725)
 - [[@recycling.film] Ilford XP2 (ref: 7d94)](#recyclingfilm-ilford-xp2-ref-7d94)
+- [[@recycling.film] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)](#recyclingfilm-kids-station-toys-batman-returns-high-quality-35mm-print-film-ref-85fa)
 - [[@recycling.film] Kodak ColorPlus (ref: 6637)](#recyclingfilm-kodak-colorplus-ref-6637)
 - [[@recycling.film] Kodak Ektachrome 64 (ref: 02cc)](#recyclingfilm-kodak-ektachrome-64-ref-02cc)
 - [[@recycling.film] Kodak Ektachrome Elite 200 (ref: b736)](#recyclingfilm-kodak-ektachrome-elite-200-ref-b736)
@@ -223,6 +236,8 @@ Total scans :
 - [[@recycling.film] Kodak Super-XX (ref: 07c8)](#recyclingfilm-kodak-super-xx-ref-07c8)
 - [[@recycling.film] Kodak Tri-X Pan (ref: 85e9)](#recyclingfilm-kodak-tri-x-pan-ref-85e9)
 - [[@recycling.film] Kodak UltraMax (ref: e4ad)](#recyclingfilm-kodak-ultramax-ref-e4ad)
+- [[@recycling.film] Marvel Fantastic 4 35mm Color Film (ref: 1144)](#recyclingfilm-marvel-fantastic-4-35mm-color-film-ref-1144)
+- [[@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)](#recyclingfilm-marvel-spinder-man-2-35mm-color-print-film-ref-d548)
 - [[@recycling.film] Nishika Color Print Film (ref: baeb)](#recyclingfilm-nishika-color-print-film-ref-baeb)
 - [[@recycling.film] ORWO NP15 (ref: 9a20)](#recyclingfilm-orwo-np15-ref-9a20)
 - [[@recycling.film] ORWO OrwoChrom UT18 (ref: 81b7)](#recyclingfilm-orwo-orwochrom-ut18-ref-81b7)
@@ -241,6 +256,10 @@ Total scans :
 - [[@seklerek] Fujifilm Fujichrome Provia 100F (ref: 356d)](#seklerek-fujifilm-fujichrome-provia-100f-ref-356d)
 - [[@seklerek] Fujifilm Fujichrome Velvia 100F (ref: 32d4)](#seklerek-fujifilm-fujichrome-velvia-100f-ref-32d4)
 - [[@shotbyliampewpew] Escura EDO ukiyo-e (ref: 5faa)](#shotbyliampewpew-escura-edo-ukiyo-e-ref-5faa)
+- [[@shotbyliampewpew] Fujifilm Fujichrome 400 D (ref: 519e)](#shotbyliampewpew-fujifilm-fujichrome-400-d-ref-519e)
+- [[@shotbyliampewpew] Fujifilm Fujicolor Superia 100 (ref: 9c36)](#shotbyliampewpew-fujifilm-fujicolor-superia-100-ref-9c36)
+- [[@sl35hater] Fujifilm Superia (ref: 70d9)](#sl35hater-fujifilm-superia-ref-70d9)
+- [[@sl35hater] Fujifilm Superia X-TRA (ref: e44c)](#sl35hater-fujifilm-superia-x-tra-ref-e44c)
 - [[@titanic_159] Kodak Ektapan P3200 (ref: 2254)](#titanic_159-kodak-ektapan-p3200-ref-2254)
 - [[@toastergod101] Fujifilm Instax Mini (ref: e5e7)](#toastergod101-fujifilm-instax-mini-ref-e5e7)
 - [[@toastergod101] Harman Red (ref: da3a)](#toastergod101-harman-red-ref-da3a)
@@ -274,6 +293,8 @@ Total scans :
 - [[Chrisbes] Fujifilm Superia 200 (ref: fd36)](#chrisbes-fujifilm-superia-200-ref-fd36)
 - [[Chrisbes] Kodak Portra 400 (ref: f4af)](#chrisbes-kodak-portra-400-ref-f4af)
 - [[Chrisbes] Konica Konica Color SR-G 160 (ref: 64c5)](#chrisbes-konica-konica-color-sr-g-160-ref-64c5)
+- [[Chrisbes] Leica Monopan 50 (ref: 1f4d)](#chrisbes-leica-monopan-50-ref-1f4d)
+- [[Chrisbes] Leica Monopan 50 (ref: a75e)](#chrisbes-leica-monopan-50-ref-a75e)
 - [[Chrisbes] Lomography Lomochrome Metropolis (ref: ec77)](#chrisbes-lomography-lomochrome-metropolis-ref-ec77)
 - [[Chrisbes] Optik Oldschool OptiColour 200 (ref: 3617)](#chrisbes-optik-oldschool-opticolour-200-ref-3617)
 - [[Chrisbes] Reflx Lab 200T (ref: d847)](#chrisbes-reflx-lab-200t-ref-d847)
@@ -287,9 +308,14 @@ Total scans :
 - [[DaFujiDude] Agfa APX 400 (ref: 379a)](#dafujidude-agfa-apx-400-ref-379a)
 - [[Dialupdude] 1Shot Color Print Film (ref: 8cf0)](#dialupdude-1shot-color-print-film-ref-8cf0)
 - [[Dialupdude] 1Shot Fun Shooter Flash (ref: 31aa)](#dialupdude-1shot-fun-shooter-flash-ref-31aa)
+- [[Dialupdude] Ferrania Solaris FH Plus (ref: a505)](#dialupdude-ferrania-solaris-fh-plus-ref-a505)
 - [[Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)](#dialupdude-fujifilm-400-speed-film-ref-7f19)
+- [[Dialupdude] Fujifilm Nexia (ref: 2c29)](#dialupdude-fujifilm-nexia-ref-2c29)
 - [[Dialupdude] Fujifilm Nexia A200 (ref: 43c0)](#dialupdude-fujifilm-nexia-a200-ref-43c0)
 - [[Dialupdude] Fujifilm Simple Ace (ref: 17e6)](#dialupdude-fujifilm-simple-ace-ref-17e6)
+- [[Dialupdude] Ilford Delta 400 Professional Collector's Edition (ref: 10a5)](#dialupdude-ilford-delta-400-professional-collectors-edition-ref-10a5)
+- [[Dialupdude] Kodak Ektachrome EPT (ref: 34eb)](#dialupdude-kodak-ektachrome-ept-ref-34eb)
+- [[Dialupdude] Kodak Ektachrome EPY (ref: 9aab)](#dialupdude-kodak-ektachrome-epy-ref-9aab)
 - [[Dialupdude] Kodak Gold 200 (ref: 795c)](#dialupdude-kodak-gold-200-ref-795c)
 - [[Dialupdude] Kodak Gold III (ref: cd39)](#dialupdude-kodak-gold-iii-ref-cd39)
 - [[Dialupdude] Kodak Kodachrome 40 (ref: 2a3e)](#dialupdude-kodak-kodachrome-40-ref-2a3e)
@@ -301,6 +327,8 @@ Total scans :
 - [[Dialupdude] Polaroid B&W i-Type Film (ref: 963a)](#dialupdude-polaroid-b-w-i-type-film-ref-963a)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 47a7)](#dialupdude-polaroid-color-i-type-film-ref-47a7)
 - [[Dialupdude] Polaroid Color i-Type Film (ref: 32e9)](#dialupdude-polaroid-color-i-type-film-ref-32e9)
+- [[Dialupdude] Polaroid High Definition (ref: aad0)](#dialupdude-polaroid-high-definition-ref-aad0)
+- [[Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)](#gergely-orsi-forte-fortepan-super-film-ref-2caa)
 - [[GreatGizmo74] Jessops CS100 (ref: 4288)](#greatgizmo74-jessops-cs100-ref-4288)
 - [[GreatGizmo74] Jessops Diamond Everyday (ref: 6d5a)](#greatgizmo74-jessops-diamond-everyday-ref-6d5a)
 - [[Greg] Kodak Ektachrome-X (ref: cca3)](#greg-kodak-ektachrome-x-ref-cca3)
@@ -319,6 +347,7 @@ Total scans :
 - [[Kraksen] Marix Professional Negative Movie Color Film (ref: c457)](#kraksen-marix-professional-negative-movie-color-film-ref-c457)
 - [[Kraksen] MarixFilm Aircolor (ref: d9c4)](#kraksen-marixfilm-aircolor-ref-d9c4)
 - [[Kraksen] Stavanger Foto Frontier (ref: c51e)](#kraksen-stavanger-foto-frontier-ref-c51e)
+- [[Kristof Lemp] Fujifilm Fujichrome 100ix (ref: 9fb4)](#kristof-lemp-fujifilm-fujichrome-100ix-ref-9fb4)
 - [[Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)](#luci-101-agfa-agfachrome-100rs-ref-2c42)
 - [[Luci 101] Agfa AgfaChrome 50 S (ref: eb28)](#luci-101-agfa-agfachrome-50-s-ref-eb28)
 - [[Luci 101] Foton Fotopan CD (ref: 6ba7)](#luci-101-foton-fotopan-cd-ref-6ba7)
@@ -425,6 +454,8 @@ Total scans :
 - [[Rafa Laguillo] Kodak UltraMax (ref: 145b)](#rafa-laguillo-kodak-ultramax-ref-145b)
 - [[Rafa Laguillo] Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides (ref: a44b)](#rafa-laguillo-lumière-union-photographique-industrielle-plaques-au-gélatino-bromure-dargent-extra-rapides-ref-a44b)
 - [[Rafa Laguillo] Werlisa Werlisa Sport 100 (ref: d7fe)](#rafa-laguillo-werlisa-werlisa-sport-100-ref-d7fe)
+- [[Rhiannon] Candido Candido400 (ref: 5f29)](#rhiannon-candido-candido400-ref-5f29)
+- [[Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)](#rhiannon-star-foto-colour-film-for-prints-ref-bdd5)
 - [[Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)](#tallbird-cowboy-kodak-kodachrome-ii-ref-2caa)
 - [[The Compartmentalist] Agfa Agfapan Rapid (ref: 5e7b)](#the-compartmentalist-agfa-agfapan-rapid-ref-5e7b)
 - [[The Compartmentalist] Fujifilm Fujichrome Provia 100F (ref: df27)](#the-compartmentalist-fujifilm-fujichrome-provia-100f-ref-df27)
@@ -450,6 +481,7 @@ Total scans :
 - [[TheSelousScout] Reto Amber D400 (ref: 08ad)](#theselousscout-reto-amber-d400-ref-08ad)
 - [[Tobias] Efke R14 (ref: 27f5)](#tobias-efke-r14-ref-27f5)
 - [[Tobias] efke KB-25 (ref: 4d17)](#tobias-efke-kb-25-ref-4d17)
+- [[Vince Costello] Kodak Ektachrome 200 (ref: 8734)](#vince-costello-kodak-ektachrome-200-ref-8734)
 - [[Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)](#warren-umbach-agfa-agfapan-apx-25-ref-5a92)
 - [[Yrikonchik] Fujifilm 200 (ref: 5b41)](#yrikonchik-fujifilm-200-ref-5b41)
 - [[b0baspace] Fujifilm Fujicolor 100 (ref: 013b)](#b0baspace-fujifilm-fujicolor-100-ref-013b)
@@ -498,6 +530,7 @@ Total scans :
 - [[dekuNukem] Alien Film 5222/XX (ref: 3e49)](#dekunukem-alien-film-5222xx-ref-3e49)
 - [[dekuNukem] Ansco Plenachrome (ref: 3c6c)](#dekunukem-ansco-plenachrome-ref-3c6c)
 - [[dekuNukem] CineStill 800T (ref: c86a)](#dekunukem-cinestill-800t-ref-c86a)
+- [[dekuNukem] Cyberpunk 400D Color Film AHU (ref: 408d)](#dekunukem-cyberpunk-400d-color-film-ahu-ref-408d)
 - [[dekuNukem] Efiniti UXi Super 200 (ref: 471a)](#dekunukem-efiniti-uxi-super-200-ref-471a)
 - [[dekuNukem] Efke IR 820 Aura (ref: 43c9)](#dekunukem-efke-ir-820-aura-ref-43c9)
 - [[dekuNukem] Famous Brand Labs Color Negative Film (ref: b271)](#dekunukem-famous-brand-labs-color-negative-film-ref-b271)
@@ -623,6 +656,10 @@ Total scans :
 - [[dekuNukem] Walgreen All Purpose Film (ref: 541b)](#dekunukem-walgreen-all-purpose-film-ref-541b)
 - [[dekuNukem] efke R100 (ref: 10ad)](#dekunukem-efke-r100-ref-10ad)
 - [[dekuNukem] efke R100 (ref: 100d)](#dekunukem-efke-r100-ref-100d)
+- [[dzindevis] Ilford PAN 400 (ref: 933f)](#dzindevis-ilford-pan-400-ref-933f)
+- [[dzindevis] Konica Minolta Centuria Super (ref: 9b08)](#dzindevis-konica-minolta-centuria-super-ref-9b08)
+- [[dzindevis] Rollei Infrared (ref: 17b9)](#dzindevis-rollei-infrared-ref-17b9)
+- [[dzindevis] Svema Foto 125 (ref: cb59)](#dzindevis-svema-foto-125-ref-cb59)
 - [[fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)](#fine-seat-agfa-agfacolor-xrg-200-ref-689e)
 - [[fine-seat] Agfa Isopan ISS (ref: 5ba6)](#fine-seat-agfa-isopan-iss-ref-5ba6)
 - [[fine-seat] Alfo ALFOcolor PR-G (ref: 94b9)](#fine-seat-alfo-alfocolor-pr-g-ref-94b9)
@@ -632,6 +669,12 @@ Total scans :
 - [[fine-seat] Kodak Gold (ref: 2f8d)](#fine-seat-kodak-gold-ref-2f8d)
 - [[fine-seat] Kodak Kodacolor VR Plus (ref: f8bf)](#fine-seat-kodak-kodacolor-vr-plus-ref-f8bf)
 - [[fine-seat] ORWO Chrom UT21 (ref: 3fd5)](#fine-seat-orwo-chrom-ut21-ref-3fd5)
+- [[green eggs and sam] Boots 100 Colour Slide (ref: c369)](#green-eggs-and-sam-boots-100-colour-slide-ref-c369)
+- [[green eggs and sam] Boots Universal (ref: 639c)](#green-eggs-and-sam-boots-universal-ref-639c)
+- [[green eggs and sam] Jessops Diamond Everyday (ref: 971e)](#green-eggs-and-sam-jessops-diamond-everyday-ref-971e)
+- [[green eggs and sam] Kodak Color Plus (ref: 1f55)](#green-eggs-and-sam-kodak-color-plus-ref-1f55)
+- [[green eggs and sam] Kodak Gold (ref: 7f02)](#green-eggs-and-sam-kodak-gold-ref-7f02)
+- [[green eggs and sam] Kodak Kodacolor 200 (ref: f856)](#green-eggs-and-sam-kodak-kodacolor-200-ref-f856)
 - [[kaimon] CineStill 800T (ref: c96e)](#kaimon-cinestill-800t-ref-c96e)
 - [[kaimon] Escura Showa Camera Film (ref: 826b)](#kaimon-escura-showa-camera-film-ref-826b)
 - [[kaimon] Fujifilm Neopan Acros 100 II (ref: 4027)](#kaimon-fujifilm-neopan-acros-100-ii-ref-4027)
@@ -642,6 +685,7 @@ Total scans :
 - [[kaimon] Kodak Gold 200 (ref: 3e0b)](#kaimon-kodak-gold-200-ref-3e0b)
 - [[kaimon] Kodak High Speed Ektachrome (ref: 7533)](#kaimon-kodak-high-speed-ektachrome-ref-7533)
 - [[kaimon] Kodak Portra 800 (ref: 3c94)](#kaimon-kodak-portra-800-ref-3c94)
+- [[kaimon] Kodak T-MAX 100 (ref: 3aab)](#kaimon-kodak-t-max-100-ref-3aab)
 - [[kaimon] Lucky C200 (ref: 9c6c)](#kaimon-lucky-c200-ref-9c6c)
 - [[lemoniter] Club Color Natural Color System (ref: 813a)](#lemoniter-club-color-natural-color-system-ref-813a)
 - [[lilyu.xyz] Agfa APX (ref: 5276)](#lilyuxyz-agfa-apx-ref-5276)
@@ -710,6 +754,15 @@ Total scans :
 - [[nyctomanica] Polaroid Originals Color SX-70 Film (ref: 7238)](#nyctomanica-polaroid-originals-color-sx-70-film-ref-7238)
 - [[nyctomanica] Polaroid Originals Color Spectra Film (ref: 7d0a)](#nyctomanica-polaroid-originals-color-spectra-film-ref-7d0a)
 - [[nyctomanica] Polaroid Originals Color i-Type Film (ref: 79a3)](#nyctomanica-polaroid-originals-color-i-type-film-ref-79a3)
+- [[reschmidt12] Kodak Ektachrome E100 (ref: 1d36)](#reschmidt12-kodak-ektachrome-e100-ref-1d36)
+- [[reschmidt12] Kodak Ektacolor Pro 160 (ref: 0d50)](#reschmidt12-kodak-ektacolor-pro-160-ref-0d50)
+- [[reschmidt12] Kodak Ektacolor Pro 400 (ref: 36c6)](#reschmidt12-kodak-ektacolor-pro-400-ref-36c6)
+- [[reschmidt12] Kodak Ektacolor Pro 800 (ref: 4239)](#reschmidt12-kodak-ektacolor-pro-800-ref-4239)
+- [[reschmidt12] Kodak Ektapan 100 (ref: aae1)](#reschmidt12-kodak-ektapan-100-ref-aae1)
+- [[reschmidt12] Kodak Ektapan 400 (ref: 9ea4)](#reschmidt12-kodak-ektapan-400-ref-9ea4)
+- [[reschmidt12] Kodak Ektapan P3200 (ref: 50dd)](#reschmidt12-kodak-ektapan-p3200-ref-50dd)
+- [[reschmidt12] Kodak Tri-X 400 (ref: 3661)](#reschmidt12-kodak-tri-x-400-ref-3661)
+- [[reschmidt12] Kodak Ultramax 400 (ref: 7b56)](#reschmidt12-kodak-ultramax-400-ref-7b56)
 - [[toader] Kodak Ektachrome 100 Plus (ref: 5d9f)](#toader-kodak-ektachrome-100-plus-ref-5d9f)
 - [[toader] Kodak Ektachrome E100 (ref: ae10)](#toader-kodak-ektachrome-e100-ref-ae10)
 - [[toader] Kodak Ektachrome Elite 100 (ref: 26ef)](#toader-kodak-ektachrome-elite-100-ref-26ef)
@@ -734,6 +787,10 @@ Total scans :
 - [[waldoboro] Perutz Primera (ref: cbfb)](#waldoboro-perutz-primera-ref-cbfb)
 - [[waldoboro] Seagull Seagull Color IR100 (ref: e7cc)](#waldoboro-seagull-seagull-color-ir100-ref-e7cc)
 - [[waldoboro] Svema FN 64 (ref: 600a)](#waldoboro-svema-fn-64-ref-600a)
+- [[waldoboro] Yashica Film for Color Prints (ref: 58b7)](#waldoboro-yashica-film-for-color-prints-ref-58b7)
+- [[whoman560] Kodak Gold (ref: 1e4c)](#whoman560-kodak-gold-ref-1e4c)
+- [[whoman560] Kodak Kodacolor 200 (ref: fc0e)](#whoman560-kodak-kodacolor-200-ref-fc0e)
+- [[whoman560] Lomography Lomochrome Color'92 (ref: 9dda)](#whoman560-lomography-lomochrome-color92-ref-9dda)
 - [[yc128] Harman Phoenix (ref: 8eb4)](#yc128-harman-phoenix-ref-8eb4)
 - [[yc128] Harman Phoenix II (ref: f686)](#yc128-harman-phoenix-ii-ref-f686)
 - [[yc128] Harman Phoenix II (ref: 40df)](#yc128-harman-phoenix-ii-ref-40df)
@@ -779,7 +836,7 @@ UUID  : db108d3120e04e4987e0c94174e0d515
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2018-08 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-10-06   |  Author  : @Hol.m35
 UUID  : ca7affc001374aa882b4c2edd3e8f5f7
 ```
@@ -800,7 +857,7 @@ UUID  : ca7affc001374aa882b4c2edd3e8f5f7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2013-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : bd601340027a4c9daa7e219b414fa30f
 ```
@@ -814,7 +871,7 @@ UUID  : bd601340027a4c9daa7e219b414fa30f
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 320          |  Expiry  : 2028-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : b0f0117fd8d74332b67a2e8be3db3937
 ```
@@ -835,7 +892,7 @@ UUID  : b0f0117fd8d74332b67a2e8be3db3937
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2028-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-08-21   |  Author  : @Hol.m35
 UUID  : c4f0677d117446678179ccfafb84c39e
 ```
@@ -851,12 +908,26 @@ UUID  : c4f0677d117446678179ccfafb84c39e
 	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
+#### [@Hol.m35] Cyberpunk 800T (ref: 553e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-21   |  Author  : @Hol.m35
+UUID  : 0f58b48fd91544a3b282e4577c4a553e
+```
+
+<a href="./archive/00775_000.jpg" target="_blank">
+	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
+</a>
+
 #### [@Hol.m35] Freestyle 500T (ref: 8073)
 
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 400          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : b7110d960d454ac484eafe3b650c8073
 ```
@@ -870,7 +941,7 @@ UUID  : b7110d960d454ac484eafe3b650c8073
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 ```
@@ -891,7 +962,7 @@ UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2027-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : c04d5697e35c49049322ce823f32ac71
 ```
@@ -905,7 +976,7 @@ UUID  : c04d5697e35c49049322ce823f32ac71
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2016-08 
-Type  : Multi-Pack-5 |  Quantity: 24exp   
+Type  : Multi-Pack-5 |  Quantity: 24 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 5f2a25eea5ed4846862cce7ae96c2585
 ```
@@ -933,7 +1004,7 @@ UUID  : 8acc893c8082453a8f83a17f3780fb3a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2002-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
 ```
@@ -954,7 +1025,7 @@ UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
@@ -968,7 +1039,7 @@ UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 Format: Disposable Camera|  Process : C-41    
 ISO   : 1600         |  Expiry  : 2018-06 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
@@ -989,7 +1060,7 @@ UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2025-03 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : a63f7025a5284603ad7a1c071311c9b1
 ```
@@ -1003,7 +1074,7 @@ UUID  : a63f7025a5284603ad7a1c071311c9b1
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2025-12 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : 913f40168de04c539a616da939a0f0f7
 ```
@@ -1017,7 +1088,7 @@ UUID  : 913f40168de04c539a616da939a0f0f7
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2026-01 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
 ```
@@ -1031,7 +1102,7 @@ UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-06   |  Author  : @Hol.m35
 UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 ```
@@ -1045,7 +1116,7 @@ UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 125          |  Expiry  : 2027-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
 ```
@@ -1087,7 +1158,7 @@ UUID  : f81a19dc94ac47e99249911f97fe31bb
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-06   |  Author  : @Hol.m35
 UUID  : b09848420a1a4d76b099d82d76bc41f4
 ```
@@ -1122,7 +1193,7 @@ UUID  : f32d9e32d43441b79220744cdb4e5c70
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2002-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
 ```
@@ -1164,7 +1235,7 @@ UUID  : 11a01c72e7184305af18b815eed7246a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2028-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : f9c71bea8e0942ceab31c4f97ea6d3df
 ```
@@ -1220,7 +1291,7 @@ UUID  : 2ec124d60b12488db346643ed8d17f5f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-06 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-12-03   |  Author  : @Hol.m35
 UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
 ```
@@ -1241,7 +1312,7 @@ UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
 ```
 Format: 120          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-12 
-Type  : Multi-Pack-3 |  Quantity: 8exp    
+Type  : Multi-Pack-3 |  Quantity: 8 exp   
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 808ce640e530482f9016329c0eb2d986
 ```
@@ -1283,7 +1354,7 @@ UUID  : 35d94ea6e97849ee876a5c61ee532769
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2028-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : @Hol.m35
 UUID  : 89df57ba76fb4cc6ad09a663c463d0c6
 Notes : Black & White POSTDAM 35mm Kino Film
@@ -1305,7 +1376,7 @@ Notes : Black & White POSTDAM 35mm Kino Film
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 50-200       |  Expiry  : 2028-06 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2026-09-17   |  Author  : @Hol.m35
 UUID  : 4594095faf2d4c10bb4a81f5253ce897
 ```
@@ -1347,7 +1418,7 @@ UUID  : c6cdb442b65a4e83ac71331c8fffe6f8
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2028-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 ```
@@ -1368,7 +1439,7 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2028-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-02   |  Author  : @Hol.m35
 UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
 ```
@@ -1410,7 +1481,7 @@ UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2006-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-12-29   |  Author  : @Hol.m35
 UUID  : 881f46ac2824430cb12f79087a3338c5
 ```
@@ -1431,7 +1502,7 @@ UUID  : 881f46ac2824430cb12f79087a3338c5
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2029-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : e71e488f0288481f906ccecdf054a6e5
 ```
@@ -1445,7 +1516,7 @@ UUID  : e71e488f0288481f906ccecdf054a6e5
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2029-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : 7d38096a5e2243dc91b8caff8721cc7d
 ```
@@ -1459,7 +1530,7 @@ UUID  : 7d38096a5e2243dc91b8caff8721cc7d
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 200          |  Expiry  : 2028-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : b389844cc8c04ab8b936315354330d90
 ```
@@ -1473,7 +1544,7 @@ UUID  : b389844cc8c04ab8b936315354330d90
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 500          |  Expiry  : 2028-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : f437c859b1564324968e289acecfbd42
 ```
@@ -1487,7 +1558,7 @@ UUID  : f437c859b1564324968e289acecfbd42
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2027-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
 ```
@@ -1516,7 +1587,7 @@ Notes : preproduction package
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2028-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : bba34206627f485b9a3119d4c2dd312c
 ```
@@ -1530,13 +1601,28 @@ UUID  : bba34206627f485b9a3119d4c2dd312c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2027-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-01-26   |  Author  : @Hol.m35
 UUID  : bc9726f8d278473591afb78fc49bdd85
 ```
 
 <a href="./archive/00505_000.jpg" target="_blank">
 	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
+</a>
+
+#### [@Hol.m35] PandaCamera DoubleX (ref: a290)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2025-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : @Hol.m35
+UUID  : 803089daf04e458dba0237eb9801a290
+Notes : Panda Camera respooled double x. No date on box but my order details tell me it expired 12.2025
+```
+
+<a href="./archive/00737_000.jpg" target="_blank">
+	<img src="./lowres/00737_000.jpg" alt="PandaCamera DoubleX 35mm film box outside" loading="lazy" width="391" height="500">
 </a>
 
 #### [@Hol.m35] Rollei Retro 400S (ref: f2cf)
@@ -1565,7 +1651,7 @@ UUID  : 17064b735c704134b793c63b583ef2cf
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2028-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
 ```
@@ -1586,7 +1672,7 @@ UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-20   |  Author  : @Hol.m35
 UUID  : 1b198dd0d976444ab98109d0c37c4380
 ```
@@ -1600,7 +1686,7 @@ UUID  : 1b198dd0d976444ab98109d0c37c4380
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 ```
@@ -1621,7 +1707,7 @@ UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2028-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
@@ -1642,7 +1728,7 @@ UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2028-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : c4c934a23c59430f8b99c71a9322c907
 ```
@@ -1663,7 +1749,7 @@ UUID  : c4c934a23c59430f8b99c71a9322c907
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2025-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 087223fc24654e3882a4596e3cea79ca
 ```
@@ -1677,7 +1763,7 @@ UUID  : 087223fc24654e3882a4596e3cea79ca
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8552091a80a844a5aec3e9b8185e3498
 ```
@@ -1691,7 +1777,7 @@ UUID  : 8552091a80a844a5aec3e9b8185e3498
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : d2e434e91001465dbea2d815d5e23e7f
 ```
@@ -1705,7 +1791,7 @@ UUID  : d2e434e91001465dbea2d815d5e23e7f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2027-04 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 ```
@@ -1719,7 +1805,7 @@ UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
@@ -1733,7 +1819,7 @@ UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100-400      |  Expiry  : 2027-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : b02540ba4b454a639f8096f9474d068f
 ```
@@ -1754,7 +1840,7 @@ UUID  : b02540ba4b454a639f8096f9474d068f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2002-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-15   |  Author  : @ad.astra.per.aspera.1894
 UUID  : 7f4a0fbd6be7494ab097f7f816700441
 ```
@@ -1768,7 +1854,7 @@ UUID  : 7f4a0fbd6be7494ab097f7f816700441
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : b3c3d2e18aed443fb89465bd6f257418
 ```
@@ -1782,7 +1868,7 @@ UUID  : b3c3d2e18aed443fb89465bd6f257418
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 50           |  Expiry  : 1948-05 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : dea659399cf345a6912964c10b584c56
 ```
@@ -1796,7 +1882,7 @@ UUID  : dea659399cf345a6912964c10b584c56
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 80           |  Expiry  : 1944-09 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : 81ded7f4902d46df8f5dd91868e7b974
 ```
@@ -1824,7 +1910,7 @@ UUID  : 08e940883895476d8de94bc5137419b5
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 ```
@@ -1838,7 +1924,7 @@ UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unkonwn 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 80d64fa269454c5589109c68a40541a8
 ```
@@ -1859,7 +1945,7 @@ UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 0d51ddb121144fe6a26519a75517348b
 ```
@@ -1873,7 +1959,7 @@ UUID  : 0d51ddb121144fe6a26519a75517348b
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : bacfd600baf843a694225c99ed99afcf
 ```
@@ -1887,7 +1973,7 @@ UUID  : bacfd600baf843a694225c99ed99afcf
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 24c9c3108671446dae824d00093fd69c
 ```
@@ -1901,6 +1987,48 @@ UUID  : 24c9c3108671446dae824d00093fd69c
 
 <a href="./archive/00208_001.jpg" target="_blank">
 	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="385" height="500">
+</a>
+
+#### [@ellafridalindblom] Du Pont Defender X-F Pan (ref: d495)
+
+```
+Format: Unknown      |  Process : BW      
+ISO   : Unknown      |  Expiry  : 1948-11 
+Type  : Single Pack  |  Quantity: 24 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : a911ae0b9fe944ec8a37ac58d970d495
+```
+
+<a href="./archive/00767_000.jpg" target="_blank">
+	<img src="./lowres/00767_000.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
+</a>
+
+
+`UUID: 0504b5765be445bb9deabd3675cc7d4b`↓
+
+<a href="./archive/00767_001.jpg" target="_blank">
+	<img src="./lowres/00767_001.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
+</a>
+
+
+`UUID: e2d6a5e63262495b9212f75476792d15`↓
+
+<a href="./archive/00767_002.jpg" target="_blank">
+	<img src="./lowres/00767_002.jpg" alt="Du Pont Defender X-F Pan Unknown film box leaflet" loading="lazy" width="500" height="414">
+</a>
+
+#### [@ellafridalindblom] Foma Repro (ref: f1d2)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d69c094564e8477ba57269b2c13df1d2
+```
+
+<a href="./archive/00776_000.jpg" target="_blank">
+	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
 #### [@ellafridalindblom] Foton Fotopan F (ref: 0ad6)
@@ -1950,7 +2078,7 @@ UUID  : 5bfbb5140c7943fcb52950d4db4c311b
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2004-06 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : ae2418a073074872aa2c46534649a859
 ```
@@ -1964,7 +2092,7 @@ UUID  : ae2418a073074872aa2c46534649a859
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 2004-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 50c87b98fb1245c189e746556f6b3a01
 ```
@@ -2006,7 +2134,7 @@ UUID  : 9e774f36e4d34b3c81a30a5b44da7980
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2004-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 93700c4c5c904b40b9c311614ebac088
 ```
@@ -2050,6 +2178,20 @@ UUID  : f211bfbc4ac9498bb83cfe5f3846d848
 	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
+#### [@ellafridalindblom] Gevaert Panchromosa (ref: 0e63)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : b0f738f453c849088ebe322d762c0e63
+```
+
+<a href="./archive/00770_000.jpg" target="_blank">
+	<img src="./lowres/00770_000.jpg" alt="Gevaert Panchromosa 12x16.5cm film box outside" loading="lazy" width="388" height="500">
+</a>
+
 #### [@ellafridalindblom] Gevaert Studio Film (ref: 75f9)
 
 ```
@@ -2070,7 +2212,7 @@ Notes : Muster Matt
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 80           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
 ```
@@ -2091,7 +2233,7 @@ UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 800          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 ```
@@ -2100,12 +2242,26 @@ UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
 </a>
 
+#### [@ellafridalindblom] Goecker Extra rapid Emulsionsplade Ideal (ref: 95c5)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : ede9f26e73c84a3c84b53206e1c495c5
+```
+
+<a href="./archive/00771_000.jpg" target="_blank">
+	<img src="./lowres/00771_000.jpg" alt="Goecker Extra rapid Emulsionsplade Ideal 9x12cm film box outside" loading="lazy" width="440" height="500">
+</a>
+
 #### [@ellafridalindblom] Hands On Film Midnight 1600 (ref: 4411)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 2026-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 515a9a246a8e4eed87d77142623a4411
 ```
@@ -2119,7 +2275,7 @@ UUID  : 515a9a246a8e4eed87d77142623a4411
 ```
 Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 1056543f30334a238387be8abe2dec67
 ```
@@ -2128,12 +2284,26 @@ UUID  : 1056543f30334a238387be8abe2dec67
 	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
+#### [@ellafridalindblom] Hauff Pancola-Lichthoffrei (ref: d1fb)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : 65af395f5a2e4e69aa598c055c1ad1fb
+```
+
+<a href="./archive/00773_000.jpg" target="_blank">
+	<img src="./lowres/00773_000.jpg" alt="Hauff Pancola-Lichthoffrei 12x16.5cm film box outside" loading="lazy" width="500" height="394">
+</a>
+
 #### [@ellafridalindblom] Ificolor SHR 100 (ref: 0198)
 
 ```
 Format: 126          |  Process : C-41    
 ISO   : 100          |  Expiry  : 1992-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : b5dd426d99ad43e5b289be7acd9c0198
 ```
@@ -2147,7 +2317,7 @@ UUID  : b5dd426d99ad43e5b289be7acd9c0198
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1993-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 07d897691a00479584d29dbe8c05ff86
 ```
@@ -2161,7 +2331,7 @@ UUID  : 07d897691a00479584d29dbe8c05ff86
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 125          |  Expiry  : 1947-04 
-Type  : Single Pack  |  Quantity: 24 Sheets
+Type  : Single Pack  |  Quantity: 24 sheets
 Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
 ```
@@ -2189,7 +2359,7 @@ UUID  : dbfd040081714492bd8bcc80d496ae35
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 80           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
 ```
@@ -2210,7 +2380,7 @@ UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
 ```
 Format: 6.5x9cm      |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : bec584ee60f3462381719b3e908f54fe
 ```
@@ -2224,7 +2394,7 @@ UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
 ```
@@ -2238,7 +2408,7 @@ UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : Unknown      |  Expiry  : 1999-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 59aa1c52cf434a60976debe684a3d53a
 ```
@@ -2266,7 +2436,7 @@ UUID  : 59aa1c52cf434a60976debe684a3d53a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1974-01 
-Type  : Bulk Roll    |  Quantity: 150ft   
+Type  : Bulk Roll    |  Quantity: 150 ft  
 Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 ```
@@ -2280,7 +2450,7 @@ UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1942-10 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : b9989063d3264ee2b866b21d3e9ab625
 ```
@@ -2294,7 +2464,7 @@ UUID  : b9989063d3264ee2b866b21d3e9ab625
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 80           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 24 Sheets
+Type  : Single Pack  |  Quantity: 24 sheets
 Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : 098d684d4be64821a80474b771d8e684
 ```
@@ -2322,7 +2492,7 @@ UUID  : 098d684d4be64821a80474b771d8e684
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : 56136448523d428b88330cf0427221a0
 Notes : Nitrate base
@@ -2365,7 +2535,7 @@ UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : 320          |  Expiry  : 1975-09 
-Type  : Single Pack  |  Quantity: 25 Sheets
+Type  : Single Pack  |  Quantity: 25 sheets
 Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : 2210a8e9fb4c400d8258a652aaba6608
 Notes : Estar Thick Base 4164
@@ -2464,7 +2634,7 @@ UUID  : 83467c04e5254b4286b48e5a8e1b0b40
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2007-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
 ```
@@ -2473,12 +2643,54 @@ UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
 	<img src="./lowres/00291_000.jpg" alt="Konica Minolta Commercial Color Film 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
+#### [@ellafridalindblom] Mimosa Porträtyp (ref: e547)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : d68c3af6c1b8462bbb3f809ef0aae547
+```
+
+<a href="./archive/00778_000.jpg" target="_blank">
+	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [@ellafridalindblom] Mimosa Porträtyp-Antihalo (ref: 7200)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : 64           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 plates
+Added : 2026-11-02   |  Author  : @ellafridalindblom
+UUID  : 7d28252558f548f8a3c7e43bdffc7200
+```
+
+<a href="./archive/00777_000.jpg" target="_blank">
+	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
+</a>
+
+#### [@ellafridalindblom] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : 10           |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : b6087c7a528d44ac83c246afe8e3795e
+```
+
+<a href="./archive/00772_000.jpg" target="_blank">
+	<img src="./lowres/00772_000.jpg" alt="Mimosa A.G. Mimosa-Platte Finogran 12x16.5cm film box outside" loading="lazy" width="500" height="366">
+</a>
+
 #### [@ellafridalindblom] Phöbus-Platten Sheet Film (ref: d505)
 
 ```
 Format: 12x16.5cm    |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
@@ -2492,7 +2704,7 @@ UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2025-07 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-11-11   |  Author  : @ellafridalindblom
 UUID  : 613f5e7014704b5bbe28565cfe290180
 ```
@@ -2513,7 +2725,7 @@ UUID  : 613f5e7014704b5bbe28565cfe290180
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2007-07 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2025-10-03   |  Author  : @ellafridalindblom
 UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
 ```
@@ -2534,7 +2746,7 @@ UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : 2002-11 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 2ec40bee5af2471cad92278123ba7a94
 ```
@@ -2543,12 +2755,40 @@ UUID  : 2ec40bee5af2471cad92278123ba7a94
 	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Instant Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
+#### [@ellafridalindblom] Seed Dry Plates (ref: ad62)
+
+```
+Format: 9x12cm       |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : e0ad5f0cd4de4610ae0e2f3f6636ad62
+```
+
+<a href="./archive/00768_000.jpg" target="_blank">
+	<img src="./lowres/00768_000.jpg" alt="Seed Dry Plates 9x12cm film box outside" loading="lazy" width="400" height="499">
+</a>
+
+#### [@ellafridalindblom] Seed Dry Plates (ref: 477d)
+
+```
+Format: 12x16.5cm    |  Process : BW      
+ISO   : Unknown      |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 sheets
+Added : 2026-10-19   |  Author  : @ellafridalindblom
+UUID  : f64bf8d2a1df471195679a853de6477d
+```
+
+<a href="./archive/00769_000.jpg" target="_blank">
+	<img src="./lowres/00769_000.jpg" alt="Seed Dry Plates 12x16.5cm film box outside" loading="lazy" width="390" height="500">
+</a>
+
 #### [@filmfotofella] CineStill 400Dynamic (ref: fccd)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2025-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 587ac1b471994b54bb5f472d6975fccd
 ```
@@ -2569,7 +2809,7 @@ UUID  : 587ac1b471994b54bb5f472d6975fccd
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 6c0cf01a1703494296ce60ad5dd28cca
 ```
@@ -2583,7 +2823,7 @@ UUID  : 6c0cf01a1703494296ce60ad5dd28cca
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 1981-04 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 ```
@@ -2611,7 +2851,7 @@ UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : d01783be3b70456095411ca387865701
 ```
@@ -2625,7 +2865,7 @@ UUID  : d01783be3b70456095411ca387865701
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 160          |  Expiry  : 2007-02 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2026-08-15   |  Author  : @flyingcamerastudio
 UUID  : 9eb720d7de6e45bc97014b3e0717e513
 ```
@@ -2646,7 +2886,7 @@ UUID  : 9eb720d7de6e45bc97014b3e0717e513
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1987-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @ftfilmphotos
 UUID  : a26daa2cb6e44957af3d978bc67e035f
 ```
@@ -2688,7 +2928,7 @@ UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-10 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2026-07-16   |  Author  : @gregrouxphotography
 UUID  : 86c7f4981b304bd18ebeeb7c43836286
 ```
@@ -2702,7 +2942,7 @@ UUID  : 86c7f4981b304bd18ebeeb7c43836286
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1994-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-07-16   |  Author  : @gregrouxphotography
 UUID  : 3bba5e916d5d4460a7c644296d22114f
 ```
@@ -2723,7 +2963,7 @@ UUID  : 3bba5e916d5d4460a7c644296d22114f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2005-10 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-08-13   |  Author  : @janjuudas
 UUID  : 20062d10b38a496d855defd42ce44096
 ```
@@ -2744,7 +2984,7 @@ UUID  : 20062d10b38a496d855defd42ce44096
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1995-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-08-13   |  Author  : @janjuudas
 UUID  : cd7927f99b904e108562dd8d7cb7a71c
 ```
@@ -2772,7 +3012,7 @@ UUID  : cd7927f99b904e108562dd8d7cb7a71c
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 50           |  Expiry  : 2001-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9b9ee1c1c0e94d968674987799d33182
 ```
@@ -2821,7 +3061,7 @@ UUID  : e39c5eca4e3e4e5badfa00ee512deb8d
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2001-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 ```
@@ -2835,7 +3075,7 @@ UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 ```
 Format: 35mm         |  Process : E-4     
 ISO   : 160          |  Expiry  : 1970-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9702189f65de43c59fce151094a7ec3d
 ```
@@ -2891,7 +3131,7 @@ UUID  : d6df7ff94eb54de292068cb45080fe39
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2005-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 ```
@@ -2905,7 +3145,7 @@ UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 ```
 Format: 35mm         |  Process : C-22    
 ISO   : 100          |  Expiry  : 1974-01 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e08418889f714c9dbda0858718e0494a
 ```
@@ -2926,7 +3166,7 @@ UUID  : e08418889f714c9dbda0858718e0494a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 9ef642a09d294cbfad7e040a701deae2
 ```
@@ -2961,7 +3201,7 @@ UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 6e3408d7e97247e380ea52077a7491c1
 ```
@@ -2975,7 +3215,7 @@ UUID  : 6e3408d7e97247e380ea52077a7491c1
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2019-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 ```
@@ -2996,7 +3236,7 @@ UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 200          |  Expiry  : 2021-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 4e05091526684626b09f6f957dd9c025
 ```
@@ -3010,7 +3250,7 @@ UUID  : 4e05091526684626b09f6f957dd9c025
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 250          |  Expiry  : 2020-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 693d77ba06bc4823bd4f43112d957d4f
 ```
@@ -3024,7 +3264,7 @@ UUID  : 693d77ba06bc4823bd4f43112d957d4f
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 500          |  Expiry  : 2021-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2e9e8e40ac154f4f9ac497837e2470d9
 ```
@@ -3038,7 +3278,7 @@ UUID  : 2e9e8e40ac154f4f9ac497837e2470d9
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 50           |  Expiry  : 2021-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 ```
@@ -3073,7 +3313,7 @@ UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 50           |  Expiry  : 2023-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 9213a1fbffc44178878f7bd9c5d33452
 ```
@@ -3115,7 +3355,7 @@ UUID  : e4493fbb55e044edaaca55ecd22366eb
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 37936bef9f314a45b9ed57f7091fa929
 ```
@@ -3129,7 +3369,7 @@ UUID  : 37936bef9f314a45b9ed57f7091fa929
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2022-05 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 03b12b9d23dc4e059a9149ca4f682a22
 ```
@@ -3143,7 +3383,7 @@ UUID  : 03b12b9d23dc4e059a9149ca4f682a22
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2022-05 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : a6bb919bc40b4000a753bf9d3367796d
 ```
@@ -3157,7 +3397,7 @@ UUID  : a6bb919bc40b4000a753bf9d3367796d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2025-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : f3193ccd9b9d4a929904a6a2e8b682be
 ```
@@ -3192,7 +3432,7 @@ UUID  : 3a84e3b505004d069104ff0042d03c08
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2025-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : ac13f69474544179a4a2513e8641b3c9
 ```
@@ -3206,7 +3446,7 @@ UUID  : ac13f69474544179a4a2513e8641b3c9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2023-10 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
+Type  : Multi-Pack-2 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : b290e4b860364420924596fc3330a0de
 ```
@@ -3248,7 +3488,7 @@ UUID  : fae60be8fc0745c3965f24b1778e48ed
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2009-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 9934366ea7a04b65b3c300352fa8dc37
 ```
@@ -3269,7 +3509,7 @@ UUID  : 9934366ea7a04b65b3c300352fa8dc37
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2022-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 3167bab31b134176a6d637dc1491ff20
 ```
@@ -3297,7 +3537,7 @@ UUID  : 0b59ba932e214f03a5069488e9651b8d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2019-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 8f934c948478459386443596e74c02f7
 ```
@@ -3325,7 +3565,7 @@ UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-07 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
+Type  : Multi-Pack-2 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 ```
@@ -3339,7 +3579,7 @@ UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2010-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 47af4374c1474eb3b20cb1894b43a624
 ```
@@ -3353,7 +3593,7 @@ UUID  : 47af4374c1474eb3b20cb1894b43a624
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2005-02 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 16351828954846229e7a4ca1193d0446
 ```
@@ -3367,7 +3607,7 @@ UUID  : 16351828954846229e7a4ca1193d0446
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2024-08 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
+Type  : Multi-Pack-2 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : de6b17f5230e4052b6b166977a418923
 ```
@@ -3381,7 +3621,7 @@ UUID  : de6b17f5230e4052b6b166977a418923
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2024-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1d1d6ca155874b6dba4333cf6f6194ff
 ```
@@ -3416,7 +3656,7 @@ UUID  : 22bb063ec2ca4f2ea5b9f4be4dce4631
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2024-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : eef92f5fa5b244518890b1ba52b895ec
 ```
@@ -3430,7 +3670,7 @@ UUID  : eef92f5fa5b244518890b1ba52b895ec
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2023-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : e0db5edb5d3046e99d019b901088d48d
 ```
@@ -3444,7 +3684,7 @@ UUID  : e0db5edb5d3046e99d019b901088d48d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2024-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 99836199940848569bab40a438546587
 ```
@@ -3465,7 +3705,7 @@ UUID  : 99836199940848569bab40a438546587
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1993-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 63fd3851483d457d9fdc15b2d24461d0
 ```
@@ -3486,7 +3726,7 @@ UUID  : 63fd3851483d457d9fdc15b2d24461d0
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-03 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 5d0c054ebc17452397de86653bf42361
 ```
@@ -3521,7 +3761,7 @@ UUID  : 12ee41c6f8fe493fbda516802e039f18
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2024-12 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 282ef0c08f374148afc8a5efaf5b8b1c
 ```
@@ -3535,7 +3775,7 @@ UUID  : 282ef0c08f374148afc8a5efaf5b8b1c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-10 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 848f67976c48465a8c245ba2a4d0c869
 ```
@@ -3584,7 +3824,7 @@ UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2009-04 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2152a58cb08c463ea298a61858ff7669
 ```
@@ -3619,7 +3859,7 @@ UUID  : 3663afb2b2d340d3a5c9e0d0e9f021f9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2023-01 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 76cf680b7e1a407f92eb84541d21fe32
 ```
@@ -3633,7 +3873,7 @@ UUID  : 76cf680b7e1a407f92eb84541d21fe32
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2023-03 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1a68334cdfc146b98a7fa95672e33b23
 ```
@@ -3647,7 +3887,7 @@ UUID  : 1a68334cdfc146b98a7fa95672e33b23
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2024-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 05d59d140f584adcaf97f6acb69f3c02
 ```
@@ -3738,7 +3978,7 @@ UUID  : bcb6ab106d2941429eaf1088c1194b3e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 81d185de4ddf494785362046cada12b4
 ```
@@ -3752,7 +3992,7 @@ UUID  : 81d185de4ddf494785362046cada12b4
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2023-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : eba9730505104dfd8c12254eeafd5546
 ```
@@ -3773,7 +4013,7 @@ UUID  : eba9730505104dfd8c12254eeafd5546
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2022-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 5589454d652e4771b024a9901acb8b00
 ```
@@ -3787,7 +4027,7 @@ UUID  : 5589454d652e4771b024a9901acb8b00
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 250          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1595b93966854178a03bc6d0de705027
 ```
@@ -3801,7 +4041,7 @@ UUID  : 1595b93966854178a03bc6d0de705027
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 198465748a5e41f8ad634fffa08a740f
 ```
@@ -3815,7 +4055,7 @@ UUID  : 198465748a5e41f8ad634fffa08a740f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2000-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-08-19   |  Author  : @pommegranny
 UUID  : ec5187c506fe4e84bc10fa21d39467b2
 ```
@@ -3836,7 +4076,7 @@ UUID  : ec5187c506fe4e84bc10fa21d39467b2
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 32           |  Expiry  : 1958-07 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : ee054df9bf0f4ad09ef142c01c2788a5
 ```
@@ -3850,7 +4090,7 @@ UUID  : ee054df9bf0f4ad09ef142c01c2788a5
 ```
 Format: 35mm         |  Process : AP41    
 ISO   : 50           |  Expiry  : 1981-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 364274d1357d458eacedde84db8a71a8
 ```
@@ -3878,7 +4118,7 @@ UUID  : 364274d1357d458eacedde84db8a71a8
 ```
 Format: 35mm         |  Process : CNS     
 ISO   : 80           |  Expiry  : 1976-09 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 1cf0e26c5894469ebdbd94e104c89b03
 ```
@@ -3906,7 +4146,7 @@ UUID  : 1cf0e26c5894469ebdbd94e104c89b03
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 25           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
@@ -3927,7 +4167,7 @@ UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : @recycling.film
 UUID  : a8aa315de3e54a68ae03d37f80d278b7
 ```
@@ -3990,7 +4230,7 @@ UUID  : e5c7523b6226483b9d4a1b24d7035e7b
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2015-01 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2025-09-01   |  Author  : @recycling.film
 UUID  : 9bf3702e732a42adb54727a565645cda
 ```
@@ -4011,7 +4251,7 @@ UUID  : 9bf3702e732a42adb54727a565645cda
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2020-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 271054727291471392db72d5556f2ff8
 ```
@@ -4025,7 +4265,7 @@ UUID  : 271054727291471392db72d5556f2ff8
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 2019-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-12-12   |  Author  : @recycling.film
 UUID  : 70948fbe01434f64bf95c813e2c8c8ed
 ```
@@ -4039,7 +4279,7 @@ UUID  : 70948fbe01434f64bf95c813e2c8c8ed
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-08   |  Author  : @recycling.film
 UUID  : 27bbbeae605a4e1997859f2d3e6029e0
 ```
@@ -4053,7 +4293,7 @@ UUID  : 27bbbeae605a4e1997859f2d3e6029e0
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 1992-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 90ac1c8117ef41d291bedc89cc65feb7
 ```
@@ -4074,7 +4314,7 @@ UUID  : 90ac1c8117ef41d291bedc89cc65feb7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2009-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : a57061210f17463fae293851f2130d8e
 ```
@@ -4088,7 +4328,7 @@ UUID  : a57061210f17463fae293851f2130d8e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2007-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
@@ -4102,7 +4342,7 @@ UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2003-04 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 89750d8a18fe4e238c76b97b4578713b
 ```
@@ -4123,7 +4363,7 @@ UUID  : 89750d8a18fe4e238c76b97b4578713b
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 500          |  Expiry  : 1979-01 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : b57e8c465ff94e02afa31d267b846815
 ```
@@ -4137,7 +4377,7 @@ UUID  : b57e8c465ff94e02afa31d267b846815
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1983-02 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 68eb8a227e8b48358efc62cf7aabb2f0
 ```
@@ -4172,7 +4412,7 @@ UUID  : 3c726f85acc246d99f3e8c55c4cf072e
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2022-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
@@ -4186,7 +4426,7 @@ UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 1994-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 ```
@@ -4209,12 +4449,26 @@ UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 	<img src="./lowres/00409_002.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="347">
 </a>
 
+#### [@recycling.film] Kids Station Toys Batman Returns High Quality 35mm Print Film (ref: 85fa)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 23905283d39f4477a618cee5076985fa
+```
+
+<a href="./archive/00779_000.jpg" target="_blank">
+	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
+</a>
+
 #### [@recycling.film] Kodak ColorPlus (ref: 6637)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
@@ -4228,7 +4482,7 @@ UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 64           |  Expiry  : 1986-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 61a248ee92404ad7bcf1a19adbf102cc
 Notes : EPR
@@ -4257,7 +4511,7 @@ Notes : EPR
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 1997-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : 19e57cb4060b4782955a5a5667fdb736
 ```
@@ -4278,7 +4532,7 @@ UUID  : 19e57cb4060b4782955a5a5667fdb736
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 160          |  Expiry  : 2013-08 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
@@ -4292,7 +4546,7 @@ UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2014-06 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 5bdddffe29bd464cab4630d85485cf9c
 ```
@@ -4306,7 +4560,7 @@ UUID  : 5bdddffe29bd464cab4630d85485cf9c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2025-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
@@ -4320,7 +4574,7 @@ UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 Format: 616          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1943-01 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : ec96eb9587cf4485a00f2af323eb07c8
 ```
@@ -4334,7 +4588,7 @@ UUID  : ec96eb9587cf4485a00f2af323eb07c8
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1979-12 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 ```
@@ -4348,7 +4602,7 @@ UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 ```
@@ -4357,12 +4611,40 @@ UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
 </a>
 
+#### [@recycling.film] Marvel Fantastic 4 35mm Color Film (ref: 1144)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
+```
+
+<a href="./archive/00780_000.jpg" target="_blank">
+	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+#### [@recycling.film] Marvel Spinder-Man 2 35mm Color Print Film (ref: d548)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-03   |  Author  : @recycling.film
+UUID  : a3691700a1c54c7f817de6ada781d548
+```
+
+<a href="./archive/00781_000.jpg" target="_blank">
+	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
 #### [@recycling.film] Nishika Color Print Film (ref: baeb)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1993-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 ```
@@ -4404,7 +4686,7 @@ UUID  : 50956257d99f4f24a3ec712e77379a20
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 50           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
 ```
@@ -4474,7 +4756,7 @@ UUID  : 4eb2d274d28c41339ad3bd385476c214
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 1961-03 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 05554da8891c470facbddfd5fe35fa4a
 ```
@@ -4502,7 +4784,7 @@ UUID  : 795c66ef065f442ab27e4ffb9de758b1
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2010-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : eeccbc03ca25486db372e649d073e370
 ```
@@ -4516,7 +4798,7 @@ UUID  : eeccbc03ca25486db372e649d073e370
 ```
 Format: Instant Roll Film|  Process : Instant 
 ISO   : 200          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-12-03   |  Author  : @recycling.film
 UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 ```
@@ -4530,7 +4812,7 @@ UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1990-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : dc59644d2764497d985b1f24bd2c8fd8
 ```
@@ -4558,7 +4840,7 @@ UUID  : 9205929c91ba4c3bbbfacb1b2e678b44
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 32           |  Expiry  : 1993-07 
-Type  : Refill       |  Quantity: 36exp   
+Type  : Refill       |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 64289ff9fd4b4e589c5654a044dbd1fd
 ```
@@ -4572,7 +4854,7 @@ UUID  : 64289ff9fd4b4e589c5654a044dbd1fd
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 64           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
 ```
@@ -4586,7 +4868,7 @@ UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 250          |  Expiry  : 2024-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : e5b29575691e43d8bc17578978083574
 ```
@@ -4600,7 +4882,7 @@ UUID  : e5b29575691e43d8bc17578978083574
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 250          |  Expiry  : 2013-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
 ```
@@ -4614,7 +4896,7 @@ UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 200          |  Expiry  : 2024-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
 ```
@@ -4628,7 +4910,7 @@ UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2020-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-02-21   |  Author  : @seklerek
 UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 ```
@@ -4642,7 +4924,7 @@ UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2007-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-02-21   |  Author  : @seklerek
 UUID  : ce5c1d786286427ba5633091b06432d4
 ```
@@ -4656,7 +4938,7 @@ UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2028-06 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-01-26   |  Author  : @shotbyliampewpew
 UUID  : 758ee88b8edf42b492c8c240281d5faa
 ```
@@ -4665,12 +4947,70 @@ UUID  : 758ee88b8edf42b492c8c240281d5faa
 	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
+#### [@shotbyliampewpew] Fujifilm Fujichrome 400 D (ref: 519e)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 400          |  Expiry  : 1989-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : @shotbyliampewpew
+UUID  : 1c4d20e55d834b55bc2e2e75bc72519e
+```
+
+<a href="./archive/00740_000.jpg" target="_blank">
+	<img src="./lowres/00740_000.jpg" alt="Fujifilm Fujichrome 400 D 35mm film box outside" loading="lazy" width="436" height="500">
+</a>
+
+#### [@shotbyliampewpew] Fujifilm Fujicolor Superia 100 (ref: 9c36)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2005-01 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-10-19   |  Author  : @shotbyliampewpew
+UUID  : 36d2b73e478e45c5887cf5e34a4e9c36
+```
+
+<a href="./archive/00741_000.jpg" target="_blank">
+	<img src="./lowres/00741_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="406" height="500">
+</a>
+
+#### [@sl35hater] Fujifilm Superia (ref: 70d9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2008-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : @sl35hater
+UUID  : 8729d32099bd4fc09631edd7619170d9
+Notes : Indonesian version
+```
+
+<a href="./archive/00755_000.jpg" target="_blank">
+	<img src="./lowres/00755_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="426" height="500">
+</a>
+
+#### [@sl35hater] Fujifilm Superia X-TRA (ref: e44c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2008-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : @sl35hater
+UUID  : bd23a3c47dd3424196ed3e74060fe44c
+Notes : Indonesian version
+```
+
+<a href="./archive/00756_000.jpg" target="_blank">
+	<img src="./lowres/00756_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="447" height="500">
+</a>
+
 #### [@titanic_159] Kodak Ektapan P3200 (ref: 2254)
 
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 2027-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-08-15   |  Author  : @titanic_159
 UUID  : 0d327a604980442d8f0a4fd9b4b92254
 ```
@@ -4684,7 +5024,7 @@ UUID  : 0d327a604980442d8f0a4fd9b4b92254
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2027-04 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : b8ea314888b244f8ab8ace49c734e5e7
 ```
@@ -4698,7 +5038,7 @@ UUID  : b8ea314888b244f8ab8ace49c734e5e7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 125          |  Expiry  : 2026-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 ```
@@ -4719,7 +5059,7 @@ UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : 3b21d893a52242f886e7057855d7f3da
 ```
@@ -4740,7 +5080,7 @@ UUID  : 3b21d893a52242f886e7057855d7f3da
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 2028-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : c1bab96948014588adbde72665853bc0
 ```
@@ -4761,7 +5101,7 @@ UUID  : c1bab96948014588adbde72665853bc0
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 160          |  Expiry  : 1993-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-04-13   |  Author  : @tylerdrey
 UUID  : dae0e4a473644444817e010eeb3d7b64
 ```
@@ -4796,7 +5136,7 @@ UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2025-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 295bd5709b1e4dd88204bd2c67bd1731
 ```
@@ -4880,7 +5220,7 @@ UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 031527052b0d4c4daf74708dde626991
 ```
@@ -4894,7 +5234,7 @@ UUID  : 031527052b0d4c4daf74708dde626991
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-07 
-Type  : Single Pack  |  Quantity: 40exp   
+Type  : Single Pack  |  Quantity: 40 exp  
 Added : 2025-09-10   |  Author  : Aoi Yuki
 UUID  : 59358e7096174d7f926ed0aab9fd030a
 ```
@@ -4908,7 +5248,7 @@ UUID  : 59358e7096174d7f926ed0aab9fd030a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1941-01 
-Type  : Bulk Roll    |  Quantity: 27.5ft  
+Type  : Bulk Roll    |  Quantity: 27.5 ft 
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 66a105cd605748d78884e5c305a4e5d4
 ```
@@ -4929,7 +5269,7 @@ UUID  : 66a105cd605748d78884e5c305a4e5d4
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 64           |  Expiry  : 2001-10 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : f3d8be37c34a4055823836987a0a74a1
 ```
@@ -4943,7 +5283,7 @@ UUID  : f3d8be37c34a4055823836987a0a74a1
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 2014-11 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 8abda51b18d84ec4939df489457d2e06
 ```
@@ -4971,7 +5311,7 @@ UUID  : 8abda51b18d84ec4939df489457d2e06
 ```
 Format: 16mm         |  Process : BW      
 ISO   : 200          |  Expiry  : Unknown 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
@@ -4985,7 +5325,7 @@ UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 64           |  Expiry  : 1998-10 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 ```
@@ -5006,7 +5346,7 @@ UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 400          |  Expiry  : 2007-10 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : c9ba81252c5f438ca70922a2b5703943
 ```
@@ -5027,7 +5367,7 @@ UUID  : c9ba81252c5f438ca70922a2b5703943
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1970-09 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 ```
@@ -5062,7 +5402,7 @@ UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 ```
 Format: 70mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2006-08 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 88ebc10c01ea46238c48e65157ddb8de
 ```
@@ -5076,7 +5416,7 @@ UUID  : 88ebc10c01ea46238c48e65157ddb8de
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 2013-12 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 ```
@@ -5090,7 +5430,7 @@ UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1985-01 
-Type  : Bulk Roll    |  Quantity: 110ft   
+Type  : Bulk Roll    |  Quantity: 110 ft  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 ```
@@ -5104,7 +5444,7 @@ UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 ```
 Format: 35mm         |  Process : Instant 
 ISO   : 40           |  Expiry  : 1993-08 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 30947745f405445e88808deab9a4b202
 ```
@@ -5118,7 +5458,7 @@ UUID  : 30947745f405445e88808deab9a4b202
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2000-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 2dab58330f43463e9441b6777fce016b
 ```
@@ -5153,7 +5493,7 @@ UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1986-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 8ef818ff997b43d3961092bd540a2335
 ```
@@ -5181,7 +5521,7 @@ UUID  : 5c7c873716ad4ae3abe59d1532e34be2
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1993-01 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : bd59eca469724f71b8b6da2e89dd9942
 ```
@@ -5195,7 +5535,7 @@ UUID  : bd59eca469724f71b8b6da2e89dd9942
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1989-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 9814bf1366f343ea940b7c709d107fd2
 ```
@@ -5209,7 +5549,7 @@ UUID  : 9814bf1366f343ea940b7c709d107fd2
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2008-09 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 ```
@@ -5253,12 +5593,47 @@ UUID  : 5f88d84525c440fc8879978b1b2864c5
 	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
 </a>
 
+#### [Chrisbes] Leica Monopan 50 (ref: 1f4d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : Chrisbes
+UUID  : 53065756070241dcacc237cdfaf01f4d
+```
+
+<a href="./archive/00735_000.jpg" target="_blank">
+	<img src="./lowres/00735_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: d8b00c2b803945af9e9110bed06a7573`↓
+
+<a href="./archive/00735_001.jpg" target="_blank">
+	<img src="./lowres/00735_001.jpg" alt="Leica Monopan 50 35mm film box inside" loading="lazy" width="422" height="499">
+</a>
+
+#### [Chrisbes] Leica Monopan 50 (ref: a75e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : Chrisbes
+UUID  : 4bfbc231439b4791aa9b45677108a75e
+```
+
+<a href="./archive/00736_000.jpg" target="_blank">
+	<img src="./lowres/00736_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
 #### [Chrisbes] Lomography Lomochrome Metropolis (ref: ec77)
 
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2028-06 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-08-04   |  Author  : Chrisbes
 UUID  : 862c394687c644068ae4721a7c93ec77
 ```
@@ -5300,7 +5675,7 @@ UUID  : a7c0fcc9a1eb4a2a970df6cb14e2d847
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 320          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : f6ddd372aaa0413a961691159ba30bd5
 ```
@@ -5314,7 +5689,7 @@ UUID  : f6ddd372aaa0413a961691159ba30bd5
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 ```
@@ -5328,7 +5703,7 @@ UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 640          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : e546f5291c23497b9643b51318452ce9
 ```
@@ -5342,7 +5717,7 @@ UUID  : e546f5291c23497b9643b51318452ce9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 7b18320ad3d04332afde69a847606b6b
 ```
@@ -5356,7 +5731,7 @@ UUID  : 7b18320ad3d04332afde69a847606b6b
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2028-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-08-04   |  Author  : Chrisbes
 UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
 ```
@@ -5370,7 +5745,7 @@ UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 40           |  Expiry  : 1962-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-08-16   |  Author  : Constantino
 UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 ```
@@ -5384,7 +5759,7 @@ UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2030-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-17   |  Author  : DaFujiDude
 UUID  : afe453ec6b4e476dbacceffdf0e89165
 ```
@@ -5398,7 +5773,7 @@ UUID  : afe453ec6b4e476dbacceffdf0e89165
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2030-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-11   |  Author  : DaFujiDude
 UUID  : 4cda6eac0745457482882631cdbf379a
 ```
@@ -5419,7 +5794,7 @@ UUID  : 4cda6eac0745457482882631cdbf379a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2025-08 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : 7e2a1df614294a7680f4b9478c578cf0
 ```
@@ -5433,7 +5808,7 @@ UUID  : 7e2a1df614294a7680f4b9478c578cf0
 ```
 Format: Disposable Camera|  Process : C-41    
 ISO   : 400          |  Expiry  : 2025-08 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-07-21   |  Author  : Dialupdude
 UUID  : 2711bf31703f431eb53fe9b536ea31aa
 ```
@@ -5456,12 +5831,33 @@ UUID  : 2711bf31703f431eb53fe9b536ea31aa
 	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
 </a>
 
+#### [Dialupdude] Ferrania Solaris FH Plus (ref: a505)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 2011-10 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 6643e9740ddb4c99aa055164b295a505
+```
+
+<a href="./archive/00726_000.jpg" target="_blank">
+	<img src="./lowres/00726_000.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 4344e52167564b799377a68bf045c234`↓
+
+<a href="./archive/00726_001.jpg" target="_blank">
+	<img src="./lowres/00726_001.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="500" height="405">
+</a>
+
 #### [Dialupdude] Fujifilm 400 Speed Film (ref: 7f19)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
 ```
@@ -5470,12 +5866,33 @@ UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
 	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
+#### [Dialupdude] Fujifilm Nexia (ref: 2c29)
+
+```
+Format: APS          |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-12 
+Type  : Single Pack  |  Quantity: 25 exp  
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 4d4296562e50437d927094a8e17f2c29
+```
+
+<a href="./archive/00725_000.jpg" target="_blank">
+	<img src="./lowres/00725_000.jpg" alt="Fujifilm Nexia APS film box outside" loading="lazy" width="433" height="500">
+</a>
+
+
+`UUID: 40fdd5df79f94fb39fcd9ade2ef1cac4`↓
+
+<a href="./archive/00725_001.jpg" target="_blank">
+	<img src="./lowres/00725_001.jpg" alt="Fujifilm Nexia APS film box inside" loading="lazy" width="437" height="500">
+</a>
+
 #### [Dialupdude] Fujifilm Nexia A200 (ref: 43c0)
 
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2011-12 
-Type  : Single Pack  |  Quantity: 25exp   
+Type  : Single Pack  |  Quantity: 25 exp  
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 711fdcd259474949990498f964f443c0
 ```
@@ -5496,7 +5913,7 @@ UUID  : 711fdcd259474949990498f964f443c0
 ```
 Format: Disposable Camera|  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-03 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : f2fbd963d7e0416398b986f9fe3e17e6
 ```
@@ -5512,12 +5929,89 @@ UUID  : f2fbd963d7e0416398b986f9fe3e17e6
 	<img src="./lowres/00646_001.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="189">
 </a>
 
+#### [Dialupdude] Ilford Delta 400 Professional Collector's Edition (ref: 10a5)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 6fe27ea636a847559b2d4d09e3c510a5
+```
+
+<a href="./archive/00730_000.jpg" target="_blank">
+	<img src="./lowres/00730_000.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box outside" loading="lazy" width="402" height="499">
+</a>
+
+
+`UUID: 78696137c1f04c3aa267c1a312cf657c`↓
+
+<a href="./archive/00730_001.jpg" target="_blank">
+	<img src="./lowres/00730_001.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box inside" loading="lazy" width="402" height="499">
+</a>
+
+#### [Dialupdude] Kodak Ektachrome EPT (ref: 34eb)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 160          |  Expiry  : 1984-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 2a910b5064f3416391a199aff11734eb
+```
+
+<a href="./archive/00729_000.jpg" target="_blank">
+	<img src="./lowres/00729_000.jpg" alt="Kodak Ektachrome EPT 120 film box outside" loading="lazy" width="500" height="476">
+</a>
+
+
+`UUID: 841096eabb454415a6112bf51380bbcd`↓
+
+<a href="./archive/00729_001.jpg" target="_blank">
+	<img src="./lowres/00729_001.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="177" height="499">
+</a>
+
+
+`UUID: c232732725554a98b49c08b42af3450f`↓
+
+<a href="./archive/00729_002.jpg" target="_blank">
+	<img src="./lowres/00729_002.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="182" height="500">
+</a>
+
+#### [Dialupdude] Kodak Ektachrome EPY (ref: 9aab)
+
+```
+Format: 120          |  Process : E-6     
+ISO   : 50           |  Expiry  : 1982-09 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 542db6f62cdb41aebf9a834dff2b9aab
+```
+
+<a href="./archive/00728_000.jpg" target="_blank">
+	<img src="./lowres/00728_000.jpg" alt="Kodak Ektachrome EPY 120 film box outside" loading="lazy" width="500" height="487">
+</a>
+
+
+`UUID: ca9ed2799dde4bbea72089679678a3f1`↓
+
+<a href="./archive/00728_001.jpg" target="_blank">
+	<img src="./lowres/00728_001.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="176" height="500">
+</a>
+
+
+`UUID: 5bc2c387eb994afa9c5f809467d17937`↓
+
+<a href="./archive/00728_002.jpg" target="_blank">
+	<img src="./lowres/00728_002.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="185" height="500">
+</a>
+
 #### [Dialupdude] Kodak Gold 200 (ref: 795c)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 31931d00c51447a8a625da94ce34795c
 ```
@@ -5531,7 +6025,7 @@ UUID  : 31931d00c51447a8a625da94ce34795c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1998-10 
-Type  : Multi-Pack-3 |  Quantity: 30exp   
+Type  : Multi-Pack-3 |  Quantity: 30 exp  
 Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 ```
@@ -5580,7 +6074,7 @@ UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
 Format: Disposable Camera|  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-05 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : e9b9c65612ae498080917cde3fd94618
 ```
@@ -5594,7 +6088,7 @@ UUID  : e9b9c65612ae498080917cde3fd94618
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 1957-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
 ```
@@ -5622,7 +6116,7 @@ UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2005-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : 39efe40e04c44643850d8442b4c490b4
 ```
@@ -5643,7 +6137,7 @@ UUID  : 39efe40e04c44643850d8442b4c490b4
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2013-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
 ```
@@ -5664,7 +6158,7 @@ UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2027-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : 89552dfaf57742d8b1aed15a511832e1
 ```
@@ -5678,7 +6172,7 @@ UUID  : 89552dfaf57742d8b1aed15a511832e1
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2025-07 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
 ```
@@ -5699,7 +6193,7 @@ UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2023-07 
-Type  : Single Pack  |  Quantity: 16exp   
+Type  : Single Pack  |  Quantity: 16 exp  
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : a0f16870196d400eb47971a65ab747a7
 ```
@@ -5720,7 +6214,7 @@ UUID  : a0f16870196d400eb47971a65ab747a7
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2024-03 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : a66f7c510e5e49e0b14a1165b59d32e9
 ```
@@ -5736,12 +6230,61 @@ UUID  : a66f7c510e5e49e0b14a1165b59d32e9
 	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="280" height="500">
 </a>
 
+#### [Dialupdude] Polaroid High Definition (ref: aad0)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-06 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-10-16   |  Author  : Dialupdude
+UUID  : 406bdfb2f41a4be4a27b4d9ddd98aad0
+```
+
+<a href="./archive/00727_000.jpg" target="_blank">
+	<img src="./lowres/00727_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 756eacb51cbb46a08cb4ac750cc2f95e`↓
+
+<a href="./archive/00727_001.jpg" target="_blank">
+	<img src="./lowres/00727_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="414" height="500">
+</a>
+
+#### [Gergely Orsi] Forte Fortepan Super Film (ref: 2caa)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 80           |  Expiry  : 1984-02 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-10-19   |  Author  : Gergely Orsi
+UUID  : f84b6ebc37914a48be977906fed12caa
+```
+
+<a href="./archive/00745_000.jpg" target="_blank">
+	<img src="./lowres/00745_000.jpg" alt="Forte Fortepan Super Film 120 film box outside" loading="lazy" width="500" height="361">
+</a>
+
+
+`UUID: 7a7eb3c8ec8943fd8b8c3b44cf8a661f`↓
+
+<a href="./archive/00745_001.jpg" target="_blank">
+	<img src="./lowres/00745_001.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
+
+`UUID: 4438c1db47d040c2a96740c539dc9632`↓
+
+<a href="./archive/00745_002.jpg" target="_blank">
+	<img src="./lowres/00745_002.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
+</a>
+
 #### [GreatGizmo74] Jessops CS100 (ref: 4288)
 
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2003-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-13   |  Author  : GreatGizmo74
 UUID  : 6e2123fd1134408789902c16b3764288
 ```
@@ -5776,7 +6319,7 @@ UUID  : 6e2123fd1134408789902c16b3764288
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-13   |  Author  : GreatGizmo74
 UUID  : 44e526db85e94a63ac582d20a1cc6d5a
 ```
@@ -5825,7 +6368,7 @@ UUID  : 4dc3f1e6a10842dbb0b1ac038b5ac335
 ```
 Format: 828          |  Process : K-11    
 ISO   : 12           |  Expiry  : 1961-09 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-05-26   |  Author  : Greg    
 UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
 ```
@@ -5853,7 +6396,7 @@ UUID  : 8b179d290e4a462bb49bcec4f7c7f435
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1945-06 
-Type  : Single Pack  |  Quantity: 18exp   
+Type  : Single Pack  |  Quantity: 18 exp  
 Added : 2026-04-13   |  Author  : Greg    
 UUID  : e2b224605b0745258cf52515e02099a6
 ```
@@ -5881,7 +6424,7 @@ UUID  : 261300ac4604457a8d0c8743d1e19a93
 ```
 Format: 35mm         |  Process : E-4     
 ISO   : 125          |  Expiry  : 1977-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 ```
@@ -5909,7 +6452,7 @@ UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 50           |  Expiry  : 1991-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 58211887217046be9d2dfcce8d0c5c43
 ```
@@ -5937,7 +6480,7 @@ UUID  : e1bcabfe74584823ac1e3c593244a972
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2005-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 ```
@@ -5951,7 +6494,7 @@ UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2006-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 7dd80a6f50584141ba1752071b9419bc
 ```
@@ -5972,7 +6515,7 @@ UUID  : 7dd80a6f50584141ba1752071b9419bc
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2004-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 8ae6d75c042c48318fa711a412b72ff3
 ```
@@ -5986,7 +6529,7 @@ UUID  : 8ae6d75c042c48318fa711a412b72ff3
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-04 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : Kraksen 
 UUID  : 23707163dc014de2947bf1669c2195f0
 ```
@@ -6007,7 +6550,7 @@ UUID  : 23707163dc014de2947bf1669c2195f0
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 320          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-16   |  Author  : Kraksen 
 UUID  : 715e5119d4b941d98ce52bcd8596c457
 ```
@@ -6021,7 +6564,7 @@ UUID  : 715e5119d4b941d98ce52bcd8596c457
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2025-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-07   |  Author  : Kraksen 
 UUID  : 0f36fe976d604dea826c31a5f534d9c4
 ```
@@ -6035,13 +6578,62 @@ UUID  : 0f36fe976d604dea826c31a5f534d9c4
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 250          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-07   |  Author  : Kraksen 
 UUID  : 354788b12a2a4555a7c1717abfd5c51e
 ```
 
 <a href="./archive/00705_000.jpg" target="_blank">
 	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+#### [Kristof Lemp] Fujifilm Fujichrome 100ix (ref: 9fb4)
+
+```
+Format: APS          |  Process : E-6     
+ISO   : 100          |  Expiry  : 2000-11 
+Type  : Single Pack  |  Quantity: 40 exp  
+Added : 2026-10-19   |  Author  : Kristof Lemp
+UUID  : 2a1bac6a8b61403ca0161b7471449fb4
+```
+
+<a href="./archive/00739_000.jpg" target="_blank">
+	<img src="./lowres/00739_000.jpg" alt="Fujifilm Fujichrome 100ix APS film box outside" loading="lazy" width="500" height="380">
+</a>
+
+
+`UUID: cd676c83173a4b56925208f10c1fc25a`↓
+
+<a href="./archive/00739_001.jpg" target="_blank">
+	<img src="./lowres/00739_001.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
+</a>
+
+
+`UUID: 8d63de9af81f46b19ab91e1184627d40`↓
+
+<a href="./archive/00739_002.jpg" target="_blank">
+	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: ec18aaa8718849c2bc80898859c85da2`↓
+
+<a href="./archive/00739_003.jpg" target="_blank">
+	<img src="./lowres/00739_003.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
+</a>
+
+
+`UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
+
+<a href="./archive/00739_004.jpg" target="_blank">
+	<img src="./lowres/00739_004.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="500" height="298">
+</a>
+
+
+`UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
+
+<a href="./archive/00739_005.jpg" target="_blank">
+	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
 </a>
 
 #### [Luci 101] Agfa AgfaChrome 100RS (ref: 2c42)
@@ -6154,7 +6746,7 @@ UUID  : 614f88677713446992d710403ec5eb28
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1979-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
@@ -6182,7 +6774,7 @@ UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1984-10 
-Type  : Bulk Roll    |  Quantity: 17m     
+Type  : Bulk Roll    |  Quantity: 17 m    
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : c5f2c4c39f884a668f540f88d21c003e
 ```
@@ -6196,7 +6788,7 @@ UUID  : c5f2c4c39f884a668f540f88d21c003e
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1981-01 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-05-26   |  Author  : Luci 101
 UUID  : a5735d8124da426db200a5ef3ae0050b
 ```
@@ -6224,7 +6816,7 @@ UUID  : a5735d8124da426db200a5ef3ae0050b
 ```
 Format: 8mm          |  Process : BW      
 ISO   : 32           |  Expiry  : 1948-05 
-Type  : Bulk Roll    |  Quantity: 25ft    
+Type  : Bulk Roll    |  Quantity: 25 ft   
 Added : 2026-06-19   |  Author  : Luci 101
 UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
 ```
@@ -6294,7 +6886,7 @@ UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1984-04 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : ab800ae503c34a0aa02671d6450e8dcf
 ```
@@ -6350,7 +6942,7 @@ UUID  : ab800ae503c34a0aa02671d6450e8dcf
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1983-01 
-Type  : Bulk Roll    |  Quantity: 50m     
+Type  : Bulk Roll    |  Quantity: 50 m    
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : 227450eabb63400cb0f7fb663797e815
 ```
@@ -6364,7 +6956,7 @@ UUID  : 227450eabb63400cb0f7fb663797e815
 ```
 Format: 16mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1984-05 
-Type  : Single Pack  |  Quantity: 30.5m   
+Type  : Single Pack  |  Quantity: 30.5 m  
 Added : 2026-07-13   |  Author  : Luci 101
 UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
 ```
@@ -6504,7 +7096,7 @@ UUID  : 3a26b6e03eec4c35accf4991a4cd6b7f
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Bulk Roll    |  Quantity: 905ft   
+Type  : Bulk Roll    |  Quantity: 905 ft  
 Added : 2026-08-04   |  Author  : Luci 101
 UUID  : 0bd454e6225a4c5799d36e51135208f0
 ```
@@ -6525,7 +7117,7 @@ UUID  : 0bd454e6225a4c5799d36e51135208f0
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 1995-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : 2ba82c28507045deadcde0588535a9b6
 ```
@@ -6546,7 +7138,7 @@ UUID  : 2ba82c28507045deadcde0588535a9b6
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 50           |  Expiry  : 1992-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : Luci 101
 UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
 ```
@@ -6595,7 +7187,7 @@ UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
 ```
 Format: 8mm          |  Process : Unknown 
 ISO   : 16           |  Expiry  : 1971-10 
-Type  : Single Pack  |  Quantity: 7.5m    
+Type  : Single Pack  |  Quantity: 7.5 m   
 Added : 2026-05-26   |  Author  : Luci 101
 UUID  : e7ff421fe76940efb7c727d4ffa6a05d
 ```
@@ -6686,7 +7278,7 @@ UUID  : e7ff421fe76940efb7c727d4ffa6a05d
 ```
 Format: 8mm          |  Process : Unknown 
 ISO   : 40           |  Expiry  : 1989-05 
-Type  : Single Pack  |  Quantity: 7.5m    
+Type  : Single Pack  |  Quantity: 7.5 m   
 Added : 2026-06-24   |  Author  : Luci 101
 UUID  : cba0bd2a5ffd43c38164a5e9a2f719a0
 ```
@@ -6749,7 +7341,7 @@ UUID  : cba0bd2a5ffd43c38164a5e9a2f719a0
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 50           |  Expiry  : 1976-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : Luci 101
 UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 ```
@@ -6805,7 +7397,7 @@ UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 ```
 Format: 8mm          |  Process : Unknown 
 ISO   : 400          |  Expiry  : 1983-11 
-Type  : Single Pack  |  Quantity: 10m     
+Type  : Single Pack  |  Quantity: 10 m    
 Added : 2026-06-24   |  Author  : Luci 101
 UUID  : b009e5b8edc4410da0efdcc563624d5a
 ```
@@ -6854,7 +7446,7 @@ UUID  : b009e5b8edc4410da0efdcc563624d5a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 64           |  Expiry  : 1993-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-04-13   |  Author  : Luci 101
 UUID  : dafc01117d5744b9a1591e4ad9ed481f
 ```
@@ -6896,7 +7488,7 @@ UUID  : dafc01117d5744b9a1591e4ad9ed481f
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 2006-05 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
 ```
@@ -6910,7 +7502,7 @@ UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
 ```
 Format: 70mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2006-08 
-Type  : Bulk Roll    |  Quantity: 150ft   
+Type  : Bulk Roll    |  Quantity: 150 ft  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : 9a2383f804754840938f77217718840c
 ```
@@ -6924,7 +7516,7 @@ UUID  : 9a2383f804754840938f77217718840c
 ```
 Format: 70mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1972-06 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : dd83cce80c7f4a3888777d7446d59a4c
 ```
@@ -6938,7 +7530,7 @@ UUID  : dd83cce80c7f4a3888777d7446d59a4c
 ```
 Format: 70mm         |  Process : C-41    
 ISO   : 160          |  Expiry  : 2009-01 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : 6052675492004641b862ed8f7c99d52e
 ```
@@ -6952,7 +7544,7 @@ UUID  : 6052675492004641b862ed8f7c99d52e
 ```
 Format: 70mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1987-05 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : e09ac20993b946ad8fc2c588f84263e7
 ```
@@ -6980,7 +7572,7 @@ UUID  : e09ac20993b946ad8fc2c588f84263e7
 ```
 Format: 70mm         |  Process : BW      
 ISO   : 650          |  Expiry  : 1964-06 
-Type  : Bulk Roll    |  Quantity: 60ft    
+Type  : Bulk Roll    |  Quantity: 60 ft   
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : d1ac939ca9074be8a403c2a5cc1570d7
 ```
@@ -6994,7 +7586,7 @@ UUID  : d1ac939ca9074be8a403c2a5cc1570d7
 ```
 Format: 70mm         |  Process : BW      
 ISO   : 25           |  Expiry  : 1985-04 
-Type  : Bulk Roll    |  Quantity: 150ft   
+Type  : Bulk Roll    |  Quantity: 150 ft  
 Added : 2026-08-04   |  Author  : MCB18   
 UUID  : ea5df46bb39745879d81fd9c6eeb20de
 ```
@@ -7008,7 +7600,7 @@ UUID  : ea5df46bb39745879d81fd9c6eeb20de
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2002-03 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 4816ed9ade314598a0c96412b06dca9c
 ```
@@ -7029,7 +7621,7 @@ UUID  : 4816ed9ade314598a0c96412b06dca9c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-09 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 356cb49254644befb12eaa34c997c0cc
 ```
@@ -7043,7 +7635,7 @@ UUID  : 356cb49254644befb12eaa34c997c0cc
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2008-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 0eabec768b1245e1bae0afaa62f04eb6
 ```
@@ -7064,7 +7656,7 @@ UUID  : 0eabec768b1245e1bae0afaa62f04eb6
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2011-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 29973b9ee68243218c8d30c3403a0f0c
 ```
@@ -7078,7 +7670,7 @@ UUID  : 29973b9ee68243218c8d30c3403a0f0c
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 50           |  Expiry  : 2012-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : ee425a725d52448b95cb0664aabf9678
 ```
@@ -7092,7 +7684,7 @@ UUID  : ee425a725d52448b95cb0664aabf9678
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 50           |  Expiry  : 2006-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : a9fca2c069e94c0b8bafaf79a473c977
 ```
@@ -7113,7 +7705,7 @@ UUID  : a9fca2c069e94c0b8bafaf79a473c977
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2009-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : b15598742abf4dada03cecd44e4071f9
 ```
@@ -7127,7 +7719,7 @@ UUID  : b15598742abf4dada03cecd44e4071f9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2009-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 2234581367c84a208c391ba92b3f5e5d
 ```
@@ -7141,7 +7733,7 @@ UUID  : 2234581367c84a208c391ba92b3f5e5d
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2006-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : b58543ef54c0480288f0fb8b7ac62fbc
 ```
@@ -7162,7 +7754,7 @@ UUID  : b58543ef54c0480288f0fb8b7ac62fbc
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2006-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 9e8ce3c9962b416abe196c890efc0a2e
 ```
@@ -7183,7 +7775,7 @@ UUID  : 9e8ce3c9962b416abe196c890efc0a2e
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2008-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : c93974535a3441acb0edbbd16b0f00ae
 ```
@@ -7204,7 +7796,7 @@ UUID  : c93974535a3441acb0edbbd16b0f00ae
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2008-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 8dfb0a6557b34a5fad8d96d4498e7feb
 ```
@@ -7225,7 +7817,7 @@ UUID  : 8dfb0a6557b34a5fad8d96d4498e7feb
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : a3557cdb2ef942a9809d9c4360bf23f6
 ```
@@ -7246,7 +7838,7 @@ UUID  : a3557cdb2ef942a9809d9c4360bf23f6
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2013-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 2510bd0dd10940e0888b722ec00de0a7
 ```
@@ -7267,7 +7859,7 @@ UUID  : 2510bd0dd10940e0888b722ec00de0a7
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2006-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
@@ -7288,7 +7880,7 @@ UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-03 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
@@ -7309,7 +7901,7 @@ UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2012-10 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
 ```
@@ -7323,7 +7915,7 @@ UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
@@ -7337,7 +7929,7 @@ UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 8            |  Expiry  : 1946-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9ea6437ea85442048ffe63b8b64c3700
 ```
@@ -7351,7 +7943,7 @@ UUID  : 9ea6437ea85442048ffe63b8b64c3700
 ```
 Format: 16mm         |  Process : D-97    
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 100ft   
+Type  : Single Pack  |  Quantity: 100 ft  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 ```
@@ -7365,7 +7957,7 @@ UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 400          |  Expiry  : 1990-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 2330da9237ad4dbaac0028199f363c96
 ```
@@ -7386,7 +7978,7 @@ UUID  : 2330da9237ad4dbaac0028199f363c96
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 80           |  Expiry  : 1990-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 7b611fc399af469a80ac1a0124c84294
 ```
@@ -7414,7 +8006,7 @@ UUID  : 7b611fc399af469a80ac1a0124c84294
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 80           |  Expiry  : 2008-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 77352e93d73748eca98cff7b30d7883e
 ```
@@ -7435,7 +8027,7 @@ UUID  : 77352e93d73748eca98cff7b30d7883e
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 0.06         |  Expiry  : 2000-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
@@ -7463,7 +8055,7 @@ UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 1991-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9e4ea1efa5a54938985fdf8901951dff
 ```
@@ -7491,7 +8083,7 @@ UUID  : 9e4ea1efa5a54938985fdf8901951dff
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 25           |  Expiry  : 1995-04 
-Type  : Bulk Roll    |  Quantity: 150ft   
+Type  : Bulk Roll    |  Quantity: 150 ft  
 Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : e65b4252384141028ee037892c6bf4cf
 ```
@@ -7512,7 +8104,7 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 50           |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-13   |  Author  : Pelicram
 UUID  : a504b8da97b642908de921d1053d4da7
 ```
@@ -7533,7 +8125,7 @@ UUID  : a504b8da97b642908de921d1053d4da7
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : b79dcd08bc514df3982630e3401f01db
 ```
@@ -7547,7 +8139,7 @@ UUID  : b79dcd08bc514df3982630e3401f01db
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 1963-11 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 ```
@@ -7561,7 +8153,7 @@ UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : Unknown 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
 ```
@@ -7596,7 +8188,7 @@ UUID  : 73396128854a4c6ab3723a549225ad7b
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0d9fee6b29f445f089acde3247d1f619
 ```
@@ -7617,7 +8209,7 @@ UUID  : 0d9fee6b29f445f089acde3247d1f619
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2026-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-12-01   |  Author  : Pelicram
 UUID  : 89e114393f3d49808e0a572e88406cd2
 ```
@@ -7631,7 +8223,7 @@ UUID  : 89e114393f3d49808e0a572e88406cd2
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-26   |  Author  : Pelicram
 UUID  : aff79fa9e25b4654826ed6443d266a4f
 ```
@@ -7645,7 +8237,7 @@ UUID  : aff79fa9e25b4654826ed6443d266a4f
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 40           |  Expiry  : 1956-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
@@ -7659,7 +8251,7 @@ UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2028-05 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-13   |  Author  : Pelicram
 UUID  : 840026a068594c3389b34374204f60ee
 ```
@@ -7694,7 +8286,7 @@ UUID  : a0786cc1bc884f66bbb84118d55665ad
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : bf1734a1ea48495d92afb7d03bdf0030
 ```
@@ -7736,7 +8328,7 @@ UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2027-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-15   |  Author  : Pelicram
 UUID  : 676655ff95914769b0869d71d824c559
 ```
@@ -7757,7 +8349,7 @@ UUID  : 676655ff95914769b0869d71d824c559
 ```
 Format: Disposable Camera|  Process : C-41    
 ISO   : 400          |  Expiry  : 2008-08 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2026-06-26   |  Author  : Pelicram
 UUID  : a2fd70d8c82d42aa8db0f45ced94081a
 ```
@@ -7771,7 +8363,7 @@ UUID  : a2fd70d8c82d42aa8db0f45ced94081a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2000-07 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 2b50b3d82a7340ffbe9bff871793d1b7
 ```
@@ -7792,7 +8384,7 @@ UUID  : 2b50b3d82a7340ffbe9bff871793d1b7
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2026-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 462e32d45cd740cf866732a73a00889f
 ```
@@ -7827,7 +8419,7 @@ UUID  : 78d1111d1b234dcfb272c00d7935920f
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 2027-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : d6f377dbe74745a0aacdf51ce7669b54
 ```
@@ -7848,7 +8440,7 @@ UUID  : d6f377dbe74745a0aacdf51ce7669b54
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1959-03 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 6775b898e26f4b649bd5323259f284f7
 ```
@@ -7862,7 +8454,7 @@ UUID  : 6775b898e26f4b649bd5323259f284f7
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1960-11 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : bb411872cc384c19b35debf6662503e7
 ```
@@ -7897,7 +8489,7 @@ UUID  : dbf3817f506a444b9d394745dba311a8
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2025-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 1873b4d20d2a47659ab15d0af4146e58
 ```
@@ -7918,7 +8510,7 @@ UUID  : 1873b4d20d2a47659ab15d0af4146e58
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2030-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-15   |  Author  : Pelicram
 UUID  : b0e988456d7444b1b879dc6ca4a80e32
 ```
@@ -7932,7 +8524,7 @@ UUID  : b0e988456d7444b1b879dc6ca4a80e32
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2029-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 58f2bea3a3204a1dafebf2881d99a327
 ```
@@ -7953,7 +8545,7 @@ UUID  : 58f2bea3a3204a1dafebf2881d99a327
 ```
 Format: Super 8      |  Process : K-14    
 ISO   : 40           |  Expiry  : 1981-11 
-Type  : Single Pack  |  Quantity: 15m     
+Type  : Single Pack  |  Quantity: 15 m    
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 4f8758001bd74040b9e5a4bc6506c143
 ```
@@ -8002,7 +8594,7 @@ UUID  : 4f8758001bd74040b9e5a4bc6506c143
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1958-03 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : a4dcee02869a4274b81b453160ca7ed1
 ```
@@ -8016,7 +8608,7 @@ UUID  : a4dcee02869a4274b81b453160ca7ed1
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1957-06 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : def2a04d52794b00aa61a0b801bdb867
 ```
@@ -8030,7 +8622,7 @@ UUID  : def2a04d52794b00aa61a0b801bdb867
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1958-01 
-Type  : Bulk Roll    |  Quantity: 5m      
+Type  : Bulk Roll    |  Quantity: 5 m     
 Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 274e94b488d64e3a890da1f77b607958
 ```
@@ -8044,7 +8636,7 @@ UUID  : 274e94b488d64e3a890da1f77b607958
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 39fa3ae0251e4cdbaf8240602537521a
 ```
@@ -8058,7 +8650,7 @@ UUID  : 39fa3ae0251e4cdbaf8240602537521a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 2026-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 8f91948e930f491a8684337e32d443a2
 ```
@@ -8072,7 +8664,7 @@ UUID  : 8f91948e930f491a8684337e32d443a2
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 3200         |  Expiry  : 2027-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-05-26   |  Author  : Pelicram
 UUID  : 989581de448d4ccd82d8ab0950dae727
 ```
@@ -8086,7 +8678,7 @@ UUID  : 989581de448d4ccd82d8ab0950dae727
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0417faf4f5be42538db49741140bc671
 ```
@@ -8100,7 +8692,7 @@ UUID  : 0417faf4f5be42538db49741140bc671
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2001-12 
-Type  : Multi-Pack-2 |  Quantity: 24exp   
+Type  : Multi-Pack-2 |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
@@ -8114,7 +8706,7 @@ UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-03 
-Type  : Multi-Pack-3 |  Quantity: 24exp   
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : dd3a6c347560484295ca09c86e3dfe53
 ```
@@ -8135,7 +8727,7 @@ UUID  : dd3a6c347560484295ca09c86e3dfe53
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 13           |  Expiry  : 2025-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 9d7f531c7a764f9689228ab477297afa
 ```
@@ -8149,7 +8741,7 @@ UUID  : 9d7f531c7a764f9689228ab477297afa
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 8            |  Expiry  : 2026-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 538e7611233a4cc3bd733763bf694340
 ```
@@ -8163,7 +8755,7 @@ UUID  : 538e7611233a4cc3bd733763bf694340
 ```
 Format: 110          |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6d10288df24748fa8944774857f3d506
 ```
@@ -8177,7 +8769,7 @@ UUID  : 6d10288df24748fa8944774857f3d506
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : e8a5b04ef68c43ae9e79df89123726dd
 ```
@@ -8191,7 +8783,7 @@ UUID  : e8a5b04ef68c43ae9e79df89123726dd
 ```
 Format: 8x11mm       |  Process : C-41    
 ISO   : 100          |  Expiry  : 1989-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-05   |  Author  : Pelicram
 UUID  : a54b7c329f26403d91ffa69325a1d209
 ```
@@ -8205,7 +8797,7 @@ UUID  : a54b7c329f26403d91ffa69325a1d209
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 500          |  Expiry  : Unknown 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-15   |  Author  : Pelicram
 UUID  : e4d2af3a69704509a07e108fcb4b5150
 ```
@@ -8219,7 +8811,7 @@ UUID  : e4d2af3a69704509a07e108fcb4b5150
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2021-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-21   |  Author  : Pelicram
 UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 ```
@@ -8240,7 +8832,7 @@ UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2022-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-21   |  Author  : Pelicram
 UUID  : 1b741df3125e4a77bd28c50ce3dcc097
 ```
@@ -8261,7 +8853,7 @@ UUID  : 1b741df3125e4a77bd28c50ce3dcc097
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2028-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 19ef81d6d03844b088250c7b54032155
 ```
@@ -8282,7 +8874,7 @@ UUID  : 19ef81d6d03844b088250c7b54032155
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 80           |  Expiry  : 2025-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-08   |  Author  : Pelicram
 UUID  : 406a06d6d4df49cfa27378242ef6e23d
 ```
@@ -8303,7 +8895,7 @@ UUID  : 406a06d6d4df49cfa27378242ef6e23d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2025-09 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0a141b49a84a4b06a18355308940f3a7
 ```
@@ -8317,7 +8909,7 @@ UUID  : 0a141b49a84a4b06a18355308940f3a7
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
@@ -8331,7 +8923,7 @@ UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 898148fa3a754866a407bbecec4a71a6
 ```
@@ -8359,7 +8951,7 @@ UUID  : 69f7043994f94dffb90d512ed5bc2c8a
 ```
 Format: 118          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1916-01 
-Type  : Single Pack  |  Quantity: 4exp    
+Type  : Single Pack  |  Quantity: 4 exp   
 Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
 ```
@@ -8394,7 +8986,7 @@ UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2008-08 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2026-08-13   |  Author  : Rafa Laguillo
 UUID  : a6d5604fc4404666acf42801bbc8145b
 ```
@@ -8422,7 +9014,7 @@ UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2009-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-08-21   |  Author  : Rafa Laguillo
 UUID  : 738ee5f957e543ee8baa4824dcacd7fe
 ```
@@ -8436,6 +9028,49 @@ UUID  : 738ee5f957e543ee8baa4824dcacd7fe
 
 <a href="./archive/00700_001.jpg" target="_blank">
 	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
+</a>
+
+#### [Rhiannon] Candido Candido400 (ref: 5f29)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-03 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 66cc14c380bc426295beb5328efd5f29
+```
+
+<a href="./archive/00748_000.jpg" target="_blank">
+	<img src="./lowres/00748_000.jpg" alt="Candido Candido400 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+
+`UUID: f26355b369b9467ca51d7b7545b27689`↓
+
+<a href="./archive/00748_001.jpg" target="_blank">
+	<img src="./lowres/00748_001.jpg" alt="Candido Candido400 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
+#### [Rhiannon] Star Foto Colour Film for Prints (ref: bdd5)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2002-12 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : Rhiannon
+UUID  : 57fa494ddfd641efae0ee1aaa686bdd5
+Notes : Repackaged Agfa XRG 200?
+```
+
+<a href="./archive/00747_000.jpg" target="_blank">
+	<img src="./lowres/00747_000.jpg" alt="Star Foto Colour Film for Prints 35mm film box outside" loading="lazy" width="489" height="500">
+</a>
+
+
+`UUID: 543d392100734dc598c5a2d63e2052b1`↓
+
+<a href="./archive/00747_001.jpg" target="_blank">
+	<img src="./lowres/00747_001.jpg" alt="Star Foto Colour Film for Prints 35mm film box inside" loading="lazy" width="483" height="500">
 </a>
 
 #### [Tallbird Cowboy] Kodak Kodachrome II (ref: 2caa)
@@ -8471,7 +9106,7 @@ UUID  : 9f12faa621fe4c06919086dcec7c2caa
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 40           |  Expiry  : 1969-02 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : b2470c1734d344698f6e1c01eaa85e7b
 ```
@@ -8485,7 +9120,7 @@ UUID  : b2470c1734d344698f6e1c01eaa85e7b
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2026-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-07   |  Author  : The Compartmentalist
 UUID  : 480a75f9978b4fba84c81a8a9e95df27
 ```
@@ -8499,7 +9134,7 @@ UUID  : 480a75f9978b4fba84c81a8a9e95df27
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 1998-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
@@ -8520,7 +9155,7 @@ UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2012-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : cb85af928a7f454e9673960e22b428da
 ```
@@ -8534,7 +9169,7 @@ UUID  : cb85af928a7f454e9673960e22b428da
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 1975-02 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 1c541b4c837944d788eab8986f349db3
 ```
@@ -8548,7 +9183,7 @@ UUID  : 1c541b4c837944d788eab8986f349db3
 ```
 Format: 126          |  Process : E-6     
 ISO   : 200          |  Expiry  : 1978-11 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : fef4be09ea484eecb10a13282d18f372
 ```
@@ -8576,7 +9211,7 @@ UUID  : fef4be09ea484eecb10a13282d18f372
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : Unknown      |  Expiry  : 1998-04 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : 82095e23320f4581be4672fd5559596a
 ```
@@ -8590,7 +9225,7 @@ UUID  : 82095e23320f4581be4672fd5559596a
 ```
 Format: 828          |  Process : E-4     
 ISO   : 64           |  Expiry  : 1972-03 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 ```
@@ -8604,7 +9239,7 @@ UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 ```
 Format: 35mm         |  Process : E-4     
 ISO   : 64           |  Expiry  : 1973-06 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 ```
@@ -8646,7 +9281,7 @@ UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : 25           |  Expiry  : 1983-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6239a04366d74208a9010cd231688833
 ```
@@ -8660,7 +9295,7 @@ UUID  : 6239a04366d74208a9010cd231688833
 ```
 Format: 126          |  Process : C-41    
 ISO   : 100          |  Expiry  : 1983-10 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : 08c1609b39a64daf8be1373ea99c7310
 ```
@@ -8674,7 +9309,7 @@ UUID  : 08c1609b39a64daf8be1373ea99c7310
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 160          |  Expiry  : 2026-01 
-Type  : Multi-Pack-5 |  Quantity: 36exp   
+Type  : Multi-Pack-5 |  Quantity: 36 exp  
 Added : 2025-09-17   |  Author  : The Compartmentalist
 UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
 ```
@@ -8688,7 +9323,7 @@ UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-01 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-09-17   |  Author  : The Compartmentalist
 UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 ```
@@ -8716,7 +9351,7 @@ UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 Format: 16mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1992-06 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 ```
@@ -8730,7 +9365,7 @@ UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 80           |  Expiry  : 1992-12 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : 9791c2074fdd4340a1463312ed77b16c
 ```
@@ -8765,7 +9400,7 @@ UUID  : a361e3b88dde4e0482027e58f12d8bec
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1978-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 ```
@@ -8779,7 +9414,7 @@ UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2027-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-08   |  Author  : TheSelousScout
 UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 ```
@@ -8800,7 +9435,7 @@ UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2028-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : TheSelousScout
 UUID  : b33ca9b3d2e34544a264987426efba30
 ```
@@ -8814,7 +9449,7 @@ UUID  : b33ca9b3d2e34544a264987426efba30
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2024-12 
-Type  : Single Pack  |  Quantity: 27exp   
+Type  : Single Pack  |  Quantity: 27 exp  
 Added : 2025-08-07   |  Author  : TheSelousScout
 UUID  : 075938ec54de4c4bbee63671e4c208ad
 ```
@@ -8856,7 +9491,7 @@ UUID  : 32a76ef752524fab9f27ebe632b527f5
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 25           |  Expiry  : 2009-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : Tobias  
 UUID  : b41fb584f713486eb5a5da2fe16e4d17
 ```
@@ -8870,6 +9505,41 @@ UUID  : b41fb584f713486eb5a5da2fe16e4d17
 
 <a href="./archive/00528_001.jpg" target="_blank">
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
+</a>
+
+#### [Vince Costello] Kodak Ektachrome 200 (ref: 8734)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 200          |  Expiry  : 1983-12 
+Type  : Single Pack  |  Quantity: 20 exp  
+Added : 2026-10-19   |  Author  : Vince Costello
+UUID  : 1ca3e3e1505c4e9a9aa69c18401c8734
+```
+
+<a href="./archive/00746_000.jpg" target="_blank">
+	<img src="./lowres/00746_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" width="398" height="500">
+</a>
+
+
+`UUID: 218ea261aee74673943c0c4f73d02adc`↓
+
+<a href="./archive/00746_001.jpg" target="_blank">
+	<img src="./lowres/00746_001.jpg" alt="Kodak Ektachrome 200 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
+
+`UUID: fbc292c2fc4c4ae79faec8b0f7405b23`↓
+
+<a href="./archive/00746_002.jpg" target="_blank">
+	<img src="./lowres/00746_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="168" height="500">
+</a>
+
+
+`UUID: 32b3e10b44d846a187736e427a929cf1`↓
+
+<a href="./archive/00746_003.jpg" target="_blank">
+	<img src="./lowres/00746_003.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="167" height="500">
 </a>
 
 #### [Warren Umbach] Agfa Agfapan APX 25 (ref: 5a92)
@@ -8898,7 +9568,7 @@ UUID  : 3f10b7f948b641459292c754ec265a92
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2026-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-06-05   |  Author  : Yrikonchik
 UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 ```
@@ -8912,7 +9582,7 @@ UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2010-07 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-01-12   |  Author  : b0baspace
 UUID  : 27d88b35933b4ede958b5b5b5b42013b
 ```
@@ -8926,7 +9596,7 @@ UUID  : 27d88b35933b4ede958b5b5b5b42013b
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 160          |  Expiry  : 2003-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 576142521c2f4fe5abc387032bcc5e85
 ```
@@ -8947,7 +9617,7 @@ UUID  : 576142521c2f4fe5abc387032bcc5e85
 ```
 Format: 126          |  Process : AR-1    
 ISO   : 64           |  Expiry  : 1974-01 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-02-04   |  Author  : b0baspace
 UUID  : c426ea17398c4c549c6a2720103adea6
 ```
@@ -8996,7 +9666,7 @@ UUID  : c426ea17398c4c549c6a2720103adea6
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 1992-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 ```
@@ -9038,7 +9708,7 @@ UUID  : 75c7c232d44949c3b1d766b0d2580195
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1994-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
@@ -9087,7 +9757,7 @@ UUID  : 098e510bfaa14be39697b9d8218475d9
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1992-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-12-29   |  Author  : benikum 
 UUID  : cfbdda5effec496ca0d9d91d29d65437
 ```
@@ -9115,7 +9785,7 @@ UUID  : cfbdda5effec496ca0d9d91d29d65437
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2028-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-06-05   |  Author  : benikum 
 UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
@@ -9136,7 +9806,7 @@ UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2006-05 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-06-05   |  Author  : benikum 
 UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 ```
@@ -9150,7 +9820,7 @@ UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 32           |  Expiry  : 1961-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-05   |  Author  : benikum 
 UUID  : a26198b637074f36b099870688e7dba0
 ```
@@ -9164,7 +9834,7 @@ UUID  : a26198b637074f36b099870688e7dba0
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 80           |  Expiry  : 1961-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-05   |  Author  : benikum 
 UUID  : da22aec5f8564cd8b34023047f511620
 ```
@@ -9185,7 +9855,7 @@ UUID  : da22aec5f8564cd8b34023047f511620
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1997-10 
-Type  : Multi-Pack-4 |  Quantity: 24exp   
+Type  : Multi-Pack-4 |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
 ```
@@ -9199,7 +9869,7 @@ UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
 ```
 Format: 35mm         |  Process : AR-2    
 ISO   : 200          |  Expiry  : 1974-04 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
 ```
@@ -9213,7 +9883,7 @@ UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 4            |  Expiry  : 1980-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 65c654459db94987a653ce34ae6f76f8
 ```
@@ -9241,7 +9911,7 @@ UUID  : 65c654459db94987a653ce34ae6f76f8
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2001-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 86c04a01042341b8a7ae95c660f4f2a2
 ```
@@ -9255,7 +9925,7 @@ UUID  : 86c04a01042341b8a7ae95c660f4f2a2
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : 64           |  Expiry  : 1992-01 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : ba34255d470942dea9572eaabf1007e0
 ```
@@ -9276,7 +9946,7 @@ UUID  : ba34255d470942dea9572eaabf1007e0
 ```
 Format: 126          |  Process : C-41    
 ISO   : 80           |  Expiry  : 1976-05 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : db6491a822bb44a183c95744cb26c326
 ```
@@ -9290,7 +9960,7 @@ UUID  : db6491a822bb44a183c95744cb26c326
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1990-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 8f3e3aab508a454fbe868b1025adb4e8
 ```
@@ -9304,7 +9974,7 @@ UUID  : 8f3e3aab508a454fbe868b1025adb4e8
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1994-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 4f04fc9a2284495cb367f76cc7054257
 ```
@@ -9375,7 +10045,7 @@ Notes : Respooled Kodak Plus-X film inside
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2007-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : d0ca629041344c4f8f6d3200341f4edf
 ```
@@ -9389,7 +10059,7 @@ UUID  : d0ca629041344c4f8f6d3200341f4edf
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 1999-07 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : d58fc4af4f314da988547af34b1bcd53
 ```
@@ -9410,7 +10080,7 @@ UUID  : d58fc4af4f314da988547af34b1bcd53
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 40           |  Expiry  : 1964-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 14047842e1a641268bfd4d01fcf02c95
 ```
@@ -9452,7 +10122,7 @@ UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 50           |  Expiry  : 1967-07 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 0e445a9b612a487b90df4e94a3831fef
 ```
@@ -9508,7 +10178,7 @@ UUID  : 0e445a9b612a487b90df4e94a3831fef
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2001-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
@@ -9543,7 +10213,7 @@ UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 50           |  Expiry  : 2001-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
@@ -9564,7 +10234,7 @@ UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
@@ -9578,7 +10248,7 @@ UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
@@ -9599,7 +10269,7 @@ UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 80           |  Expiry  : 1969-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 9129d9db8e114656a58fd2a422b43502
 ```
@@ -9711,7 +10381,7 @@ UUID  : 4f4b0a2c13064863a1db469838095855
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2008-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
 ```
@@ -9837,7 +10507,7 @@ UUID  : aedc4b00bd174e0baf7c744ed21d8820
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 250          |  Expiry  : 2024-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 ```
@@ -9881,12 +10551,26 @@ UUID  : 53253eca96d841f5b98bfb3590fec86a
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
+#### [dekuNukem] Cyberpunk 400D Color Film AHU (ref: 408d)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : dekuNukem
+UUID  : 1067b3c9c68648fa88e091affc68408d
+```
+
+<a href="./archive/00738_000.jpg" target="_blank">
+	<img src="./lowres/00738_000.jpg" alt="Cyberpunk 400D Color Film AHU 35mm film box outside" loading="lazy" width="500" height="480">
+</a>
+
 #### [dekuNukem] Efiniti UXi Super 200 (ref: 471a)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2013-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : cde1122dafbc47088a11d9ee12b6471a
 ```
@@ -10070,7 +10754,7 @@ Notes : Expiry is probably later than the other one, due to the increase of the 
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 80           |  Expiry  : 1976-08 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-02   |  Author  : dekuNukem
 UUID  : a3346f80db3b4032a2c69665f7448f0a
 ```
@@ -10227,7 +10911,7 @@ UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 1987-08 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
 ```
@@ -10325,7 +11009,7 @@ UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 1990-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 ```
@@ -10374,7 +11058,7 @@ UUID  : c3d9e51d22e241f69133be30d5a00683
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2025-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-11-11   |  Author  : dekuNukem
 UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
 ```
@@ -10388,7 +11072,7 @@ UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
 ```
 Format: 122          |  Process : BW      
 ISO   : 40           |  Expiry  : 1957-10 
-Type  : Single Pack  |  Quantity: 6exp    
+Type  : Single Pack  |  Quantity: 6 exp   
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 4cce875d701d4fd4b1d28353305ac0e3
 Notes : 30 most likely is European Scheiner film speed
@@ -10417,7 +11101,7 @@ UUID  : 5700b2c507254c36ac9b05eabf04fc88
 ```
 Format: 127          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1947-01 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
@@ -10431,7 +11115,7 @@ UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : Unknown      |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 0f14cf86439a4009a252f730c308c012
 ```
@@ -10502,7 +11186,7 @@ Notes : Chinese version
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2028-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-05   |  Author  : dekuNukem
 UUID  : 1989020e64ed45108cb6e45a389641d4
 Notes : Chinese version
@@ -10545,7 +11229,7 @@ UUID  : c2225dedcae040e7bb27a918c4ca93b9
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2007-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-07   |  Author  : dekuNukem
 UUID  : f38dd0735c2e441088b421eec4678f8b
 ```
@@ -10706,7 +11390,7 @@ UUID  : f085080d08414582a703e7a1982df534
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2013-11 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 0543dd31cf204c8499f5f1e51a9b861c
 ```
@@ -10762,7 +11446,7 @@ UUID  : 0543dd31cf204c8499f5f1e51a9b861c
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2006-10 
-Type  : Single Pack  |  Quantity: 40exp   
+Type  : Single Pack  |  Quantity: 40 exp  
 Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
@@ -10776,7 +11460,7 @@ UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 Format: 120          |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
@@ -10797,7 +11481,7 @@ UUID  : e876f866f1e9430494356ad098c7d223
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2029-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
@@ -10818,7 +11502,7 @@ UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2007-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 42f73c1448634cdb856d014e59098779
 ```
@@ -10839,7 +11523,7 @@ UUID  : 42f73c1448634cdb856d014e59098779
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2006-10 
-Type  : Single Pack  |  Quantity: 25exp   
+Type  : Single Pack  |  Quantity: 25 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
@@ -10860,7 +11544,7 @@ UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-06 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-09-14   |  Author  : dekuNukem
 UUID  : 1de78d118b71405fbc6d5129f08b2e01
 ```
@@ -10874,7 +11558,7 @@ UUID  : 1de78d118b71405fbc6d5129f08b2e01
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2007-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-28   |  Author  : dekuNukem
 UUID  : b1affc3985b44a4781729ffa50908ae4
 ```
@@ -10888,7 +11572,7 @@ UUID  : b1affc3985b44a4781729ffa50908ae4
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 1998-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 2276628aa2794442ae81221329fc44d7
 ```
@@ -10902,7 +11586,7 @@ UUID  : 2276628aa2794442ae81221329fc44d7
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2006-08 
-Type  : Single Pack  |  Quantity: 25exp   
+Type  : Single Pack  |  Quantity: 25 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 041622f239024ffb8b75c367619a566b
 ```
@@ -10916,7 +11600,7 @@ UUID  : 041622f239024ffb8b75c367619a566b
 ```
 Format: APS          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2004-07 
-Type  : Single Pack  |  Quantity: 25exp   
+Type  : Single Pack  |  Quantity: 25 exp  
 Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
 ```
@@ -10951,7 +11635,7 @@ UUID  : 389f8e8d270647eda7b0b7d2ab060183
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 1994-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c7c26bb546634d47ae7fc5aa68b33ab9
 ```
@@ -10972,7 +11656,7 @@ UUID  : c7c26bb546634d47ae7fc5aa68b33ab9
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 1994-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 064dbfe80ca84ac99329c252bce0775a
 ```
@@ -11042,7 +11726,7 @@ UUID  : 877e28be6f7240898a95616c39a95b82
 ```
 Format: 110          |  Process : Unknown 
 ISO   : 64           |  Expiry  : 1979-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
@@ -11070,7 +11754,7 @@ UUID  : e8673d04cee440bd9c065a37a485a8d3
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 1997-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
 ```
@@ -11238,7 +11922,7 @@ UUID  : 7456456d09c844c8ab046abd9c17c3f8
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2009-09 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
+Type  : Multi-Pack-2 |  Quantity: 36 exp  
 Added : 2025-09-04   |  Author  : dekuNukem
 UUID  : dc04ec32aeda4b9ba394437272fde9b6
 ```
@@ -11273,7 +11957,7 @@ UUID  : 92c51161259045d5b726e32fa4ee1962
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2002-01 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : f4719f9b5e534dbba19c194da39abdd5
 ```
@@ -11315,7 +11999,7 @@ UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : 25           |  Expiry  : 1978-01 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 483191da2aa742bba3343cbe9f296477
 ```
@@ -11357,7 +12041,7 @@ UUID  : 483191da2aa742bba3343cbe9f296477
 ```
 Format: 110          |  Process : K-14    
 ISO   : 64           |  Expiry  : 1979-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
@@ -11385,7 +12069,7 @@ UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : 64           |  Expiry  : 2007-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : dc9c151b87de48339e564e6692663206
 ```
@@ -11399,7 +12083,7 @@ UUID  : dc9c151b87de48339e564e6692663206
 ```
 Format: 828          |  Process : K-14    
 ISO   : 25           |  Expiry  : 1968-01 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : b9c0bacb3ac64fc6bb46b1e728710982
 ```
@@ -11441,7 +12125,7 @@ UUID  : b9c0bacb3ac64fc6bb46b1e728710982
 ```
 Format: 35mm         |  Process : C-22    
 ISO   : 32           |  Expiry  : 1959-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 ```
@@ -11483,7 +12167,7 @@ UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 1988-12 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 78bfeed667154d819902ec92d7dcf368
 ```
@@ -11497,7 +12181,7 @@ UUID  : 78bfeed667154d819902ec92d7dcf368
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 1990-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 9d06405332c04b80b8b6ec709131473d
 ```
@@ -11595,7 +12279,7 @@ UUID  : 01bfcffd1db54d6eadefbc1442f7a4b1
 ```
 Format: 126          |  Process : C-22    
 ISO   : 80           |  Expiry  : 1974-09 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-09-01   |  Author  : dekuNukem
 UUID  : 818038affb2c4137a33e5de403510ce5
 ```
@@ -11609,7 +12293,7 @@ UUID  : 818038affb2c4137a33e5de403510ce5
 ```
 Format: 126          |  Process : C-22    
 ISO   : 80           |  Expiry  : 1975-05 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 ```
@@ -11623,7 +12307,7 @@ UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 50           |  Expiry  : 1951-02 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : bcad57bbd65146fbb2bdcf9fc79a4b73
 ```
@@ -11651,7 +12335,7 @@ UUID  : bcad57bbd65146fbb2bdcf9fc79a4b73
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 1970-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 ```
@@ -11701,7 +12385,7 @@ UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 1991-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c3e0b9bbf7a94fe28d6c2fc3cab2a34d
 ```
@@ -11771,7 +12455,7 @@ UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 ```
 Format: 616          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1947-02 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : a7d5a1c6923e4090b91381a1c853e465
 ```
@@ -11785,7 +12469,7 @@ UUID  : a7d5a1c6923e4090b91381a1c853e465
 ```
 Format: 122          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1951-09 
-Type  : Single Pack  |  Quantity: 6exp    
+Type  : Single Pack  |  Quantity: 6 exp   
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
 ```
@@ -11799,7 +12483,7 @@ UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
 ```
 Format: 122          |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1962-03 
-Type  : Single Pack  |  Quantity: 6exp    
+Type  : Single Pack  |  Quantity: 6 exp   
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : c17a688403b646e6aebd74e8ec357984
 ```
@@ -11813,7 +12497,7 @@ UUID  : c17a688403b646e6aebd74e8ec357984
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2003-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 2f575e07049946ea981e1d53eb4ee155
 ```
@@ -11869,7 +12553,7 @@ UUID  : 63b2857f2df549878446cc1963362d93
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1998-06 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : daee9d73b6d14f768e414b87260c8350
 ```
@@ -11890,7 +12574,7 @@ UUID  : daee9d73b6d14f768e414b87260c8350
 ```
 Format: APS          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2007-08 
-Type  : Single Pack  |  Quantity: 40exp   
+Type  : Single Pack  |  Quantity: 40 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 ```
@@ -11904,7 +12588,7 @@ UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2004-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c4d16975eee44b9185b17cf0c0e4074c
 ```
@@ -11918,7 +12602,7 @@ UUID  : c4d16975eee44b9185b17cf0c0e4074c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2009-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : c58dda071d1741fda90e20b4252277d9
 ```
@@ -11932,7 +12616,7 @@ UUID  : c58dda071d1741fda90e20b4252277d9
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2015-10 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
 ```
@@ -11974,7 +12658,7 @@ UUID  : 99643a4fc27b4ff298e834fc72970d90
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2015-09 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 141712bb8988495d811441f1e5fb5b62
 ```
@@ -12002,7 +12686,7 @@ UUID  : 141712bb8988495d811441f1e5fb5b62
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 1997-08 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 0953325be5e54102b7615a7a5f82bf60
 ```
@@ -12016,7 +12700,7 @@ UUID  : 0953325be5e54102b7615a7a5f82bf60
 ```
 Format: 8x11mm       |  Process : C-41    
 ISO   : 100          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 30exp   
+Type  : Single Pack  |  Quantity: 30 exp  
 Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 2b69cd822cf44b0a833b845e7b515338
 ```
@@ -12037,7 +12721,7 @@ UUID  : 2b69cd822cf44b0a833b845e7b515338
 ```
 Format: 8x11mm       |  Process : C-41    
 ISO   : 80           |  Expiry  : 1981-09 
-Type  : Single Pack  |  Quantity: 15exp   
+Type  : Single Pack  |  Quantity: 15 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 5ee281ded82c46e5b628a58b9f10fadd
 ```
@@ -12065,7 +12749,7 @@ UUID  : 5ee281ded82c46e5b628a58b9f10fadd
 ```
 Format: Unknown      |  Process : Unknown 
 ISO   : 64           |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : e01d49f304864a7d95976d57624370b1
 Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original, or someone put it there afterwards.
@@ -12108,7 +12792,7 @@ UUID  : 931cd13271f74ddf96233e783ea9bf2a
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 1996-08 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 311d896d68b74b1193afcfa129c5e054
 ```
@@ -12122,7 +12806,7 @@ UUID  : 311d896d68b74b1193afcfa129c5e054
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2006-03 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : bb62de3a22c04f699c780aeae7c83566
 ```
@@ -12136,7 +12820,7 @@ UUID  : bb62de3a22c04f699c780aeae7c83566
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 3000         |  Expiry  : 2006-07 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5a63521777ca4f788d01aac5f94862ef
 ```
@@ -12157,7 +12841,7 @@ UUID  : 5a63521777ca4f788d01aac5f94862ef
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2008-10 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 79f8183905d443aaaab84c6f0944e3bc
 ```
@@ -12192,7 +12876,7 @@ UUID  : 79f8183905d443aaaab84c6f0944e3bc
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2006-10 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 ```
@@ -12227,7 +12911,7 @@ UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 ```
 Format: 110          |  Process : C-41    
 ISO   : 200          |  Expiry  : 2002-01 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 6c15a39618164543bfc2ef7f54addeb6
 ```
@@ -12241,7 +12925,7 @@ UUID  : 6c15a39618164543bfc2ef7f54addeb6
 ```
 Format: 35mm         |  Process : Instant 
 ISO   : 8            |  Expiry  : 1992-08 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
@@ -12297,7 +12981,7 @@ UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 Format: 35mm         |  Process : Instant 
 ISO   : 40           |  Expiry  : 1992-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
@@ -12339,7 +13023,7 @@ UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 Format: 35mm         |  Process : Instant 
 ISO   : 125          |  Expiry  : 1988-04 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 24a8ae46c50049afb35fc44e956a9825
 ```
@@ -12381,7 +13065,7 @@ UUID  : 24a8ae46c50049afb35fc44e956a9825
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 1998-06 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5844215c1fc74612b6118648b845625c
 ```
@@ -12416,7 +13100,7 @@ UUID  : 5844215c1fc74612b6118648b845625c
 ```
 Format: Polavision   |  Process : Instant 
 ISO   : 40           |  Expiry  : 1980-08 
-Type  : Single Pack  |  Quantity: 38.5ft  
+Type  : Single Pack  |  Quantity: 38.5 ft 
 Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 010a03a196a543beb83906a352d490b9
 ```
@@ -12430,7 +13114,7 @@ UUID  : 010a03a196a543beb83906a352d490b9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1991-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 592592a0182a47dda6390cfc4fd18ccd
 ```
@@ -12451,7 +13135,7 @@ UUID  : 592592a0182a47dda6390cfc4fd18ccd
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 80           |  Expiry  : 1975-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-02   |  Author  : dekuNukem
 UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 ```
@@ -12493,7 +13177,7 @@ UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 ```
 Format: 16mm         |  Process : BW      
 ISO   : 160          |  Expiry  : 1961-09 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
@@ -12584,7 +13268,7 @@ UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 ```
 Format: 8x11mm       |  Process : BW      
 ISO   : 100          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 30exp   
+Type  : Single Pack  |  Quantity: 30 exp  
 Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : f51e641835b543e592ea57ddb0c2a884
 Notes : ACMEL embossed on box
@@ -12620,7 +13304,7 @@ Notes : ACMEL embossed on box
 ```
 Format: 8x11mm       |  Process : C-41    
 ISO   : 400          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 30exp   
+Type  : Single Pack  |  Quantity: 30 exp  
 Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 52bf2ed6baac480dbc32d05e569f4913
 ```
@@ -12655,7 +13339,7 @@ UUID  : 52bf2ed6baac480dbc32d05e569f4913
 ```
 Format: 126          |  Process : C-41    
 ISO   : 100          |  Expiry  : 1993-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 ```
@@ -12676,7 +13360,7 @@ UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 ```
 Format: 16mm         |  Process : BW      
 ISO   : 64           |  Expiry  : 1992-04 
-Type  : Refill       |  Quantity: 20exp   
+Type  : Refill       |  Quantity: 20 exp  
 Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 0c1f9c9669e6421a9d9ef9ac14b918f8
 ```
@@ -12690,7 +13374,7 @@ UUID  : 0c1f9c9669e6421a9d9ef9ac14b918f8
 ```
 Format: 35mm         |  Process : ECN-2   
 ISO   : 250          |  Expiry  : 2025-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 4de0f5e76dd748c488fa81be23340292
 ```
@@ -12819,12 +13503,89 @@ UUID  : fc90db41b94d486491177a8407f1100d
 	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
+#### [dzindevis] Ilford PAN 400 (ref: 933f)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2029-04 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : f775496aa0c0459399fc5d061814933f
+```
+
+<a href="./archive/00732_000.jpg" target="_blank">
+	<img src="./lowres/00732_000.jpg" alt="Ilford PAN 400 35mm film box outside" loading="lazy" width="418" height="500">
+</a>
+
+
+`UUID: 346543e0a5634f9e909c4db8175913c7`↓
+
+<a href="./archive/00732_001.jpg" target="_blank">
+	<img src="./lowres/00732_001.jpg" alt="Ilford PAN 400 35mm film box inside" loading="lazy" width="397" height="500">
+</a>
+
+#### [dzindevis] Konica Minolta Centuria Super (ref: 9b08)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2007-07 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : 0328e72eb85e412eb86c5881f49e9b08
+```
+
+<a href="./archive/00733_000.jpg" target="_blank">
+	<img src="./lowres/00733_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: 9166a8b1918845928083482435b70842`↓
+
+<a href="./archive/00733_001.jpg" target="_blank">
+	<img src="./lowres/00733_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="401" height="500">
+</a>
+
+#### [dzindevis] Rollei Infrared (ref: 17b9)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : 3b94013caf034b69a471a5d67cde17b9
+```
+
+<a href="./archive/00731_000.jpg" target="_blank">
+	<img src="./lowres/00731_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
+</a>
+
+
+`UUID: 21df05f75e764fa3a7e4e66817761ce5`↓
+
+<a href="./archive/00731_001.jpg" target="_blank">
+	<img src="./lowres/00731_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" width="382" height="500">
+</a>
+
+#### [dzindevis] Svema Foto 125 (ref: cb59)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 125          |  Expiry  : 1992-10 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-10-16   |  Author  : dzindevis
+UUID  : e21bc155fe994d2cad8d98997dbccb59
+```
+
+<a href="./archive/00734_000.jpg" target="_blank">
+	<img src="./lowres/00734_000.jpg" alt="Svema Foto 125 35mm film box outside" loading="lazy" width="500" height="453">
+</a>
+
 #### [fine-seat] Agfa AgfaColor XRG 200 (ref: 689e)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2005-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
@@ -12859,7 +13620,7 @@ UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 1993-08 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
@@ -12873,7 +13634,7 @@ UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1994-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
@@ -12894,7 +13655,7 @@ UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 1982-09 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2025-09-28   |  Author  : fine-seat
 UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
 ```
@@ -12908,7 +13669,7 @@ UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
 ```
 Format: Super 8      |  Process : Unknown 
 ISO   : 160          |  Expiry  : 1980-11 
-Type  : Single Pack  |  Quantity: 50ft    
+Type  : Single Pack  |  Quantity: 50 ft   
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
@@ -12950,7 +13711,7 @@ UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1999-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
@@ -12964,7 +13725,7 @@ UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2012-03 
-Type  : Multi-Pack-2 |  Quantity: 36exp   
+Type  : Multi-Pack-2 |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : fine-seat
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
@@ -12978,7 +13739,7 @@ UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 Format: 35mm         |  Process : Unknown 
 ISO   : 100          |  Expiry  : 1991-05 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-28   |  Author  : fine-seat
 UUID  : e3f739b7106044949b4f101684ad3fd5
 ```
@@ -13015,12 +13776,124 @@ UUID  : e3f739b7106044949b4f101684ad3fd5
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
+#### [green eggs and sam] Boots 100 Colour Slide (ref: c369)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2007-05 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 95ab0b0bc7cf4593aa6e9ccea89ec369
+```
+
+<a href="./archive/00750_000.jpg" target="_blank">
+	<img src="./lowres/00750_000.jpg" alt="Boots 100 Colour Slide 35mm film box outside" loading="lazy" width="403" height="500">
+</a>
+
+
+`UUID: 97c9da1bb62649759977197654f91a9c`↓
+
+<a href="./archive/00750_001.jpg" target="_blank">
+	<img src="./lowres/00750_001.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="500" height="231">
+</a>
+
+
+`UUID: 1c6d71eeb6164c5a96bdc3ecdbd8bb39`↓
+
+<a href="./archive/00750_002.jpg" target="_blank">
+	<img src="./lowres/00750_002.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="251" height="500">
+</a>
+
+
+`UUID: 21dff6bed6ce4ffd823c4b4ea7d85c09`↓
+
+<a href="./archive/00750_003.jpg" target="_blank">
+	<img src="./lowres/00750_003.jpg" alt="Boots 100 Colour Slide 35mm film box leaflet" loading="lazy" width="500" height="498">
+</a>
+
+#### [green eggs and sam] Boots Universal (ref: 639c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2006-07 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8f8cecc08ffb4914a898e2e6f603639c
+```
+
+<a href="./archive/00752_000.jpg" target="_blank">
+	<img src="./lowres/00752_000.jpg" alt="Boots Universal 35mm film box outside" loading="lazy" width="429" height="500">
+</a>
+
+#### [green eggs and sam] Jessops Diamond Everyday (ref: 971e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 8adfcde77a664507ba3dae30cd12971e
+```
+
+<a href="./archive/00749_000.jpg" target="_blank">
+	<img src="./lowres/00749_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+
+`UUID: 176e7d92b931488f8e419c73a239fb34`↓
+
+<a href="./archive/00749_001.jpg" target="_blank">
+	<img src="./lowres/00749_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Color Plus (ref: 1f55)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2011-08 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : d74d2e6f081d414d916d0d2e60231f55
+```
+
+<a href="./archive/00753_000.jpg" target="_blank">
+	<img src="./lowres/00753_000.jpg" alt="Kodak Color Plus 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Gold (ref: 7f02)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2026-08 
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : 07c41b8d82f64c20b6a36201e1307f02
+```
+
+<a href="./archive/00751_000.jpg" target="_blank">
+	<img src="./lowres/00751_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="346" height="500">
+</a>
+
+#### [green eggs and sam] Kodak Kodacolor 200 (ref: f856)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2022-12 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : green eggs and sam
+UUID  : a761c183d01f4bfaa01dd16c9d33f856
+```
+
+<a href="./archive/00754_000.jpg" target="_blank">
+	<img src="./lowres/00754_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
 #### [kaimon] CineStill 800T (ref: c96e)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-12-12   |  Author  : kaimon  
 UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
 ```
@@ -13034,7 +13907,7 @@ UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-08 
-Type  : Single Pack  |  Quantity: 30exp   
+Type  : Single Pack  |  Quantity: 30 exp  
 Added : 2026-04-13   |  Author  : kaimon  
 UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
 ```
@@ -13069,7 +13942,7 @@ UUID  : fbb052b5a0024308b4d11dd3a78b4027
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-02   |  Author  : kaimon  
 UUID  : 179f22ce3d644d728b189f6ef7a9bf01
 ```
@@ -13090,7 +13963,7 @@ UUID  : 179f22ce3d644d728b189f6ef7a9bf01
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2026-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-09-06   |  Author  : kaimon  
 UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 ```
@@ -13196,7 +14069,7 @@ Notes : Tungsten (3200K) EHB 120
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2027-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-12-12   |  Author  : kaimon  
 UUID  : 9896161f6dd442ceaa89c6d209063c94
 ```
@@ -13205,12 +14078,26 @@ UUID  : 9896161f6dd442ceaa89c6d209063c94
 	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
+#### [kaimon] Kodak T-MAX 100 (ref: 3aab)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2025-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : kaimon  
+UUID  : fe8f47eca4254a77933971bae07d3aab
+```
+
+<a href="./archive/00766_000.jpg" target="_blank">
+	<img src="./lowres/00766_000.jpg" alt="Kodak T-MAX 100 35mm film box outside" loading="lazy" width="427" height="500">
+</a>
+
 #### [kaimon] Lucky C200 (ref: 9c6c)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2027-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-19   |  Author  : kaimon  
 UUID  : 4986ebbbced349e880b7dd92d9649c6c
 ```
@@ -13231,7 +14118,7 @@ UUID  : 4986ebbbced349e880b7dd92d9649c6c
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 800          |  Expiry  : 2003-07 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-09-28   |  Author  : lemoniter
 UUID  : 88f5c251c21546fba06cd2943e55813a
 ```
@@ -13245,7 +14132,7 @@ UUID  : 88f5c251c21546fba06cd2943e55813a
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2028-05 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
@@ -13266,7 +14153,7 @@ UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2028-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c3d51159b481435b90dbe2411de784a5
 ```
@@ -13287,7 +14174,7 @@ UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2001-10 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
@@ -13308,7 +14195,7 @@ UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2001-01 
-Type  : Multi-Pack-2 |  Quantity: 24exp   
+Type  : Multi-Pack-2 |  Quantity: 24 exp  
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
@@ -13329,7 +14216,7 @@ UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
 Format: 9x12cm       |  Process : BW      
 ISO   : 125          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 12 Sheets
+Type  : Single Pack  |  Quantity: 12 sheets
 Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
@@ -13441,7 +14328,7 @@ UUID  : f7bc85a093744f3084883876ecc51311
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 200          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : minidiscus
 UUID  : eb126e7cfe084d4d8796a6123633d78b
 ```
@@ -13483,7 +14370,7 @@ UUID  : 7a09e38ead7d4c73a1a2f3c028fad319
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-02 
-Type  : Refill       |  Quantity: 36exp   
+Type  : Refill       |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : minidiscus
 UUID  : 3296821c76484d32b09ff0f32057189e
 ```
@@ -13532,7 +14419,7 @@ UUID  : 63392fa4def0490fbb2cb93d8c173ec0
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2027-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-25   |  Author  : minidiscus
 UUID  : 930ee2c830af4f0a957649764d5873e0
 ```
@@ -13546,7 +14433,7 @@ UUID  : 930ee2c830af4f0a957649764d5873e0
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-16   |  Author  : nick    
 UUID  : edb6848680f443f2a73b70b13c028adf
 ```
@@ -13567,7 +14454,7 @@ UUID  : edb6848680f443f2a73b70b13c028adf
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 20           |  Expiry  : 2027-10 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-16   |  Author  : nick    
 UUID  : 092f316a772246018a8de96ebd380bea
 ```
@@ -13588,7 +14475,7 @@ UUID  : 092f316a772246018a8de96ebd380bea
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 25           |  Expiry  : 2027-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-10-16   |  Author  : nick    
 UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
 ```
@@ -13623,7 +14510,7 @@ UUID  : c5ed76a41fde41e1b07d83ed38800d8a
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2010-05 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
 ```
@@ -13637,7 +14524,7 @@ UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2015-01 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 38650eb6e4cc42f8bd6b7875dcc5b7aa
 ```
@@ -13651,7 +14538,7 @@ UUID  : 38650eb6e4cc42f8bd6b7875dcc5b7aa
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 3200         |  Expiry  : 2015-06 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 8382f7e52acc4167bd2aaae4ec319d7e
 ```
@@ -13672,7 +14559,7 @@ UUID  : 8382f7e52acc4167bd2aaae4ec319d7e
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2021-05 
-Type  : Multi-Pack-2 |  Quantity: 10exp   
+Type  : Multi-Pack-2 |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 6fd9245fee514c42b71121e489f051ce
 ```
@@ -13686,7 +14573,7 @@ UUID  : 6fd9245fee514c42b71121e489f051ce
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 800          |  Expiry  : 2020-09 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 48b08b5b3a8a4edc98fd29e6fd1c58d8
 ```
@@ -13714,7 +14601,7 @@ UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2014-01 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
 ```
@@ -13728,7 +14615,7 @@ UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2016-01 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : dfb73aa922ec405b8fd100ed1785b84c
 ```
@@ -13742,7 +14629,7 @@ UUID  : dfb73aa922ec405b8fd100ed1785b84c
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : 2010-04 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : d77ac027dc34418082f8f65887ca8636
 ```
@@ -13770,7 +14657,7 @@ UUID  : d77ac027dc34418082f8f65887ca8636
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 600          |  Expiry  : 2011-07 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 21d81b0f422340189e48c53b02b8580b
 ```
@@ -13784,7 +14671,7 @@ UUID  : 21d81b0f422340189e48c53b02b8580b
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 125          |  Expiry  : 2010-07 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 690311c1402d40eca1ced80f9af11ad9
 ```
@@ -13819,7 +14706,7 @@ UUID  : 9b939ce0c8d7401c936cfcbc85c76028
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 160          |  Expiry  : 2003-02 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-06-10   |  Author  : nyctomanica
 UUID  : 308fb333b27a4dab9072d131425ef21a
 ```
@@ -13833,7 +14720,7 @@ UUID  : 308fb333b27a4dab9072d131425ef21a
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 320          |  Expiry  : 2007-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 39eee484e9cf4b8aaade4a1092010e11
 ```
@@ -13847,7 +14734,7 @@ UUID  : 39eee484e9cf4b8aaade4a1092010e11
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 64           |  Expiry  : 2004-03 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : ae1e47c3a7ce4d399556eba279964b11
 ```
@@ -13868,7 +14755,7 @@ UUID  : ae1e47c3a7ce4d399556eba279964b11
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 2003-10 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-06-10   |  Author  : nyctomanica
 UUID  : c8b4e91fe2e34428a095ae48184f9879
 ```
@@ -13882,7 +14769,7 @@ UUID  : c8b4e91fe2e34428a095ae48184f9879
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 50           |  Expiry  : 1985-01 
-Type  : Single Pack  |  Quantity: 30m     
+Type  : Single Pack  |  Quantity: 30 m    
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 83f596535e834c1a941be969aab46ace
 ```
@@ -13896,7 +14783,7 @@ UUID  : 83f596535e834c1a941be969aab46ace
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 25           |  Expiry  : 1989-03 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : f2a364463c5d40ad9e438566b786d2a2
 ```
@@ -13910,7 +14797,7 @@ UUID  : f2a364463c5d40ad9e438566b786d2a2
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 250          |  Expiry  : 2005-11 
-Type  : Single Pack  |  Quantity: 17m     
+Type  : Single Pack  |  Quantity: 17 m    
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : ffa83233d791403f98c607bb78ad0037
 Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
@@ -13932,7 +14819,7 @@ Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in
 ```
 Format: 220          |  Process : K-14    
 ISO   : 64           |  Expiry  : 2010-11 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
@@ -13953,7 +14840,7 @@ UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
 Format: Disc Film    |  Process : C-41    
 ISO   : 400          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 15exp   
+Type  : Single Pack  |  Quantity: 15 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 ```
@@ -13967,7 +14854,7 @@ UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 1993-05 
-Type  : Single Pack  |  Quantity: 30m     
+Type  : Single Pack  |  Quantity: 30 m    
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : da9c265a3e194bd1ad83549961c6e5fd
 ```
@@ -13981,7 +14868,7 @@ UUID  : da9c265a3e194bd1ad83549961c6e5fd
 ```
 Format: 35mm         |  Process : BW      
 ISO   : Unknown      |  Expiry  : 2005-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-08-21   |  Author  : nyctomanica
 UUID  : 79d06b422e074d53a6d37add1a0a951e
 ```
@@ -14002,7 +14889,7 @@ UUID  : 79d06b422e074d53a6d37add1a0a951e
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 1994-08 
-Type  : Bulk Roll    |  Quantity: 30.5m   
+Type  : Bulk Roll    |  Quantity: 30.5 m  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 77390b1f4e8f4519817b767e55c1d8e3
 ```
@@ -14016,7 +14903,7 @@ UUID  : 77390b1f4e8f4519817b767e55c1d8e3
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 200          |  Expiry  : 2018-06 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : fa1a525240b548f599483ad50ba122bc
 Notes : aka Rollei Crossbird, AGFA Aviphot Chrome 200?
@@ -14031,7 +14918,7 @@ Notes : aka Rollei Crossbird, AGFA Aviphot Chrome 200?
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2019-09 
-Type  : Multi-Pack-3 |  Quantity: 1exp    
+Type  : Multi-Pack-3 |  Quantity: 1 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 20749de9fbb140d88baffc08facbff2c
 ```
@@ -14045,7 +14932,7 @@ UUID  : 20749de9fbb140d88baffc08facbff2c
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2009-04 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 5efc4291de384f9fa47153d007d293b8
 ```
@@ -14059,7 +14946,7 @@ UUID  : 5efc4291de384f9fa47153d007d293b8
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : d8e74033014e4db9af13c8b1aac4a70f
 ```
@@ -14073,7 +14960,7 @@ UUID  : d8e74033014e4db9af13c8b1aac4a70f
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 1500         |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 3dc991e05c9b43cdbb85b18aabc29893
 ```
@@ -14087,7 +14974,7 @@ UUID  : 3dc991e05c9b43cdbb85b18aabc29893
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2007-01 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 19b92b8aeb2b4e82b1ca2efa19eda657
 Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10)
@@ -14102,7 +14989,7 @@ Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead 
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 125          |  Expiry  : 2008-02 
-Type  : Single Pack  |  Quantity: 22exp   
+Type  : Single Pack  |  Quantity: 22 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 1a7ddb61af5a486d85577e89cf317dd1
 ```
@@ -14130,7 +15017,7 @@ UUID  : 1a7ddb61af5a486d85577e89cf317dd1
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : cb070eea20764039a6b29ad007c54c40
 Notes : Also called Polapan Pro 100?
@@ -14145,7 +15032,7 @@ Notes : Also called Polapan Pro 100?
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : c2158d300cde448bb229862cfa014f1a
 ```
@@ -14159,7 +15046,7 @@ UUID  : c2158d300cde448bb229862cfa014f1a
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2008-10 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-07-13   |  Author  : nyctomanica
 UUID  : e879c9f5665f4692a40ab8d839412e70
 ```
@@ -14180,7 +15067,7 @@ UUID  : e879c9f5665f4692a40ab8d839412e70
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 80           |  Expiry  : 2009-03 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
 ```
@@ -14201,7 +15088,7 @@ UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 400          |  Expiry  : 2004-01 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : a2615a83b6774edda1567fe0e8deb335
 ```
@@ -14215,7 +15102,7 @@ UUID  : a2615a83b6774edda1567fe0e8deb335
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 100          |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 4624d642b93d4c75a7a2d53a4a33bd98
 ```
@@ -14229,7 +15116,7 @@ UUID  : 4624d642b93d4c75a7a2d53a4a33bd98
 ```
 Format: 35mm         |  Process : Instant 
 ISO   : 40           |  Expiry  : 1995-12 
-Type  : Single Pack  |  Quantity: 12exp   
+Type  : Single Pack  |  Quantity: 12 exp  
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 65ce4d13cc6142b69fc5d1bea401c984
 ```
@@ -14243,7 +15130,7 @@ UUID  : 65ce4d13cc6142b69fc5d1bea401c984
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 3000         |  Expiry  : 1973-06 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : e8d583d1b8a346cb95ae1cd69bb71b9a
 ```
@@ -14257,7 +15144,7 @@ UUID  : e8d583d1b8a346cb95ae1cd69bb71b9a
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2027-03 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-19   |  Author  : nyctomanica
 UUID  : caa728e6906b495b93d68895585eaad6
 ```
@@ -14278,7 +15165,7 @@ UUID  : caa728e6906b495b93d68895585eaad6
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 125          |  Expiry  : 2009-10 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 1db6d025cc904e11858f76ce0053de21
 ```
@@ -14299,7 +15186,7 @@ UUID  : 1db6d025cc904e11858f76ce0053de21
 ```
 Format: Instant Pack Film|  Process : Instant 
 ISO   : 125          |  Expiry  : 2008-05 
-Type  : Single Pack  |  Quantity: 10exp   
+Type  : Single Pack  |  Quantity: 10 exp  
 Added : 2026-09-14   |  Author  : nyctomanica
 UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
 ```
@@ -14327,7 +15214,7 @@ UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-06 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 109eaba178c64f64a473ccce42f77f24
 ```
@@ -14348,7 +15235,7 @@ UUID  : 109eaba178c64f64a473ccce42f77f24
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-10 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : 9edcedcc654b4e04bb4f2b65079597cb
 ```
@@ -14369,7 +15256,7 @@ UUID  : 9edcedcc654b4e04bb4f2b65079597cb
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2019-10 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : 9fd8da93b07c484baea216014e0e7238
 ```
@@ -14390,7 +15277,7 @@ UUID  : 9fd8da93b07c484baea216014e0e7238
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-05 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 ```
@@ -14418,7 +15305,7 @@ UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2019-10 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : e7e2198738634eaa91f172f160e679a3
 ```
@@ -14434,12 +15321,138 @@ UUID  : e7e2198738634eaa91f172f160e679a3
 	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
 </a>
 
+#### [reschmidt12] Kodak Ektachrome E100 (ref: 1d36)
+
+```
+Format: 35mm         |  Process : E-6     
+ISO   : 100          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 3881f302167c4264b0e9133c718d1d36
+```
+
+<a href="./archive/00765_000.jpg" target="_blank">
+	<img src="./lowres/00765_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektacolor Pro 160 (ref: 0d50)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 160          |  Expiry  : 2028-03 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 35dade1da9f94915beefb73aa7f50d50
+```
+
+<a href="./archive/00760_000.jpg" target="_blank">
+	<img src="./lowres/00760_000.jpg" alt="Kodak Ektacolor Pro 160 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektacolor Pro 400 (ref: 36c6)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 185db686d4f946b39a39cc2733b336c6
+```
+
+<a href="./archive/00761_000.jpg" target="_blank">
+	<img src="./lowres/00761_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektacolor Pro 800 (ref: 4239)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 800          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : b838522c680d4e75b9f95e51080d4239
+```
+
+<a href="./archive/00762_000.jpg" target="_blank">
+	<img src="./lowres/00762_000.jpg" alt="Kodak Ektacolor Pro 800 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektapan 100 (ref: aae1)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 387fdb0fd36c486d84602c000818aae1
+```
+
+<a href="./archive/00757_000.jpg" target="_blank">
+	<img src="./lowres/00757_000.jpg" alt="Kodak Ektapan 100 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektapan 400 (ref: 9ea4)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-04 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : bdcad26d183349de8851b104a0209ea4
+```
+
+<a href="./archive/00758_000.jpg" target="_blank">
+	<img src="./lowres/00758_000.jpg" alt="Kodak Ektapan 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ektapan P3200 (ref: 50dd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 3200         |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : a16332e5243845c8af35833917ea50dd
+```
+
+<a href="./archive/00759_000.jpg" target="_blank">
+	<img src="./lowres/00759_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Tri-X 400 (ref: 3661)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2028-05 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : 841394cdb38742a19c13d266a3c63661
+```
+
+<a href="./archive/00764_000.jpg" target="_blank">
+	<img src="./lowres/00764_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [reschmidt12] Kodak Ultramax 400 (ref: 7b56)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : reschmidt12
+UUID  : f9386711516f42ab8e2f8f1ada857b56
+```
+
+<a href="./archive/00763_000.jpg" target="_blank">
+	<img src="./lowres/00763_000.jpg" alt="Kodak Ultramax 400 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
 #### [toader] Kodak Ektachrome 100 Plus (ref: 5d9f)
 
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2002-08 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-31   |  Author  : toader  
 UUID  : b17b7b46926e49ae88a7b74904245d9f
 ```
@@ -14460,7 +15473,7 @@ UUID  : b17b7b46926e49ae88a7b74904245d9f
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2027-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-08-02   |  Author  : toader  
 UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 ```
@@ -14474,7 +15487,7 @@ UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 1995-11 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-07-31   |  Author  : toader  
 UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 ```
@@ -14495,7 +15508,7 @@ UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 16exp   
+Type  : Single Pack  |  Quantity: 16 exp  
 Added : 2025-12-12   |  Author  : toader  
 UUID  : 51d75e2058564d668402d5f1bf3fe12f
 ```
@@ -14530,7 +15543,7 @@ UUID  : 51d75e2058564d668402d5f1bf3fe12f
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 640          |  Expiry  : 2024-12 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-08-02   |  Author  : toader  
 UUID  : e798fdd114be4a018cb7651bba94d985
 ```
@@ -14565,7 +15578,7 @@ UUID  : e798fdd114be4a018cb7651bba94d985
 ```
 Format: Instant Integral Film|  Process : Instant 
 ISO   : 160          |  Expiry  : 2025-04 
-Type  : Single Pack  |  Quantity: 8exp    
+Type  : Single Pack  |  Quantity: 8 exp   
 Added : 2025-08-02   |  Author  : toader  
 UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 ```
@@ -14600,7 +15613,7 @@ UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 ```
 Format: 35mm         |  Process : E-6     
 ISO   : 100          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 8513abf4476f41c880303c3116ee1ba8
 ```
@@ -14614,7 +15627,7 @@ UUID  : 8513abf4476f41c880303c3116ee1ba8
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2025-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 1f1865a95b8847d69dcd18cf52bc9ea9
 ```
@@ -14628,7 +15641,7 @@ UUID  : 1f1865a95b8847d69dcd18cf52bc9ea9
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 125          |  Expiry  : 2029-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 97b840e334f14e48ba5baf99f38ea431
 ```
@@ -14649,7 +15662,7 @@ UUID  : 97b840e334f14e48ba5baf99f38ea431
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2026-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 9fb74244831e4f8386240b2804a13930
 Notes : Vintage Tone
@@ -14664,7 +15677,7 @@ Notes : Vintage Tone
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 32           |  Expiry  : 1976-12 
-Type  : Bulk Roll    |  Quantity: 100ft   
+Type  : Bulk Roll    |  Quantity: 100 ft  
 Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 ```
@@ -14678,7 +15691,7 @@ UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 32           |  Expiry  : 1977013 
-Type  : Single Pack  |  Quantity: 20exp   
+Type  : Single Pack  |  Quantity: 20 exp  
 Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 475b6bf4c66141b48fc73ace756435f6
 ```
@@ -14706,7 +15719,7 @@ UUID  : 475b6bf4c66141b48fc73ace756435f6
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2011-03 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 7bd1d8f74bd641ea8de78dcaaa7e7145
 ```
@@ -14720,7 +15733,7 @@ UUID  : 7bd1d8f74bd641ea8de78dcaaa7e7145
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 400          |  Expiry  : 2026-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 178660bdc2f841308698aacd5acacba7
 ```
@@ -14734,7 +15747,7 @@ UUID  : 178660bdc2f841308698aacd5acacba7
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 1600         |  Expiry  : 2016-04 
-Type  : Multi-Pack-3 |  Quantity: 36exp   
+Type  : Multi-Pack-3 |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
 UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
 ```
@@ -14748,7 +15761,7 @@ UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1990-02 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-11-25   |  Author  : waldoboro
 UUID  : 4ed0923440b44070b1da36f464f01b30
 ```
@@ -14769,7 +15782,7 @@ UUID  : 4ed0923440b44070b1da36f464f01b30
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2003-03 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-11-25   |  Author  : waldoboro
 UUID  : 17d5e395c4d64dc2900c1ab54ffa30bf
 Notes : Nueva!!
@@ -14791,7 +15804,7 @@ Notes : Nueva!!
 ```
 Format: 110          |  Process : C-41    
 ISO   : 400          |  Expiry  : 2018-08 
-Type  : Single Pack  |  Quantity: 24exp   
+Type  : Single Pack  |  Quantity: 24 exp  
 Added : 2025-11-11   |  Author  : waldoboro
 UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 ```
@@ -14805,7 +15818,7 @@ UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 400          |  Expiry  : 2028-07 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-07-21   |  Author  : waldoboro
 UUID  : 1b8269534ca14fac97e07722d3c8aa72
 ```
@@ -14819,7 +15832,7 @@ UUID  : 1b8269534ca14fac97e07722d3c8aa72
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2028-02 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-25   |  Author  : waldoboro
 UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
 ```
@@ -14833,7 +15846,7 @@ UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
 ```
 Format: 35mm         |  Process : K-14    
 ISO   : 10           |  Expiry  : 1962-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
 UUID  : 21c4ce1f9fb54086bb13435778243d0a
 ```
@@ -14861,7 +15874,7 @@ UUID  : 21c4ce1f9fb54086bb13435778243d0a
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2004-12 
-Type  : Single Pack  |  Quantity: 14exp   
+Type  : Single Pack  |  Quantity: 14 exp  
 Added : 2025-11-25   |  Author  : waldoboro
 UUID  : 4e05e028af4c403786967ee168f3cbfb
 ```
@@ -14882,7 +15895,7 @@ UUID  : 4e05e028af4c403786967ee168f3cbfb
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 1990-01 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-11-11   |  Author  : waldoboro
 UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 ```
@@ -14910,7 +15923,7 @@ UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 64           |  Expiry  : 1997-12 
-Type  : Refill       |  Quantity: 36exp   
+Type  : Refill       |  Quantity: 36 exp  
 Added : 2025-11-25   |  Author  : waldoboro
 UUID  : dd90580d0b034a42ab153ef89c82600a
 ```
@@ -14919,12 +15932,68 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
+#### [waldoboro] Yashica Film for Color Prints (ref: 58b7)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 27 exp  
+Added : 2026-10-19   |  Author  : waldoboro
+UUID  : a358256685684aa4b8a10b63814258b7
+```
+
+<a href="./archive/00774_000.jpg" target="_blank">
+	<img src="./lowres/00774_000.jpg" alt="Yashica Film for Color Prints 35mm film box outside" loading="lazy" width="413" height="500">
+</a>
+
+#### [whoman560] Kodak Gold (ref: 1e4c)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-01 
+Type  : Multi-Pack-3 |  Quantity: 24 exp  
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : b094bb0c254c4ac1af2c6a88ffd01e4c
+```
+
+<a href="./archive/00743_000.jpg" target="_blank">
+	<img src="./lowres/00743_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
+</a>
+
+#### [whoman560] Kodak Kodacolor 200 (ref: fc0e)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2027-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : ac33c75cd5b2470b8a6175c1b0d0fc0e
+```
+
+<a href="./archive/00742_000.jpg" target="_blank">
+	<img src="./lowres/00742_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="450" height="500">
+</a>
+
+#### [whoman560] Lomography Lomochrome Color'92 (ref: 9dda)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 400          |  Expiry  : 2027-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-10-19   |  Author  : whoman560
+UUID  : fc86dc5b1cdc450fac49213a8b239dda
+```
+
+<a href="./archive/00744_000.jpg" target="_blank">
+	<img src="./lowres/00744_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="456">
+</a>
+
 #### [yc128] Harman Phoenix (ref: 8eb4)
 
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2025-12 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-06-25   |  Author  : yc128   
 UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 ```
@@ -14973,7 +16042,7 @@ UUID  : 42f9d40379814cf8b02c3f0daf74f686
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : 2027-06 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-30   |  Author  : yc128   
 UUID  : f12ed23e31e14008a969fe05f29940df
 ```
@@ -15036,7 +16105,7 @@ UUID  : 4b9fda92ef0b400a909c77872715fe9b
 ```
 Format: 35mm         |  Process : BW      
 ISO   : 100          |  Expiry  : 2027-04 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-06-25   |  Author  : yc128   
 UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 ```
@@ -15050,7 +16119,7 @@ UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 200          |  Expiry  : Unknown 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2026-03-02   |  Author  : yc128   
 UUID  : 187943e086e842469a7f19ddd0f8a7c9
 ```
@@ -15064,7 +16133,7 @@ UUID  : 187943e086e842469a7f19ddd0f8a7c9
 ```
 Format: 35mm         |  Process : C-41    
 ISO   : 100          |  Expiry  : 2025-09 
-Type  : Single Pack  |  Quantity: 36exp   
+Type  : Single Pack  |  Quantity: 36 exp  
 Added : 2025-07-30   |  Author  : yc128   
 UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
