@@ -1409,3 +1409,59 @@ index,sub_index,item_type,brand,product,film_format,film_speed_iso,process,expir
 779,0,film_box_outside,Kids Station Toys,Batman Returns High Quality 35mm Print Film,35mm,200,C-41,Unknown,1793706179,d469b30cfe5449254a9b7d85a251c589,23905283d39f4477a618cee5076985fa,00779_000.jpg,@recycling.film,,Single Pack,12,exp
 780,0,film_box_outside,Marvel,Fantastic 4 35mm Color Film,35mm,400,C-41,Unknown,1793706236,d113522ab3f648f62185320708b26687,47aba6cf5f974c15b8e8a2cd3aed1144,00780_000.jpg,@recycling.film,,Single Pack,12,exp
 781,0,film_box_outside,Marvel,Spinder-Man 2 35mm Color Print Film,35mm,400,C-41,Unknown,1793706292,48d72eac896e45a349d9c0f4ca3979ce,a3691700a1c54c7f817de6ada781d548,00781_000.jpg,@recycling.film,,Single Pack,12,exp
+782,0,film_box_outside,Kodak,Gold Ultra,110,400,C-41,199910,1794224776,c660e6f67732fb01f35be188bc11ae53,493d789f79984defb9e0e69431fc8073,00782_000.jpg,CaptainAgman,,Single Pack,24,exp
+783,0,film_box_outside,Svema,CO 32 D,120,40,Unknown,198711,1794225050,e658121c87de27de73fa8b19fefdfa76,f48a91c86a8f42168dd23e0fbcac6813,00783_000.jpg,CaptainAgman,,Single Pack,N/A,
+784,0,film_box_outside,Agfa,Agfapan APX 25,35mm,25,BW,199801,1794225442,534367884989dd898900e47308508339,75d91bb50f9c424787c11b421e1ece22,00784_000.jpg,CaptainAgman,,Single Pack,36,exp
+785,0,film_box_outside,Foma,Fomapan action 400,35mm,400,BW,202206,1794225590,ab08b1a139d5584399fc36b1a05ff73e,7faaeb8059144cb094919a2b8c15a132,00785_000.jpg,CaptainAgman,,Single Pack,36,exp
+785,1,film_box_inside,Foma,Fomapan action 400,35mm,400,BW,202206,1794225591,dffb21c0db2b296c9a27bd6277540739,3fb497ea58bf4160853431e3f669cff5,00785_001.jpg,CaptainAgman,,Single Pack,36,exp
+786,0,film_box_outside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225679,14d83fd6e9b54b862922cecc4d3f260b,53d01f1e8ded420195d736b0659d6a6c,00786_000.jpg,CaptainAgman,,Single Pack,36,exp
+786,1,film_box_inside,Foma,Fomapan Action 400,35mm,400,BW,202608,1794225681,f76cb09a28ae94a694769355c802a911,847255b79dcc44cdaa2be82c41e607c7,00786_001.jpg,CaptainAgman,,Single Pack,36,exp
+787,0,film_box_outside,Fujifilm,Superia 200,35mm,200,C-41,200809,1794225761,fb0b50b132d767853965a2eaf6407c4b,5c8ca907474648dcbdaa3ec6f2e28b76,00787_000.jpg,CaptainAgman,,Single Pack,36,exp
+788,0,film_box_outside,Ilford,SFX 200,35mm,200,BW,202509,1794226131,e1d23ca938d89ab82e089488832eea99,e4e11d162052435c8f67835d1da1cfb2,00788_000.jpg,CaptainAgman,,Single Pack,36,exp
+788,1,film_box_inside,Ilford,SFX 200,35mm,200,BW,202509,1794226138,a623515df406bf474e6a518f71ed1731,6f8a733c98f340c09011dbfea034fae2,00788_001.jpg,CaptainAgman,,Single Pack,36,exp
+789,0,film_box_outside,Kodak,ColorPlus,35mm,200,C-41,200510,1794226230,f6ed6998356f6de9f1d3997f0f685f49,ea91010988ee4f95884a1d1633678c4b,00789_000.jpg,CaptainAgman,,Single Pack,36,exp
+790,0,film_box_outside,Konica,VX 200,35mm,200,C-41,200310,1794226333,b91296a3db6e73ce6363f6d079af3a0c,b4938f8372924a4b8ace581828988578,00790_000.jpg,CaptainAgman,,Single Pack,12,exp
+790,1,film_box_inside,Konica,VX 200,35mm,200,C-41,200310,1794226341,c0d881843e6433dd8720948212a53981,2fdf8c6cf96a4c1e967bbe4b87f51cf7,00790_001.jpg,CaptainAgman,,Single Pack,12,exp
+791,0,film_box_outside,Lucky,C200,35mm,200,C-41,202802,1794226411,3a79bc46dbdd9eda9ac58431ad89e727,42a87df7b7af411488e419c49eaafaae,00791_000.jpg,CaptainAgman,,Single Pack,36,exp
+791,1,film_box_inside,Lucky,C200,35mm,200,C-41,202802,1794226412,a659faf3a6ef4693d5a2b7e3856be137,2b4e6aab080f40ccae2a402a84b846ef,00791_001.jpg,CaptainAgman,,Single Pack,36,exp
+792,0,film_box_outside,Orwo,NP20,35mm,80,BW,Unknown,1794226569,5da0e2f2890be835017a76285b46e51b,0e700f279e354b36b7ba1ebbfc95fc4a,00792_000.jpg,CaptainAgman,,Refill,36,exp
+793,0,film_box_outside,Bureau for the Propaganda of Soviet Film Art,Positive Photo Film,35mm,1,Unknown,196208,1794226844,3d8668d4c9ea3fe479515f42bf3051f7,8edf5c4245dd47b2b44eb09714705073,00793_000.jpg,CaptainAgman,Бюро пропаганды советского киноискусства,Single Pack,36,exp
+794,0,film_box_outside,Tasma,Foto 130,35mm,160,BW,198802,1794227080,38d8736f26e4d37e575b9b3b86cca1b1,c6572e7191144f208bd65b3b1bd159f3,00794_000.jpg,CaptainAgman,,Refill,36,exp
+795,0,film_box_outside,Tasma,Foto 64,35mm,64,BW,199105,1794227151,71b247d65b4d8b2b03f849a32c9a5f4c,c6b08ccfb59a43118cb3dd3ea11e7f21,00795_000.jpg,CaptainAgman,,Refill,36,exp
+796,0,film_box_outside,Tasma,FN 64,35mm,64,BW,200105,1794227273,90e3a711b4b7e46a032dcbf5ffa90ee2,5d1d2c376c1c43d78b8988edddccd104,00796_000.jpg,CaptainAgman,,Refill,36,exp
+797,0,film_box_outside,Tasma,FN 64,35mm,64,BW,199309,1794227327,6862ad78a64dfeca0ea064b83f6d92d8,01a8b678bfa24b73b8c93e8c454c087d,00797_000.jpg,CaptainAgman,,Refill,36,exp
+798,0,film_box_outside,Svema,CND-32,35mm,40,Unknown,198308,1794227433,1ff7504ad469287f2c21f0fdacbdba45,a04a99ef72ff4610b9323cfbde8145c9,00798_000.jpg,CaptainAgman,,Single Pack,36,exp
+799,0,film_box_outside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227618,11ce4fb88218f1e0c3cb1a0ceecaade2,54b2964951c9456fad15bcd6e8b2b189,00799_000.jpg,CaptainAgman,,Single Pack,12,exp
+799,1,film_box_inside,Scotch,Scotch Color EXL 100,35mm,100,C-41,199504,1794227622,fbdd3f0b72b30ef7e0382ad62781a1c4,56d21b3c534c4607accc3831a8bd3517,00799_001.jpg,CaptainAgman,,Single Pack,12,exp
+800,0,film_box_outside,Svema,Foto 100,35mm,100,BW,202212,1794227820,b86a5aab769d14e553986fbdbce6129e,639397432d5341f799b029ab5cfc2bee,00800_000.jpg,CaptainAgman,,Single Pack,36,exp
+801,0,film_box_outside,Svema,Foto 64,35mm,64,BW,199106,1794227878,0248ee96b705daaeb1bf1c29190bc08d,11819a3da6714e00b6551e1254156583,00801_000.jpg,CaptainAgman,,Refill,36,exp
+802,0,film_box_outside,Svema,Foto 65,35mm,70,BW,197106,1794227929,1c8aaa6cfb7d5037165d8a472b44df9c,c93fa1ca138244d1b218b2248a4f5fce,00802_000.jpg,CaptainAgman,,Refill,36,exp
+803,0,film_box_outside,Svema,CND-32,35mm,50,Unknown,197808,1794228092,80573ca845b8b00909b317b2a69860ba,d544da8ef8f14612ba1a4719794c4a06,00803_000.jpg,CaptainAgman,,Refill,36,exp
+804,0,film_box_outside,Svema,CNL-90,35mm,100,Unknown,198212,1794228128,f8a7bebff2ddd780b36426ef01bf630b,56cb98d143ce45f89839b2a6cb3d64a1,00804_000.jpg,CaptainAgman,,Refill,36,exp
+805,0,film_box_outside,Svema,CO-32D,35mm,40,Unknown,198612,1794228179,46f6b73fed0190fc0326caf769356d50,2ca9031f0e014ca1b9a387f3e559294a,00805_000.jpg,CaptainAgman,,Refill,36,exp
+806,0,film_box_outside,Svema,DS-4,35mm,50,Unknown,197908,1794228212,6c4989ead59c10b29e7129f44ef95a79,2ee6c4623322420182284365ff778fc3,00806_000.jpg,CaptainAgman,,Single Pack,36,exp
+807,0,film_box_outside,Svema,DS-4,35mm,50,Unknown,198308,1794228271,470f8bcdad1897c9dbea245ac67b0d03,0f730adf4fda41eabd916209ca2f7387,00807_000.jpg,CaptainAgman,,Single Pack,36,exp
+808,0,film_box_outside,Svema,DS-5M,35mm,50,Unknown,197009,1794228370,ba312a91cfabafd41c811d6a51f1b9df,9aaa2ce82a8645da9f1a519394ecaa87,00808_000.jpg,CaptainAgman,,Refill,36,exp
+809,0,film_box_outside,Svema,Svema 100,35mm,100,BW,200203,1794228433,da7b5485a463b6a12bbec24da7554415,3ce83aa6ee3a4209b3eb6be83dc2d2bc,00809_000.jpg,CaptainAgman,,Single Pack,36,exp
+810,0,film_box_outside,Silberra,S25,35mm,25,BW,202112,1794228572,d6f40bf15a977e2255b38f5f091aa574,0892bdae84e743f0b14490bccc897530,00810_000.jpg,CaptainAgman,,Single Pack,36,exp
+810,1,film_box_inside,Silberra,S25,35mm,25,BW,202112,1794228574,2a7a2963007afd295a3abad8daa7d6c6,0f368ca7521f4c649cd6333000eaf26f,00810_001.jpg,CaptainAgman,,Single Pack,36,exp
+811,0,film_box_outside,Silberra,Pan 100,35mm,100,BW,202202,1794228620,e69880e021c3ab21283804f6dfcf4acf,d56142f270cc42a5a489b826cb0285dd,00811_000.jpg,CaptainAgman,,Single Pack,36,exp
+811,1,film_box_inside,Silberra,Pan 100,35mm,100,BW,202202,1794228624,8fd30135dfa8a8962baab44117d974b7,b097731481c3404692ac3be9ac3a4a0a,00811_001.jpg,CaptainAgman,,Single Pack,36,exp
+812,0,film_box_outside,Silberra,Pan 50,35mm,50,BW,202102,1794228717,1e780e477f5855149483fbdc4a65b3bf,9240b8fd0eec4263aa9600f146419ae2,00812_000.jpg,CaptainAgman,,Single Pack,36,exp
+812,1,film_box_inside,Silberra,Pan 50,35mm,50,BW,202102,1794228720,cba9c90534d4dd54d4ddd9f92f24af75,bcae45a5407248539d9380686cc29732,00812_001.jpg,CaptainAgman,,Single Pack,36,exp
+813,0,film_box_outside,Silberra,P100,35mm,100,BW,202312,1794228764,c82bc5e118a3ef0a35f723485a536721,5835a5f7e9854b6681e5909644fe1d8e,00813_000.jpg,CaptainAgman,,Single Pack,36,exp
+813,1,film_box_inside,Silberra,P100,35mm,100,BW,202312,1794228766,7c8b598601eff0acc090419c4d900b53,3a6c303853ae4fd6a4d293c7f6f2c521,00813_001.jpg,CaptainAgman,,Single Pack,36,exp
+814,0,film_box_outside,Rollei,RPX 25,35mm,25,BW,202210,1794228824,473cfb8f3e88cb87e04bb87932e4d41f,1c1de3e23fcc461e8ced8b151b8026a6,00814_000.jpg,CaptainAgman,,Single Pack,36,exp
+814,1,film_box_inside,Rollei,RPX 25,35mm,25,BW,202210,1794228827,841b95d84dc50ee26298a217feb9ac75,2d8cc4366dc44f78937d94134ee8292a,00814_001.jpg,CaptainAgman,,Single Pack,36,exp
+815,0,film_box_outside,Mr. Negative,Black Market,35mm,250,BW,202801,1794229671,7f93805dae4e4a8c56b7b0d9c2fd062a,6f669e561feb407c9554766bbf159ff8,00815_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+816,0,film_box_outside,Ansco,Super Hypan Film,120,500,BW,196501,1794229858,a38a456da2071cc7bfcc5000aa4b7012,5d1ca07fe4c04cb79a0017bb34fae496,00816_000.jpg,Ensign Expendable,,Single Pack,N/A,
+816,1,film_box_leaflet,Ansco,Super Hypan Film,120,500,BW,196501,1794229860,73205d0e7e385853503db62aeeddc933,6febdd3c87b04cb1a65cf21f3e8fdd2d,00816_001.jpg,Ensign Expendable,,Single Pack,N/A,
+816,2,film_box_leaflet,Ansco,Super Hypan Film,120,500,BW,196501,1794229865,6c130f7dff037af9a3551b21f4607835,052a43fdf4654d30b35048924b24810a,00816_002.jpg,Ensign Expendable,,Single Pack,N/A,
+817,0,film_box_outside,Mr. Negative,Cash Only,35mm,100,BW,Unknown,1794230171,3e585b9dee14564b6492d893f0a9a2e6,ad46387f55ff47769c36aa64f47284fc,00817_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+818,0,film_box_outside,Mr. Negative,Tattoo Flash,35mm,200,C-41,Unknown,1794230350,ec6774ff6eaf50966853c289b2beba13,8015b195ced649c4a2f2a854a5842287,00818_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+819,0,film_box_outside,Adox,Scala 50,35mm,50,BW,202710,1794230442,2b1793b47719e90bd40b4cd4196f7efd,3a02c0e5438c4032a85f8acf19abc320,00819_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+819,1,film_box_inside,Adox,Scala 50,35mm,50,BW,202710,1794230447,17b5c4cb81e0c574aabfaa1b84421467,5f7a25c663ff4de288976d3fea0e2956,00819_001.jpg,SimonTheSenpai,,Single Pack,36,exp
+820,0,film_box_outside,Harman,Phoenix 125,35mm,125,C-41,202807,1794230541,660553dcfef5bf86c4b70d7de5999013,1638fc475eca455e99bc2c658d081ce9,00820_000.jpg,SimonTheSenpai,,Single Pack,36,exp
+820,1,film_box_inside,Harman,Phoenix 125,35mm,125,C-41,202807,1794230543,b305712c225a86cce3ae052c6f849788,1c353bbab444460ea7af5c1c94afd136,00820_001.jpg,SimonTheSenpai,,Single Pack,36,exp
+821,0,film_box_outside,Harman,Phoenix 125,120,125,C-41,202808,1794230629,37efa68c8a303e136a7d2ab1f999bff3,f637985584914a30947865b362db75a6,00821_000.jpg,SimonTheSenpai,,Single Pack,N/A,
+821,1,film_box_inside,Harman,Phoenix 125,120,125,C-41,202808,1794230632,6ec7a6c3c8823eef502c9c328b65916f,ce7b289fc9864573a8290d67e7e6f077,00821_001.jpg,SimonTheSenpai,,Single Pack,N/A,

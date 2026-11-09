@@ -58,6 +58,7 @@ Total scans :
 - [[1961] Kodak Kodachrome (ref: e19e)](#1961-kodak-kodachrome-ref-e19e)
 - [[1961] Ricoh Golden "16" (ref: c02c)](#1961-ricoh-golden-16-ref-c02c)
 - [[1962] Kodak Verichrome Pan (ref: 7984)](#1962-kodak-verichrome-pan-ref-7984)
+- [[1962] Bureau for the Propaganda of Soviet Film Art Positive Photo Film (ref: 5073)](#1962-bureau-for-the-propaganda-of-soviet-film-art-positive-photo-film-ref-5073)
 - [[1962] Kodak Kodachrome (ref: 3d0a)](#1962-kodak-kodachrome-ref-3d0a)
 - [[1962] Ogapan Panchromatic (ref: 9c23)](#1962-ogapan-panchromatic-ref-9c23)
 - [[1963] Kodak High Speed Ektachrome (ref: ce7f)](#1963-kodak-high-speed-ektachrome-ref-ce7f)
@@ -66,6 +67,7 @@ Total scans :
 - [[1964] ADOX KB17 (ref: 2c95)](#1964-adox-kb17-ref-2c95)
 - [[1964] Kodak RS Pan (ref: 70d7)](#1964-kodak-rs-pan-ref-70d7)
 - [[1964] Perfect Photo Inc. Perfect-Pan Film (ref: c214)](#1964-perfect-photo-inc-perfect-pan-film-ref-c214)
+- [[1965] Ansco Super Hypan Film (ref: e496)](#1965-ansco-super-hypan-film-ref-e496)
 - [[1965] Ilford Selochrome (ref: f534)](#1965-ilford-selochrome-ref-f534)
 - [[1965] Kodak Kodachrome II (ref: 2caa)](#1965-kodak-kodachrome-ii-ref-2caa)
 - [[1967] Walgreen All Purpose Film (ref: 541b)](#1967-walgreen-all-purpose-film-ref-541b)
@@ -80,11 +82,13 @@ Total scans :
 - [[1970] Kodak High Speed Ektachrome (ref: ec3d)](#1970-kodak-high-speed-ektachrome-ref-ec3d)
 - [[1970] Famous Brand Labs Color Negative Film (ref: b271)](#1970-famous-brand-labs-color-negative-film-ref-b271)
 - [[1970] Kodak High Contrast Copy Film (ref: db52)](#1970-kodak-high-contrast-copy-film-ref-db52)
+- [[1970] Svema DS-5M (ref: aa87)](#1970-svema-ds-5m-ref-aa87)
 - [[1971] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)](#1971-agfa-agfacolor-special-negative-film-cn-s-ref-1e83)
 - [[1971] Kodak Ektachrome-X (ref: c057)](#1971-kodak-ektachrome-x-ref-c057)
 - [[1971] Kodak Verichrome Pan (ref: 0195)](#1971-kodak-verichrome-pan-ref-0195)
 - [[1971] Foma Fomapan21 (ref: 75d9)](#1971-foma-fomapan21-ref-75d9)
 - [[1971] Famous Brand Labs Color Negative Film (ref: 0cd6)](#1971-famous-brand-labs-color-negative-film-ref-0cd6)
+- [[1971] Svema Foto 65 (ref: 5fce)](#1971-svema-foto-65-ref-5fce)
 - [[1971] Kodak Kodacolor II (ref: f435)](#1971-kodak-kodacolor-ii-ref-f435)
 - [[1971] ORWO OrwoColor UT13 (ref: a05d)](#1971-orwo-orwocolor-ut13-ref-a05d)
 - [[1972] Kodak Ektachrome-X (ref: ae7e)](#1972-kodak-ektachrome-x-ref-ae7e)
@@ -126,6 +130,7 @@ Total scans :
 - [[1978] Kodak Kodachrome 25 (ref: 6477)](#1978-kodak-kodachrome-25-ref-6477)
 - [[1978] Sakura Sakuracolor II (ref: 4f7d)](#1978-sakura-sakuracolor-ii-ref-4f7d)
 - [[1978] Kodak Kodacolor II (ref: 4108)](#1978-kodak-kodacolor-ii-ref-4108)
+- [[1978] Svema CND-32 (ref: 4a06)](#1978-svema-cnd-32-ref-4a06)
 - [[1978] Kodak Ektachrome 200 (ref: f372)](#1978-kodak-ektachrome-200-ref-f372)
 - [[1978] ORWO NC 19 (ref: dca5)](#1978-orwo-nc-19-ref-dca5)
 - [[1978] Minolta 16 Black & White Fast Fine Grain Film (ref: fd30)](#1978-minolta-16-black-white-fast-fine-grain-film-ref-fd30)
@@ -134,6 +139,7 @@ Total scans :
 - [[1979] Foton Fotopan CD (ref: 6ba7)](#1979-foton-fotopan-cd-ref-6ba7)
 - [[1979] Kodak Tri-X Pan (ref: 9a93)](#1979-kodak-tri-x-pan-ref-9a93)
 - [[1979] Kodak Kodacolor II (ref: b19e)](#1979-kodak-kodacolor-ii-ref-b19e)
+- [[1979] Svema DS-4 (ref: 8fc3)](#1979-svema-ds-4-ref-8fc3)
 - [[1979] Kodak Ektachrome 64 (ref: 07c0)](#1979-kodak-ektachrome-64-ref-07c0)
 - [[1979] Kodak Kodachrome 64 (ref: 3145)](#1979-kodak-kodachrome-64-ref-3145)
 - [[1979] Kodak Tri-X Pan (ref: 85e9)](#1979-kodak-tri-x-pan-ref-85e9)
@@ -151,9 +157,12 @@ Total scans :
 - [[1981] Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping (ref: c143)](#1981-kodak-kodachrome-40-movie-film-type-a-for-post-process-sound-striping-ref-c143)
 - [[1982] Herzog Duxopan (ref: a9ad)](#1982-herzog-duxopan-ref-a9ad)
 - [[1982] Kodak Ektachrome EPY (ref: 9aab)](#1982-kodak-ektachrome-epy-ref-9aab)
+- [[1982] Svema CNL-90 (ref: 64a1)](#1982-svema-cnl-90-ref-64a1)
 - [[1983] ORWO DK5 (ref: e815)](#1983-orwo-dk5-ref-e815)
 - [[1983] Ilford FP4 (ref: b2f0)](#1983-ilford-fp4-ref-b2f0)
 - [[1983] Kodak Kodachrome 25 (ref: 8833)](#1983-kodak-kodachrome-25-ref-8833)
+- [[1983] Svema CND-32 (ref: 45c9)](#1983-svema-cnd-32-ref-45c9)
+- [[1983] Svema DS-4 (ref: 7387)](#1983-svema-ds-4-ref-7387)
 - [[1983] Kodak Kodacolor II (ref: 7310)](#1983-kodak-kodacolor-ii-ref-7310)
 - [[1983] ORWO UP 27 DS 8 (ref: 4d5a)](#1983-orwo-up-27-ds-8-ref-4d5a)
 - [[1983] Kodak Ektachrome 200 (ref: 8734)](#1983-kodak-ektachrome-200-ref-8734)
@@ -169,10 +178,13 @@ Total scans :
 - [[1986] Fujifilm Fujicolor HR100 (ref: 2335)](#1986-fujifilm-fujicolor-hr100-ref-2335)
 - [[1986] Kodak Ektachrome 64 (ref: 02cc)](#1986-kodak-ektachrome-64-ref-02cc)
 - [[1986] Kodak Tri-X Pan (ref: f201)](#1986-kodak-tri-x-pan-ref-f201)
+- [[1986] Svema CO-32D (ref: 294a)](#1986-svema-co-32d-ref-294a)
 - [[1987] Kodak RAR Film 2479 (ref: 63e7)](#1987-kodak-rar-film-2479-ref-63e7)
 - [[1987] Kodak Kodacolor VR (ref: 035f)](#1987-kodak-kodacolor-vr-ref-035f)
 - [[1987] Fujifilm Fujicolor HR 1600 (ref: 1d39)](#1987-fujifilm-fujicolor-hr-1600-ref-1d39)
+- [[1987] Svema CO 32 D (ref: 6813)](#1987-svema-co-32-d-ref-6813)
 - [[1988] Agfa AgfaChrome 100RS (ref: 2c42)](#1988-agfa-agfachrome-100rs-ref-2c42)
+- [[1988] Tasma Foto 130 (ref: 59f3)](#1988-tasma-foto-130-ref-59f3)
 - [[1988] Polaroid PolaPan 35mm (ref: 9825)](#1988-polaroid-polapan-35mm-ref-9825)
 - [[1988] Kodak Technical Pan 6415 (ref: 03be)](#1988-kodak-technical-pan-6415-ref-03be)
 - [[1988] Fujifilm Neopan SS (ref: d848)](#1988-fujifilm-neopan-ss-ref-d848)
@@ -194,7 +206,9 @@ Total scans :
 - [[1991] Foma Fomapan F17 (ref: a10e)](#1991-foma-fomapan-f17-ref-a10e)
 - [[1991] Konica Infrared 750nm (ref: e696)](#1991-konica-infrared-750nm-ref-e696)
 - [[1991] ORWO Chrom UT21 (ref: 3fd5)](#1991-orwo-chrom-ut21-ref-3fd5)
+- [[1991] Tasma Foto 64 (ref: 7f21)](#1991-tasma-foto-64-ref-7f21)
 - [[1991] Tasma OCh 50 (ref: 5c43)](#1991-tasma-och-50-ref-5c43)
+- [[1991] Svema Foto 64 (ref: 6583)](#1991-svema-foto-64-ref-6583)
 - [[1991] Kodak T-MAX P3200 (ref: 1dff)](#1991-kodak-t-max-p3200-ref-1dff)
 - [[1991] Kodak T-MAX 400 (ref: a34d)](#1991-kodak-t-max-400-ref-a34d)
 - [[1991] Premium Super XG (ref: 8ccd)](#1991-premium-super-xg-ref-8ccd)
@@ -223,6 +237,7 @@ Total scans :
 - [[1993] Alfo ALFOcolor PR-G (ref: 94b9)](#1993-alfo-alfocolor-pr-g-ref-94b9)
 - [[1993] Polaroid PolaChrome 35mm (ref: b202)](#1993-polaroid-polachrome-35mm-ref-b202)
 - [[1993] Kodak Ektachrome 160T (ref: 7b64)](#1993-kodak-ektachrome-160t-ref-7b64)
+- [[1993] Tasma FN 64 (ref: 087d)](#1993-tasma-fn-64-ref-087d)
 - [[1993] Kodak Gold II (ref: 61d0)](#1993-kodak-gold-ii-ref-61d0)
 - [[1993] Nishika Color Print Film (ref: baeb)](#1993-nishika-color-print-film-ref-baeb)
 - [[1994] Kodak Tri-X Pan (ref: 4257)](#1994-kodak-tri-x-pan-ref-4257)
@@ -234,6 +249,7 @@ Total scans :
 - [[1994] Kodak Ektachrome 100HC (ref: 3ab9)](#1994-kodak-ektachrome-100hc-ref-3ab9)
 - [[1994] Kodak Ektachrome 100HC (ref: 775a)](#1994-kodak-ektachrome-100hc-ref-775a)
 - [[1995] Kodak Technical Pan (ref: f4cf)](#1995-kodak-technical-pan-ref-f4cf)
+- [[1995] Scotch Scotch Color EXL 100 (ref: b189)](#1995-scotch-scotch-color-exl-100-ref-b189)
 - [[1995] ORWO OrwoChrome RC100 (ref: a9b6)](#1995-orwo-orwochrome-rc100-ref-a9b6)
 - [[1995] Kodak Ektachrome Elite 100 (ref: 26ef)](#1995-kodak-ektachrome-elite-100-ref-26ef)
 - [[1995] Lucky LuckyColor BR100 (ref: a71c)](#1995-lucky-luckycolor-br100-ref-a71c)
@@ -247,6 +263,7 @@ Total scans :
 - [[1997] Max Spielmann Maxi Color (ref: bf60)](#1997-max-spielmann-maxi-color-ref-bf60)
 - [[1997] Fujifilm Fujicolor Super HG II 200 (ref: 7ac0)](#1997-fujifilm-fujicolor-super-hg-ii-200-ref-7ac0)
 - [[1997] Svema FN 64 (ref: 600a)](#1997-svema-fn-64-ref-600a)
+- [[1998] Agfa Agfapan APX 25 (ref: ce22)](#1998-agfa-agfapan-apx-25-ref-ce22)
 - [[1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)](#1998-fujifilm-fujichrome-sensia-100-ref-a59b)
 - [[1998] Klick XD200 (ref: 44d7)](#1998-klick-xd200-ref-44d7)
 - [[1998] Kodak Ektachrome Slide Duplicating Film (ref: 596a)](#1998-kodak-ektachrome-slide-duplicating-film-ref-596a)
@@ -261,6 +278,7 @@ Total scans :
 - [[1999] Kodak Gold (ref: 2f8d)](#1999-kodak-gold-ref-2f8d)
 - [[1999] Konica Konica Color SR-G 160 (ref: 64c5)](#1999-konica-konica-color-sr-g-160-ref-64c5)
 - [[1999] Polaroid 600 Platinum (ref: cd53)](#1999-polaroid-600-platinum-ref-cd53)
+- [[1999] Kodak Gold Ultra (ref: 8073)](#1999-kodak-gold-ultra-ref-8073)
 - [[1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)](#1999-kodak-ektachrome-slide-duplicating-film-ref-d53a)
 - [[2000] Konica Infrared 750nm (ref: 2d93)](#2000-konica-infrared-750nm-ref-2d93)
 - [[2000] Agfa AgfaColor Optima 200 (ref: 393d)](#2000-agfa-agfacolor-optima-200-ref-393d)
@@ -274,6 +292,7 @@ Total scans :
 - [[2001] Fujifilm Fujichrome Velvia (ref: 3182)](#2001-fujifilm-fujichrome-velvia-ref-3182)
 - [[2001] Kodak Gold Ultra 400 (ref: 1358)](#2001-kodak-gold-ultra-400-ref-1358)
 - [[2001] Kodak Gold (ref: f2a2)](#2001-kodak-gold-ref-f2a2)
+- [[2001] Tasma FN 64 (ref: d104)](#2001-tasma-fn-64-ref-d104)
 - [[2001] Agfa AgfaColor HDC Plus (ref: d22b)](#2001-agfa-agfacolor-hdc-plus-ref-d22b)
 - [[2001] Kodak Elite Chrome (ref: 523c)](#2001-kodak-elite-chrome-ref-523c)
 - [[2001] Agfa AgfaColor ULTRA 50 (ref: 4faa)](#2001-agfa-agfacolor-ultra-50-ref-4faa)
@@ -285,6 +304,7 @@ Total scans :
 - [[2002] Polaroid High Definition (ref: deb6)](#2002-polaroid-high-definition-ref-deb6)
 - [[2002] Agfa Optima II 400 (ref: fdf0)](#2002-agfa-optima-ii-400-ref-fdf0)
 - [[2002] Agfa CT Precisa (ref: ca9c)](#2002-agfa-ct-precisa-ref-ca9c)
+- [[2002] Svema Svema 100 (ref: d2bc)](#2002-svema-svema-100-ref-d2bc)
 - [[2002] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)](#2002-fujifilm-fujicolor-superia-multi400-ref-69f7)
 - [[2002] Fujifilm Fujicolor Superia (ref: 0683)](#2002-fujifilm-fujicolor-superia-ref-0683)
 - [[2002] Konica Sepia Professional (ref: 0b40)](#2002-konica-sepia-professional-ref-0b40)
@@ -308,6 +328,7 @@ Total scans :
 - [[2003] Fujifilm Fujicolor NPS 160 (ref: 5e85)](#2003-fujifilm-fujicolor-nps-160-ref-5e85)
 - [[2003] Jessops CS100 (ref: 4288)](#2003-jessops-cs100-ref-4288)
 - [[2003] Kodak Ektachrome E200 (ref: 9879)](#2003-kodak-ektachrome-e200-ref-9879)
+- [[2003] Konica VX 200 (ref: 8578)](#2003-konica-vx-200-ref-8578)
 - [[2003] Agfa AgfaColor Vista (ref: d3af)](#2003-agfa-agfacolor-vista-ref-d3af)
 - [[2004] Fujifilm Neopan 400 (ref: c088)](#2004-fujifilm-neopan-400-ref-c088)
 - [[2004] Polaroid 672 (ref: b335)](#2004-polaroid-672-ref-b335)
@@ -332,6 +353,7 @@ Total scans :
 - [[2005] Agfa Agfapan APX 100 (ref: e271)](#2005-agfa-agfapan-apx-100-ref-e271)
 - [[2005] Agfa Agfapan APX 400 (ref: 5855)](#2005-agfa-agfapan-apx-400-ref-5855)
 - [[2005] Kodak Ektachrome 100 Plus (ref: 0183)](#2005-kodak-ektachrome-100-plus-ref-0183)
+- [[2005] Kodak ColorPlus (ref: 8c4b)](#2005-kodak-colorplus-ref-8c4b)
 - [[2005] Konica SXG 100 (ref: 4096)](#2005-konica-sxg-100-ref-4096)
 - [[2005] Ilford FP4 Plus (ref: 5b36)](#2005-ilford-fp4-plus-ref-5b36)
 - [[2005] Kodak Hawkeye 2485 Surveillance Film (ref: 0037)](#2005-kodak-hawkeye-2485-surveillance-film-ref-0037)
@@ -396,6 +418,7 @@ Total scans :
 - [[2008] Kodak UltraMax (ref: 145b)](#2008-kodak-ultramax-ref-145b)
 - [[2008] Agfa CT Precisa 100 (ref: bc36)](#2008-agfa-ct-precisa-100-ref-bc36)
 - [[2008] Fujifilm Superia 200 (ref: fd36)](#2008-fujifilm-superia-200-ref-fd36)
+- [[2008] Fujifilm Superia 200 (ref: 8b76)](#2008-fujifilm-superia-200-ref-8b76)
 - [[2008] Kodak High Speed Infrared (ref: 883e)](#2008-kodak-high-speed-infrared-ref-883e)
 - [[2008] Polaroid 669 (ref: 2e70)](#2008-polaroid-669-ref-2e70)
 - [[2008] Polaroid 990 (ref: e3bc)](#2008-polaroid-990-ref-e3bc)
@@ -486,15 +509,19 @@ Total scans :
 - [[2020] Fujifilm Instax Wide Monochrome (ref: 58d8)](#2020-fujifilm-instax-wide-monochrome-ref-58d8)
 - [[2020] Building 2 250D (ref: 7d4f)](#2020-building-2-250d-ref-7d4f)
 - [[2021] Fujifilm Provia 100F (ref: 5c1e)](#2021-fujifilm-provia-100f-ref-5c1e)
+- [[2021] Silberra Pan 50 (ref: 9ae2)](#2021-silberra-pan-50-ref-9ae2)
 - [[2021] Fujifilm Instax Wide (ref: 51ce)](#2021-fujifilm-instax-wide-ref-51ce)
 - [[2021] Building 2 200T (ref: c025)](#2021-building-2-200t-ref-c025)
 - [[2021] Building 2 500T (ref: 70d9)](#2021-building-2-500t-ref-70d9)
 - [[2021] Building 2 50D (ref: e548)](#2021-building-2-50d-ref-e548)
 - [[2021] Kodak Portra 400 (ref: f4af)](#2021-kodak-portra-400-ref-f4af)
 - [[2021] Rollei RPX 100 (ref: 7cd1)](#2021-rollei-rpx-100-ref-7cd1)
+- [[2021] Silberra S25 (ref: 7530)](#2021-silberra-s25-ref-7530)
+- [[2022] Silberra Pan 100 (ref: 85dd)](#2022-silberra-pan-100-ref-85dd)
 - [[2022] Kodak Ektar 100 (ref: 4631)](#2022-kodak-ektar-100-ref-4631)
 - [[2022] Film Never Die IRO (ref: 2a22)](#2022-film-never-die-iro-ref-2a22)
 - [[2022] Film Never Die Kiro (ref: 796d)](#2022-film-never-die-kiro-ref-796d)
+- [[2022] Foma Fomapan action 400 (ref: a132)](#2022-foma-fomapan-action-400-ref-a132)
 - [[2022] Ilford HP5 Plus (ref: c725)](#2022-ilford-hp5-plus-ref-c725)
 - [[2022] Lomography Berlin (ref: 246a)](#2022-lomography-berlin-ref-246a)
 - [[2022] Lomography Lomochrome Purple (ref: 8b00)](#2022-lomography-lomochrome-purple-ref-8b00)
@@ -502,8 +529,10 @@ Total scans :
 - [[2022] Lomography Postdam (ref: 2769)](#2022-lomography-postdam-ref-2769)
 - [[2022] Rollei RPX 400 (ref: c097)](#2022-rollei-rpx-400-ref-c097)
 - [[2022] Kodak Portra 800 (ref: 21f9)](#2022-kodak-portra-800-ref-21f9)
+- [[2022] Rollei RPX 25 (ref: 26a6)](#2022-rollei-rpx-25-ref-26a6)
 - [[2022] Fujifilm Fujicolor Pro 400H (ref: ff20)](#2022-fujifilm-fujicolor-pro-400h-ref-ff20)
 - [[2022] Kodak Kodacolor 200 (ref: f856)](#2022-kodak-kodacolor-200-ref-f856)
+- [[2022] Svema Foto 100 (ref: 2bee)](#2022-svema-foto-100-ref-2bee)
 - [[2023] Kodak ProImage 100 (ref: fe32)](#2023-kodak-proimage-100-ref-fe32)
 - [[2023] Kodak UltraMax (ref: 3b23)](#2023-kodak-ultramax-ref-3b23)
 - [[2023] Lomography Lomochrome Metropolis (ref: 5546)](#2023-lomography-lomochrome-metropolis-ref-5546)
@@ -513,6 +542,7 @@ Total scans :
 - [[2023] Polaroid Color i-Type Film (ref: 47a7)](#2023-polaroid-color-i-type-film-ref-47a7)
 - [[2023] CineStill BWXX (ref: 66eb)](#2023-cinestill-bwxx-ref-66eb)
 - [[2023] Fujifilm Fujicolor C200 (ref: a0de)](#2023-fujifilm-fujicolor-c200-ref-a0de)
+- [[2023] Silberra P100 (ref: 1d8e)](#2023-silberra-p100-ref-1d8e)
 - [[2024] Kodak Ektar 100 (ref: 95ec)](#2024-kodak-ektar-100-ref-95ec)
 - [[2024] Mr. Negative 250D (ref: 3574)](#2024-mr-negative-250d-ref-3574)
 - [[2024] Mr. Negative Silver Screen Negative (ref: c968)](#2024-mr-negative-silver-screen-negative-ref-c968)
@@ -547,6 +577,7 @@ Total scans :
 - [[2025] Kodak ColorPlus (ref: 79ca)](#2025-kodak-colorplus-ref-79ca)
 - [[2025] Kodak T-MAX 100 (ref: 3aab)](#2025-kodak-t-max-100-ref-3aab)
 - [[2025] Fujifilm Fujicolor 100 (ref: b3c9)](#2025-fujifilm-fujicolor-100-ref-b3c9)
+- [[2025] Ilford SFX 200 (ref: cfb2)](#2025-ilford-sfx-200-ref-cfb2)
 - [[2025] Lomography Babylon (ref: 7afa)](#2025-lomography-babylon-ref-7afa)
 - [[2025] Rollei Retro 80S (ref: e23d)](#2025-rollei-retro-80s-ref-e23d)
 - [[2025] SantaColor SantaColor (ref: cb58)](#2025-santacolor-santacolor-ref-cb58)
@@ -589,6 +620,7 @@ Total scans :
 - [[2026] Kodak UltraMax (ref: e4ad)](#2026-kodak-ultramax-ref-e4ad)
 - [[2026] Lomography Lomochrome Color’92 (ref: 0960)](#2026-lomography-lomochrome-color-92-ref-0960)
 - [[2026] Escura Showa Camera Film (ref: 826b)](#2026-escura-showa-camera-film-ref-826b)
+- [[2026] Foma Fomapan Action 400 (ref: 6a6c)](#2026-foma-fomapan-action-400-ref-6a6c)
 - [[2026] Harman Phoenix (ref: 637f)](#2026-harman-phoenix-ref-637f)
 - [[2026] Hazenfilm Sorolla Chrome (ref: 889f)](#2026-hazenfilm-sorolla-chrome-ref-889f)
 - [[2026] Kodak ColorPlus (ref: 6637)](#2026-kodak-colorplus-ref-6637)
@@ -665,6 +697,7 @@ Total scans :
 - [[2027] Lomography Color Negative Film (ref: 1529)](#2027-lomography-color-negative-film-ref-1529)
 - [[2027] Lucky C200 (ref: e6f8)](#2027-lucky-c200-ref-e6f8)
 - [[2027] ADOX CMS 20 II Pro (ref: 0bea)](#2027-adox-cms-20-ii-pro-ref-0bea)
+- [[2027] Adox Scala 50 (ref: c320)](#2027-adox-scala-50-ref-c320)
 - [[2027] Lucky C200 (ref: 9c6c)](#2027-lucky-c200-ref-9c6c)
 - [[2027] Harman Switch Azure (ref: df9c)](#2027-harman-switch-azure-ref-df9c)
 - [[2027] Kodak Ektapan P3200 (ref: 2254)](#2027-kodak-ektapan-p3200-ref-2254)
@@ -679,11 +712,13 @@ Total scans :
 - [[2028] Foma Fomapan Creative 200 (ref: 84a5)](#2028-foma-fomapan-creative-200-ref-84a5)
 - [[2028] Kodak Ektachrome E100 (ref: 1d36)](#2028-kodak-ektachrome-e100-ref-1d36)
 - [[2028] Lomography Color Negative 120 Film 400 (ref: 7f5f)](#2028-lomography-color-negative-120-film-400-ref-7f5f)
+- [[2028] Mr. Negative Black Market (ref: 9ff8)](#2028-mr-negative-black-market-ref-9ff8)
 - [[2028] Rollei SUPERPAN 200 (ref: ee8f)](#2028-rollei-superpan-200-ref-ee8f)
 - [[2028] Kodak Gold 200 (ref: 7d4b)](#2028-kodak-gold-200-ref-7d4b)
 - [[2028] Kodak Kodacolor 200 (ref: ba30)](#2028-kodak-kodacolor-200-ref-ba30)
 - [[2028] Kodak Ultramax 400 (ref: 7b56)](#2028-kodak-ultramax-400-ref-7b56)
 - [[2028] Lucky C200 (ref: b0cc)](#2028-lucky-c200-ref-b0cc)
+- [[2028] Lucky C200 (ref: faae)](#2028-lucky-c200-ref-faae)
 - [[2028] Yashica Film for Color Prints (ref: 58b7)](#2028-yashica-film-for-color-prints-ref-58b7)
 - [[2028] Kodak Ektacolor Pro 160 (ref: 0d50)](#2028-kodak-ektacolor-pro-160-ref-0d50)
 - [[2028] Rollei Retro 400S (ref: f2cf)](#2028-rollei-retro-400s-ref-f2cf)
@@ -709,9 +744,11 @@ Total scans :
 - [[2028] Lomography Redscale XR Negative (ref: e897)](#2028-lomography-redscale-xr-negative-ref-e897)
 - [[2028] Optik Oldschool OptiMono 100 (ref: 312c)](#2028-optik-oldschool-optimono-100-ref-312c)
 - [[2028] Candido Color Negative Film 800 (ref: c39e)](#2028-candido-color-negative-film-800-ref-c39e)
+- [[2028] Harman Phoenix 125 (ref: 1ce9)](#2028-harman-phoenix-125-ref-1ce9)
 - [[2028] Kodak Ektacolor Pro 400 (ref: aa72)](#2028-kodak-ektacolor-pro-400-ref-aa72)
 - [[2028] Kodak Ektacolor Pro 400 (ref: 36c6)](#2028-kodak-ektacolor-pro-400-ref-36c6)
 - [[2028] Kodak Ektapan 100 (ref: aae1)](#2028-kodak-ektapan-100-ref-aae1)
+- [[2028] Harman Phoenix 125 (ref: 75a6)](#2028-harman-phoenix-125-ref-75a6)
 - [[2028] Lucky C400 (ref: a02c)](#2028-lucky-c400-ref-a02c)
 - [[2028] Rollei RPX 400 (ref: 2155)](#2028-rollei-rpx-400-ref-2155)
 - [[2028] Ilford Delta 400 Professional Collector's Edition (ref: 10a5)](#2028-ilford-delta-400-professional-collectors-edition-ref-10a5)
@@ -776,12 +813,15 @@ Total scans :
 - [[Unknown] Mimosa Porträtyp-Antihalo (ref: 7200)](#unknown-mimosa-porträtyp-antihalo-ref-7200)
 - [[Unknown] Mimosa A.G. Mimosa-Platte Finogran (ref: 795e)](#unknown-mimosa-ag-mimosa-platte-finogran-ref-795e)
 - [[Unknown] Minox MinoColor 100 Pro (ref: 5338)](#unknown-minox-minocolor-100-pro-ref-5338)
+- [[Unknown] Mr. Negative Cash Only (ref: 84fc)](#unknown-mr-negative-cash-only-ref-84fc)
+- [[Unknown] Mr. Negative Tattoo Flash (ref: 2287)](#unknown-mr-negative-tattoo-flash-ref-2287)
 - [[Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)](#unknown-mutascan-kodak-vision3-500t5219-ref-5150)
 - [[Unknown] Northwest Custom Film Processing Ultra Minituature Film (ref: 70b1)](#unknown-northwest-custom-film-processing-ultra-minituature-film-ref-70b1)
 - [[Unknown] ORWO OWRO Color PC7 (ref: 08f0)](#unknown-orwo-owro-color-pc7-ref-08f0)
 - [[Unknown] ORWO OrwoChrom UT18 (ref: 81b7)](#unknown-orwo-orwochrom-ut18-ref-81b7)
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: 80d7)](#unknown-optik-oldschool-opticolour-200-ref-80d7)
 - [[Unknown] Optik Oldschool OptiColour 200 (ref: a7c9)](#unknown-optik-oldschool-opticolour-200-ref-a7c9)
+- [[Unknown] Orwo NP20 (ref: fc4a)](#unknown-orwo-np20-ref-fc4a)
 - [[Unknown] Perutz Superomnia (ref: c90d)](#unknown-perutz-superomnia-ref-c90d)
 - [[Unknown] Phöbus-Platten Sheet Film (ref: d505)](#unknown-phöbus-platten-sheet-film-ref-d505)
 - [[Unknown] Polaroid Type 42 (ref: f92c)](#unknown-polaroid-type-42-ref-f92c)
@@ -1511,6 +1551,21 @@ UUID  : c17a688403b646e6aebd74e8ec357984
 	<img src="./lowres/00433_000.jpg" alt="Kodak Verichrome Pan 122 film box outside" loading="lazy" width="500" height="412">
 </a>
 
+#### [1962] Bureau for the Propaganda of Soviet Film Art Positive Photo Film (ref: 5073)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 1            |  Expiry  : 1962-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 8edf5c4245dd47b2b44eb09714705073
+Notes : Бюро пропаганды советского киноискусства
+```
+
+<a href="./archive/00793_000.jpg" target="_blank">
+	<img src="./lowres/00793_000.jpg" alt="Bureau for the Propaganda of Soviet Film Art Positive Photo Film 35mm film box outside" loading="lazy" width="500" height="394">
+</a>
+
 #### [1962] Kodak Kodachrome (ref: 3d0a)
 
 ```
@@ -1656,6 +1711,34 @@ UUID  : 4eb2d274d28c41339ad3bd385476c214
 
 <a href="./archive/00412_002.jpg" target="_blank">
 	<img src="./lowres/00412_002.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box leaflet" loading="lazy" width="353" height="500">
+</a>
+
+#### [1965] Ansco Super Hypan Film (ref: e496)
+
+```
+Format: 120          |  Process : BW      
+ISO   : 500          |  Expiry  : 1965-01 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : Ensign Expendable
+UUID  : 5d1ca07fe4c04cb79a0017bb34fae496
+```
+
+<a href="./archive/00816_000.jpg" target="_blank">
+	<img src="./lowres/00816_000.jpg" alt="Ansco Super Hypan Film 120 film box outside" loading="lazy" width="500" height="465">
+</a>
+
+
+`UUID: 6febdd3c87b04cb1a65cf21f3e8fdd2d`↓
+
+<a href="./archive/00816_001.jpg" target="_blank">
+	<img src="./lowres/00816_001.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="383" height="500">
+</a>
+
+
+`UUID: 052a43fdf4654d30b35048924b24810a`↓
+
+<a href="./archive/00816_002.jpg" target="_blank">
+	<img src="./lowres/00816_002.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="380" height="500">
 </a>
 
 #### [1965] Ilford Selochrome (ref: f534)
@@ -2100,6 +2183,20 @@ UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 	<img src="./lowres/00181_003.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
+#### [1970] Svema DS-5M (ref: aa87)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1970-09 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 9aaa2ce82a8645da9f1a519394ecaa87
+```
+
+<a href="./archive/00808_000.jpg" target="_blank">
+	<img src="./lowres/00808_000.jpg" alt="Svema DS-5M 35mm film box outside" loading="lazy" width="500" height="444">
+</a>
+
 #### [1971] Agfa Agfacolor Special Negative Film CN S (ref: 1e83)
 
 ```
@@ -2210,6 +2307,20 @@ UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
 
 <a href="./archive/00434_002.jpg" target="_blank">
 	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
+</a>
+
+#### [1971] Svema Foto 65 (ref: 5fce)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 70           |  Expiry  : 1971-06 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c93fa1ca138244d1b218b2248a4f5fce
+```
+
+<a href="./archive/00802_000.jpg" target="_blank">
+	<img src="./lowres/00802_000.jpg" alt="Svema Foto 65 35mm film box outside" loading="lazy" width="500" height="436">
 </a>
 
 #### [1971] Kodak Kodacolor II (ref: f435)
@@ -3314,6 +3425,20 @@ UUID  : 3bfb81116e54468fb296098a03ad4108
 	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
 </a>
 
+#### [1978] Svema CND-32 (ref: 4a06)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1978-08 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : d544da8ef8f14612ba1a4719794c4a06
+```
+
+<a href="./archive/00803_000.jpg" target="_blank">
+	<img src="./lowres/00803_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="441">
+</a>
+
 #### [1978] Kodak Ektachrome 200 (ref: f372)
 
 ```
@@ -3509,6 +3634,20 @@ UUID  : 251b2a7fd42343e6b655b100794bb19e
 
 <a href="./archive/00446_002.jpg" target="_blank">
 	<img src="./lowres/00446_002.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="215" height="499">
+</a>
+
+#### [1979] Svema DS-4 (ref: 8fc3)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1979-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 2ee6c4623322420182284365ff778fc3
+```
+
+<a href="./archive/00806_000.jpg" target="_blank">
+	<img src="./lowres/00806_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="500" height="446">
 </a>
 
 #### [1979] Kodak Ektachrome 64 (ref: 07c0)
@@ -3924,6 +4063,20 @@ UUID  : 542db6f62cdb41aebf9a834dff2b9aab
 	<img src="./lowres/00728_002.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="185" height="500">
 </a>
 
+#### [1982] Svema CNL-90 (ref: 64a1)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 100          |  Expiry  : 1982-12 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 56cb98d143ce45f89839b2a6cb3d64a1
+```
+
+<a href="./archive/00804_000.jpg" target="_blank">
+	<img src="./lowres/00804_000.jpg" alt="Svema CNL-90 35mm film box outside" loading="lazy" width="500" height="442">
+</a>
+
 #### [1983] ORWO DK5 (ref: e815)
 
 ```
@@ -3964,6 +4117,34 @@ UUID  : 6239a04366d74208a9010cd231688833
 
 <a href="./archive/00121_000.jpg" target="_blank">
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="408" height="499">
+</a>
+
+#### [1983] Svema CND-32 (ref: 45c9)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : a04a99ef72ff4610b9323cfbde8145c9
+```
+
+<a href="./archive/00798_000.jpg" target="_blank">
+	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
+</a>
+
+#### [1983] Svema DS-4 (ref: 7387)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 50           |  Expiry  : 1983-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0f730adf4fda41eabd916209ca2f7387
+```
+
+<a href="./archive/00807_000.jpg" target="_blank">
+	<img src="./lowres/00807_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="476" height="500">
 </a>
 
 #### [1983] Kodak Kodacolor II (ref: 7310)
@@ -4380,6 +4561,20 @@ UUID  : 496c4c1b618442bf933f48660acef201
 	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
+#### [1986] Svema CO-32D (ref: 294a)
+
+```
+Format: 35mm         |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1986-12 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 2ca9031f0e014ca1b9a387f3e559294a
+```
+
+<a href="./archive/00805_000.jpg" target="_blank">
+	<img src="./lowres/00805_000.jpg" alt="Svema CO-32D 35mm film box outside" loading="lazy" width="500" height="444">
+</a>
+
 #### [1987] Kodak RAR Film 2479 (ref: 63e7)
 
 ```
@@ -4457,6 +4652,20 @@ UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
 	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
+#### [1987] Svema CO 32 D (ref: 6813)
+
+```
+Format: 120          |  Process : Unknown 
+ISO   : 40           |  Expiry  : 1987-11 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : f48a91c86a8f42168dd23e0fbcac6813
+```
+
+<a href="./archive/00783_000.jpg" target="_blank">
+	<img src="./lowres/00783_000.jpg" alt="Svema CO 32 D 120 film box outside" loading="lazy" width="500" height="413">
+</a>
+
 #### [1988] Agfa AgfaChrome 100RS (ref: 2c42)
 
 ```
@@ -4511,6 +4720,20 @@ UUID  : 06b483aba54b4ce5929a53b74c7d2c42
 
 <a href="./archive/00538_006.jpg" target="_blank">
 	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
+</a>
+
+#### [1988] Tasma Foto 130 (ref: 59f3)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 160          |  Expiry  : 1988-02 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c6572e7191144f208bd65b3b1bd159f3
+```
+
+<a href="./archive/00794_000.jpg" target="_blank">
+	<img src="./lowres/00794_000.jpg" alt="Tasma Foto 130 35mm film box outside" loading="lazy" width="500" height="452">
 </a>
 
 #### [1988] Polaroid PolaPan 35mm (ref: 9825)
@@ -5038,6 +5261,20 @@ UUID  : e3f739b7106044949b4f101684ad3fd5
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
+#### [1991] Tasma Foto 64 (ref: 7f21)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1991-05 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : c6b08ccfb59a43118cb3dd3ea11e7f21
+```
+
+<a href="./archive/00795_000.jpg" target="_blank">
+	<img src="./lowres/00795_000.jpg" alt="Tasma Foto 64 35mm film box outside" loading="lazy" width="480" height="500">
+</a>
+
 #### [1991] Tasma OCh 50 (ref: 5c43)
 
 ```
@@ -5050,6 +5287,20 @@ UUID  : 58211887217046be9d2dfcce8d0c5c43
 
 <a href="./archive/00108_000.jpg" target="_blank">
 	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film box outside" loading="lazy" width="500" height="408">
+</a>
+
+#### [1991] Svema Foto 64 (ref: 6583)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1991-06 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 11819a3da6714e00b6551e1254156583
+```
+
+<a href="./archive/00801_000.jpg" target="_blank">
+	<img src="./lowres/00801_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="452">
 </a>
 
 #### [1991] Kodak T-MAX P3200 (ref: 1dff)
@@ -5710,6 +5961,20 @@ UUID  : dae0e4a473644444817e010eeb3d7b64
 	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
+#### [1993] Tasma FN 64 (ref: 087d)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 1993-09 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 01a8b678bfa24b73b8c93e8c454c087d
+```
+
+<a href="./archive/00797_000.jpg" target="_blank">
+	<img src="./lowres/00797_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="496">
+</a>
+
 #### [1993] Kodak Gold II (ref: 61d0)
 
 ```
@@ -5918,6 +6183,27 @@ UUID  : e65b4252384141028ee037892c6bf4cf
 
 <a href="./archive/00106_001.jpg" target="_blank">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
+</a>
+
+#### [1995] Scotch Scotch Color EXL 100 (ref: b189)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 100          |  Expiry  : 1995-04 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 54b2964951c9456fad15bcd6e8b2b189
+```
+
+<a href="./archive/00799_000.jpg" target="_blank">
+	<img src="./lowres/00799_000.jpg" alt="Scotch Scotch Color EXL 100 35mm film box outside" loading="lazy" width="420" height="499">
+</a>
+
+
+`UUID: 56d21b3c534c4607accc3831a8bd3517`↓
+
+<a href="./archive/00799_001.jpg" target="_blank">
+	<img src="./lowres/00799_001.jpg" alt="Scotch Scotch Color EXL 100 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
 #### [1995] ORWO OrwoChrome RC100 (ref: a9b6)
@@ -6178,6 +6464,20 @@ UUID  : dd90580d0b034a42ab153ef89c82600a
 
 <a href="./archive/00492_000.jpg" target="_blank">
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
+</a>
+
+#### [1998] Agfa Agfapan APX 25 (ref: ce22)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 1998-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 75d91bb50f9c424787c11b421e1ece22
+```
+
+<a href="./archive/00784_000.jpg" target="_blank">
+	<img src="./lowres/00784_000.jpg" alt="Agfa Agfapan APX 25 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 #### [1998] Fujifilm Fujichrome Sensia 100 (ref: a59b)
@@ -6516,6 +6816,20 @@ UUID  : d58fc4af4f314da988547af34b1bcd53
 	<img src="./lowres/00719_001.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="500" height="446">
 </a>
 
+#### [1999] Kodak Gold Ultra (ref: 8073)
+
+```
+Format: 110          |  Process : C-41    
+ISO   : 400          |  Expiry  : 1999-10 
+Type  : Single Pack  |  Quantity: 24 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 493d789f79984defb9e0e69431fc8073
+```
+
+<a href="./archive/00782_000.jpg" target="_blank">
+	<img src="./lowres/00782_000.jpg" alt="Kodak Gold Ultra 110 film box outside" loading="lazy" width="500" height="461">
+</a>
+
 #### [1999] Kodak Ektachrome Slide Duplicating Film (ref: d53a)
 
 ```
@@ -6845,6 +7159,20 @@ UUID  : 86c04a01042341b8a7ae95c660f4f2a2
 	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
 </a>
 
+#### [2001] Tasma FN 64 (ref: d104)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 64           |  Expiry  : 2001-05 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5d1d2c376c1c43d78b8988edddccd104
+```
+
+<a href="./archive/00796_000.jpg" target="_blank">
+	<img src="./lowres/00796_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="493">
+</a>
+
 #### [2001] Agfa AgfaColor HDC Plus (ref: d22b)
 
 ```
@@ -7032,6 +7360,20 @@ UUID  : 4816ed9ade314598a0c96412b06dca9c
 
 <a href="./archive/00637_001.jpg" target="_blank">
 	<img src="./lowres/00637_001.jpg" alt="Agfa CT Precisa 35mm film box inside" loading="lazy" width="398" height="500">
+</a>
+
+#### [2002] Svema Svema 100 (ref: d2bc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2002-03 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 3ce83aa6ee3a4209b3eb6be83dc2d2bc
+```
+
+<a href="./archive/00809_000.jpg" target="_blank">
+	<img src="./lowres/00809_000.jpg" alt="Svema Svema 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [2002] Fujifilm Fujicolor Superia Multi400 (ref: 69f7)
@@ -7455,6 +7797,27 @@ UUID  : c8b4e91fe2e34428a095ae48184f9879
 
 <a href="./archive/00583_000.jpg" target="_blank">
 	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
+</a>
+
+#### [2003] Konica VX 200 (ref: 8578)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2003-10 
+Type  : Single Pack  |  Quantity: 12 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : b4938f8372924a4b8ace581828988578
+```
+
+<a href="./archive/00790_000.jpg" target="_blank">
+	<img src="./lowres/00790_000.jpg" alt="Konica VX 200 35mm film box outside" loading="lazy" width="444" height="500">
+</a>
+
+
+`UUID: 2fdf8c6cf96a4c1e967bbe4b87f51cf7`↓
+
+<a href="./archive/00790_001.jpg" target="_blank">
+	<img src="./lowres/00790_001.jpg" alt="Konica VX 200 35mm film box inside" loading="lazy" width="411" height="500">
 </a>
 
 #### [2003] Agfa AgfaColor Vista (ref: d3af)
@@ -7911,6 +8274,20 @@ UUID  : 389f8e8d270647eda7b0b7d2ab060183
 
 <a href="./archive/00279_001.jpg" target="_blank">
 	<img src="./lowres/00279_001.jpg" alt="Kodak Ektachrome 100 Plus 220 film box inside" loading="lazy" width="500" height="391">
+</a>
+
+#### [2005] Kodak ColorPlus (ref: 8c4b)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2005-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : ea91010988ee4f95884a1d1633678c4b
+```
+
+<a href="./archive/00789_000.jpg" target="_blank">
+	<img src="./lowres/00789_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 #### [2005] Konica SXG 100 (ref: 4096)
@@ -9106,6 +9483,20 @@ UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 
 <a href="./archive/00506_000.jpg" target="_blank">
 	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
+</a>
+
+#### [2008] Fujifilm Superia 200 (ref: 8b76)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2008-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5c8ca907474648dcbdaa3ec6f2e28b76
+```
+
+<a href="./archive/00787_000.jpg" target="_blank">
+	<img src="./lowres/00787_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 #### [2008] Kodak High Speed Infrared (ref: 883e)
@@ -10706,6 +11097,27 @@ UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
 	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
 </a>
 
+#### [2021] Silberra Pan 50 (ref: 9ae2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2021-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 9240b8fd0eec4263aa9600f146419ae2
+```
+
+<a href="./archive/00812_000.jpg" target="_blank">
+	<img src="./lowres/00812_000.jpg" alt="Silberra Pan 50 35mm film box outside" loading="lazy" width="415" height="500">
+</a>
+
+
+`UUID: bcae45a5407248539d9380686cc29732`↓
+
+<a href="./archive/00812_001.jpg" target="_blank">
+	<img src="./lowres/00812_001.jpg" alt="Silberra Pan 50 35mm film box inside" loading="lazy" width="425" height="500">
+</a>
+
 #### [2021] Fujifilm Instax Wide (ref: 51ce)
 
 ```
@@ -10797,6 +11209,48 @@ UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" width="454" height="500">
 </a>
 
+#### [2021] Silberra S25 (ref: 7530)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2021-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0892bdae84e743f0b14490bccc897530
+```
+
+<a href="./archive/00810_000.jpg" target="_blank">
+	<img src="./lowres/00810_000.jpg" alt="Silberra S25 35mm film box outside" loading="lazy" width="419" height="500">
+</a>
+
+
+`UUID: 0f368ca7521f4c649cd6333000eaf26f`↓
+
+<a href="./archive/00810_001.jpg" target="_blank">
+	<img src="./lowres/00810_001.jpg" alt="Silberra S25 35mm film box inside" loading="lazy" width="418" height="500">
+</a>
+
+#### [2022] Silberra Pan 100 (ref: 85dd)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2022-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : d56142f270cc42a5a489b826cb0285dd
+```
+
+<a href="./archive/00811_000.jpg" target="_blank">
+	<img src="./lowres/00811_000.jpg" alt="Silberra Pan 100 35mm film box outside" loading="lazy" width="404" height="500">
+</a>
+
+
+`UUID: b097731481c3404692ac3be9ac3a4a0a`↓
+
+<a href="./archive/00811_001.jpg" target="_blank">
+	<img src="./lowres/00811_001.jpg" alt="Silberra Pan 100 35mm film box inside" loading="lazy" width="405" height="500">
+</a>
+
 #### [2022] Kodak Ektar 100 (ref: 4631)
 
 ```
@@ -10844,6 +11298,27 @@ UUID  : a6bb919bc40b4000a753bf9d3367796d
 
 <a href="./archive/00216_000.jpg" target="_blank">
 	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" height="401">
+</a>
+
+#### [2022] Foma Fomapan action 400 (ref: a132)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2022-06 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 7faaeb8059144cb094919a2b8c15a132
+```
+
+<a href="./archive/00785_000.jpg" target="_blank">
+	<img src="./lowres/00785_000.jpg" alt="Foma Fomapan action 400 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 3fb497ea58bf4160853431e3f669cff5`↓
+
+<a href="./archive/00785_001.jpg" target="_blank">
+	<img src="./lowres/00785_001.jpg" alt="Foma Fomapan action 400 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
 #### [2022] Ilford HP5 Plus (ref: c725)
@@ -10979,6 +11454,27 @@ UUID  : 3663afb2b2d340d3a5c9e0d0e9f021f9
 	<img src="./lowres/00240_001.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
+#### [2022] Rollei RPX 25 (ref: 26a6)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 25           |  Expiry  : 2022-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 1c1de3e23fcc461e8ced8b151b8026a6
+```
+
+<a href="./archive/00814_000.jpg" target="_blank">
+	<img src="./lowres/00814_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 2d8cc4366dc44f78937d94134ee8292a`↓
+
+<a href="./archive/00814_001.jpg" target="_blank">
+	<img src="./lowres/00814_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="409" height="499">
+</a>
+
 #### [2022] Fujifilm Fujicolor Pro 400H (ref: ff20)
 
 ```
@@ -11005,6 +11501,20 @@ UUID  : a761c183d01f4bfaa01dd16c9d33f856
 
 <a href="./archive/00754_000.jpg" target="_blank">
 	<img src="./lowres/00754_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="411" height="500">
+</a>
+
+#### [2022] Svema Foto 100 (ref: 2bee)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2022-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 639397432d5341f799b029ab5cfc2bee
+```
+
+<a href="./archive/00800_000.jpg" target="_blank">
+	<img src="./lowres/00800_000.jpg" alt="Svema Foto 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 #### [2023] Kodak ProImage 100 (ref: fe32)
@@ -11159,6 +11669,27 @@ UUID  : b290e4b860364420924596fc3330a0de
 
 <a href="./archive/00220_000.jpg" target="_blank">
 	<img src="./lowres/00220_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="494" height="500">
+</a>
+
+#### [2023] Silberra P100 (ref: 1d8e)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : 2023-12 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 5835a5f7e9854b6681e5909644fe1d8e
+```
+
+<a href="./archive/00813_000.jpg" target="_blank">
+	<img src="./lowres/00813_000.jpg" alt="Silberra P100 35mm film box outside" loading="lazy" width="414" height="500">
+</a>
+
+
+`UUID: 3a6c303853ae4fd6a4d293c7f6f2c521`↓
+
+<a href="./archive/00813_001.jpg" target="_blank">
+	<img src="./lowres/00813_001.jpg" alt="Silberra P100 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
 #### [2024] Kodak Ektar 100 (ref: 95ec)
@@ -11789,6 +12320,27 @@ UUID  : ac13f69474544179a4a2513e8641b3c9
 
 <a href="./archive/00217_000.jpg" target="_blank">
 	<img src="./lowres/00217_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="400" height="500">
+</a>
+
+#### [2025] Ilford SFX 200 (ref: cfb2)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 200          |  Expiry  : 2025-09 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : e4e11d162052435c8f67835d1da1cfb2
+```
+
+<a href="./archive/00788_000.jpg" target="_blank">
+	<img src="./lowres/00788_000.jpg" alt="Ilford SFX 200 35mm film box outside" loading="lazy" width="423" height="500">
+</a>
+
+
+`UUID: 6f8a733c98f340c09011dbfea034fae2`↓
+
+<a href="./archive/00788_001.jpg" target="_blank">
+	<img src="./lowres/00788_001.jpg" alt="Ilford SFX 200 35mm film box inside" loading="lazy" width="423" height="500">
 </a>
 
 #### [2025] Lomography Babylon (ref: 7afa)
@@ -12470,6 +13022,27 @@ UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
 
 <a href="./archive/00555_000.jpg" target="_blank">
 	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
+</a>
+
+#### [2026] Foma Fomapan Action 400 (ref: 6a6c)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 400          |  Expiry  : 2026-08 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 53d01f1e8ded420195d736b0659d6a6c
+```
+
+<a href="./archive/00786_000.jpg" target="_blank">
+	<img src="./lowres/00786_000.jpg" alt="Foma Fomapan Action 400 35mm film box outside" loading="lazy" width="421" height="500">
+</a>
+
+
+`UUID: 847255b79dcc44cdaa2be82c41e607c7`↓
+
+<a href="./archive/00786_001.jpg" target="_blank">
+	<img src="./lowres/00786_001.jpg" alt="Foma Fomapan Action 400 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
 #### [2026] Harman Phoenix (ref: 637f)
@@ -13816,6 +14389,27 @@ UUID  : 092f316a772246018a8de96ebd380bea
 	<img src="./lowres/00401_001.jpg" alt="ADOX CMS 20 II Pro 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
+#### [2027] Adox Scala 50 (ref: c320)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 50           |  Expiry  : 2027-10 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 3a02c0e5438c4032a85f8acf19abc320
+```
+
+<a href="./archive/00819_000.jpg" target="_blank">
+	<img src="./lowres/00819_000.jpg" alt="Adox Scala 50 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
+
+`UUID: 5f7a25c663ff4de288976d3fea0e2956`↓
+
+<a href="./archive/00819_001.jpg" target="_blank">
+	<img src="./lowres/00819_001.jpg" alt="Adox Scala 50 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
 #### [2027] Lucky C200 (ref: 9c6c)
 
 ```
@@ -14040,6 +14634,20 @@ UUID  : 2ec124d60b12488db346643ed8d17f5f
 	<img src="./lowres/00685_000.jpg" alt="Lomography Color Negative 120 Film 400 120 film box outside" loading="lazy" width="500" height="311">
 </a>
 
+#### [2028] Mr. Negative Black Market (ref: 9ff8)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 250          |  Expiry  : 2028-01 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 6f669e561feb407c9554766bbf159ff8
+```
+
+<a href="./archive/00815_000.jpg" target="_blank">
+	<img src="./lowres/00815_000.jpg" alt="Mr. Negative Black Market 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
 #### [2028] Rollei SUPERPAN 200 (ref: ee8f)
 
 ```
@@ -14122,6 +14730,27 @@ UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 
 <a href="./archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
+</a>
+
+#### [2028] Lucky C200 (ref: faae)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : 2028-02 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 42a87df7b7af411488e419c49eaafaae
+```
+
+<a href="./archive/00791_000.jpg" target="_blank">
+	<img src="./lowres/00791_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="428" height="500">
+</a>
+
+
+`UUID: 2b4e6aab080f40ccae2a402a84b846ef`↓
+
+<a href="./archive/00791_001.jpg" target="_blank">
+	<img src="./lowres/00791_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="424" height="500">
 </a>
 
 #### [2028] Yashica Film for Color Prints (ref: 58b7)
@@ -14561,6 +15190,27 @@ UUID  : c4f0677d117446678179ccfafb84c39e
 	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
+#### [2028] Harman Phoenix 125 (ref: 1ce9)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-07 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 1638fc475eca455e99bc2c658d081ce9
+```
+
+<a href="./archive/00820_000.jpg" target="_blank">
+	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: 1c353bbab444460ea7af5c1c94afd136`↓
+
+<a href="./archive/00820_001.jpg" target="_blank">
+	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
+</a>
+
 #### [2028] Kodak Ektacolor Pro 400 (ref: aa72)
 
 ```
@@ -14601,6 +15251,27 @@ UUID  : 387fdb0fd36c486d84602c000818aae1
 
 <a href="./archive/00757_000.jpg" target="_blank">
 	<img src="./lowres/00757_000.jpg" alt="Kodak Ektapan 100 35mm film box outside" loading="lazy" width="409" height="499">
+</a>
+
+#### [2028] Harman Phoenix 125 (ref: 75a6)
+
+```
+Format: 120          |  Process : C-41    
+ISO   : 125          |  Expiry  : 2028-08 
+Type  : Single Pack  |  Quantity: N/A     
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : f637985584914a30947865b362db75a6
+```
+
+<a href="./archive/00821_000.jpg" target="_blank">
+	<img src="./lowres/00821_000.jpg" alt="Harman Phoenix 125 120 film box outside" loading="lazy" width="500" height="500">
+</a>
+
+
+`UUID: ce7b289fc9864573a8290d67e7e6f077`↓
+
+<a href="./archive/00821_001.jpg" target="_blank">
+	<img src="./lowres/00821_001.jpg" alt="Harman Phoenix 125 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
 #### [2028] Lucky C400 (ref: a02c)
@@ -15719,6 +16390,34 @@ UUID  : 2b69cd822cf44b0a833b845e7b515338
 	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
 </a>
 
+#### [Unknown] Mr. Negative Cash Only (ref: 84fc)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 100          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : ad46387f55ff47769c36aa64f47284fc
+```
+
+<a href="./archive/00817_000.jpg" target="_blank">
+	<img src="./lowres/00817_000.jpg" alt="Mr. Negative Cash Only 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
+#### [Unknown] Mr. Negative Tattoo Flash (ref: 2287)
+
+```
+Format: 35mm         |  Process : C-41    
+ISO   : 200          |  Expiry  : Unknown 
+Type  : Single Pack  |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : SimonTheSenpai
+UUID  : 8015b195ced649c4a2f2a854a5842287
+```
+
+<a href="./archive/00818_000.jpg" target="_blank">
+	<img src="./lowres/00818_000.jpg" alt="Mr. Negative Tattoo Flash 35mm film box outside" loading="lazy" width="499" height="500">
+</a>
+
 #### [Unknown] Mutascan Kodak Vision3 500T/5219 (ref: 5150)
 
 ```
@@ -15852,6 +16551,20 @@ UUID  : 187943e086e842469a7f19ddd0f8a7c9
 
 <a href="./archive/00516_000.jpg" target="_blank">
 	<img src="./lowres/00516_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="433">
+</a>
+
+#### [Unknown] Orwo NP20 (ref: fc4a)
+
+```
+Format: 35mm         |  Process : BW      
+ISO   : 80           |  Expiry  : Unknown 
+Type  : Refill       |  Quantity: 36 exp  
+Added : 2026-11-09   |  Author  : CaptainAgman
+UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
+```
+
+<a href="./archive/00792_000.jpg" target="_blank">
+	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 #### [Unknown] Perutz Superomnia (ref: c90d)
