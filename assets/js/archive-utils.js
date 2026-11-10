@@ -9,7 +9,7 @@
             const age = now - addedAt;
             return Number.isFinite(addedAt) && addedAt > 0 && age >= 0 && age < NEW_ADDITION_WINDOW_MS;
         });
-        return isNew ? '<span class="newly-added-badge">Newly Added!</span>' : '';
+        return isNew ? '<span class="newly-added-badge">NEWLY ADDED!</span>' : '';
     }
 
     function isUnknown(value) {

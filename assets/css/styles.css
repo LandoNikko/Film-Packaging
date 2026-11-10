@@ -962,6 +962,19 @@ body.lightbox-open #siteNav {
         grid-template-columns: repeat(1, 1fr);
         gap: 1rem;
     }
+
+    .home-showcase-heading {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .home-showcase-heading h2,
+    .home-showcase-refresh {
+        grid-column: 1;
+    }
+
+    .home-showcase-refresh {
+        justify-self: center;
+    }
 }
 
 @media (max-width: 480px) {
@@ -1004,4 +1017,4 @@ body.lightbox-open #siteNav {
     .scroll-to-top.visible {
         transform: none;
     }
-} 
+}

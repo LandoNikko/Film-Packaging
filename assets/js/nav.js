@@ -104,8 +104,9 @@
     function setupMobileFiltersPanel() {
         const sidebar = document.getElementById('filterSidebar');
         const panel = document.getElementById('mobileFiltersPanel');
-        const container = document.querySelector('.gallery-container');
-        if (!sidebar || !panel || !container) return;
+        const updateNote = document.getElementById('filterUpdateNote');
+        const column = document.getElementById('filterColumn');
+        if (!sidebar || !panel || !column) return;
 
         const mobileQuery = window.matchMedia(
             window.ArchiveUtils?.MOBILE_MEDIA_QUERY || '(max-width: 768px)'
@@ -114,8 +115,10 @@
         const relocateFilters = () => {
             if (mobileQuery.matches) {
                 panel.appendChild(sidebar);
-            } else if (sidebar.parentElement !== container) {
-                container.insertBefore(sidebar, container.firstChild);
+                if (updateNote) panel.after(updateNote);
+            } else {
+                column.prepend(sidebar);
+                if (updateNote) column.appendChild(updateNote);
             }
         };
 

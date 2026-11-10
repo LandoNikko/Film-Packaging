@@ -22,20 +22,26 @@
     margin-top: 20px;
 }
 
-.filter-sidebar {
+.filter-column {
     position: sticky;
     top: calc(var(--site-nav-offset, var(--site-nav-height, 4.75rem)) + 20px);
     left: 20px;
     width: 330px;
+    flex-shrink: 0;
+    height: fit-content;
+    z-index: 100;
+    margin-left: -350px;
+    transition: top 0.25s ease;
+}
+
+.filter-sidebar {
+    width: 100%;
     background-color: var(--controls-bg);
     border: 2px solid var(--border-primary);
     padding: 1.5rem;
     height: fit-content;
-    max-height: 90vh;
+    max-height: calc(100dvh - var(--site-nav-offset, var(--site-nav-height, 4.75rem)) - 7rem);
     overflow-y: auto;
-    z-index: 100;
-    margin-left: -350px;
-    transition: top 0.25s ease;
 }
 
 .sidebar-header {
@@ -76,6 +82,14 @@
 .filter-sidebar-actions {
     margin-top: 1.5rem;
     display: none;
+}
+
+.filter-update-note {
+    margin: 1rem 0 0;
+    padding: 0 0.5rem;
+    font-size: 0.875rem;
+    font-style: italic;
+    text-align: center;
 }
 
 .filter-sidebar-actions.has-active-filters {
@@ -699,6 +713,10 @@
     pointer-events: auto;
 }
 
+.lightbox-zoom-controls #rotateBtn {
+    margin-left: 2rem;
+}
+
 .lightbox-view-controls {
     position: absolute;
     bottom: 20px;
@@ -909,7 +927,7 @@
         display: none;
     }
 
-    .gallery-container > .filter-sidebar {
+    .gallery-container > .filter-column {
         display: none;
     }
 
@@ -1027,10 +1045,36 @@
     .lightbox-zoom-controls {
         bottom: 10px;
         right: 10px;
-        left: auto;
+        left: 10px;
         transform: none;
+        display: grid;
+        grid-template-columns: 1fr repeat(2, 35px) 1fr;
         gap: 5px;
         z-index: 30;
+        pointer-events: none;
+    }
+
+    .lightbox-zoom-controls #zoomOut {
+        grid-column: 2;
+    }
+
+    .lightbox-zoom-controls #zoomIn {
+        grid-column: 3;
+    }
+
+    .lightbox-zoom-controls #rotateBtn,
+    .lightbox-zoom-controls #zoomReset {
+        position: absolute;
+        top: 0;
+        margin: 0;
+    }
+
+    .lightbox-zoom-controls #rotateBtn {
+        right: 40px;
+    }
+
+    .lightbox-zoom-controls #zoomReset {
+        right: 0;
     }
 
     .zoom-btn {
@@ -1042,7 +1086,7 @@
     }
 
     .lightbox-view-controls {
-        bottom: 10px;
+        bottom: 55px;
         left: 10px;
         top: auto;
         right: auto;
@@ -1081,8 +1125,16 @@
 
     .lightbox-info-nav {
         left: 20px;
+        right: 20px;
         bottom: 25px;
         gap: 8px;
+    }
+
+    .lightbox-info-nav .lightbox-random-btn {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
     }
 
     .lightbox-info-nav .lightbox-prev,
