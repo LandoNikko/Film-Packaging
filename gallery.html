@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=/gallery/">
     <link rel="canonical" href="/gallery/">
     <title>Redirecting to Gallery…</title>
     <script>
-        location.replace('/gallery/' + location.search + location.hash);
+        const galleryPath = location.protocol === 'file:' ? './gallery/index.html' : './gallery/';
+        location.replace(galleryPath + location.search + location.hash);
     </script>
 </head>
 <body>
-    <p>Redirecting to <a href="/gallery/">/gallery/</a>…</p>
+    <p>Redirecting to <a href="./gallery/index.html">the gallery</a>…</p>
 </body>
 </html>

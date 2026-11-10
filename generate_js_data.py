@@ -7,6 +7,8 @@ import csv
 import json
 from pathlib import Path
 
+from gallery_updates import load_updates
+
 CSV_FILE = Path('film_packaging/database.csv')
 ARCHIVE_DIR = Path('film_packaging/archive')
 OUTPUT_FILE = Path('assets/js/gallery-data.js')
@@ -99,6 +101,7 @@ def validate_archive_mappings(image_files, csv_data):
 
 def generate_js_data():
     csv_data = load_csv_data(CSV_FILE)
+    arrival_dates = load_updates()
     image_files = sorted(ARCHIVE_DIR.glob('*.jpg'))
     intentionally_unmapped = validate_archive_mappings(image_files, csv_data)
     
@@ -143,6 +146,7 @@ def generate_js_data():
                 'details': 'Unknown format • Unknown ISO • Unknown process • Unknown type'
             }
         
+        item['first_seen_at'] = arrival_dates.get(filename, 0)
         gallery_data.append(item)
     
     # Generate JavaScript file

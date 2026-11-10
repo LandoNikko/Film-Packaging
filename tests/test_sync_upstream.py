@@ -7,6 +7,7 @@ import unittest
 from pathlib import Path
 
 from generate_js_data import INTENTIONALLY_UNMAPPED_FILENAMES, validate_archive_mappings
+from gallery_updates import load_updates
 from sync_upstream import merge_upstream, read_catalogue, reconcile_catalogues
 
 
@@ -90,12 +91,15 @@ class MergeTests(unittest.TestCase):
 
     def prepare_branches(self, conflict_path):
         self.catalogue.write_text(catalogue([row(1)]), encoding='utf-8')
+        Path('film_packaging/archive').mkdir()
+        Path('film_packaging/archive/00001_000.jpg').write_bytes(b'original scan')
         path = Path(conflict_path)
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(b'base\0content')
         self.git('add', '.')
         self.git('commit', '-m', 'Base catalogue')
         self.git('checkout', '-b', 'upstream-test')
+        Path('film_packaging/archive/00002_000.jpg').write_bytes(b'new upstream scan')
         self.catalogue.write_text(catalogue([row(1, quantity='36', unit='exp'),
                                              row(2, quantity='12', unit='sheets')], ['unit']),
                                   encoding='utf-8')
@@ -120,9 +124,13 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(rows['00001_000.jpg']['brand'], 'Local')
         self.assertEqual(rows['00001_000.jpg']['unit'], 'exp')
         self.assertIn('00002_000.jpg', rows)
+        arrivals = load_updates()
+        self.assertEqual(set(arrivals), {'00002_000.jpg'})
+        self.assertGreater(arrivals['00002_000.jpg'], 0)
         self.git('add', '.')
         self.git('commit', '-m', 'Complete test merge')
         merge_upstream('upstream-test')
+        self.assertEqual(load_updates(), arrivals)
         self.assertEqual(self.git('status', '--porcelain'), '')
 
     def test_non_cache_conflicts_are_left_for_review(self):

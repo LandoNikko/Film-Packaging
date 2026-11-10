@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Film Packaging Archive</title>
     <script>
-        if (/\/index\.html$/i.test(location.pathname)) {
+        if (location.protocol !== 'file:' && /\/index\.html$/i.test(location.pathname)) {
             location.replace('/' + location.search + location.hash);
         }
     </script>
@@ -32,8 +32,8 @@
                 <i class="ri-menu-line" aria-hidden="true"></i>
             </button>
             <ul class="nav-links">
-                <li><a href="/">Home</a></li>
-                <li><a href="/gallery/">Gallery</a></li>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./gallery.html">Gallery</a></li>
             </ul>
         </div>
     </nav>
@@ -49,8 +49,8 @@
                 <img class="site-logo-mark" src="assets/logo.png" alt="" aria-hidden="true" width="32" height="32">
                 Film Packaging Archive
             </span>
-            <a href="/">Home</a>
-            <a href="/gallery/">Gallery</a>
+            <a href="./index.html">Home</a>
+            <a href="./gallery.html">Gallery</a>
         </nav>
     </aside>
 
@@ -71,7 +71,7 @@
                 </p>
 
                 <div class="browse-cta">
-                    <a href="/gallery/" class="cta-button">
+                    <a href="./gallery.html" class="cta-button">
                         <i class="ri-gallery-line"></i>
                         Explore Gallery
                     </a>
@@ -169,4 +169,4 @@
         }
     </script>
 </body>
-</html> 
+</html>

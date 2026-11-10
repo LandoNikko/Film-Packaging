@@ -120,7 +120,7 @@ class FilmGallery {
             }
         });
         
-        if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+        if (window.location.protocol !== 'file:' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
             this.checkForUpdates();
             this.startAutoRefresh();
         }
@@ -353,6 +353,12 @@ class FilmGallery {
 
     async loadGalleryData() {
         this.galleryData = GALLERY_DATA;
+        if (window.location.protocol === 'file:') {
+            this.galleryData = this.galleryData.map((item) => ({
+                ...item,
+                imageUrl: new URL('..' + item.imageUrl, window.location.href).href
+            }));
+        }
         this.filteredData = [...this.galleryData];
     }
 
@@ -809,6 +815,7 @@ class FilmGallery {
                     <div class="bottom-flap"></div>
                     <div class="top-flap"></div>
                     <div class="image-container">
+                        ${ArchiveUtils.renderNewlyAddedBadge(group)}
                         <img src="${thumbnailUrl}" alt="${group.metadata.title}" loading="lazy" 
                              onerror="this.onerror=null; this.src='${thumbnailItem.imageUrl}';">
                     </div>
@@ -1057,9 +1064,12 @@ class FilmGallery {
         const resolution = `${imageElement.naturalWidth} × ${imageElement.naturalHeight}`;
         lightboxResolution.textContent = resolution;
         
-        fetch(imageUrl, { method: 'HEAD' })
+        const imageMetadata = window.location.protocol === 'file:'
+            ? Promise.resolve(null)
+            : fetch(imageUrl, { method: 'HEAD' });
+        imageMetadata
             .then(response => {
-                const contentLength = response.headers.get('content-length');
+                const contentLength = response?.headers.get('content-length');
                 
                 if (contentLength) {
                     const sizeInBytes = parseInt(contentLength);
@@ -1499,4 +1509,4 @@ class FilmGallery {
 
 document.addEventListener('DOMContentLoaded', () => {
     new FilmGallery();
-}); 
+});

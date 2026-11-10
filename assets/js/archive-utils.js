@@ -1,5 +1,16 @@
 (function (global) {
     const MOBILE_MEDIA_QUERY = '(max-width: 768px)';
+    const GALLERY_PATH = global.location.protocol === 'file:' ? './gallery/index.html' : '/gallery/';
+    const NEW_ADDITION_WINDOW_MS = 7 * 24 * 60 * 60 * 1000;
+
+    function renderNewlyAddedBadge(group, now = Date.now()) {
+        const isNew = group.images.some((image) => {
+            const addedAt = Number(image.first_seen_at) * 1000;
+            const age = now - addedAt;
+            return Number.isFinite(addedAt) && addedAt > 0 && age >= 0 && age < NEW_ADDITION_WINDOW_MS;
+        });
+        return isNew ? '<span class="newly-added-badge">Newly Added!</span>' : '';
+    }
 
     function isUnknown(value) {
         return !value || value === 'Unknown';
@@ -115,7 +126,7 @@
     }
 
     function renderFeaturedChip(label, filterParam) {
-        const href = `/gallery/?${filterParam}=${encodeURIComponent(label)}`;
+        const href = `${GALLERY_PATH}?${filterParam}=${encodeURIComponent(label)}`;
         const brandColor = filterParam === 'brand'
             ? global.BrandColors?.resolveBrand(label)?.color
             : null;
@@ -175,7 +186,7 @@
         return (
             `<div class="home-showcase-more">` +
             `<p class="home-showcase-more-text">...and more!</p>` +
-            `<a href="/gallery/" class="cta-button">` +
+            `<a href="${GALLERY_PATH}" class="cta-button">` +
             `<i class="ri-gallery-line"></i>` +
             `Explore Gallery` +
             `</a>` +
@@ -197,8 +208,12 @@
 
         const picks = homeShowcasePicks.slice(0, getHomeShowcaseCount());
 
-        const itemCards = picks.map(({ front, metadata }) => {
-            const thumb = front.imageUrl.replace('/archive/', '/lowres/');
+        const itemCards = picks.map((group) => {
+            const { front, metadata } = group;
+            const imageUrl = global.location.protocol === 'file:'
+                ? new URL('.' + front.imageUrl, global.location.href).href
+                : front.imageUrl;
+            const thumb = imageUrl.replace('/archive/', '/lowres/');
             const title = metadata.product || front.title;
             const brand = metadata.brand || 'Unknown';
             const brandColor = global.BrandColors?.resolveBrand(brand);
@@ -206,12 +221,13 @@
             const brandBackground = brandColor?.color || '#808080';
 
             return (
-                `<a class="gallery-item" href="/gallery/#${front.filename}">` +
+                `<a class="gallery-item" href="${GALLERY_PATH}#${front.filename}">` +
                 `<div class="bottom-flap"></div>` +
                 `<div class="top-flap"></div>` +
                 `<div class="image-container">` +
+                renderNewlyAddedBadge(group) +
                 `<img src="${thumb}" alt="${escapeHtml(title)}" loading="lazy" ` +
-                `onerror="this.onerror=null; this.src='${front.imageUrl}';">` +
+                `onerror="this.onerror=null; this.src='${imageUrl}';">` +
                 `</div>` +
                 `<div class="brand-header" style="color: ${textColor}; background-color: ${brandBackground};">${escapeHtml(brand)}</div>` +
                 `<div class="gallery-item-info">` +
@@ -295,6 +311,7 @@
         isMobileViewport,
         getEntryId,
         groupItemsByBaseFilename,
+        renderNewlyAddedBadge,
         computeArchiveStats,
         applyHeaderStats,
         applyHomePageStats

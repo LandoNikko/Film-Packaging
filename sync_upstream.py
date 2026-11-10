@@ -7,6 +7,8 @@ import re
 import subprocess
 from pathlib import Path, PurePosixPath
 
+from gallery_updates import record_additions
+
 
 CATALOGUE_PATH = Path('film_packaging/database.csv')
 
@@ -91,6 +93,8 @@ def merge_upstream(upstream_ref='upstream/master'):
     local_content = git('show', f'HEAD:{CATALOGUE_PATH.as_posix()}').stdout
     upstream_content = git('show', f'{upstream_ref}:{CATALOGUE_PATH.as_posix()}').stdout
     content, additions, overrides = reconcile_catalogues(local_content, upstream_content)
+    previous_images = set(git('ls-tree', '-r', '--name-only', '-z', 'HEAD', '--',
+                              'film_packaging/archive').stdout.split('\0'))
 
     result = git('merge', '--no-commit', '--no-ff', '-X', 'ours', upstream_ref, check=False)
     print(result.stdout, end='')
@@ -109,6 +113,10 @@ def merge_upstream(upstream_ref='upstream/master'):
     if caches:
         git('rm', '-f', '--', *caches)
     CATALOGUE_PATH.write_text(content, encoding='utf-8', newline='')
+    current_images = set(git('ls-files', '-z', '--', 'film_packaging/archive').stdout.split('\0'))
+    new_images = [PurePosixPath(path).name for path in current_images - previous_images
+                  if path.endswith('.jpg')]
+    record_additions(new_images)
     print(f'Added {additions} upstream rows; kept {overrides} local metadata overrides.')
 
 
