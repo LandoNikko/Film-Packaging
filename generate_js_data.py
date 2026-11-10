@@ -8,9 +8,11 @@ import json
 from pathlib import Path
 
 from gallery_updates import load_updates
+from image_urls import full_size_url
 
 CSV_FILE = Path('film_packaging/database.csv')
 ARCHIVE_DIR = Path('film_packaging/archive')
+LOWRES_DIR = Path('film_packaging/lowres')
 OUTPUT_FILE = Path('assets/js/gallery-data.js')
 
 # These images exist in the archive but have no entry in either the local or
@@ -99,11 +101,27 @@ def validate_archive_mappings(image_files, csv_data):
     return unmapped_filenames
 
 
+def ensure_thumbnails(image_files):
+    missing = [image for image in image_files if not (LOWRES_DIR / image.name).is_file()]
+    if not missing:
+        return
+    from PIL import Image, ImageOps
+
+    LOWRES_DIR.mkdir(parents=True, exist_ok=True)
+    for image_path in missing:
+        with Image.open(image_path) as original:
+            thumbnail = ImageOps.exif_transpose(original).convert('RGB')
+            thumbnail.thumbnail((800, 800), Image.Resampling.LANCZOS)
+            thumbnail.save(LOWRES_DIR / image_path.name, 'JPEG', quality=85, optimize=True)
+    print(f'Created {len(missing)} missing thumbnails.')
+
+
 def generate_js_data():
     csv_data = load_csv_data(CSV_FILE)
     arrival_dates = load_updates()
     image_files = sorted(ARCHIVE_DIR.glob('*.jpg'))
     intentionally_unmapped = validate_archive_mappings(image_files, csv_data)
+    ensure_thumbnails(image_files)
     
     gallery_data = []
     
@@ -124,7 +142,7 @@ def generate_js_data():
                 'date_added': row.get('date_added', ''),
                 'item_type': row.get('item_type', 'Unknown'),
                 'author': row.get('author', 'Unknown'),
-                'imageUrl': f'/film_packaging/archive/{filename}',
+                'imageUrl': full_size_url(filename),
                 'title': f"{row.get('brand', 'Unknown')} {row.get('product', 'Unknown')}",
                 'details': f"{row.get('film_format', 'Unknown')} • ISO {row.get('film_speed_iso', 'Unknown')} • {row.get('process', 'Unknown')} • {row.get('item_type', 'Unknown')}"
             }
@@ -141,11 +159,12 @@ def generate_js_data():
                 'date_added': '',
                 'item_type': 'Unknown',
                 'author': 'Unknown',
-                'imageUrl': f'/film_packaging/archive/{filename}',
+                'imageUrl': full_size_url(filename),
                 'title': f'Unknown Film ({filename})',
                 'details': 'Unknown format • Unknown ISO • Unknown process • Unknown type'
             }
         
+        item['thumbnailUrl'] = f'/film_packaging/lowres/{filename}'
         item['first_seen_at'] = arrival_dates.get(filename, 0)
         gallery_data.append(item)
     
@@ -155,7 +174,7 @@ def generate_js_data():
 // Generated from film_packaging/database.csv and archive directory
 // Total items: {len(gallery_data)}
 
-const GALLERY_DATA = {json.dumps(gallery_data, indent=2, ensure_ascii=False)};
+var GALLERY_DATA = {json.dumps(gallery_data, indent=2, ensure_ascii=False)};
 
 // Export the data for use in gallery.js
 if (typeof module !== 'undefined' && module.exports) {{

@@ -8,6 +8,24 @@ include:
   - README.md
   - LICENSE
   - favicon.ico
+# Exclude originals from every deployment, including future weekly imports.
+# They remain in Git and are served through raw.githubusercontent.com.
+exclude:
+  - film_packaging/archive
+  - film_packaging/orphans
+  - film_packaging/to_add
+  - film_packaging/gallery_updates.json
+  - misc
+  - tests
+  - "*.py"
+  - "**/*.py"
+  - "*.bat"
+  - "**/__pycache__"
+  - "how --stat"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 url: "https://filmpackagingarchive.com"
 baseurl: ""
 remote_theme: pages-themes/primer@v0.6.0
@@ -16,4 +34,4 @@ description: High resolution scans of photography film packages
 permissions:
   id-token: write
   pages: write
-  contents: read  
+  contents: read

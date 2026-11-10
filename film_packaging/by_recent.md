@@ -846,7 +846,7 @@ Total scans :
 
 `UUID: ce7b289fc9864573a8290d67e7e6f077`↓
 
-<a href="./archive/00821_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00821_001.jpg" target="_blank">
 	<img src="./lowres/00821_001.jpg" alt="Harman Phoenix 125 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
@@ -860,14 +860,14 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : f637985584914a30947865b362db75a6
 ```
 
-<a href="./archive/00821_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00821_000.jpg" target="_blank">
 	<img src="./lowres/00821_000.jpg" alt="Harman Phoenix 125 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 1c353bbab444460ea7af5c1c94afd136`↓
 
-<a href="./archive/00820_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00820_001.jpg" target="_blank">
 	<img src="./lowres/00820_001.jpg" alt="Harman Phoenix 125 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
@@ -881,14 +881,14 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : 1638fc475eca455e99bc2c658d081ce9
 ```
 
-<a href="./archive/00820_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00820_000.jpg" target="_blank">
 	<img src="./lowres/00820_000.jpg" alt="Harman Phoenix 125 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 5f7a25c663ff4de288976d3fea0e2956`↓
 
-<a href="./archive/00819_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00819_001.jpg" target="_blank">
 	<img src="./lowres/00819_001.jpg" alt="Adox Scala 50 35mm film box inside" loading="lazy" width="500" height="500">
 </a>
 
@@ -902,7 +902,7 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : 3a02c0e5438c4032a85f8acf19abc320
 ```
 
-<a href="./archive/00819_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00819_000.jpg" target="_blank">
 	<img src="./lowres/00819_000.jpg" alt="Adox Scala 50 35mm film box outside" loading="lazy" width="499" height="500">
 </a>
 
@@ -916,7 +916,7 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : 8015b195ced649c4a2f2a854a5842287
 ```
 
-<a href="./archive/00818_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00818_000.jpg" target="_blank">
 	<img src="./lowres/00818_000.jpg" alt="Mr. Negative Tattoo Flash 35mm film box outside" loading="lazy" width="499" height="500">
 </a>
 
@@ -930,21 +930,21 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : ad46387f55ff47769c36aa64f47284fc
 ```
 
-<a href="./archive/00817_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00817_000.jpg" target="_blank">
 	<img src="./lowres/00817_000.jpg" alt="Mr. Negative Cash Only 35mm film box outside" loading="lazy" width="499" height="500">
 </a>
 
 
 `UUID: 052a43fdf4654d30b35048924b24810a`↓
 
-<a href="./archive/00816_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00816_002.jpg" target="_blank">
 	<img src="./lowres/00816_002.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="380" height="500">
 </a>
 
 
 `UUID: 6febdd3c87b04cb1a65cf21f3e8fdd2d`↓
 
-<a href="./archive/00816_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00816_001.jpg" target="_blank">
 	<img src="./lowres/00816_001.jpg" alt="Ansco Super Hypan Film 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
@@ -958,7 +958,7 @@ Added : 2026-11-09   |  Author  : Ensign Expendable
 UUID  : 5d1ca07fe4c04cb79a0017bb34fae496
 ```
 
-<a href="./archive/00816_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00816_000.jpg" target="_blank">
 	<img src="./lowres/00816_000.jpg" alt="Ansco Super Hypan Film 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
@@ -972,14 +972,14 @@ Added : 2026-11-09   |  Author  : SimonTheSenpai
 UUID  : 6f669e561feb407c9554766bbf159ff8
 ```
 
-<a href="./archive/00815_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00815_000.jpg" target="_blank">
 	<img src="./lowres/00815_000.jpg" alt="Mr. Negative Black Market 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 2d8cc4366dc44f78937d94134ee8292a`↓
 
-<a href="./archive/00814_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00814_001.jpg" target="_blank">
 	<img src="./lowres/00814_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="409" height="499">
 </a>
 
@@ -993,14 +993,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 1c1de3e23fcc461e8ced8b151b8026a6
 ```
 
-<a href="./archive/00814_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00814_000.jpg" target="_blank">
 	<img src="./lowres/00814_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: 3a6c303853ae4fd6a4d293c7f6f2c521`↓
 
-<a href="./archive/00813_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00813_001.jpg" target="_blank">
 	<img src="./lowres/00813_001.jpg" alt="Silberra P100 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -1014,14 +1014,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 5835a5f7e9854b6681e5909644fe1d8e
 ```
 
-<a href="./archive/00813_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00813_000.jpg" target="_blank">
 	<img src="./lowres/00813_000.jpg" alt="Silberra P100 35mm film box outside" loading="lazy" width="414" height="500">
 </a>
 
 
 `UUID: bcae45a5407248539d9380686cc29732`↓
 
-<a href="./archive/00812_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00812_001.jpg" target="_blank">
 	<img src="./lowres/00812_001.jpg" alt="Silberra Pan 50 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -1035,14 +1035,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 9240b8fd0eec4263aa9600f146419ae2
 ```
 
-<a href="./archive/00812_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00812_000.jpg" target="_blank">
 	<img src="./lowres/00812_000.jpg" alt="Silberra Pan 50 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
 
 `UUID: b097731481c3404692ac3be9ac3a4a0a`↓
 
-<a href="./archive/00811_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00811_001.jpg" target="_blank">
 	<img src="./lowres/00811_001.jpg" alt="Silberra Pan 100 35mm film box inside" loading="lazy" width="405" height="500">
 </a>
 
@@ -1056,14 +1056,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : d56142f270cc42a5a489b826cb0285dd
 ```
 
-<a href="./archive/00811_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00811_000.jpg" target="_blank">
 	<img src="./lowres/00811_000.jpg" alt="Silberra Pan 100 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 
 `UUID: 0f368ca7521f4c649cd6333000eaf26f`↓
 
-<a href="./archive/00810_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00810_001.jpg" target="_blank">
 	<img src="./lowres/00810_001.jpg" alt="Silberra S25 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
@@ -1077,7 +1077,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 0892bdae84e743f0b14490bccc897530
 ```
 
-<a href="./archive/00810_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00810_000.jpg" target="_blank">
 	<img src="./lowres/00810_000.jpg" alt="Silberra S25 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
@@ -1091,7 +1091,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 3ce83aa6ee3a4209b3eb6be83dc2d2bc
 ```
 
-<a href="./archive/00809_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00809_000.jpg" target="_blank">
 	<img src="./lowres/00809_000.jpg" alt="Svema Svema 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
@@ -1105,7 +1105,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 9aaa2ce82a8645da9f1a519394ecaa87
 ```
 
-<a href="./archive/00808_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00808_000.jpg" target="_blank">
 	<img src="./lowres/00808_000.jpg" alt="Svema DS-5M 35mm film box outside" loading="lazy" width="500" height="444">
 </a>
 
@@ -1119,7 +1119,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 0f730adf4fda41eabd916209ca2f7387
 ```
 
-<a href="./archive/00807_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00807_000.jpg" target="_blank">
 	<img src="./lowres/00807_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="476" height="500">
 </a>
 
@@ -1133,7 +1133,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 2ee6c4623322420182284365ff778fc3
 ```
 
-<a href="./archive/00806_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00806_000.jpg" target="_blank">
 	<img src="./lowres/00806_000.jpg" alt="Svema DS-4 35mm film box outside" loading="lazy" width="500" height="446">
 </a>
 
@@ -1147,7 +1147,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 2ca9031f0e014ca1b9a387f3e559294a
 ```
 
-<a href="./archive/00805_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00805_000.jpg" target="_blank">
 	<img src="./lowres/00805_000.jpg" alt="Svema CO-32D 35mm film box outside" loading="lazy" width="500" height="444">
 </a>
 
@@ -1161,7 +1161,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 56cb98d143ce45f89839b2a6cb3d64a1
 ```
 
-<a href="./archive/00804_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00804_000.jpg" target="_blank">
 	<img src="./lowres/00804_000.jpg" alt="Svema CNL-90 35mm film box outside" loading="lazy" width="500" height="442">
 </a>
 
@@ -1175,7 +1175,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : d544da8ef8f14612ba1a4719794c4a06
 ```
 
-<a href="./archive/00803_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00803_000.jpg" target="_blank">
 	<img src="./lowres/00803_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
@@ -1189,7 +1189,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : c93fa1ca138244d1b218b2248a4f5fce
 ```
 
-<a href="./archive/00802_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00802_000.jpg" target="_blank">
 	<img src="./lowres/00802_000.jpg" alt="Svema Foto 65 35mm film box outside" loading="lazy" width="500" height="436">
 </a>
 
@@ -1203,7 +1203,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 11819a3da6714e00b6551e1254156583
 ```
 
-<a href="./archive/00801_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00801_000.jpg" target="_blank">
 	<img src="./lowres/00801_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="452">
 </a>
 
@@ -1217,14 +1217,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 639397432d5341f799b029ab5cfc2bee
 ```
 
-<a href="./archive/00800_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00800_000.jpg" target="_blank">
 	<img src="./lowres/00800_000.jpg" alt="Svema Foto 100 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
 
 `UUID: 56d21b3c534c4607accc3831a8bd3517`↓
 
-<a href="./archive/00799_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00799_001.jpg" target="_blank">
 	<img src="./lowres/00799_001.jpg" alt="Scotch Scotch Color EXL 100 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
@@ -1238,7 +1238,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 54b2964951c9456fad15bcd6e8b2b189
 ```
 
-<a href="./archive/00799_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00799_000.jpg" target="_blank">
 	<img src="./lowres/00799_000.jpg" alt="Scotch Scotch Color EXL 100 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
@@ -1252,7 +1252,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : a04a99ef72ff4610b9323cfbde8145c9
 ```
 
-<a href="./archive/00798_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00798_000.jpg" target="_blank">
 	<img src="./lowres/00798_000.jpg" alt="Svema CND-32 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
@@ -1266,7 +1266,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 01a8b678bfa24b73b8c93e8c454c087d
 ```
 
-<a href="./archive/00797_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00797_000.jpg" target="_blank">
 	<img src="./lowres/00797_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="496">
 </a>
 
@@ -1280,7 +1280,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 5d1d2c376c1c43d78b8988edddccd104
 ```
 
-<a href="./archive/00796_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00796_000.jpg" target="_blank">
 	<img src="./lowres/00796_000.jpg" alt="Tasma FN 64 35mm film box outside" loading="lazy" width="500" height="493">
 </a>
 
@@ -1294,7 +1294,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : c6b08ccfb59a43118cb3dd3ea11e7f21
 ```
 
-<a href="./archive/00795_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00795_000.jpg" target="_blank">
 	<img src="./lowres/00795_000.jpg" alt="Tasma Foto 64 35mm film box outside" loading="lazy" width="480" height="500">
 </a>
 
@@ -1308,7 +1308,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : c6572e7191144f208bd65b3b1bd159f3
 ```
 
-<a href="./archive/00794_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00794_000.jpg" target="_blank">
 	<img src="./lowres/00794_000.jpg" alt="Tasma Foto 130 35mm film box outside" loading="lazy" width="500" height="452">
 </a>
 
@@ -1323,7 +1323,7 @@ UUID  : 8edf5c4245dd47b2b44eb09714705073
 Notes : Бюро пропаганды советского киноискусства
 ```
 
-<a href="./archive/00793_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00793_000.jpg" target="_blank">
 	<img src="./lowres/00793_000.jpg" alt="Bureau for the Propaganda of Soviet Film Art Positive Photo Film 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
@@ -1337,14 +1337,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 0e700f279e354b36b7ba1ebbfc95fc4a
 ```
 
-<a href="./archive/00792_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00792_000.jpg" target="_blank">
 	<img src="./lowres/00792_000.jpg" alt="Orwo NP20 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 
 `UUID: 2b4e6aab080f40ccae2a402a84b846ef`↓
 
-<a href="./archive/00791_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00791_001.jpg" target="_blank">
 	<img src="./lowres/00791_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="424" height="500">
 </a>
 
@@ -1358,14 +1358,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 42a87df7b7af411488e419c49eaafaae
 ```
 
-<a href="./archive/00791_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00791_000.jpg" target="_blank">
 	<img src="./lowres/00791_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="428" height="500">
 </a>
 
 
 `UUID: 2fdf8c6cf96a4c1e967bbe4b87f51cf7`↓
 
-<a href="./archive/00790_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00790_001.jpg" target="_blank">
 	<img src="./lowres/00790_001.jpg" alt="Konica VX 200 35mm film box inside" loading="lazy" width="411" height="500">
 </a>
 
@@ -1379,7 +1379,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : b4938f8372924a4b8ace581828988578
 ```
 
-<a href="./archive/00790_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00790_000.jpg" target="_blank">
 	<img src="./lowres/00790_000.jpg" alt="Konica VX 200 35mm film box outside" loading="lazy" width="444" height="500">
 </a>
 
@@ -1393,14 +1393,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : ea91010988ee4f95884a1d1633678c4b
 ```
 
-<a href="./archive/00789_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00789_000.jpg" target="_blank">
 	<img src="./lowres/00789_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: 6f8a733c98f340c09011dbfea034fae2`↓
 
-<a href="./archive/00788_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00788_001.jpg" target="_blank">
 	<img src="./lowres/00788_001.jpg" alt="Ilford SFX 200 35mm film box inside" loading="lazy" width="423" height="500">
 </a>
 
@@ -1414,7 +1414,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : e4e11d162052435c8f67835d1da1cfb2
 ```
 
-<a href="./archive/00788_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00788_000.jpg" target="_blank">
 	<img src="./lowres/00788_000.jpg" alt="Ilford SFX 200 35mm film box outside" loading="lazy" width="423" height="500">
 </a>
 
@@ -1428,14 +1428,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 5c8ca907474648dcbdaa3ec6f2e28b76
 ```
 
-<a href="./archive/00787_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00787_000.jpg" target="_blank">
 	<img src="./lowres/00787_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 
 `UUID: 847255b79dcc44cdaa2be82c41e607c7`↓
 
-<a href="./archive/00786_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00786_001.jpg" target="_blank">
 	<img src="./lowres/00786_001.jpg" alt="Foma Fomapan Action 400 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -1449,14 +1449,14 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 53d01f1e8ded420195d736b0659d6a6c
 ```
 
-<a href="./archive/00786_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00786_000.jpg" target="_blank">
 	<img src="./lowres/00786_000.jpg" alt="Foma Fomapan Action 400 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: 3fb497ea58bf4160853431e3f669cff5`↓
 
-<a href="./archive/00785_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00785_001.jpg" target="_blank">
 	<img src="./lowres/00785_001.jpg" alt="Foma Fomapan action 400 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -1470,7 +1470,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 7faaeb8059144cb094919a2b8c15a132
 ```
 
-<a href="./archive/00785_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00785_000.jpg" target="_blank">
 	<img src="./lowres/00785_000.jpg" alt="Foma Fomapan action 400 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -1484,7 +1484,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 75d91bb50f9c424787c11b421e1ece22
 ```
 
-<a href="./archive/00784_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00784_000.jpg" target="_blank">
 	<img src="./lowres/00784_000.jpg" alt="Agfa Agfapan APX 25 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
@@ -1498,7 +1498,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : f48a91c86a8f42168dd23e0fbcac6813
 ```
 
-<a href="./archive/00783_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00783_000.jpg" target="_blank">
 	<img src="./lowres/00783_000.jpg" alt="Svema CO 32 D 120 film box outside" loading="lazy" width="500" height="413">
 </a>
 
@@ -1512,7 +1512,7 @@ Added : 2026-11-09   |  Author  : CaptainAgman
 UUID  : 493d789f79984defb9e0e69431fc8073
 ```
 
-<a href="./archive/00782_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00782_000.jpg" target="_blank">
 	<img src="./lowres/00782_000.jpg" alt="Kodak Gold Ultra 110 film box outside" loading="lazy" width="500" height="461">
 </a>
 
@@ -1526,7 +1526,7 @@ Added : 2026-11-03   |  Author  : @recycling.film
 UUID  : a3691700a1c54c7f817de6ada781d548
 ```
 
-<a href="./archive/00781_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00781_000.jpg" target="_blank">
 	<img src="./lowres/00781_000.jpg" alt="Marvel Spinder-Man 2 35mm Color Print Film 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -1540,7 +1540,7 @@ Added : 2026-11-03   |  Author  : @recycling.film
 UUID  : 47aba6cf5f974c15b8e8a2cd3aed1144
 ```
 
-<a href="./archive/00780_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00780_000.jpg" target="_blank">
 	<img src="./lowres/00780_000.jpg" alt="Marvel Fantastic 4 35mm Color Film 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
@@ -1554,7 +1554,7 @@ Added : 2026-11-03   |  Author  : @recycling.film
 UUID  : 23905283d39f4477a618cee5076985fa
 ```
 
-<a href="./archive/00779_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00779_000.jpg" target="_blank">
 	<img src="./lowres/00779_000.jpg" alt="Kids Station Toys Batman Returns High Quality 35mm Print Film 35mm film box outside" loading="lazy" width="441" height="500">
 </a>
 
@@ -1568,7 +1568,7 @@ Added : 2026-11-02   |  Author  : @ellafridalindblom
 UUID  : d68c3af6c1b8462bbb3f809ef0aae547
 ```
 
-<a href="./archive/00778_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00778_000.jpg" target="_blank">
 	<img src="./lowres/00778_000.jpg" alt="Mimosa Porträtyp 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
@@ -1582,7 +1582,7 @@ Added : 2026-11-02   |  Author  : @ellafridalindblom
 UUID  : 7d28252558f548f8a3c7e43bdffc7200
 ```
 
-<a href="./archive/00777_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00777_000.jpg" target="_blank">
 	<img src="./lowres/00777_000.jpg" alt="Mimosa Porträtyp-Antihalo 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
@@ -1596,7 +1596,7 @@ Added : 2026-11-02   |  Author  : @ellafridalindblom
 UUID  : d69c094564e8477ba57269b2c13df1d2
 ```
 
-<a href="./archive/00776_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00776_000.jpg" target="_blank">
 	<img src="./lowres/00776_000.jpg" alt="Foma Repro 9x12cm film box outside" loading="lazy" width="500" height="395">
 </a>
 
@@ -1610,7 +1610,7 @@ Added : 2026-10-21   |  Author  : @Hol.m35
 UUID  : 0f58b48fd91544a3b282e4577c4a553e
 ```
 
-<a href="./archive/00775_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00775_000.jpg" target="_blank">
 	<img src="./lowres/00775_000.jpg" alt="Cyberpunk 800T 35mm film box outside" loading="lazy" width="500" height="458">
 </a>
 
@@ -1624,7 +1624,7 @@ Added : 2026-10-19   |  Author  : waldoboro
 UUID  : a358256685684aa4b8a10b63814258b7
 ```
 
-<a href="./archive/00774_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00774_000.jpg" target="_blank">
 	<img src="./lowres/00774_000.jpg" alt="Yashica Film for Color Prints 35mm film box outside" loading="lazy" width="413" height="500">
 </a>
 
@@ -1638,7 +1638,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : 65af395f5a2e4e69aa598c055c1ad1fb
 ```
 
-<a href="./archive/00773_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00773_000.jpg" target="_blank">
 	<img src="./lowres/00773_000.jpg" alt="Hauff Pancola-Lichthoffrei 12x16.5cm film box outside" loading="lazy" width="500" height="394">
 </a>
 
@@ -1652,7 +1652,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : b6087c7a528d44ac83c246afe8e3795e
 ```
 
-<a href="./archive/00772_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00772_000.jpg" target="_blank">
 	<img src="./lowres/00772_000.jpg" alt="Mimosa A.G. Mimosa-Platte Finogran 12x16.5cm film box outside" loading="lazy" width="500" height="366">
 </a>
 
@@ -1666,7 +1666,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : ede9f26e73c84a3c84b53206e1c495c5
 ```
 
-<a href="./archive/00771_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00771_000.jpg" target="_blank">
 	<img src="./lowres/00771_000.jpg" alt="Goecker Extra rapid Emulsionsplade Ideal 9x12cm film box outside" loading="lazy" width="440" height="500">
 </a>
 
@@ -1680,7 +1680,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : b0f738f453c849088ebe322d762c0e63
 ```
 
-<a href="./archive/00770_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00770_000.jpg" target="_blank">
 	<img src="./lowres/00770_000.jpg" alt="Gevaert Panchromosa 12x16.5cm film box outside" loading="lazy" width="388" height="500">
 </a>
 
@@ -1694,7 +1694,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : f64bf8d2a1df471195679a853de6477d
 ```
 
-<a href="./archive/00769_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00769_000.jpg" target="_blank">
 	<img src="./lowres/00769_000.jpg" alt="Seed Dry Plates 12x16.5cm film box outside" loading="lazy" width="390" height="500">
 </a>
 
@@ -1708,21 +1708,21 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : e0ad5f0cd4de4610ae0e2f3f6636ad62
 ```
 
-<a href="./archive/00768_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00768_000.jpg" target="_blank">
 	<img src="./lowres/00768_000.jpg" alt="Seed Dry Plates 9x12cm film box outside" loading="lazy" width="400" height="499">
 </a>
 
 
 `UUID: e2d6a5e63262495b9212f75476792d15`↓
 
-<a href="./archive/00767_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00767_002.jpg" target="_blank">
 	<img src="./lowres/00767_002.jpg" alt="Du Pont Defender X-F Pan Unknown film box leaflet" loading="lazy" width="500" height="414">
 </a>
 
 
 `UUID: 0504b5765be445bb9deabd3675cc7d4b`↓
 
-<a href="./archive/00767_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00767_001.jpg" target="_blank">
 	<img src="./lowres/00767_001.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
 </a>
 
@@ -1736,7 +1736,7 @@ Added : 2026-10-19   |  Author  : @ellafridalindblom
 UUID  : a911ae0b9fe944ec8a37ac58d970d495
 ```
 
-<a href="./archive/00767_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00767_000.jpg" target="_blank">
 	<img src="./lowres/00767_000.jpg" alt="Du Pont Defender X-F Pan Unknown film box outside" loading="lazy" width="388" height="500">
 </a>
 
@@ -1750,7 +1750,7 @@ Added : 2026-10-19   |  Author  : kaimon
 UUID  : fe8f47eca4254a77933971bae07d3aab
 ```
 
-<a href="./archive/00766_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00766_000.jpg" target="_blank">
 	<img src="./lowres/00766_000.jpg" alt="Kodak T-MAX 100 35mm film box outside" loading="lazy" width="427" height="500">
 </a>
 
@@ -1764,7 +1764,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : 3881f302167c4264b0e9133c718d1d36
 ```
 
-<a href="./archive/00765_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00765_000.jpg" target="_blank">
 	<img src="./lowres/00765_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1778,7 +1778,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : 841394cdb38742a19c13d266a3c63661
 ```
 
-<a href="./archive/00764_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00764_000.jpg" target="_blank">
 	<img src="./lowres/00764_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1792,7 +1792,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : f9386711516f42ab8e2f8f1ada857b56
 ```
 
-<a href="./archive/00763_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00763_000.jpg" target="_blank">
 	<img src="./lowres/00763_000.jpg" alt="Kodak Ultramax 400 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1806,7 +1806,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : b838522c680d4e75b9f95e51080d4239
 ```
 
-<a href="./archive/00762_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00762_000.jpg" target="_blank">
 	<img src="./lowres/00762_000.jpg" alt="Kodak Ektacolor Pro 800 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1820,7 +1820,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : 185db686d4f946b39a39cc2733b336c6
 ```
 
-<a href="./archive/00761_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00761_000.jpg" target="_blank">
 	<img src="./lowres/00761_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1834,7 +1834,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : 35dade1da9f94915beefb73aa7f50d50
 ```
 
-<a href="./archive/00760_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00760_000.jpg" target="_blank">
 	<img src="./lowres/00760_000.jpg" alt="Kodak Ektacolor Pro 160 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1848,7 +1848,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : a16332e5243845c8af35833917ea50dd
 ```
 
-<a href="./archive/00759_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00759_000.jpg" target="_blank">
 	<img src="./lowres/00759_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1862,7 +1862,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : bdcad26d183349de8851b104a0209ea4
 ```
 
-<a href="./archive/00758_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00758_000.jpg" target="_blank">
 	<img src="./lowres/00758_000.jpg" alt="Kodak Ektapan 400 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1876,7 +1876,7 @@ Added : 2026-10-19   |  Author  : reschmidt12
 UUID  : 387fdb0fd36c486d84602c000818aae1
 ```
 
-<a href="./archive/00757_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00757_000.jpg" target="_blank">
 	<img src="./lowres/00757_000.jpg" alt="Kodak Ektapan 100 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -1891,7 +1891,7 @@ UUID  : bd23a3c47dd3424196ed3e74060fe44c
 Notes : Indonesian version
 ```
 
-<a href="./archive/00756_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00756_000.jpg" target="_blank">
 	<img src="./lowres/00756_000.jpg" alt="Fujifilm Superia X-TRA 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
@@ -1906,7 +1906,7 @@ UUID  : 8729d32099bd4fc09631edd7619170d9
 Notes : Indonesian version
 ```
 
-<a href="./archive/00755_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00755_000.jpg" target="_blank">
 	<img src="./lowres/00755_000.jpg" alt="Fujifilm Superia 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
@@ -1920,7 +1920,7 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : a761c183d01f4bfaa01dd16c9d33f856
 ```
 
-<a href="./archive/00754_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00754_000.jpg" target="_blank">
 	<img src="./lowres/00754_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -1934,7 +1934,7 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : d74d2e6f081d414d916d0d2e60231f55
 ```
 
-<a href="./archive/00753_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00753_000.jpg" target="_blank">
 	<img src="./lowres/00753_000.jpg" alt="Kodak Color Plus 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -1948,28 +1948,28 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : 8f8cecc08ffb4914a898e2e6f603639c
 ```
 
-<a href="./archive/00752_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00752_000.jpg" target="_blank">
 	<img src="./lowres/00752_000.jpg" alt="Boots Universal 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 
 `UUID: 21dff6bed6ce4ffd823c4b4ea7d85c09`↓
 
-<a href="./archive/00750_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00750_003.jpg" target="_blank">
 	<img src="./lowres/00750_003.jpg" alt="Boots 100 Colour Slide 35mm film box leaflet" loading="lazy" width="500" height="498">
 </a>
 
 
 `UUID: 1c6d71eeb6164c5a96bdc3ecdbd8bb39`↓
 
-<a href="./archive/00750_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00750_002.jpg" target="_blank">
 	<img src="./lowres/00750_002.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="251" height="500">
 </a>
 
 
 `UUID: 97c9da1bb62649759977197654f91a9c`↓
 
-<a href="./archive/00750_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00750_001.jpg" target="_blank">
 	<img src="./lowres/00750_001.jpg" alt="Boots 100 Colour Slide 35mm film box processing envelope" loading="lazy" width="500" height="231">
 </a>
 
@@ -1983,7 +1983,7 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : 07c41b8d82f64c20b6a36201e1307f02
 ```
 
-<a href="./archive/00751_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00751_000.jpg" target="_blank">
 	<img src="./lowres/00751_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="346" height="500">
 </a>
 
@@ -1997,14 +1997,14 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : 95ab0b0bc7cf4593aa6e9ccea89ec369
 ```
 
-<a href="./archive/00750_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00750_000.jpg" target="_blank">
 	<img src="./lowres/00750_000.jpg" alt="Boots 100 Colour Slide 35mm film box outside" loading="lazy" width="403" height="500">
 </a>
 
 
 `UUID: 176e7d92b931488f8e419c73a239fb34`↓
 
-<a href="./archive/00749_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00749_001.jpg" target="_blank">
 	<img src="./lowres/00749_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
@@ -2018,14 +2018,14 @@ Added : 2026-10-19   |  Author  : green eggs and sam
 UUID  : 8adfcde77a664507ba3dae30cd12971e
 ```
 
-<a href="./archive/00749_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00749_000.jpg" target="_blank">
 	<img src="./lowres/00749_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
 
 `UUID: f26355b369b9467ca51d7b7545b27689`↓
 
-<a href="./archive/00748_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00748_001.jpg" target="_blank">
 	<img src="./lowres/00748_001.jpg" alt="Candido Candido400 35mm film box inside" loading="lazy" width="409" height="499">
 </a>
 
@@ -2039,14 +2039,14 @@ Added : 2026-10-19   |  Author  : Rhiannon
 UUID  : 66cc14c380bc426295beb5328efd5f29
 ```
 
-<a href="./archive/00748_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00748_000.jpg" target="_blank">
 	<img src="./lowres/00748_000.jpg" alt="Candido Candido400 35mm film box outside" loading="lazy" width="413" height="500">
 </a>
 
 
 `UUID: 543d392100734dc598c5a2d63e2052b1`↓
 
-<a href="./archive/00747_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00747_001.jpg" target="_blank">
 	<img src="./lowres/00747_001.jpg" alt="Star Foto Colour Film for Prints 35mm film box inside" loading="lazy" width="483" height="500">
 </a>
 
@@ -2061,28 +2061,28 @@ UUID  : 57fa494ddfd641efae0ee1aaa686bdd5
 Notes : Repackaged Agfa XRG 200?
 ```
 
-<a href="./archive/00747_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00747_000.jpg" target="_blank">
 	<img src="./lowres/00747_000.jpg" alt="Star Foto Colour Film for Prints 35mm film box outside" loading="lazy" width="489" height="500">
 </a>
 
 
 `UUID: 32b3e10b44d846a187736e427a929cf1`↓
 
-<a href="./archive/00746_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00746_003.jpg" target="_blank">
 	<img src="./lowres/00746_003.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="167" height="500">
 </a>
 
 
 `UUID: fbc292c2fc4c4ae79faec8b0f7405b23`↓
 
-<a href="./archive/00746_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00746_002.jpg" target="_blank">
 	<img src="./lowres/00746_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="168" height="500">
 </a>
 
 
 `UUID: 218ea261aee74673943c0c4f73d02adc`↓
 
-<a href="./archive/00746_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00746_001.jpg" target="_blank">
 	<img src="./lowres/00746_001.jpg" alt="Kodak Ektachrome 200 35mm film box inside" loading="lazy" width="409" height="499">
 </a>
 
@@ -2096,21 +2096,21 @@ Added : 2026-10-19   |  Author  : Vince Costello
 UUID  : 1ca3e3e1505c4e9a9aa69c18401c8734
 ```
 
-<a href="./archive/00746_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00746_000.jpg" target="_blank">
 	<img src="./lowres/00746_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" width="398" height="500">
 </a>
 
 
 `UUID: 4438c1db47d040c2a96740c539dc9632`↓
 
-<a href="./archive/00745_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00745_002.jpg" target="_blank">
 	<img src="./lowres/00745_002.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
 </a>
 
 
 `UUID: 7a7eb3c8ec8943fd8b8c3b44cf8a661f`↓
 
-<a href="./archive/00745_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00745_001.jpg" target="_blank">
 	<img src="./lowres/00745_001.jpg" alt="Forte Fortepan Super Film 120 film box leaflet" loading="lazy" width="359" height="500">
 </a>
 
@@ -2124,7 +2124,7 @@ Added : 2026-10-19   |  Author  : Gergely Orsi
 UUID  : f84b6ebc37914a48be977906fed12caa
 ```
 
-<a href="./archive/00745_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00745_000.jpg" target="_blank">
 	<img src="./lowres/00745_000.jpg" alt="Forte Fortepan Super Film 120 film box outside" loading="lazy" width="500" height="361">
 </a>
 
@@ -2138,7 +2138,7 @@ Added : 2026-10-19   |  Author  : whoman560
 UUID  : fc86dc5b1cdc450fac49213a8b239dda
 ```
 
-<a href="./archive/00744_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00744_000.jpg" target="_blank">
 	<img src="./lowres/00744_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="456">
 </a>
 
@@ -2152,7 +2152,7 @@ Added : 2026-10-19   |  Author  : whoman560
 UUID  : b094bb0c254c4ac1af2c6a88ffd01e4c
 ```
 
-<a href="./archive/00743_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00743_000.jpg" target="_blank">
 	<img src="./lowres/00743_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
 </a>
 
@@ -2166,7 +2166,7 @@ Added : 2026-10-19   |  Author  : whoman560
 UUID  : ac33c75cd5b2470b8a6175c1b0d0fc0e
 ```
 
-<a href="./archive/00742_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00742_000.jpg" target="_blank">
 	<img src="./lowres/00742_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="450" height="500">
 </a>
 
@@ -2180,7 +2180,7 @@ Added : 2026-10-19   |  Author  : @shotbyliampewpew
 UUID  : 36d2b73e478e45c5887cf5e34a4e9c36
 ```
 
-<a href="./archive/00741_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00741_000.jpg" target="_blank">
 	<img src="./lowres/00741_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="406" height="500">
 </a>
 
@@ -2194,42 +2194,42 @@ Added : 2026-10-19   |  Author  : @shotbyliampewpew
 UUID  : 1c4d20e55d834b55bc2e2e75bc72519e
 ```
 
-<a href="./archive/00740_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00740_000.jpg" target="_blank">
 	<img src="./lowres/00740_000.jpg" alt="Fujifilm Fujichrome 400 D 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
 `UUID: 29e6e4090d54470b9fc63ca079c2f6f3`↓
 
-<a href="./archive/00739_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_005.jpg" target="_blank">
 	<img src="./lowres/00739_005.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
 </a>
 
 
 `UUID: 3460f60eff5d4793bd69dd3d8be66ab8`↓
 
-<a href="./archive/00739_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_004.jpg" target="_blank">
 	<img src="./lowres/00739_004.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="500" height="298">
 </a>
 
 
 `UUID: ec18aaa8718849c2bc80898859c85da2`↓
 
-<a href="./archive/00739_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_003.jpg" target="_blank">
 	<img src="./lowres/00739_003.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
 </a>
 
 
 `UUID: 8d63de9af81f46b19ab91e1184627d40`↓
 
-<a href="./archive/00739_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_002.jpg" target="_blank">
 	<img src="./lowres/00739_002.jpg" alt="Fujifilm Fujichrome 100ix APS film box processing envelope" loading="lazy" width="304" height="500">
 </a>
 
 
 `UUID: cd676c83173a4b56925208f10c1fc25a`↓
 
-<a href="./archive/00739_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_001.jpg" target="_blank">
 	<img src="./lowres/00739_001.jpg" alt="Fujifilm Fujichrome 100ix APS film box leaflet" loading="lazy" width="277" height="500">
 </a>
 
@@ -2243,7 +2243,7 @@ Added : 2026-10-19   |  Author  : Kristof Lemp
 UUID  : 2a1bac6a8b61403ca0161b7471449fb4
 ```
 
-<a href="./archive/00739_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00739_000.jpg" target="_blank">
 	<img src="./lowres/00739_000.jpg" alt="Fujifilm Fujichrome 100ix APS film box outside" loading="lazy" width="500" height="380">
 </a>
 
@@ -2257,7 +2257,7 @@ Added : 2026-10-19   |  Author  : dekuNukem
 UUID  : 1067b3c9c68648fa88e091affc68408d
 ```
 
-<a href="./archive/00738_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00738_000.jpg" target="_blank">
 	<img src="./lowres/00738_000.jpg" alt="Cyberpunk 400D Color Film AHU 35mm film box outside" loading="lazy" width="500" height="480">
 </a>
 
@@ -2272,7 +2272,7 @@ UUID  : 803089daf04e458dba0237eb9801a290
 Notes : Panda Camera respooled double x. No date on box but my order details tell me it expired 12.2025
 ```
 
-<a href="./archive/00737_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00737_000.jpg" target="_blank">
 	<img src="./lowres/00737_000.jpg" alt="PandaCamera DoubleX 35mm film box outside" loading="lazy" width="391" height="500">
 </a>
 
@@ -2286,14 +2286,14 @@ Added : 2026-10-16   |  Author  : Chrisbes
 UUID  : 4bfbc231439b4791aa9b45677108a75e
 ```
 
-<a href="./archive/00736_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00736_000.jpg" target="_blank">
 	<img src="./lowres/00736_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 
 `UUID: d8b00c2b803945af9e9110bed06a7573`↓
 
-<a href="./archive/00735_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00735_001.jpg" target="_blank">
 	<img src="./lowres/00735_001.jpg" alt="Leica Monopan 50 35mm film box inside" loading="lazy" width="422" height="499">
 </a>
 
@@ -2307,7 +2307,7 @@ Added : 2026-10-16   |  Author  : Chrisbes
 UUID  : 53065756070241dcacc237cdfaf01f4d
 ```
 
-<a href="./archive/00735_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00735_000.jpg" target="_blank">
 	<img src="./lowres/00735_000.jpg" alt="Leica Monopan 50 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
@@ -2321,14 +2321,14 @@ Added : 2026-10-16   |  Author  : dzindevis
 UUID  : e21bc155fe994d2cad8d98997dbccb59
 ```
 
-<a href="./archive/00734_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00734_000.jpg" target="_blank">
 	<img src="./lowres/00734_000.jpg" alt="Svema Foto 125 35mm film box outside" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: 9166a8b1918845928083482435b70842`↓
 
-<a href="./archive/00733_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00733_001.jpg" target="_blank">
 	<img src="./lowres/00733_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="401" height="500">
 </a>
 
@@ -2342,14 +2342,14 @@ Added : 2026-10-16   |  Author  : dzindevis
 UUID  : 0328e72eb85e412eb86c5881f49e9b08
 ```
 
-<a href="./archive/00733_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00733_000.jpg" target="_blank">
 	<img src="./lowres/00733_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 
 `UUID: 346543e0a5634f9e909c4db8175913c7`↓
 
-<a href="./archive/00732_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00732_001.jpg" target="_blank">
 	<img src="./lowres/00732_001.jpg" alt="Ilford PAN 400 35mm film box inside" loading="lazy" width="397" height="500">
 </a>
 
@@ -2363,14 +2363,14 @@ Added : 2026-10-16   |  Author  : dzindevis
 UUID  : f775496aa0c0459399fc5d061814933f
 ```
 
-<a href="./archive/00732_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00732_000.jpg" target="_blank">
 	<img src="./lowres/00732_000.jpg" alt="Ilford PAN 400 35mm film box outside" loading="lazy" width="418" height="500">
 </a>
 
 
 `UUID: 21df05f75e764fa3a7e4e66817761ce5`↓
 
-<a href="./archive/00731_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00731_001.jpg" target="_blank">
 	<img src="./lowres/00731_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" width="382" height="500">
 </a>
 
@@ -2384,14 +2384,14 @@ Added : 2026-10-16   |  Author  : dzindevis
 UUID  : 3b94013caf034b69a471a5d67cde17b9
 ```
 
-<a href="./archive/00731_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00731_000.jpg" target="_blank">
 	<img src="./lowres/00731_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
 `UUID: 78696137c1f04c3aa267c1a312cf657c`↓
 
-<a href="./archive/00730_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00730_001.jpg" target="_blank">
 	<img src="./lowres/00730_001.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box inside" loading="lazy" width="402" height="499">
 </a>
 
@@ -2405,21 +2405,21 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 6fe27ea636a847559b2d4d09e3c510a5
 ```
 
-<a href="./archive/00730_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00730_000.jpg" target="_blank">
 	<img src="./lowres/00730_000.jpg" alt="Ilford Delta 400 Professional Collector's Edition 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 
 `UUID: c232732725554a98b49c08b42af3450f`↓
 
-<a href="./archive/00729_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00729_002.jpg" target="_blank">
 	<img src="./lowres/00729_002.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="182" height="500">
 </a>
 
 
 `UUID: 841096eabb454415a6112bf51380bbcd`↓
 
-<a href="./archive/00729_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00729_001.jpg" target="_blank">
 	<img src="./lowres/00729_001.jpg" alt="Kodak Ektachrome EPT 120 film box leaflet" loading="lazy" width="177" height="499">
 </a>
 
@@ -2433,21 +2433,21 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 2a910b5064f3416391a199aff11734eb
 ```
 
-<a href="./archive/00729_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00729_000.jpg" target="_blank">
 	<img src="./lowres/00729_000.jpg" alt="Kodak Ektachrome EPT 120 film box outside" loading="lazy" width="500" height="476">
 </a>
 
 
 `UUID: 5bc2c387eb994afa9c5f809467d17937`↓
 
-<a href="./archive/00728_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00728_002.jpg" target="_blank">
 	<img src="./lowres/00728_002.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="185" height="500">
 </a>
 
 
 `UUID: ca9ed2799dde4bbea72089679678a3f1`↓
 
-<a href="./archive/00728_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00728_001.jpg" target="_blank">
 	<img src="./lowres/00728_001.jpg" alt="Kodak Ektachrome EPY 120 film box leaflet" loading="lazy" width="176" height="500">
 </a>
 
@@ -2461,14 +2461,14 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 542db6f62cdb41aebf9a834dff2b9aab
 ```
 
-<a href="./archive/00728_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00728_000.jpg" target="_blank">
 	<img src="./lowres/00728_000.jpg" alt="Kodak Ektachrome EPY 120 film box outside" loading="lazy" width="500" height="487">
 </a>
 
 
 `UUID: 756eacb51cbb46a08cb4ac750cc2f95e`↓
 
-<a href="./archive/00727_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00727_001.jpg" target="_blank">
 	<img src="./lowres/00727_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
@@ -2482,14 +2482,14 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 406bdfb2f41a4be4a27b4d9ddd98aad0
 ```
 
-<a href="./archive/00727_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00727_000.jpg" target="_blank">
 	<img src="./lowres/00727_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: 4344e52167564b799377a68bf045c234`↓
 
-<a href="./archive/00726_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00726_001.jpg" target="_blank">
 	<img src="./lowres/00726_001.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="500" height="405">
 </a>
 
@@ -2503,14 +2503,14 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 6643e9740ddb4c99aa055164b295a505
 ```
 
-<a href="./archive/00726_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00726_000.jpg" target="_blank">
 	<img src="./lowres/00726_000.jpg" alt="Ferrania Solaris FH Plus 35mm film box outside" loading="lazy" width="418" height="500">
 </a>
 
 
 `UUID: 40fdd5df79f94fb39fcd9ade2ef1cac4`↓
 
-<a href="./archive/00725_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00725_001.jpg" target="_blank">
 	<img src="./lowres/00725_001.jpg" alt="Fujifilm Nexia APS film box inside" loading="lazy" width="437" height="500">
 </a>
 
@@ -2524,14 +2524,14 @@ Added : 2026-10-16   |  Author  : Dialupdude
 UUID  : 4d4296562e50437d927094a8e17f2c29
 ```
 
-<a href="./archive/00725_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00725_000.jpg" target="_blank">
 	<img src="./lowres/00725_000.jpg" alt="Fujifilm Nexia APS film box outside" loading="lazy" width="433" height="500">
 </a>
 
 
 `UUID: f9bbb1fb19074f028460d8005465d92d`↓
 
-<a href="./archive/00724_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00724_001.jpg" target="_blank">
 	<img src="./lowres/00724_001.jpg" alt="Lomography Redscale XR Negative 35mm film box inside" loading="lazy" width="376" height="499">
 </a>
 
@@ -2545,7 +2545,7 @@ Added : 2026-09-17   |  Author  : @Hol.m35
 UUID  : 4594095faf2d4c10bb4a81f5253ce897
 ```
 
-<a href="./archive/00724_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00724_000.jpg" target="_blank">
 	<img src="./lowres/00724_000.jpg" alt="Lomography Redscale XR Negative 35mm film box outside" loading="lazy" width="343" height="500">
 </a>
 
@@ -2559,21 +2559,21 @@ Added : 2026-09-17   |  Author  : DaFujiDude
 UUID  : afe453ec6b4e476dbacceffdf0e89165
 ```
 
-<a href="./archive/00723_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00723_000.jpg" target="_blank">
 	<img src="./lowres/00723_000.jpg" alt="Agfa APX 200 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 4a805b8a79584a5ea8a47cb537f403ea`↓
 
-<a href="./archive/00722_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00722_002.jpg" target="_blank">
 	<img src="./lowres/00722_002.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="249" height="500">
 </a>
 
 
 `UUID: 416145134d20498dbd4947aaeef1ce5b`↓
 
-<a href="./archive/00722_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00722_001.jpg" target="_blank">
 	<img src="./lowres/00722_001.jpg" alt="Polaroid Viva Instant Pack Film film box inside" loading="lazy" width="320" height="500">
 </a>
 
@@ -2587,7 +2587,7 @@ Added : 2026-09-14   |  Author  : nyctomanica
 UUID  : 6d66aeca6f0a4d0ca41f675d329f271b
 ```
 
-<a href="./archive/00722_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00722_000.jpg" target="_blank">
 	<img src="./lowres/00722_000.jpg" alt="Polaroid Viva Instant Pack Film film box outside" loading="lazy" width="500" height="326">
 </a>
 
@@ -2601,14 +2601,14 @@ Added : 2026-09-14   |  Author  : dekuNukem
 UUID  : 1de78d118b71405fbc6d5129f08b2e01
 ```
 
-<a href="./archive/00721_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00721_000.jpg" target="_blank">
 	<img src="./lowres/00721_000.jpg" alt="Klick Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 
 `UUID: 89461795b7044a0e800a3a5912ded968`↓
 
-<a href="./archive/00720_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00720_001.jpg" target="_blank">
 	<img src="./lowres/00720_001.jpg" alt="Agfa APX 400 35mm film box inside" loading="lazy" width="385" height="500">
 </a>
 
@@ -2622,14 +2622,14 @@ Added : 2026-09-11   |  Author  : DaFujiDude
 UUID  : 4cda6eac0745457482882631cdbf379a
 ```
 
-<a href="./archive/00720_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00720_000.jpg" target="_blank">
 	<img src="./lowres/00720_000.jpg" alt="Agfa APX 400 35mm film box outside" loading="lazy" width="392" height="500">
 </a>
 
 
 `UUID: 7d1eb96de3bd4ec98b6ee8f0a0e8c774`↓
 
-<a href="./archive/00719_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00719_001.jpg" target="_blank">
 	<img src="./lowres/00719_001.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="500" height="446">
 </a>
 
@@ -2643,7 +2643,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : d58fc4af4f314da988547af34b1bcd53
 ```
 
-<a href="./archive/00719_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00719_000.jpg" target="_blank">
 	<img src="./lowres/00719_000.jpg" alt="Polaroid 600 Platinum Instant Integral Film film box outside" loading="lazy" width="358" height="500">
 </a>
 
@@ -2657,7 +2657,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : d0ca629041344c4f8f6d3200341f4edf
 ```
 
-<a href="./archive/00718_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00718_000.jpg" target="_blank">
 	<img src="./lowres/00718_000.jpg" alt="Mystic Color Lab Superior 35mm Color Print Film 35mm film box outside" loading="lazy" width="477" height="500">
 </a>
 
@@ -2672,14 +2672,14 @@ UUID  : 8c90c60b8e4c42aabac785f3d8effd30
 Notes : Respooled Kodak Plus-X film inside
 ```
 
-<a href="./archive/00717_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00717_000.jpg" target="_blank">
 	<img src="./lowres/00717_000.jpg" alt="Minolta 16 Black & White Fast Fine Grain Film 16mm film box outside" loading="lazy" width="500" height="397">
 </a>
 
 
 `UUID: 0c688af82cff40cb89b4f56d31c19087`↓
 
-<a href="./archive/00716_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00716_001.jpg" target="_blank">
 	<img src="./lowres/00716_001.jpg" alt="Kodak Kodachrome 35mm film box inside" loading="lazy" width="373" height="500">
 </a>
 
@@ -2693,35 +2693,35 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : ba34255d470942dea9572eaabf1007e0
 ```
 
-<a href="./archive/00716_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00716_000.jpg" target="_blank">
 	<img src="./lowres/00716_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="370" height="500">
 </a>
 
 
 `UUID: 71ea70e8b54043d38aa0111553cc3e9c`↓
 
-<a href="./archive/00715_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00715_004.jpg" target="_blank">
 	<img src="./lowres/00715_004.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
 </a>
 
 
 `UUID: 294b05778f5f41a78ffeac20fd3152d1`↓
 
-<a href="./archive/00715_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00715_003.jpg" target="_blank">
 	<img src="./lowres/00715_003.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
 </a>
 
 
 `UUID: be74feb2516148c4a276a5da135a4ff4`↓
 
-<a href="./archive/00715_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00715_002.jpg" target="_blank">
 	<img src="./lowres/00715_002.jpg" alt="Kodak Verichrome 127 film box processing envelope" loading="lazy" width="500" height="249">
 </a>
 
 
 `UUID: b784e9c6507c4b909225f0c3767166c0`↓
 
-<a href="./archive/00715_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00715_001.jpg" target="_blank">
 	<img src="./lowres/00715_001.jpg" alt="Kodak Verichrome 127 film box leaflet" loading="lazy" width="378" height="500">
 </a>
 
@@ -2735,7 +2735,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : dd47848372c7405eb8f05754480c11b9
 ```
 
-<a href="./archive/00715_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00715_000.jpg" target="_blank">
 	<img src="./lowres/00715_000.jpg" alt="Kodak Verichrome 127 film box outside" loading="lazy" width="500" height="468">
 </a>
 
@@ -2749,7 +2749,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 4f04fc9a2284495cb367f76cc7054257
 ```
 
-<a href="./archive/00714_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00714_000.jpg" target="_blank">
 	<img src="./lowres/00714_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -2763,7 +2763,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 8f3e3aab508a454fbe868b1025adb4e8
 ```
 
-<a href="./archive/00713_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00713_000.jpg" target="_blank">
 	<img src="./lowres/00713_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="420" height="500">
 </a>
 
@@ -2777,21 +2777,21 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 86c04a01042341b8a7ae95c660f4f2a2
 ```
 
-<a href="./archive/00712_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00712_000.jpg" target="_blank">
 	<img src="./lowres/00712_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="479" height="499">
 </a>
 
 
 `UUID: 87e70efe7ceb41608a89a09a355de58e`↓
 
-<a href="./archive/00711_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00711_002.jpg" target="_blank">
 	<img src="./lowres/00711_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="203" height="500">
 </a>
 
 
 `UUID: 47e00ad5d78a47e1ae51f6c80bd86c08`↓
 
-<a href="./archive/00711_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00711_001.jpg" target="_blank">
 	<img src="./lowres/00711_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box leaflet" loading="lazy" width="209" height="500">
 </a>
 
@@ -2805,7 +2805,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 65c654459db94987a653ce34ae6f76f8
 ```
 
-<a href="./archive/00711_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00711_000.jpg" target="_blank">
 	<img src="./lowres/00711_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 5071 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
@@ -2819,7 +2819,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : db6491a822bb44a183c95744cb26c326
 ```
 
-<a href="./archive/00710_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00710_000.jpg" target="_blank">
 	<img src="./lowres/00710_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="467" height="500">
 </a>
 
@@ -2833,7 +2833,7 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 3c3b84f6e9b6457b80ccc95bcf9057a5
 ```
 
-<a href="./archive/00709_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00709_000.jpg" target="_blank">
 	<img src="./lowres/00709_000.jpg" alt="GAF Color Slide Film 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
@@ -2847,14 +2847,14 @@ Added : 2026-09-07   |  Author  : benjaminbeeroll
 UUID  : 0c8b28e5afc644b2b64475da8aaf7ac0
 ```
 
-<a href="./archive/00708_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00708_000.jpg" target="_blank">
 	<img src="./lowres/00708_000.jpg" alt="Fujifilm Fujicolor Super HG II 200 35mm film box outside" loading="lazy" width="385" height="500">
 </a>
 
 
 `UUID: 708f40122825442b96dd887a89c90e35`↓
 
-<a href="./archive/00707_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00707_001.jpg" target="_blank">
 	<img src="./lowres/00707_001.jpg" alt="Konica Minolta Centuria Super 35mm film box inside" loading="lazy" width="407" height="499">
 </a>
 
@@ -2868,7 +2868,7 @@ Added : 2026-09-07   |  Author  : Kraksen
 UUID  : 23707163dc014de2947bf1669c2195f0
 ```
 
-<a href="./archive/00707_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00707_000.jpg" target="_blank">
 	<img src="./lowres/00707_000.jpg" alt="Konica Minolta Centuria Super 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
@@ -2882,7 +2882,7 @@ Added : 2026-09-07   |  Author  : Kraksen
 UUID  : 0f36fe976d604dea826c31a5f534d9c4
 ```
 
-<a href="./archive/00706_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00706_000.jpg" target="_blank">
 	<img src="./lowres/00706_000.jpg" alt="MarixFilm Aircolor 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
@@ -2896,14 +2896,14 @@ Added : 2026-09-07   |  Author  : Kraksen
 UUID  : 354788b12a2a4555a7c1717abfd5c51e
 ```
 
-<a href="./archive/00705_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00705_000.jpg" target="_blank">
 	<img src="./lowres/00705_000.jpg" alt="Stavanger Foto Frontier 35mm film box outside" loading="lazy" width="413" height="500">
 </a>
 
 
 `UUID: fb51d773895c4f18a3d354ca130f50c8`↓
 
-<a href="./archive/00704_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00704_001.jpg" target="_blank">
 	<img src="./lowres/00704_001.jpg" alt="Lucky C400 35mm film box inside" loading="lazy" width="464" height="500">
 </a>
 
@@ -2917,14 +2917,14 @@ Added : 2026-09-02   |  Author  : @Hol.m35
 UUID  : 64c1b1b53d274a4cbe3b3d41d9c7a02c
 ```
 
-<a href="./archive/00704_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00704_000.jpg" target="_blank">
 	<img src="./lowres/00704_000.jpg" alt="Lucky C400 35mm film box outside" loading="lazy" width="444" height="499">
 </a>
 
 
 `UUID: 8882c643007f427fad8d9033cefd64d0`↓
 
-<a href="./archive/00703_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00703_001.jpg" target="_blank">
 	<img src="./lowres/00703_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
@@ -2938,14 +2938,14 @@ Added : 2026-08-21   |  Author  : nyctomanica
 UUID  : 79d06b422e074d53a6d37add1a0a951e
 ```
 
-<a href="./archive/00703_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00703_000.jpg" target="_blank">
 	<img src="./lowres/00703_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
 `UUID: 07b09cec6d9948a2b546a3d122001e62`↓
 
-<a href="./archive/00702_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00702_001.jpg" target="_blank">
 	<img src="./lowres/00702_001.jpg" alt="Candido Color Negative Film 800 35mm film box inside" loading="lazy" width="456" height="500">
 </a>
 
@@ -2959,7 +2959,7 @@ Added : 2026-08-21   |  Author  : @Hol.m35
 UUID  : c4f0677d117446678179ccfafb84c39e
 ```
 
-<a href="./archive/00702_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00702_000.jpg" target="_blank">
 	<img src="./lowres/00702_000.jpg" alt="Candido Color Negative Film 800 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
@@ -2973,14 +2973,14 @@ Added : 2026-08-21   |  Author  : Rafa Laguillo
 UUID  : 8d1ad6f1ec4d42c3b5b35ffa6718a250
 ```
 
-<a href="./archive/00701_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00701_000.jpg" target="_blank">
 	<img src="./lowres/00701_000.jpg" alt="Kodak Plus-X 616 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 
 `UUID: 8d4781efd91f44d3a51f6bf402f1fdf8`↓
 
-<a href="./archive/00700_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00700_001.jpg" target="_blank">
 	<img src="./lowres/00700_001.jpg" alt="Werlisa Werlisa Sport 100 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
@@ -2994,14 +2994,14 @@ Added : 2026-08-21   |  Author  : Rafa Laguillo
 UUID  : 738ee5f957e543ee8baa4824dcacd7fe
 ```
 
-<a href="./archive/00700_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00700_000.jpg" target="_blank">
 	<img src="./lowres/00700_000.jpg" alt="Werlisa Werlisa Sport 100 35mm film box outside" loading="lazy" width="407" height="499">
 </a>
 
 
 `UUID: c8f70224514b43a599f262caebbdfc02`↓
 
-<a href="./archive/00699_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00699_001.jpg" target="_blank">
 	<img src="./lowres/00699_001.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box inside" loading="lazy" width="386" height="500">
 </a>
 
@@ -3015,7 +3015,7 @@ Added : 2026-08-19   |  Author  : @pommegranny
 UUID  : ec5187c506fe4e84bc10fa21d39467b2
 ```
 
-<a href="./archive/00699_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00699_000.jpg" target="_blank">
 	<img src="./lowres/00699_000.jpg" alt="Hansa Hansacolor 100 Super Plus 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
@@ -3029,14 +3029,14 @@ Added : 2026-08-16   |  Author  : Constantino
 UUID  : c01fbe88bcfc41aa89cf002ce11b9c23
 ```
 
-<a href="./archive/00698_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00698_000.jpg" target="_blank">
 	<img src="./lowres/00698_000.jpg" alt="Ogapan Panchromatic 35mm film box outside" loading="lazy" width="500" height="463">
 </a>
 
 
 `UUID: fbdf25a3d97b4a0992a1d662621afd14`↓
 
-<a href="./archive/00697_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00697_001.jpg" target="_blank">
 	<img src="./lowres/00697_001.jpg" alt="Kodak Portra 160NC 35mm film box inside" loading="lazy" width="352" height="500">
 </a>
 
@@ -3050,14 +3050,14 @@ Added : 2026-08-15   |  Author  : @flyingcamerastudio
 UUID  : 9eb720d7de6e45bc97014b3e0717e513
 ```
 
-<a href="./archive/00697_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00697_000.jpg" target="_blank">
 	<img src="./lowres/00697_000.jpg" alt="Kodak Portra 160NC 35mm film box outside" loading="lazy" width="500" height="353">
 </a>
 
 
 `UUID: bbf1d55f2f804c9fa609ea93f20db17e`↓
 
-<a href="./archive/00696_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00696_001.jpg" target="_blank">
 	<img src="./lowres/00696_001.jpg" alt="Agfa Agfapan APX 25 120 film box inside" loading="lazy" width="500" height="494">
 </a>
 
@@ -3071,7 +3071,7 @@ Added : 2026-08-15   |  Author  : Warren Umbach
 UUID  : 3f10b7f948b641459292c754ec265a92
 ```
 
-<a href="./archive/00696_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00696_000.jpg" target="_blank">
 	<img src="./lowres/00696_000.jpg" alt="Agfa Agfapan APX 25 120 film box outside" loading="lazy" width="500" height="460">
 </a>
 
@@ -3085,7 +3085,7 @@ Added : 2026-08-15   |  Author  : @titanic_159
 UUID  : 0d327a604980442d8f0a4fd9b4b92254
 ```
 
-<a href="./archive/00695_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00695_000.jpg" target="_blank">
 	<img src="./lowres/00695_000.jpg" alt="Kodak Ektapan P3200 35mm film box outside" loading="lazy" width="461" height="499">
 </a>
 
@@ -3099,7 +3099,7 @@ Added : 2026-08-13   |  Author  : Rafa Laguillo
 UUID  : a6d5604fc4404666acf42801bbc8145b
 ```
 
-<a href="./archive/00694_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00694_000.jpg" target="_blank">
 	<img src="./lowres/00694_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="346" height="500">
 </a>
 
@@ -3113,7 +3113,7 @@ Added : 2026-08-13   |  Author  : Rafa Laguillo
 UUID  : 69f7043994f94dffb90d512ed5bc2c8a
 ```
 
-<a href="./archive/00693_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00693_000.jpg" target="_blank">
 	<img src="./lowres/00693_000.jpg" alt="Agfa Plaques Chromo Isolar Unknown film box outside" loading="lazy" width="500" height="386">
 </a>
 
@@ -3127,14 +3127,14 @@ Added : 2026-08-13   |  Author  : Rafa Laguillo
 UUID  : bb45ef5b684b4606b02cc7f9fb16a44b
 ```
 
-<a href="./archive/00692_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00692_000.jpg" target="_blank">
 	<img src="./lowres/00692_000.jpg" alt="Lumière Union Photographique Industrielle Plaques au Gélatino-Bromure d'Argent Extra Rapides 9x12cm film box outside" loading="lazy" width="338" height="500">
 </a>
 
 
 `UUID: 6c08ae5e1ce54c0a8387e3d4d2fb1c01`↓
 
-<a href="./archive/00691_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00691_001.jpg" target="_blank">
 	<img src="./lowres/00691_001.jpg" alt="Konica SXG 100 35mm film box inside" loading="lazy" width="402" height="499">
 </a>
 
@@ -3148,21 +3148,21 @@ Added : 2026-08-13   |  Author  : @janjuudas
 UUID  : 20062d10b38a496d855defd42ce44096
 ```
 
-<a href="./archive/00691_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00691_000.jpg" target="_blank">
 	<img src="./lowres/00691_000.jpg" alt="Konica SXG 100 35mm film box outside" loading="lazy" width="398" height="500">
 </a>
 
 
 `UUID: 52de88685d124b9f92ce453036122f49`↓
 
-<a href="./archive/00690_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00690_002.jpg" target="_blank">
 	<img src="./lowres/00690_002.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="340" height="500">
 </a>
 
 
 `UUID: fce0cfdd0da64de8bb959da8b873361f`↓
 
-<a href="./archive/00690_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00690_001.jpg" target="_blank">
 	<img src="./lowres/00690_001.jpg" alt="Lucky LuckyColor BR100 35mm film box leaflet" loading="lazy" width="337" height="500">
 </a>
 
@@ -3176,7 +3176,7 @@ Added : 2026-08-13   |  Author  : @janjuudas
 UUID  : cd7927f99b904e108562dd8d7cb7a71c
 ```
 
-<a href="./archive/00690_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00690_000.jpg" target="_blank">
 	<img src="./lowres/00690_000.jpg" alt="Lucky LuckyColor BR100 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -3190,7 +3190,7 @@ Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : bba34206627f485b9a3119d4c2dd312c
 ```
 
-<a href="./archive/00689_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00689_000.jpg" target="_blank">
 	<img src="./lowres/00689_000.jpg" alt="Optik Oldschool OptiMono 100 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
@@ -3204,7 +3204,7 @@ Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : 913f40168de04c539a616da939a0f0f7
 ```
 
-<a href="./archive/00688_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00688_000.jpg" target="_blank">
 	<img src="./lowres/00688_000.jpg" alt="Fujifilm Instax Mini Contact Sheet Instant Integral Film film box outside" loading="lazy" width="500" height="421">
 </a>
 
@@ -3218,7 +3218,7 @@ Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : a871a78d1ad6479e8c1ed51f2e4b7ae7
 ```
 
-<a href="./archive/00687_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00687_000.jpg" target="_blank">
 	<img src="./lowres/00687_000.jpg" alt="Fujifilm Instax Mini Macaron Instant Integral Film film box outside" loading="lazy" width="500" height="403">
 </a>
 
@@ -3232,7 +3232,7 @@ Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : a63f7025a5284603ad7a1c071311c9b1
 ```
 
-<a href="./archive/00686_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00686_000.jpg" target="_blank">
 	<img src="./lowres/00686_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="373">
 </a>
 
@@ -3246,28 +3246,28 @@ Added : 2026-08-04   |  Author  : @Hol.m35
 UUID  : 2ec124d60b12488db346643ed8d17f5f
 ```
 
-<a href="./archive/00685_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00685_000.jpg" target="_blank">
 	<img src="./lowres/00685_000.jpg" alt="Lomography Color Negative 120 Film 400 120 film box outside" loading="lazy" width="500" height="311">
 </a>
 
 
 `UUID: a8d722a9a637412caf68e01c018e7320`↓
 
-<a href="./archive/00608_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00608_002.jpg" target="_blank">
 	<img src="./lowres/00608_002.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
 </a>
 
 
 `UUID: 1c1866395d4f4e15b072c977ca0bcb64`↓
 
-<a href="./archive/00608_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00608_001.jpg" target="_blank">
 	<img src="./lowres/00608_001.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box leaflet" loading="lazy" width="143" height="500">
 </a>
 
 
 `UUID: 2e98ef6cbf384bf88e7522000db35e07`↓
 
-<a href="./archive/00684_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00684_001.jpg" target="_blank">
 	<img src="./lowres/00684_001.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="235" height="499">
 </a>
 
@@ -3281,14 +3281,14 @@ Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : e7e2198738634eaa91f172f160e679a3
 ```
 
-<a href="./archive/00684_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00684_000.jpg" target="_blank">
 	<img src="./lowres/00684_000.jpg" alt="Polaroid Originals Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="236" height="500">
 </a>
 
 
 `UUID: 42a65f5e6e67475e85a143297ab4302f`↓
 
-<a href="./archive/00683_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00683_001.jpg" target="_blank">
 	<img src="./lowres/00683_001.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
 </a>
 
@@ -3302,14 +3302,14 @@ Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : 9edcedcc654b4e04bb4f2b65079597cb
 ```
 
-<a href="./archive/00683_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00683_000.jpg" target="_blank">
 	<img src="./lowres/00683_000.jpg" alt="Polaroid Originals Color 600 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
 </a>
 
 
 `UUID: 513a6fd17a134eeaa5399093d0f6f641`↓
 
-<a href="./archive/00682_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00682_001.jpg" target="_blank">
 	<img src="./lowres/00682_001.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="245" height="500">
 </a>
 
@@ -3323,7 +3323,7 @@ Added : 2026-08-04   |  Author  : nyctomanica
 UUID  : 9fd8da93b07c484baea216014e0e7238
 ```
 
-<a href="./archive/00682_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00682_000.jpg" target="_blank">
 	<img src="./lowres/00682_000.jpg" alt="Polaroid Originals Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="245" height="500">
 </a>
 
@@ -3337,7 +3337,7 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : 81711b26bd3a44d7a5d7eb98207f5a0f
 ```
 
-<a href="./archive/00681_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00681_000.jpg" target="_blank">
 	<img src="./lowres/00681_000.jpg" alt="Kodak Imagelink HQ Microfilm 35mm film box outside" loading="lazy" width="500" height="491">
 </a>
 
@@ -3351,7 +3351,7 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : 6052675492004641b862ed8f7c99d52e
 ```
 
-<a href="./archive/00680_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00680_000.jpg" target="_blank">
 	<img src="./lowres/00680_000.jpg" alt="Kodak Portra 160 NC 70mm film box outside" loading="lazy" width="500" height="427">
 </a>
 
@@ -3365,7 +3365,7 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : d1ac939ca9074be8a403c2a5cc1570d7
 ```
 
-<a href="./archive/00679_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00679_000.jpg" target="_blank">
 	<img src="./lowres/00679_000.jpg" alt="Kodak RS Pan 70mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
@@ -3379,7 +3379,7 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : ea5df46bb39745879d81fd9c6eeb20de
 ```
 
-<a href="./archive/00678_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00678_000.jpg" target="_blank">
 	<img src="./lowres/00678_000.jpg" alt="Kodak Technical Pan Film 2415 70mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
@@ -3393,7 +3393,7 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : dd83cce80c7f4a3888777d7446d59a4c
 ```
 
-<a href="./archive/00677_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00677_000.jpg" target="_blank">
 	<img src="./lowres/00677_000.jpg" alt="Kodak Plus-X Pan 70mm film box outside" loading="lazy" width="500" height="429">
 </a>
 
@@ -3407,21 +3407,21 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : 9a2383f804754840938f77217718840c
 ```
 
-<a href="./archive/00676_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00676_000.jpg" target="_blank">
 	<img src="./lowres/00676_000.jpg" alt="Kodak Infrared Aerographic Film 2424 70mm film box outside" loading="lazy" width="500" height="428">
 </a>
 
 
 `UUID: eb607dad18f842249d1c5fe6da85b5a8`↓
 
-<a href="./archive/00675_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00675_002.jpg" target="_blank">
 	<img src="./lowres/00675_002.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="465" height="500">
 </a>
 
 
 `UUID: b1d13110d50c40d1ab22d5850144e5e2`↓
 
-<a href="./archive/00675_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00675_001.jpg" target="_blank">
 	<img src="./lowres/00675_001.jpg" alt="Kodak RAR Film 2479 70mm film box leaflet" loading="lazy" width="470" height="500">
 </a>
 
@@ -3435,14 +3435,14 @@ Added : 2026-08-04   |  Author  : MCB18
 UUID  : e09ac20993b946ad8fc2c588f84263e7
 ```
 
-<a href="./archive/00675_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00675_000.jpg" target="_blank">
 	<img src="./lowres/00675_000.jpg" alt="Kodak RAR Film 2479 70mm film box outside" loading="lazy" width="500" height="420">
 </a>
 
 
 `UUID: dfd07954551f4d55bc38b73c137755bf`↓
 
-<a href="./archive/00674_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00674_001.jpg" target="_blank">
 	<img src="./lowres/00674_001.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box leaflet" loading="lazy" width="208" height="500">
 </a>
 
@@ -3456,14 +3456,14 @@ Added : 2026-08-04   |  Author  : Rafa Laguillo
 UUID  : 96dd905b730e446fbe34b5daef15ac3c
 ```
 
-<a href="./archive/00674_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00674_000.jpg" target="_blank">
 	<img src="./lowres/00674_000.jpg" alt="Kodak No3 Special Kodak Autographic Film 118 film box outside" loading="lazy" width="500" height="378">
 </a>
 
 
 `UUID: 6ec554be94e845f2b64e3fdc27833293`↓
 
-<a href="./archive/00673_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00673_001.jpg" target="_blank">
 	<img src="./lowres/00673_001.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
@@ -3477,7 +3477,7 @@ Added : 2026-08-04   |  Author  : Luci 101
 UUID  : 0bd454e6225a4c5799d36e51135208f0
 ```
 
-<a href="./archive/00673_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00673_000.jpg" target="_blank">
 	<img src="./lowres/00673_000.jpg" alt="ORWO OWRO Color PC7 35mm film box outside" loading="lazy" width="477" height="499">
 </a>
 
@@ -3491,7 +3491,7 @@ Added : 2026-08-04   |  Author  : Chrisbes
 UUID  : bdd39fdcda30420cb3b0cfb12bbf56a5
 ```
 
-<a href="./archive/00672_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00672_000.jpg" target="_blank">
 	<img src="./lowres/00672_000.jpg" alt="Reflx Lab Fortuna 110 film box outside" loading="lazy" width="500" height="390">
 </a>
 
@@ -3505,7 +3505,7 @@ Added : 2026-08-04   |  Author  : Chrisbes
 UUID  : a7c0fcc9a1eb4a2a970df6cb14e2d847
 ```
 
-<a href="./archive/00671_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00671_000.jpg" target="_blank">
 	<img src="./lowres/00671_000.jpg" alt="Reflx Lab 200T 120 film box outside" loading="lazy" width="249" height="500">
 </a>
 
@@ -3519,7 +3519,7 @@ Added : 2026-08-04   |  Author  : Chrisbes
 UUID  : 862c394687c644068ae4721a7c93ec77
 ```
 
-<a href="./archive/00670_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00670_000.jpg" target="_blank">
 	<img src="./lowres/00670_000.jpg" alt="Lomography Lomochrome Metropolis 110 film box outside" loading="lazy" width="364" height="500">
 </a>
 
@@ -3533,21 +3533,21 @@ Added : 2026-08-04   |  Author  : Joo
 UUID  : e1bcabfe74584823ac1e3c593244a972
 ```
 
-<a href="./archive/00669_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00669_000.jpg" target="_blank">
 	<img src="./lowres/00669_000.jpg" alt="Ogapan Panchromatic 120 film box outside" loading="lazy" width="500" height="369">
 </a>
 
 
 `UUID: d79a0d36a13c4a01aa9d42a99784d9a1`↓
 
-<a href="./archive/00668_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00668_002.jpg" target="_blank">
 	<img src="./lowres/00668_002.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="500" height="175">
 </a>
 
 
 `UUID: 8944f67aa29643259d4be53ad960d2d7`↓
 
-<a href="./archive/00668_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00668_001.jpg" target="_blank">
 	<img src="./lowres/00668_001.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="345" height="500">
 </a>
 
@@ -3561,7 +3561,7 @@ Added : 2026-07-21   |  Author  : Dialupdude
 UUID  : 2711bf31703f431eb53fe9b536ea31aa
 ```
 
-<a href="./archive/00668_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00668_000.jpg" target="_blank">
 	<img src="./lowres/00668_000.jpg" alt="1Shot Fun Shooter Flash Disposable Camera film box outside" loading="lazy" width="329" height="500">
 </a>
 
@@ -3575,14 +3575,14 @@ Added : 2026-07-21   |  Author  : waldoboro
 UUID  : 1b8269534ca14fac97e07722d3c8aa72
 ```
 
-<a href="./archive/00667_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00667_000.jpg" target="_blank">
 	<img src="./lowres/00667_000.jpg" alt="Kodak Ektacolor Pro 400 35mm film box outside" loading="lazy" width="409" height="500">
 </a>
 
 
 `UUID: d8b9395871644903b4e7251339cca0c8`↓
 
-<a href="./archive/00666_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00666_001.jpg" target="_blank">
 	<img src="./lowres/00666_001.jpg" alt="Konica Konica Color SR-G 160 120 film box inside" loading="lazy" width="500" height="471">
 </a>
 
@@ -3596,7 +3596,7 @@ Added : 2026-07-16   |  Author  : Chrisbes
 UUID  : 5f88d84525c440fc8879978b1b2864c5
 ```
 
-<a href="./archive/00666_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00666_000.jpg" target="_blank">
 	<img src="./lowres/00666_000.jpg" alt="Konica Konica Color SR-G 160 120 film box outside" loading="lazy" width="500" height="431">
 </a>
 
@@ -3610,14 +3610,14 @@ Added : 2026-07-16   |  Author  : @gregrouxphotography
 UUID  : 86c7f4981b304bd18ebeeb7c43836286
 ```
 
-<a href="./archive/00665_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00665_000.jpg" target="_blank">
 	<img src="./lowres/00665_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="337" height="500">
 </a>
 
 
 `UUID: 40b52c82185045d3ab35b798f0e7d875`↓
 
-<a href="./archive/00664_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00664_001.jpg" target="_blank">
 	<img src="./lowres/00664_001.jpg" alt="Kodak Gold Plus 35mm film box inside" loading="lazy" width="277" height="500">
 </a>
 
@@ -3631,7 +3631,7 @@ Added : 2026-07-16   |  Author  : @gregrouxphotography
 UUID  : 3bba5e916d5d4460a7c644296d22114f
 ```
 
-<a href="./archive/00664_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00664_000.jpg" target="_blank">
 	<img src="./lowres/00664_000.jpg" alt="Kodak Gold Plus 35mm film box outside" loading="lazy" width="284" height="500">
 </a>
 
@@ -3645,7 +3645,7 @@ Added : 2026-07-13   |  Author  : Chrisbes
 UUID  : 5c7c873716ad4ae3abe59d1532e34be2
 ```
 
-<a href="./archive/00663_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00663_000.jpg" target="_blank">
 	<img src="./lowres/00663_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="404" height="500">
 </a>
 
@@ -3659,7 +3659,7 @@ Added : 2026-07-13   |  Author  : Chrisbes
 UUID  : bd9d52c15a7b4d49b87ce856282cf4af
 ```
 
-<a href="./archive/00662_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00662_000.jpg" target="_blank">
 	<img src="./lowres/00662_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="370" height="500">
 </a>
 
@@ -3673,21 +3673,21 @@ Added : 2026-07-13   |  Author  : Chrisbes
 UUID  : 03e5b3b597e74b01b87a2d0f16623617
 ```
 
-<a href="./archive/00661_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00661_000.jpg" target="_blank">
 	<img src="./lowres/00661_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 95f0416b8f6d40cfb3a8e15892c5f2ae`↓
 
-<a href="./archive/00587_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00587_001.jpg" target="_blank">
 	<img src="./lowres/00587_001.jpg" alt="Kodak Kodachrome 64 220 film box processing envelope" loading="lazy" width="500" height="401">
 </a>
 
 
 `UUID: 2e5f63ccf4454fad8c3deadb0c7ff0a6`↓
 
-<a href="./archive/00660_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00660_001.jpg" target="_blank">
 	<img src="./lowres/00660_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="154">
 </a>
 
@@ -3701,7 +3701,7 @@ Added : 2026-07-13   |  Author  : nyctomanica
 UUID  : e879c9f5665f4692a40ab8d839412e70
 ```
 
-<a href="./archive/00660_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00660_000.jpg" target="_blank">
 	<img src="./lowres/00660_000.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="225">
 </a>
 
@@ -3715,42 +3715,42 @@ Added : 2026-07-13   |  Author  : nyctomanica
 UUID  : 9735f17239144e8a9ed11a5a0bac5c1e
 ```
 
-<a href="./archive/00659_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00659_000.jpg" target="_blank">
 	<img src="./lowres/00659_000.jpg" alt="Fujifilm Provia 100F 120 film box outside" loading="lazy" width="500" height="243">
 </a>
 
 
 `UUID: 9790f346b50243b6b83c3e7f2773b441`↓
 
-<a href="./archive/00658_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_005.jpg" target="_blank">
 	<img src="./lowres/00658_005.jpg" alt="ORWO DK5 16mm film box processing envelope" loading="lazy" width="500" height="484">
 </a>
 
 
 `UUID: 2015c96803d743838ac7ad1354443309`↓
 
-<a href="./archive/00658_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_004.jpg" target="_blank">
 	<img src="./lowres/00658_004.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="151">
 </a>
 
 
 `UUID: 4cfed229ab4b4d82b3a97fadcaed5a9f`↓
 
-<a href="./archive/00658_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_003.jpg" target="_blank">
 	<img src="./lowres/00658_003.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="130">
 </a>
 
 
 `UUID: 33ab1f5ae3984ff3b0a1593e23f4ac06`↓
 
-<a href="./archive/00658_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_002.jpg" target="_blank">
 	<img src="./lowres/00658_002.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
 </a>
 
 
 `UUID: 1c986802fc464163804128400195738e`↓
 
-<a href="./archive/00658_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_001.jpg" target="_blank">
 	<img src="./lowres/00658_001.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
@@ -3764,7 +3764,7 @@ Added : 2026-07-13   |  Author  : Luci 101
 UUID  : 26d4fcf00a04483f8dc3d0875d3ba2dd
 ```
 
-<a href="./archive/00658_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00658_000.jpg" target="_blank">
 	<img src="./lowres/00658_000.jpg" alt="ORWO DK5 16mm film box outside" loading="lazy" width="500" height="138">
 </a>
 
@@ -3778,7 +3778,7 @@ Added : 2026-06-26   |  Author  : Pelicram
 UUID  : aff79fa9e25b4654826ed6443d266a4f
 ```
 
-<a href="./archive/00657_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00657_000.jpg" target="_blank">
 	<img src="./lowres/00657_000.jpg" alt="Cinemot Lisboa 1999 35mm film box outside" loading="lazy" width="500" height="437">
 </a>
 
@@ -3792,28 +3792,28 @@ Added : 2026-06-26   |  Author  : Pelicram
 UUID  : a2fd70d8c82d42aa8db0f45ced94081a
 ```
 
-<a href="./archive/00656_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00656_000.jpg" target="_blank">
 	<img src="./lowres/00656_000.jpg" alt="Fujifilm Fujicolor QuickSnap Jeans Disposable Camera film box outside" loading="lazy" width="500" height="491">
 </a>
 
 
 `UUID: e0fc0873b5984d59871410b4488f10b8`↓
 
-<a href="./archive/00655_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00655_003.jpg" target="_blank">
 	<img src="./lowres/00655_003.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="351" height="500">
 </a>
 
 
 `UUID: 249b3fd912e34d758f9548dc619e297f`↓
 
-<a href="./archive/00655_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00655_002.jpg" target="_blank">
 	<img src="./lowres/00655_002.jpg" alt="Kodak Gold III 35mm film box leaflet" loading="lazy" width="350" height="500">
 </a>
 
 
 `UUID: b13207a08b84442e941d7f514281bf7b`↓
 
-<a href="./archive/00655_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00655_001.jpg" target="_blank">
 	<img src="./lowres/00655_001.jpg" alt="Kodak Gold III 35mm film box inside" loading="lazy" width="332" height="500">
 </a>
 
@@ -3827,14 +3827,14 @@ Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : f7c1098f0fe74126bf9cef9c261bcd39
 ```
 
-<a href="./archive/00655_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00655_000.jpg" target="_blank">
 	<img src="./lowres/00655_000.jpg" alt="Kodak Gold III 35mm film box outside" loading="lazy" width="319" height="500">
 </a>
 
 
 `UUID: 6c0182aec6d945dd83da3c1714d68856`↓
 
-<a href="./archive/00654_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00654_001.jpg" target="_blank">
 	<img src="./lowres/00654_001.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
@@ -3848,7 +3848,7 @@ Added : 2026-06-25   |  Author  : @Hol.m35
 UUID  : 13977400bfd24db0bde214b6c6a342fc
 ```
 
-<a href="./archive/00654_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00654_000.jpg" target="_blank">
 	<img src="./lowres/00654_000.jpg" alt="Lomography Color Negative 120 Film 100 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
@@ -3862,14 +3862,14 @@ Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : 89552dfaf57742d8b1aed15a511832e1
 ```
 
-<a href="./archive/00653_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00653_000.jpg" target="_blank">
 	<img src="./lowres/00653_000.jpg" alt="Mira Films 800 Color Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: 4c99e38ae90f43e8baa4e0cd9b0a313b`↓
 
-<a href="./archive/00652_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00652_001.jpg" target="_blank">
 	<img src="./lowres/00652_001.jpg" alt="Konica VX 100 Super 35mm film box inside" loading="lazy" width="250" height="500">
 </a>
 
@@ -3883,7 +3883,7 @@ Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : 39efe40e04c44643850d8442b4c490b4
 ```
 
-<a href="./archive/00652_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00652_000.jpg" target="_blank">
 	<img src="./lowres/00652_000.jpg" alt="Konica VX 100 Super 35mm film box outside" loading="lazy" width="253" height="500">
 </a>
 
@@ -3897,7 +3897,7 @@ Added : 2026-06-25   |  Author  : Dialupdude
 UUID  : fbe4ce2683e744b1b2ffae6b1c767f19
 ```
 
-<a href="./archive/00651_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00651_000.jpg" target="_blank">
 	<img src="./lowres/00651_000.jpg" alt="Fujifilm 400 Speed Film 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
@@ -3911,7 +3911,7 @@ Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 1d9c43a04f37409ab0699ff47af92a3e
 ```
 
-<a href="./archive/00650_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00650_000.jpg" target="_blank">
 	<img src="./lowres/00650_000.jpg" alt="Kodak Kodachrome 40 Super 8 film box outside" loading="lazy" width="500" height="500">
 </a>
 
@@ -3925,14 +3925,14 @@ Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 31931d00c51447a8a625da94ce34795c
 ```
 
-<a href="./archive/00649_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00649_000.jpg" target="_blank">
 	<img src="./lowres/00649_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="417" height="500">
 </a>
 
 
 `UUID: 3325f0ecfe9547a784fe0995fa87786d`↓
 
-<a href="./archive/00648_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00648_001.jpg" target="_blank">
 	<img src="./lowres/00648_001.jpg" alt="Fujifilm Nexia A200 APS film box inside" loading="lazy" width="391" height="500">
 </a>
 
@@ -3946,21 +3946,21 @@ Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 711fdcd259474949990498f964f443c0
 ```
 
-<a href="./archive/00648_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00648_000.jpg" target="_blank">
 	<img src="./lowres/00648_000.jpg" alt="Fujifilm Nexia A200 APS film box outside" loading="lazy" width="500" height="391">
 </a>
 
 
 `UUID: 115a438eac9b45be97a18b95330a1376`↓
 
-<a href="./archive/00647_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00647_002.jpg" target="_blank">
 	<img src="./lowres/00647_002.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
 
 `UUID: bbfaaca0d3814a6eab600f2808631887`↓
 
-<a href="./archive/00647_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00647_001.jpg" target="_blank">
 	<img src="./lowres/00647_001.jpg" alt="Kodak Tri-X 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
@@ -3974,14 +3974,14 @@ Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : 4064ecb41a56469a8c8aebb32e7dd9af
 ```
 
-<a href="./archive/00647_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00647_000.jpg" target="_blank">
 	<img src="./lowres/00647_000.jpg" alt="Kodak Tri-X 35mm film box outside" loading="lazy" width="423" height="500">
 </a>
 
 
 `UUID: 2cf26c089ea24fea95775f5be9229114`↓
 
-<a href="./archive/00646_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00646_001.jpg" target="_blank">
 	<img src="./lowres/00646_001.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="189">
 </a>
 
@@ -3995,42 +3995,42 @@ Added : 2026-06-24   |  Author  : Dialupdude
 UUID  : f2fbd963d7e0416398b986f9fe3e17e6
 ```
 
-<a href="./archive/00646_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00646_000.jpg" target="_blank">
 	<img src="./lowres/00646_000.jpg" alt="Fujifilm Simple Ace Disposable Camera film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 40a58b7e988545bf92632d63444d5882`↓
 
-<a href="./archive/00645_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_005.jpg" target="_blank">
 	<img src="./lowres/00645_005.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
 </a>
 
 
 `UUID: cd691432ee7647dc957113b53761fc22`↓
 
-<a href="./archive/00645_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_004.jpg" target="_blank">
 	<img src="./lowres/00645_004.jpg" alt="ORWO UP 27 DS 8 8mm film box leaflet" loading="lazy" width="187" height="500">
 </a>
 
 
 `UUID: 7159606d395544acaf3c2165bff483bb`↓
 
-<a href="./archive/00645_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_003.jpg" target="_blank">
 	<img src="./lowres/00645_003.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 12b9144a733040cd98b4bc777edb8ada`↓
 
-<a href="./archive/00645_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_002.jpg" target="_blank">
 	<img src="./lowres/00645_002.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="221">
 </a>
 
 
 `UUID: 83c559fc31a54302abdca7e453c2c199`↓
 
-<a href="./archive/00645_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_001.jpg" target="_blank">
 	<img src="./lowres/00645_001.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="500" height="215">
 </a>
 
@@ -4044,56 +4044,56 @@ Added : 2026-06-24   |  Author  : Luci 101
 UUID  : b009e5b8edc4410da0efdcc563624d5a
 ```
 
-<a href="./archive/00645_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00645_000.jpg" target="_blank">
 	<img src="./lowres/00645_000.jpg" alt="ORWO UP 27 DS 8 8mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: 48fccd412b844d60b070182826cdaeb8`↓
 
-<a href="./archive/00644_007.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_007.jpg" target="_blank">
 	<img src="./lowres/00644_007.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
 </a>
 
 
 `UUID: 5a476f294a8248f4b9b7b30c8eea9de9`↓
 
-<a href="./archive/00644_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_006.jpg" target="_blank">
 	<img src="./lowres/00644_006.jpg" alt="ORWO UK 17 8mm film box leaflet" loading="lazy" width="192" height="500">
 </a>
 
 
 `UUID: f6f02f751669490c950960c0320f9166`↓
 
-<a href="./archive/00644_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_005.jpg" target="_blank">
 	<img src="./lowres/00644_005.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
 </a>
 
 
 `UUID: f013eceab9d04aadaf18c831d872c365`↓
 
-<a href="./archive/00644_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_004.jpg" target="_blank">
 	<img src="./lowres/00644_004.jpg" alt="ORWO UK 17 8mm film box processing envelope" loading="lazy" width="500" height="203">
 </a>
 
 
 `UUID: d2e91c708e4b4238a14592852d6efddf`↓
 
-<a href="./archive/00644_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_003.jpg" target="_blank">
 	<img src="./lowres/00644_003.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="221">
 </a>
 
 
 `UUID: 6b199b64e4254322be23a8f8fa6c0431`↓
 
-<a href="./archive/00644_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_002.jpg" target="_blank">
 	<img src="./lowres/00644_002.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="227">
 </a>
 
 
 `UUID: deb198cc152945e6bbae1b7744b025e1`↓
 
-<a href="./archive/00644_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_001.jpg" target="_blank">
 	<img src="./lowres/00644_001.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="218">
 </a>
 
@@ -4107,14 +4107,14 @@ Added : 2026-06-24   |  Author  : Luci 101
 UUID  : cba0bd2a5ffd43c38164a5e9a2f719a0
 ```
 
-<a href="./archive/00644_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00644_000.jpg" target="_blank">
 	<img src="./lowres/00644_000.jpg" alt="ORWO UK 17 8mm film box outside" loading="lazy" width="500" height="496">
 </a>
 
 
 `UUID: 666ac89d17504a12b4a11a3ebcc3b460`↓
 
-<a href="./archive/00643_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00643_001.jpg" target="_blank">
 	<img src="./lowres/00643_001.jpg" alt="Polaroid High Definition 35mm film box inside" loading="lazy" width="405" height="500">
 </a>
 
@@ -4128,14 +4128,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : f55d7221fceb4391b83cac2360c5ac7c
 ```
 
-<a href="./archive/00643_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00643_000.jpg" target="_blank">
 	<img src="./lowres/00643_000.jpg" alt="Polaroid High Definition 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 87e07caa491d425390bf58ed01117d2b`↓
 
-<a href="./archive/00642_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00642_001.jpg" target="_blank">
 	<img src="./lowres/00642_001.jpg" alt="Perutz CR 100 35mm film box inside" loading="lazy" width="375" height="500">
 </a>
 
@@ -4149,14 +4149,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 8952a19caaea4975a38cd877ca5ab5df
 ```
 
-<a href="./archive/00642_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00642_000.jpg" target="_blank">
 	<img src="./lowres/00642_000.jpg" alt="Perutz CR 100 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
 
 `UUID: 7da671d2345d450b88824b0bbb584b81`↓
 
-<a href="./archive/00641_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00641_001.jpg" target="_blank">
 	<img src="./lowres/00641_001.jpg" alt="Lucky Super New 200 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
@@ -4170,14 +4170,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 2510bd0dd10940e0888b722ec00de0a7
 ```
 
-<a href="./archive/00641_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00641_000.jpg" target="_blank">
 	<img src="./lowres/00641_000.jpg" alt="Lucky Super New 200 35mm film box outside" loading="lazy" width="429" height="499">
 </a>
 
 
 `UUID: cd9c544f57314e79b7c1cbc0cc74bedc`↓
 
-<a href="./archive/00640_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00640_001.jpg" target="_blank">
 	<img src="./lowres/00640_001.jpg" alt="Konica Minolta Centuria 100 35mm film box inside" loading="lazy" width="401" height="500">
 </a>
 
@@ -4191,14 +4191,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : c93974535a3441acb0edbbd16b0f00ae
 ```
 
-<a href="./archive/00640_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00640_000.jpg" target="_blank">
 	<img src="./lowres/00640_000.jpg" alt="Konica Minolta Centuria 100 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
 
 `UUID: 909196252dc745b0987bafacb8d8e568`↓
 
-<a href="./archive/00639_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00639_001.jpg" target="_blank">
 	<img src="./lowres/00639_001.jpg" alt="Ilford Pan F 50 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
@@ -4212,14 +4212,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : a9fca2c069e94c0b8bafaf79a473c977
 ```
 
-<a href="./archive/00639_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00639_000.jpg" target="_blank">
 	<img src="./lowres/00639_000.jpg" alt="Ilford Pan F 50 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
 `UUID: 05cf2d1a425147a682821c81d4893541`↓
 
-<a href="./archive/00638_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00638_001.jpg" target="_blank">
 	<img src="./lowres/00638_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="500" height="420">
 </a>
 
@@ -4233,14 +4233,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 0eabec768b1245e1bae0afaa62f04eb6
 ```
 
-<a href="./archive/00638_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00638_000.jpg" target="_blank">
 	<img src="./lowres/00638_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="496" height="499">
 </a>
 
 
 `UUID: b3d44227f6b04bb3b248247daa95619c`↓
 
-<a href="./archive/00637_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00637_001.jpg" target="_blank">
 	<img src="./lowres/00637_001.jpg" alt="Agfa CT Precisa 35mm film box inside" loading="lazy" width="398" height="500">
 </a>
 
@@ -4254,14 +4254,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 4816ed9ade314598a0c96412b06dca9c
 ```
 
-<a href="./archive/00637_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00637_000.jpg" target="_blank">
 	<img src="./lowres/00637_000.jpg" alt="Agfa CT Precisa 35mm film box outside" loading="lazy" width="393" height="500">
 </a>
 
 
 `UUID: 69f9ef82b5984b94b2385b0e5b9f7cf9`↓
 
-<a href="./archive/00636_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00636_001.jpg" target="_blank">
 	<img src="./lowres/00636_001.jpg" alt="Lucky SHD 100 New Generation 35mm film box inside" loading="lazy" width="411" height="500">
 </a>
 
@@ -4275,14 +4275,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : a3557cdb2ef942a9809d9c4360bf23f6
 ```
 
-<a href="./archive/00636_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00636_000.jpg" target="_blank">
 	<img src="./lowres/00636_000.jpg" alt="Lucky SHD 100 New Generation 35mm film box outside" loading="lazy" width="422" height="500">
 </a>
 
 
 `UUID: 937506c89d544dd4a46be76ceb570dd5`↓
 
-<a href="./archive/00635_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00635_001.jpg" target="_blank">
 	<img src="./lowres/00635_001.jpg" alt="Lucky SHD 100 35mm film box inside" loading="lazy" width="430" height="499">
 </a>
 
@@ -4296,14 +4296,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 8dfb0a6557b34a5fad8d96d4498e7feb
 ```
 
-<a href="./archive/00635_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00635_000.jpg" target="_blank">
 	<img src="./lowres/00635_000.jpg" alt="Lucky SHD 100 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
 
 `UUID: dc35920942a94cceb1f8586cc95ffe59`↓
 
-<a href="./archive/00634_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00634_001.jpg" target="_blank">
 	<img src="./lowres/00634_001.jpg" alt="Kodak T-MAX 400 35mm film box inside" loading="lazy" width="398" height="500">
 </a>
 
@@ -4317,14 +4317,14 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 9e8ce3c9962b416abe196c890efc0a2e
 ```
 
-<a href="./archive/00634_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00634_000.jpg" target="_blank">
 	<img src="./lowres/00634_000.jpg" alt="Kodak T-MAX 400 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: 09fadb744cc445a2a817f41c02d174e9`↓
 
-<a href="./archive/00633_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00633_001.jpg" target="_blank">
 	<img src="./lowres/00633_001.jpg" alt="Kodak T-MAX 100 35mm film box inside" loading="lazy" width="409" height="500">
 </a>
 
@@ -4338,7 +4338,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : b58543ef54c0480288f0fb8b7ac62fbc
 ```
 
-<a href="./archive/00633_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00633_000.jpg" target="_blank">
 	<img src="./lowres/00633_000.jpg" alt="Kodak T-MAX 100 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
@@ -4352,7 +4352,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 5a16cb60bf3d4de3bc16a789a1af2bf6
 ```
 
-<a href="./archive/00632_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00632_000.jpg" target="_blank">
 	<img src="./lowres/00632_000.jpg" alt="Schlecker Fotoland AS Color 200 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
@@ -4366,7 +4366,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : b15598742abf4dada03cecd44e4071f9
 ```
 
-<a href="./archive/00631_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00631_000.jpg" target="_blank">
 	<img src="./lowres/00631_000.jpg" alt="Kodak Elite Chrome Extra Color 35mm film box outside" loading="lazy" width="402" height="499">
 </a>
 
@@ -4380,7 +4380,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 2234581367c84a208c391ba92b3f5e5d
 ```
 
-<a href="./archive/00630_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00630_000.jpg" target="_blank">
 	<img src="./lowres/00630_000.jpg" alt="Kodak Kodacolor VR Plus 400 35mm film box outside" loading="lazy" width="500" height="385">
 </a>
 
@@ -4394,7 +4394,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : ee425a725d52448b95cb0664aabf9678
 ```
 
-<a href="./archive/00629_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00629_000.jpg" target="_blank">
 	<img src="./lowres/00629_000.jpg" alt="Fujifilm Velvia 50 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
@@ -4408,7 +4408,7 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 29973b9ee68243218c8d30c3403a0f0c
 ```
 
-<a href="./archive/00628_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00628_000.jpg" target="_blank">
 	<img src="./lowres/00628_000.jpg" alt="Fujifilm Superia 100 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
@@ -4422,63 +4422,63 @@ Added : 2026-06-24   |  Author  : Mauphoto
 UUID  : 356cb49254644befb12eaa34c997c0cc
 ```
 
-<a href="./archive/00627_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00627_000.jpg" target="_blank">
 	<img src="./lowres/00627_000.jpg" alt="Agfa Vista Spider-Pack 35mm film box outside" loading="lazy" width="322" height="499">
 </a>
 
 
 `UUID: 0a568b688bc24662b34171fa2c3b9c66`↓
 
-<a href="./archive/00626_008.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_008.jpg" target="_blank">
 	<img src="./lowres/00626_008.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="234" height="500">
 </a>
 
 
 `UUID: 6d493e3285ed4d46a52c37302b1994a5`↓
 
-<a href="./archive/00626_007.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_007.jpg" target="_blank">
 	<img src="./lowres/00626_007.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="236" height="500">
 </a>
 
 
 `UUID: be23e2485409449bb52a1a26b40ed836`↓
 
-<a href="./archive/00626_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_006.jpg" target="_blank">
 	<img src="./lowres/00626_006.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="500" height="473">
 </a>
 
 
 `UUID: 01f9be26056b478ebd7e272472d6b099`↓
 
-<a href="./archive/00626_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_005.jpg" target="_blank">
 	<img src="./lowres/00626_005.jpg" alt="Gevaert Panchro Super 8mm film box leaflet" loading="lazy" width="420" height="500">
 </a>
 
 
 `UUID: aa90f548900f488c9a94a92ea2fad652`↓
 
-<a href="./archive/00626_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_004.jpg" target="_blank">
 	<img src="./lowres/00626_004.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="375" height="500">
 </a>
 
 
 `UUID: 569a709dfd81453eb07497318bfa3fe1`↓
 
-<a href="./archive/00626_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_003.jpg" target="_blank">
 	<img src="./lowres/00626_003.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
 </a>
 
 
 `UUID: ea9a2f40873143a88560e070a11a1ea8`↓
 
-<a href="./archive/00626_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_002.jpg" target="_blank">
 	<img src="./lowres/00626_002.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
 </a>
 
 
 `UUID: 5956110884104f6a823597bd4cda1155`↓
 
-<a href="./archive/00626_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_001.jpg" target="_blank">
 	<img src="./lowres/00626_001.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="191">
 </a>
 
@@ -4492,14 +4492,14 @@ Added : 2026-06-19   |  Author  : Luci 101
 UUID  : 6a8186f72d304b3c84ff8ffa7935fd4c
 ```
 
-<a href="./archive/00626_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00626_000.jpg" target="_blank">
 	<img src="./lowres/00626_000.jpg" alt="Gevaert Panchro Super 8mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
 
 `UUID: fbc0c57441fc4f109bdeb5a574a71fac`↓
 
-<a href="./archive/00625_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00625_001.jpg" target="_blank">
 	<img src="./lowres/00625_001.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="239" height="499">
 </a>
 
@@ -4513,14 +4513,14 @@ Added : 2026-06-19   |  Author  : nyctomanica
 UUID  : caa728e6906b495b93d68895585eaad6
 ```
 
-<a href="./archive/00625_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00625_000.jpg" target="_blank">
 	<img src="./lowres/00625_000.jpg" alt="Polaroid Purple 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="239" height="499">
 </a>
 
 
 `UUID: bab1df5b180e4f69aa79689d243ae87b`↓
 
-<a href="./archive/00624_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00624_001.jpg" target="_blank">
 	<img src="./lowres/00624_001.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
 </a>
 
@@ -4534,21 +4534,21 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 109eaba178c64f64a473ccce42f77f24
 ```
 
-<a href="./archive/00624_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00624_000.jpg" target="_blank">
 	<img src="./lowres/00624_000.jpg" alt="Polaroid Originals B&W Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="470">
 </a>
 
 
 `UUID: b8809a0a73bc4c719d575231bdca4fc5`↓
 
-<a href="./archive/00623_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00623_002.jpg" target="_blank">
 	<img src="./lowres/00623_002.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box inside" loading="lazy" width="258" height="500">
 </a>
 
 
 `UUID: 538e8ad4aa6648ffbcf9f98f7848f3e1`↓
 
-<a href="./archive/00623_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00623_001.jpg" target="_blank">
 	<img src="./lowres/00623_001.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
 </a>
 
@@ -4562,7 +4562,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 1761ed58b3bc423cb93dcf6fa3e77d0a
 ```
 
-<a href="./archive/00623_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00623_000.jpg" target="_blank">
 	<img src="./lowres/00623_000.jpg" alt="Polaroid Originals Color Spectra Film Instant Integral Film film box outside" loading="lazy" width="500" height="460">
 </a>
 
@@ -4576,7 +4576,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 6fd9245fee514c42b71121e489f051ce
 ```
 
-<a href="./archive/00622_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00622_000.jpg" target="_blank">
 	<img src="./lowres/00622_000.jpg" alt="Fujifilm Instax Wide Instant Integral Film film box outside" loading="lazy" width="500" height="367">
 </a>
 
@@ -4590,7 +4590,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : e8d583d1b8a346cb95ae1cd69bb71b9a
 ```
 
-<a href="./archive/00621_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00621_000.jpg" target="_blank">
 	<img src="./lowres/00621_000.jpg" alt="Polaroid Land Pack Film Type 107 Instant Pack Film film box outside" loading="lazy" width="500" height="410">
 </a>
 
@@ -4604,7 +4604,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 48b08b5b3a8a4edc98fd29e6fd1c58d8
 ```
 
-<a href="./archive/00620_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00620_000.jpg" target="_blank">
 	<img src="./lowres/00620_000.jpg" alt="Fujifilm Instax Wide Monochrome Instant Integral Film film box outside" loading="lazy" width="500" height="351">
 </a>
 
@@ -4618,7 +4618,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 20749de9fbb140d88baffc08facbff2c
 ```
 
-<a href="./archive/00619_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00619_000.jpg" target="_blank">
 	<img src="./lowres/00619_000.jpg" alt="One Instant Type 100 Peel-Apart Colorfilm Instant Pack Film film box outside" loading="lazy" width="500" height="442">
 </a>
 
@@ -4632,14 +4632,14 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 38650eb6e4cc42f8bd6b7875dcc5b7aa
 ```
 
-<a href="./archive/00618_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00618_000.jpg" target="_blank">
 	<img src="./lowres/00618_000.jpg" alt="Fujifilm FP-100C Silk Instant Pack Film film box outside" loading="lazy" width="500" height="333">
 </a>
 
 
 `UUID: 487b8dd980bd49e9b21c32a2a72657d1`↓
 
-<a href="./archive/00617_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00617_001.jpg" target="_blank">
 	<img src="./lowres/00617_001.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box inside" loading="lazy" width="352" height="500">
 </a>
 
@@ -4653,7 +4653,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 8382f7e52acc4167bd2aaae4ec319d7e
 ```
 
-<a href="./archive/00617_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00617_000.jpg" target="_blank">
 	<img src="./lowres/00617_000.jpg" alt="Fujifilm FP-3000B Instant Pack Film film box outside" loading="lazy" width="500" height="375">
 </a>
 
@@ -4668,7 +4668,7 @@ UUID  : fa1a525240b548f599483ad50ba122bc
 Notes : aka Rollei Crossbird, AGFA Aviphot Chrome 200?
 ```
 
-<a href="./archive/00616_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00616_000.jpg" target="_blank">
 	<img src="./lowres/00616_000.jpg" alt="Lomography Color Slide / X-Pro 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -4682,7 +4682,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 4624d642b93d4c75a7a2d53a4a33bd98
 ```
 
-<a href="./archive/00615_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00615_000.jpg" target="_blank">
 	<img src="./lowres/00615_000.jpg" alt="Polaroid 690 Instant Pack Film film box outside" loading="lazy" width="500" height="391">
 </a>
 
@@ -4696,7 +4696,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : d8e74033014e4db9af13c8b1aac4a70f
 ```
 
-<a href="./archive/00614_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00614_000.jpg" target="_blank">
 	<img src="./lowres/00614_000.jpg" alt="Polaroid 100 Chocolate Film Instant Pack Film film box outside" loading="lazy" width="500" height="379">
 </a>
 
@@ -4710,7 +4710,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 9b939ce0c8d7401c936cfcbc85c76028
 ```
 
-<a href="./archive/00613_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00613_000.jpg" target="_blank">
 	<img src="./lowres/00613_000.jpg" alt="Impossible Project Polaroid Type 100 Chocolate Paul Giambarba Edition Instant Pack Film film box outside" loading="lazy" width="500" height="355">
 </a>
 
@@ -4724,7 +4724,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : c2158d300cde448bb229862cfa014f1a
 ```
 
-<a href="./archive/00612_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00612_000.jpg" target="_blank">
 	<img src="./lowres/00612_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="500" height="412">
 </a>
 
@@ -4738,7 +4738,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : dfb73aa922ec405b8fd100ed1785b84c
 ```
 
-<a href="./archive/00611_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00611_000.jpg" target="_blank">
 	<img src="./lowres/00611_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="415" height="500">
 </a>
 
@@ -4752,7 +4752,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 9ee1d3c8eb704994866eb1c5c22855a1
 ```
 
-<a href="./archive/00610_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00610_000.jpg" target="_blank">
 	<img src="./lowres/00610_000.jpg" alt="Impossible Project Color 600 Instant Integral Film film box outside" loading="lazy" width="414" height="500">
 </a>
 
@@ -4767,7 +4767,7 @@ UUID  : cb070eea20764039a6b29ad007c54c40
 Notes : Also called Polapan Pro 100?
 ```
 
-<a href="./archive/00609_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00609_000.jpg" target="_blank">
 	<img src="./lowres/00609_000.jpg" alt="Polaroid 664 Instant Pack Film film box outside" loading="lazy" width="364" height="500">
 </a>
 
@@ -4781,14 +4781,14 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 1a7ddb61af5a486d85577e89cf317dd1
 ```
 
-<a href="./archive/00608_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00608_000.jpg" target="_blank">
 	<img src="./lowres/00608_000.jpg" alt="Polaroid 125i Gloss Instant Pack Film film box outside" loading="lazy" width="500" height="399">
 </a>
 
 
 `UUID: 8a98a85e7a474b69bdcb6ab34cf07935`↓
 
-<a href="./archive/00607_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00607_001.jpg" target="_blank">
 	<img src="./lowres/00607_001.jpg" alt="Polaroid 669 Instant Pack Film film box inside" loading="lazy" width="500" height="357">
 </a>
 
@@ -4802,14 +4802,14 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 20659b99ecfa48af97cdfca3d1dc2c27
 ```
 
-<a href="./archive/00607_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00607_000.jpg" target="_blank">
 	<img src="./lowres/00607_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="360">
 </a>
 
 
 `UUID: 51e54b2648a04424b6cd438fa9c24ce6`↓
 
-<a href="./archive/00606_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00606_001.jpg" target="_blank">
 	<img src="./lowres/00606_001.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="490" height="500">
 </a>
 
@@ -4823,7 +4823,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : ae1e47c3a7ce4d399556eba279964b11
 ```
 
-<a href="./archive/00606_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00606_000.jpg" target="_blank">
 	<img src="./lowres/00606_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" height="223">
 </a>
 
@@ -4838,7 +4838,7 @@ UUID  : 19b92b8aeb2b4e82b1ca2efa19eda657
 Notes : Polaroid 1200 2x 12 photos (thinner Image/Spectra with 12 shots instead of 10)
 ```
 
-<a href="./archive/00605_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00605_000.jpg" target="_blank">
 	<img src="./lowres/00605_000.jpg" alt="Polaroid 1200 Instant Integral Film film box outside" loading="lazy" width="465" height="500">
 </a>
 
@@ -4852,7 +4852,7 @@ Added : 2026-06-18   |  Author  : nyctomanica
 UUID  : 77390b1f4e8f4519817b767e55c1d8e3
 ```
 
-<a href="./archive/00604_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00604_000.jpg" target="_blank">
 	<img src="./lowres/00604_000.jpg" alt="Kodak Vericolor 400 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
@@ -4866,7 +4866,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 65ce4d13cc6142b69fc5d1bea401c984
 ```
 
-<a href="./archive/00603_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00603_000.jpg" target="_blank">
 	<img src="./lowres/00603_000.jpg" alt="Polaroid High Contrast PolaChrome 35mm film box outside" loading="lazy" width="218" height="500">
 </a>
 
@@ -4880,7 +4880,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : ea6ab39216914f77b0ca7ed0f243f3dd
 ```
 
-<a href="./archive/00602_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00602_000.jpg" target="_blank">
 	<img src="./lowres/00602_000.jpg" alt="Fujifilm FP-100B Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
@@ -4894,7 +4894,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : a2615a83b6774edda1567fe0e8deb335
 ```
 
-<a href="./archive/00601_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00601_000.jpg" target="_blank">
 	<img src="./lowres/00601_000.jpg" alt="Polaroid 672 Instant Pack Film film box outside" loading="lazy" width="357" height="500">
 </a>
 
@@ -4908,7 +4908,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 83f596535e834c1a941be969aab46ace
 ```
 
-<a href="./archive/00600_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00600_000.jpg" target="_blank">
 	<img src="./lowres/00600_000.jpg" alt="Kodak Ektachrome Professional Film 5018 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
@@ -4922,21 +4922,21 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 3dc991e05c9b43cdbb85b18aabc29893
 ```
 
-<a href="./archive/00599_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00599_000.jpg" target="_blank">
 	<img src="./lowres/00599_000.jpg" alt="Polaroid 100 Sepia Film Instant Pack Film film box outside" loading="lazy" width="356" height="500">
 </a>
 
 
 `UUID: f95f44f60de24d11b8140ecd0493b540`↓
 
-<a href="./archive/00598_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00598_002.jpg" target="_blank">
 	<img src="./lowres/00598_002.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="350">
 </a>
 
 
 `UUID: a1e2cdb1abb74300a8387b69c97a4f4b`↓
 
-<a href="./archive/00598_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00598_001.jpg" target="_blank">
 	<img src="./lowres/00598_001.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="481" height="500">
 </a>
 
@@ -4950,14 +4950,14 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : d77ac027dc34418082f8f65887ca8636
 ```
 
-<a href="./archive/00598_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00598_000.jpg" target="_blank">
 	<img src="./lowres/00598_000.jpg" alt="Impossible Project PX 600 Silver Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="345" height="500">
 </a>
 
 
 `UUID: d0c2a5e34bb54cedad81a49f4c338f7a`↓
 
-<a href="./archive/00597_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00597_001.jpg" target="_blank">
 	<img src="./lowres/00597_001.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box inside" loading="lazy" width="500" height="363">
 </a>
 
@@ -4971,7 +4971,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 690311c1402d40eca1ced80f9af11ad9
 ```
 
-<a href="./archive/00597_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00597_000.jpg" target="_blank">
 	<img src="./lowres/00597_000.jpg" alt="Impossible Project PX 70 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="478" height="500">
 </a>
 
@@ -4985,14 +4985,14 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : da9c265a3e194bd1ad83549961c6e5fd
 ```
 
-<a href="./archive/00596_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00596_000.jpg" target="_blank">
 	<img src="./lowres/00596_000.jpg" alt="Kodak Kodalith ortho film type 3 35mm film box outside" loading="lazy" width="486" height="500">
 </a>
 
 
 `UUID: 58ff417d1c8a48af9746c73bf4037948`↓
 
-<a href="./archive/00595_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00595_001.jpg" target="_blank">
 	<img src="./lowres/00595_001.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="490" height="500">
 </a>
 
@@ -5007,7 +5007,7 @@ UUID  : ffa83233d791403f98c607bb78ad0037
 Notes : ISO200-500, 35mm B&W 17m (speed depends on developer, 250 in D76, 500 in 'Versamat 885'), Tin label reads "KODAK HAWKEYE Surveillance Film 2485-0076-0012 11/2005"
 ```
 
-<a href="./archive/00595_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00595_000.jpg" target="_blank">
 	<img src="./lowres/00595_000.jpg" alt="Kodak Hawkeye 2485 Surveillance Film 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
@@ -5021,7 +5021,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 7f9897837fc645f5bbe5c6c18bb84ccd
 ```
 
-<a href="./archive/00594_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00594_000.jpg" target="_blank">
 	<img src="./lowres/00594_000.jpg" alt="Kodak Kodacolor Gold Disc Film film box outside" loading="lazy" width="403" height="500">
 </a>
 
@@ -5035,7 +5035,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 5efc4291de384f9fa47153d007d293b8
 ```
 
-<a href="./archive/00593_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00593_000.jpg" target="_blank">
 	<img src="./lowres/00593_000.jpg" alt="Polaroid 100 Blue Film Instant Pack Film film box outside" loading="lazy" width="500" height="358">
 </a>
 
@@ -5049,14 +5049,14 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 21d81b0f422340189e48c53b02b8580b
 ```
 
-<a href="./archive/00592_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00592_000.jpg" target="_blank">
 	<img src="./lowres/00592_000.jpg" alt="Impossible Project PX 680 Color Shade / First Flush Instant Integral Film film box outside" loading="lazy" width="370" height="500">
 </a>
 
 
 `UUID: 307ef2f11d7f4a3cb540da795f1b3d5a`↓
 
-<a href="./archive/00591_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00591_001.jpg" target="_blank">
 	<img src="./lowres/00591_001.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box inside" loading="lazy" width="488" height="500">
 </a>
 
@@ -5070,7 +5070,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 1db6d025cc904e11858f76ce0053de21
 ```
 
-<a href="./archive/00591_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00591_000.jpg" target="_blank">
 	<img src="./lowres/00591_000.jpg" alt="Polaroid TZ Artistic Fade to Black Instant Integral Film film box outside" loading="lazy" width="410" height="499">
 </a>
 
@@ -5084,7 +5084,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 39eee484e9cf4b8aaade4a1092010e11
 ```
 
-<a href="./archive/00590_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00590_000.jpg" target="_blank">
 	<img src="./lowres/00590_000.jpg" alt="Kodak Ektachrome 320T 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -5098,7 +5098,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : f2a364463c5d40ad9e438566b786d2a2
 ```
 
-<a href="./archive/00589_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00589_000.jpg" target="_blank">
 	<img src="./lowres/00589_000.jpg" alt="Kodak Ektagraphic HC Slide Film 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
@@ -5112,7 +5112,7 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : c5ed76a41fde41e1b07d83ed38800d8a
 ```
 
-<a href="./archive/00588_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00588_000.jpg" target="_blank">
 	<img src="./lowres/00588_000.jpg" alt="Agfa Agfacolor CNS 620 film box outside" loading="lazy" width="500" height="406">
 </a>
 
@@ -5126,14 +5126,14 @@ Added : 2026-06-16   |  Author  : nyctomanica
 UUID  : 36d1da1ac9804ac39bd98ab19d4db007
 ```
 
-<a href="./archive/00587_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00587_000.jpg" target="_blank">
 	<img src="./lowres/00587_000.jpg" alt="Kodak Kodachrome 64 220 film box outside" loading="lazy" width="424" height="500">
 </a>
 
 
 `UUID: 1e7dab1f092343d4ba0295f2068dd5fd`↓
 
-<a href="./archive/00586_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00586_001.jpg" target="_blank">
 	<img src="./lowres/00586_001.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="390" height="500">
 </a>
 
@@ -5147,14 +5147,14 @@ Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : 624c7d05c28a4bfb834ba537631e1f1d
 ```
 
-<a href="./archive/00586_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00586_000.jpg" target="_blank">
 	<img src="./lowres/00586_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="412" height="500">
 </a>
 
 
 `UUID: 8dbce7087a9940b49d6c56476194f04b`↓
 
-<a href="./archive/00585_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00585_001.jpg" target="_blank">
 	<img src="./lowres/00585_001.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box inside" loading="lazy" width="463" height="500">
 </a>
 
@@ -5168,7 +5168,7 @@ Added : 2026-06-16   |  Author  : @Hol.m35
 UUID  : b0f0117fd8d74332b67a2e8be3db3937
 ```
 
-<a href="./archive/00585_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00585_000.jpg" target="_blank">
 	<img src="./lowres/00585_000.jpg" alt="Camera Film Photo Limited Kiki Pan 320 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -5182,7 +5182,7 @@ Added : 2026-06-10   |  Author  : nyctomanica
 UUID  : 308fb333b27a4dab9072d131425ef21a
 ```
 
-<a href="./archive/00584_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00584_000.jpg" target="_blank">
 	<img src="./lowres/00584_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="500" height="316">
 </a>
 
@@ -5196,7 +5196,7 @@ Added : 2026-06-10   |  Author  : nyctomanica
 UUID  : c8b4e91fe2e34428a095ae48184f9879
 ```
 
-<a href="./archive/00583_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00583_000.jpg" target="_blank">
 	<img src="./lowres/00583_000.jpg" alt="Kodak Ektachrome E200 35mm film box outside" loading="lazy" width="500" height="316">
 </a>
 
@@ -5210,21 +5210,21 @@ Added : 2026-06-08   |  Author  : @recycling.film
 UUID  : 27bbbeae605a4e1997859f2d3e6029e0
 ```
 
-<a href="./archive/00582_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00582_000.jpg" target="_blank">
 	<img src="./lowres/00582_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 
 `UUID: cb5f9744b147427a8def924a9f529543`↓
 
-<a href="./archive/00581_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00581_002.jpg" target="_blank">
 	<img src="./lowres/00581_002.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
 </a>
 
 
 `UUID: dac6a8226d604131a12b525d0c7f29a2`↓
 
-<a href="./archive/00581_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00581_001.jpg" target="_blank">
 	<img src="./lowres/00581_001.jpg" alt="Foton Super Orto 35mm film box leaflet" loading="lazy" width="300" height="500">
 </a>
 
@@ -5238,7 +5238,7 @@ Added : 2026-05-26   |  Author  : Luci 101
 UUID  : a5735d8124da426db200a5ef3ae0050b
 ```
 
-<a href="./archive/00581_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00581_000.jpg" target="_blank">
 	<img src="./lowres/00581_000.jpg" alt="Foton Super Orto 35mm film box outside" loading="lazy" width="465" height="500">
 </a>
 
@@ -5252,7 +5252,7 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : 7d38096a5e2243dc91b8caff8721cc7d
 ```
 
-<a href="./archive/00580_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00580_000.jpg" target="_blank">
 	<img src="./lowres/00580_000.jpg" alt="Mr. Negative Black Cat 35mm film box outside" loading="lazy" width="500" height="410">
 </a>
 
@@ -5266,7 +5266,7 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : b7110d960d454ac484eafe3b650c8073
 ```
 
-<a href="./archive/00579_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00579_000.jpg" target="_blank">
 	<img src="./lowres/00579_000.jpg" alt="Freestyle 500T 35mm film box outside" loading="lazy" width="500" height="488">
 </a>
 
@@ -5280,7 +5280,7 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : 987a22c2477b44d2ab1b4c434b2db309
 ```
 
-<a href="./archive/00578_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00578_000.jpg" target="_blank">
 	<img src="./lowres/00578_000.jpg" alt="A Girl Has Film Tetris 200 35mm film box outside" loading="lazy" width="471" height="500">
 </a>
 
@@ -5294,7 +5294,7 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : e71e488f0288481f906ccecdf054a6e5
 ```
 
-<a href="./archive/00577_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00577_000.jpg" target="_blank">
 	<img src="./lowres/00577_000.jpg" alt="Mr. Negative Arcade 35mm film box outside" loading="lazy" width="500" height="460">
 </a>
 
@@ -5308,7 +5308,7 @@ Added : 2026-05-26   |  Author  : Greg
 UUID  : 261300ac4604457a8d0c8743d1e19a93
 ```
 
-<a href="./archive/00576_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00576_000.jpg" target="_blank">
 	<img src="./lowres/00576_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="493" height="500">
 </a>
 
@@ -5322,7 +5322,7 @@ Added : 2026-05-26   |  Author  : Greg
 UUID  : aa76bcdbe2fe48fab10e56e1bd84e19e
 ```
 
-<a href="./archive/00575_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00575_000.jpg" target="_blank">
 	<img src="./lowres/00575_000.jpg" alt="Kodak Kodachrome 828 film box outside" loading="lazy" width="442" height="500">
 </a>
 
@@ -5336,7 +5336,7 @@ Added : 2026-05-26   |  Author  : Greg
 UUID  : 109f05cb335c476a8b019d13347ccca3
 ```
 
-<a href="./archive/00574_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00574_000.jpg" target="_blank">
 	<img src="./lowres/00574_000.jpg" alt="Kodak Ektachrome-X 120 film box outside" loading="lazy" width="500" height="485">
 </a>
 
@@ -5350,7 +5350,7 @@ Added : 2026-05-26   |  Author  : Greg
 UUID  : 4dc3f1e6a10842dbb0b1ac038b5ac335
 ```
 
-<a href="./archive/00573_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00573_000.jpg" target="_blank">
 	<img src="./lowres/00573_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="470">
 </a>
 
@@ -5364,7 +5364,7 @@ Added : 2026-05-26   |  Author  : Greg
 UUID  : 8b179d290e4a462bb49bcec4f7c7f435
 ```
 
-<a href="./archive/00572_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00572_000.jpg" target="_blank">
 	<img src="./lowres/00572_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="498">
 </a>
 
@@ -5378,21 +5378,21 @@ Added : 2026-05-26   |  Author  : Pelicram
 UUID  : 989581de448d4ccd82d8ab0950dae727
 ```
 
-<a href="./archive/00571_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00571_000.jpg" target="_blank">
 	<img src="./lowres/00571_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="449" height="500">
 </a>
 
 
 `UUID: cb7b9dc522034a9e8e0c9efb07844543`↓
 
-<a href="./archive/00570_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00570_002.jpg" target="_blank">
 	<img src="./lowres/00570_002.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="312" height="500">
 </a>
 
 
 `UUID: 64e01932547643cd806e82e0faf38af2`↓
 
-<a href="./archive/00570_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00570_001.jpg" target="_blank">
 	<img src="./lowres/00570_001.jpg" alt="Efke R14 120 film box leaflet" loading="lazy" width="330" height="500">
 </a>
 
@@ -5406,7 +5406,7 @@ Added : 2026-05-26   |  Author  : Tobias
 UUID  : 32a76ef752524fab9f27ebe632b527f5
 ```
 
-<a href="./archive/00570_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00570_000.jpg" target="_blank">
 	<img src="./lowres/00570_000.jpg" alt="Efke R14 120 film box outside" loading="lazy" width="500" height="359">
 </a>
 
@@ -5420,7 +5420,7 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : f437c859b1564324968e289acecfbd42
 ```
 
-<a href="./archive/00569_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00569_000.jpg" target="_blank">
 	<img src="./lowres/00569_000.jpg" alt="Optik Oldschool Motion 500T 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -5434,84 +5434,84 @@ Added : 2026-05-26   |  Author  : @Hol.m35
 UUID  : b389844cc8c04ab8b936315354330d90
 ```
 
-<a href="./archive/00568_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00568_000.jpg" target="_blank">
 	<img src="./lowres/00568_000.jpg" alt="Optik Oldschool Motion 200T 35mm film box outside" loading="lazy" width="496" height="499">
 </a>
 
 
 `UUID: 09e49f5c233746daba9dfc6a30560007`↓
 
-<a href="./archive/00567_011.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_011.jpg" target="_blank">
 	<img src="./lowres/00567_011.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
 
 `UUID: 3cdf8b9ef19541dca4ac9161ec1a4332`↓
 
-<a href="./archive/00567_010.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_010.jpg" target="_blank">
 	<img src="./lowres/00567_010.jpg" alt="ORWO OrwoColor UT13 8mm film box processing envelope" loading="lazy" width="500" height="224">
 </a>
 
 
 `UUID: 87a8af10c93a4dbba9accf8bf7c5413e`↓
 
-<a href="./archive/00567_009.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_009.jpg" target="_blank">
 	<img src="./lowres/00567_009.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="231">
 </a>
 
 
 `UUID: 243bdcfc9037400a841215bde0e5f5c1`↓
 
-<a href="./archive/00567_008.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_008.jpg" target="_blank">
 	<img src="./lowres/00567_008.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="500" height="238">
 </a>
 
 
 `UUID: 5acaacb7d6f44b8db4833f94fc496345`↓
 
-<a href="./archive/00567_007.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_007.jpg" target="_blank">
 	<img src="./lowres/00567_007.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
 </a>
 
 
 `UUID: d1620311aaa6413cbdd0fe506f38e8cd`↓
 
-<a href="./archive/00567_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_006.jpg" target="_blank">
 	<img src="./lowres/00567_006.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
 </a>
 
 
 `UUID: f8414c9045084fed9143b5ed262db46f`↓
 
-<a href="./archive/00567_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_005.jpg" target="_blank">
 	<img src="./lowres/00567_005.jpg" alt="ORWO OrwoColor UT13 8mm film box leaflet" loading="lazy" width="373" height="500">
 </a>
 
 
 `UUID: bbe200fbd9b043a6824d899f556e2651`↓
 
-<a href="./archive/00567_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_004.jpg" target="_blank">
 	<img src="./lowres/00567_004.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
 </a>
 
 
 `UUID: 58998f5a2b9b4a6c858dd018ff39d2cb`↓
 
-<a href="./archive/00567_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_003.jpg" target="_blank">
 	<img src="./lowres/00567_003.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="246">
 </a>
 
 
 `UUID: b2db8d01c3814c3fbba583de1dd4c40b`↓
 
-<a href="./archive/00567_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_002.jpg" target="_blank">
 	<img src="./lowres/00567_002.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
 </a>
 
 
 `UUID: 256ee695209049f9ac2dc59ca5050d62`↓
 
-<a href="./archive/00567_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_001.jpg" target="_blank">
 	<img src="./lowres/00567_001.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="500" height="238">
 </a>
 
@@ -5525,42 +5525,42 @@ Added : 2026-05-26   |  Author  : Luci 101
 UUID  : e7ff421fe76940efb7c727d4ffa6a05d
 ```
 
-<a href="./archive/00567_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00567_000.jpg" target="_blank">
 	<img src="./lowres/00567_000.jpg" alt="ORWO OrwoColor UT13 8mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: 10484fe8aeea44beb41b69e06d7a7d87`↓
 
-<a href="./archive/00566_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_005.jpg" target="_blank">
 	<img src="./lowres/00566_005.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="486" height="500">
 </a>
 
 
 `UUID: fa734de6cae54db2bf120f56304c21c9`↓
 
-<a href="./archive/00566_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_004.jpg" target="_blank">
 	<img src="./lowres/00566_004.jpg" alt="Agfa AgfaChrome 50 S 120 film box leaflet" loading="lazy" width="490" height="500">
 </a>
 
 
 `UUID: 263945c531864b9587149422d5e5a246`↓
 
-<a href="./archive/00566_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_003.jpg" target="_blank">
 	<img src="./lowres/00566_003.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="485">
 </a>
 
 
 `UUID: 6e3128ce6339494ba89745d7618298e0`↓
 
-<a href="./archive/00566_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_002.jpg" target="_blank">
 	<img src="./lowres/00566_002.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
 </a>
 
 
 `UUID: 563ff01a71b8458e995e169d10771e29`↓
 
-<a href="./archive/00566_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_001.jpg" target="_blank">
 	<img src="./lowres/00566_001.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
 </a>
 
@@ -5574,14 +5574,14 @@ Added : 2026-05-26   |  Author  : Luci 101
 UUID  : 614f88677713446992d710403ec5eb28
 ```
 
-<a href="./archive/00566_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00566_000.jpg" target="_blank">
 	<img src="./lowres/00566_000.jpg" alt="Agfa AgfaChrome 50 S 120 film box outside" loading="lazy" width="500" height="201">
 </a>
 
 
 `UUID: 77ff51132ecc4e08b3c3e93abebe4af8`↓
 
-<a href="./archive/00565_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00565_001.jpg" target="_blank">
 	<img src="./lowres/00565_001.jpg" alt="Polaroid B&W i-Type Film Instant Integral Film film box inside" loading="lazy" width="255" height="500">
 </a>
 
@@ -5595,14 +5595,14 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : d0c5d59f8d974c83b651e1b9e8f7963a
 ```
 
-<a href="./archive/00565_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00565_000.jpg" target="_blank">
 	<img src="./lowres/00565_000.jpg" alt="Polaroid B&W i-Type Film Instant Integral Film film box outside" loading="lazy" width="238" height="499">
 </a>
 
 
 `UUID: 7cb12adb23de4c09ae158c3f290de943`↓
 
-<a href="./archive/00564_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00564_001.jpg" target="_blank">
 	<img src="./lowres/00564_001.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="280" height="500">
 </a>
 
@@ -5616,14 +5616,14 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : a66f7c510e5e49e0b14a1165b59d32e9
 ```
 
-<a href="./archive/00564_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00564_000.jpg" target="_blank">
 	<img src="./lowres/00564_000.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="269" height="500">
 </a>
 
 
 `UUID: 0c52f0b46fc847ce8dba3f2f22609100`↓
 
-<a href="./archive/00563_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00563_001.jpg" target="_blank">
 	<img src="./lowres/00563_001.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
@@ -5637,7 +5637,7 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : a0f16870196d400eb47971a65ab747a7
 ```
 
-<a href="./archive/00563_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00563_000.jpg" target="_blank">
 	<img src="./lowres/00563_000.jpg" alt="Polaroid Color i-Type Film Instant Integral Film film box outside" loading="lazy" width="290" height="500">
 </a>
 
@@ -5651,7 +5651,7 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : e9b9c65612ae498080917cde3fd94618
 ```
 
-<a href="./archive/00562_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00562_000.jpg" target="_blank">
 	<img src="./lowres/00562_000.jpg" alt="Kodak Sport Single Use Camera Disposable Camera film box outside" loading="lazy" width="303" height="500">
 </a>
 
@@ -5665,14 +5665,14 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : 7e2a1df614294a7680f4b9478c578cf0
 ```
 
-<a href="./archive/00561_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00561_000.jpg" target="_blank">
 	<img src="./lowres/00561_000.jpg" alt="1Shot Color Print Film 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
 
 `UUID: 59c76e90f1b947c28da172d2c7f5e2df`↓
 
-<a href="./archive/00560_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00560_001.jpg" target="_blank">
 	<img src="./lowres/00560_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="500" height="489">
 </a>
 
@@ -5686,14 +5686,14 @@ Added : 2026-04-13   |  Author  : Dialupdude
 UUID  : 698e4d8dc2ef4a5d8ea7c8d0e0d9f727
 ```
 
-<a href="./archive/00560_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00560_000.jpg" target="_blank">
 	<img src="./lowres/00560_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="500" height="407">
 </a>
 
 
 `UUID: a7b5c23d62b248df98ed3a4a4979afaf`↓
 
-<a href="./archive/00559_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00559_001.jpg" target="_blank">
 	<img src="./lowres/00559_001.jpg" alt="Rollei Retro 400S 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
@@ -5707,14 +5707,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 1a8dc35eb6684e78b2a15dbbe362f345
 ```
 
-<a href="./archive/00559_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00559_000.jpg" target="_blank">
 	<img src="./lowres/00559_000.jpg" alt="Rollei Retro 400S 35mm film box outside" loading="lazy" width="458" height="499">
 </a>
 
 
 `UUID: 44865d9f476846938a0d9986fd21c796`↓
 
-<a href="./archive/00558_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00558_001.jpg" target="_blank">
 	<img src="./lowres/00558_001.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="349">
 </a>
 
@@ -5728,7 +5728,7 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 808ce640e530482f9016329c0eb2d986
 ```
 
-<a href="./archive/00558_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00558_000.jpg" target="_blank">
 	<img src="./lowres/00558_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="380">
 </a>
 
@@ -5742,14 +5742,14 @@ Added : 2026-04-13   |  Author  : Greg
 UUID  : e2b224605b0745258cf52515e02099a6
 ```
 
-<a href="./archive/00557_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00557_000.jpg" target="_blank">
 	<img src="./lowres/00557_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
 
 `UUID: 56b053f3a12e489396fea4d8db1f6b45`↓
 
-<a href="./archive/00556_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00556_001.jpg" target="_blank">
 	<img src="./lowres/00556_001.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
@@ -5763,7 +5763,7 @@ Added : 2026-04-13   |  Author  : kaimon
 UUID  : fbb052b5a0024308b4d11dd3a78b4027
 ```
 
-<a href="./archive/00556_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00556_000.jpg" target="_blank">
 	<img src="./lowres/00556_000.jpg" alt="Fujifilm Neopan Acros 100 II 120 film box outside" loading="lazy" width="498" height="500">
 </a>
 
@@ -5777,7 +5777,7 @@ Added : 2026-04-13   |  Author  : kaimon
 UUID  : a87bd544a56a4ee39a2fe6e2db3f826b
 ```
 
-<a href="./archive/00555_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00555_000.jpg" target="_blank">
 	<img src="./lowres/00555_000.jpg" alt="Escura Showa Camera Film 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
@@ -5791,14 +5791,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 5f2a25eea5ed4846862cce7ae96c2585
 ```
 
-<a href="./archive/00554_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00554_000.jpg" target="_blank">
 	<img src="./lowres/00554_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="444" height="500">
 </a>
 
 
 `UUID: f4b9bf30e757490087b895af7dfa3a8b`↓
 
-<a href="./archive/00553_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00553_001.jpg" target="_blank">
 	<img src="./lowres/00553_001.jpg" alt="Harman Switch Azure 35mm film box inside" loading="lazy" width="348" height="499">
 </a>
 
@@ -5812,14 +5812,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 85e5b83007814fbd8b1a0c4caaf9df9c
 ```
 
-<a href="./archive/00553_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00553_000.jpg" target="_blank">
 	<img src="./lowres/00553_000.jpg" alt="Harman Switch Azure 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: 9f700cd952734d0c88e3c26e8525c2bd`↓
 
-<a href="./archive/00552_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00552_001.jpg" target="_blank">
 	<img src="./lowres/00552_001.jpg" alt="Harman Switch Azure 120 film box inside" loading="lazy" width="470" height="500">
 </a>
 
@@ -5833,14 +5833,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : f81a19dc94ac47e99249911f97fe31bb
 ```
 
-<a href="./archive/00552_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00552_000.jpg" target="_blank">
 	<img src="./lowres/00552_000.jpg" alt="Harman Switch Azure 120 film box outside" loading="lazy" width="420" height="499">
 </a>
 
 
 `UUID: 4f4492d0823945df8353a4e1bc2052ba`↓
 
-<a href="./archive/00551_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00551_001.jpg" target="_blank">
 	<img src="./lowres/00551_001.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="298" height="500">
 </a>
 
@@ -5854,14 +5854,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 4b1ba64dcf86459eafd45ccd07c569f7
 ```
 
-<a href="./archive/00551_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00551_000.jpg" target="_blank">
 	<img src="./lowres/00551_000.jpg" alt="Fujifilm Fujicolor Superia Multi400 35mm film box outside" loading="lazy" width="294" height="500">
 </a>
 
 
 `UUID: 1d360d80e5b74366a57bb661651a0ea1`↓
 
-<a href="./archive/00550_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00550_001.jpg" target="_blank">
 	<img src="./lowres/00550_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="316" height="500">
 </a>
 
@@ -5875,14 +5875,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 417dc63303e24ed58b36a4fbe55ab0cc
 ```
 
-<a href="./archive/00550_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00550_000.jpg" target="_blank">
 	<img src="./lowres/00550_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="391" height="500">
 </a>
 
 
 `UUID: 5b7c6a7904af43aa9c02ab476a36d80f`↓
 
-<a href="./archive/00549_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00549_001.jpg" target="_blank">
 	<img src="./lowres/00549_001.jpg" alt="Lomography Berlin 35mm film box outside" loading="lazy" width="500" height="363">
 </a>
 
@@ -5896,14 +5896,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : f9c71bea8e0942ceab31c4f97ea6d3df
 ```
 
-<a href="./archive/00549_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00549_000.jpg" target="_blank">
 	<img src="./lowres/00549_000.jpg" alt="Lomography Berlin 35mm film box outside" loading="lazy" width="500" height="378">
 </a>
 
 
 `UUID: 4590b9bb4e264db4990e69e1b93862f4`↓
 
-<a href="./archive/00548_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00548_001.jpg" target="_blank">
 	<img src="./lowres/00548_001.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="363">
 </a>
 
@@ -5917,7 +5917,7 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : 35d94ea6e97849ee876a5c61ee532769
 ```
 
-<a href="./archive/00548_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00548_000.jpg" target="_blank">
 	<img src="./lowres/00548_000.jpg" alt="Lomography Postdam 120 film box outside" loading="lazy" width="500" height="270">
 </a>
 
@@ -5931,14 +5931,14 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : db108d3120e04e4987e0c94174e0d515
 ```
 
-<a href="./archive/00547_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00547_000.jpg" target="_blank">
 	<img src="./lowres/00547_000.jpg" alt="Agfa Agfacolor CNS2 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 
 `UUID: 5a268c9c5d684ad18cdc7650cf1c692d`↓
 
-<a href="./archive/00546_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00546_001.jpg" target="_blank">
 	<img src="./lowres/00546_001.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="289" height="500">
 </a>
 
@@ -5952,35 +5952,35 @@ Added : 2026-04-13   |  Author  : @Hol.m35
 UUID  : e8e8fbafc8a64a19ad483dc1d7e3442d
 ```
 
-<a href="./archive/00546_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00546_000.jpg" target="_blank">
 	<img src="./lowres/00546_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="291" height="500">
 </a>
 
 
 `UUID: e7373c8293d34a5dadc57a48f16748e9`↓
 
-<a href="./archive/00545_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00545_004.jpg" target="_blank">
 	<img src="./lowres/00545_004.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="259">
 </a>
 
 
 `UUID: c3a7565139c64afab94d5a16bf801bcf`↓
 
-<a href="./archive/00545_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00545_003.jpg" target="_blank">
 	<img src="./lowres/00545_003.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
 
 `UUID: a88be5144d414706a3b1faffb5489e51`↓
 
-<a href="./archive/00545_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00545_002.jpg" target="_blank">
 	<img src="./lowres/00545_002.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="270">
 </a>
 
 
 `UUID: 87f4697850314f529e3ebb3c0d41ce8b`↓
 
-<a href="./archive/00545_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00545_001.jpg" target="_blank">
 	<img src="./lowres/00545_001.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="276">
 </a>
 
@@ -5994,42 +5994,42 @@ Added : 2026-04-13   |  Author  : Luci 101
 UUID  : dafc01117d5744b9a1591e4ad9ed481f
 ```
 
-<a href="./archive/00545_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00545_000.jpg" target="_blank">
 	<img src="./lowres/00545_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="266">
 </a>
 
 
 `UUID: 456bc06ad0d5476aa82f4e4d4dd74027`↓
 
-<a href="./archive/00544_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_005.jpg" target="_blank">
 	<img src="./lowres/00544_005.jpg" alt="ORWO OrwoChrome UT18 35mm film box leaflet" loading="lazy" width="286" height="500">
 </a>
 
 
 `UUID: 071fb5a273094f789e73ff7263d24747`↓
 
-<a href="./archive/00544_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_004.jpg" target="_blank">
 	<img src="./lowres/00544_004.jpg" alt="ORWO OrwoChrome UT18 35mm film box leaflet" loading="lazy" width="286" height="500">
 </a>
 
 
 `UUID: fbb516474ad04dc1a9432b4540028826`↓
 
-<a href="./archive/00544_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_003.jpg" target="_blank">
 	<img src="./lowres/00544_003.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
 
 `UUID: c034fd63fef94771a456a85502c95560`↓
 
-<a href="./archive/00544_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_002.jpg" target="_blank">
 	<img src="./lowres/00544_002.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="476">
 </a>
 
 
 `UUID: 57b927e054184769b5ae8313c7d5d9e3`↓
 
-<a href="./archive/00544_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_001.jpg" target="_blank">
 	<img src="./lowres/00544_001.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="304">
 </a>
 
@@ -6043,21 +6043,21 @@ Added : 2026-04-13   |  Author  : Luci 101
 UUID  : ee69ebd9b18946a2b81e5369f74ff2ce
 ```
 
-<a href="./archive/00544_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00544_000.jpg" target="_blank">
 	<img src="./lowres/00544_000.jpg" alt="ORWO OrwoChrome UT18 35mm film box outside" loading="lazy" width="500" height="304">
 </a>
 
 
 `UUID: f4278cfd7eea4c7a8f07251385bf4745`↓
 
-<a href="./archive/00543_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00543_002.jpg" target="_blank">
 	<img src="./lowres/00543_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="193" height="500">
 </a>
 
 
 `UUID: af73630d2fa7497bb84299a4706ed0da`↓
 
-<a href="./archive/00543_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00543_001.jpg" target="_blank">
 	<img src="./lowres/00543_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="186" height="500">
 </a>
 
@@ -6071,14 +6071,14 @@ Added : 2026-04-13   |  Author  : @ob.skura
 UUID  : d6df7ff94eb54de292068cb45080fe39
 ```
 
-<a href="./archive/00543_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00543_000.jpg" target="_blank">
 	<img src="./lowres/00543_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="487">
 </a>
 
 
 `UUID: d55ee26a62134eabb2784c27adc0c895`↓
 
-<a href="./archive/00542_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00542_001.jpg" target="_blank">
 	<img src="./lowres/00542_001.jpg" alt="Kodak Ektachrome 160T 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
@@ -6092,14 +6092,14 @@ Added : 2026-04-13   |  Author  : @tylerdrey
 UUID  : dae0e4a473644444817e010eeb3d7b64
 ```
 
-<a href="./archive/00542_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00542_000.jpg" target="_blank">
 	<img src="./lowres/00542_000.jpg" alt="Kodak Ektachrome 160T 35mm film box outside" loading="lazy" width="414" height="500">
 </a>
 
 
 `UUID: ba7892ff23004ca29c649c9ec62c9952`↓
 
-<a href="./archive/00541_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00541_001.jpg" target="_blank">
 	<img src="./lowres/00541_001.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
@@ -6113,7 +6113,7 @@ Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : 9362bbd2bc0f48f68f28b7e5e9700217
 ```
 
-<a href="./archive/00541_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00541_000.jpg" target="_blank">
 	<img src="./lowres/00541_000.jpg" alt="Gevaert Superchrom 12x16.5cm film box outside" loading="lazy" width="409" height="500">
 </a>
 
@@ -6127,7 +6127,7 @@ Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : 6e678765fd1c48e08d9ebb05cb5b6d94
 ```
 
-<a href="./archive/00540_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00540_000.jpg" target="_blank">
 	<img src="./lowres/00540_000.jpg" alt="Ilford HP3 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
@@ -6141,49 +6141,49 @@ Added : 2026-04-13   |  Author  : @ellafridalindblom
 UUID  : b9989063d3264ee2b866b21d3e9ab625
 ```
 
-<a href="./archive/00539_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00539_000.jpg" target="_blank">
 	<img src="./lowres/00539_000.jpg" alt="Kodak Super Speed Ortho Portrait 12x16.5cm film box outside" loading="lazy" width="394" height="500">
 </a>
 
 
 `UUID: 31be2de2870945cc88fb17d6c916cc0e`↓
 
-<a href="./archive/00538_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_006.jpg" target="_blank">
 	<img src="./lowres/00538_006.jpg" alt="Agfa AgfaChrome 100RS 120 film box leaflet" loading="lazy" width="220" height="499">
 </a>
 
 
 `UUID: cff1f06d7a2244599bac9cea8bd5d014`↓
 
-<a href="./archive/00538_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_005.jpg" target="_blank">
 	<img src="./lowres/00538_005.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
 </a>
 
 
 `UUID: 37ca2a55104e4f03b4bdc483a1a9d14e`↓
 
-<a href="./archive/00538_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_004.jpg" target="_blank">
 	<img src="./lowres/00538_004.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="486" height="500">
 </a>
 
 
 `UUID: 5330ba90ecc04adfb0a6c681bf1983ba`↓
 
-<a href="./archive/00538_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_003.jpg" target="_blank">
 	<img src="./lowres/00538_003.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
 </a>
 
 
 `UUID: 8ef09b75e4fe4f88a8cd05d71b562d95`↓
 
-<a href="./archive/00538_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_002.jpg" target="_blank">
 	<img src="./lowres/00538_002.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="222">
 </a>
 
 
 `UUID: fddb3bf2c2384ede9010c5a601dca722`↓
 
-<a href="./archive/00538_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_001.jpg" target="_blank">
 	<img src="./lowres/00538_001.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="190">
 </a>
 
@@ -6197,21 +6197,21 @@ Added : 2026-04-13   |  Author  : Luci 101
 UUID  : 06b483aba54b4ce5929a53b74c7d2c42
 ```
 
-<a href="./archive/00538_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00538_000.jpg" target="_blank">
 	<img src="./lowres/00538_000.jpg" alt="Agfa AgfaChrome 100RS 120 film box outside" loading="lazy" width="500" height="211">
 </a>
 
 
 `UUID: fe93855a558c4a649fc6c953e1e5c221`↓
 
-<a href="./archive/00537_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00537_002.jpg" target="_blank">
 	<img src="./lowres/00537_002.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="229" height="499">
 </a>
 
 
 `UUID: 77473d75388148a2a9d3d4cf881d7047`↓
 
-<a href="./archive/00537_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00537_001.jpg" target="_blank">
 	<img src="./lowres/00537_001.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="223" height="500">
 </a>
 
@@ -6225,49 +6225,49 @@ Added : 2026-04-07   |  Author  : Tallbird Cowboy
 UUID  : 9f12faa621fe4c06919086dcec7c2caa
 ```
 
-<a href="./archive/00537_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00537_000.jpg" target="_blank">
 	<img src="./lowres/00537_000.jpg" alt="Kodak Kodachrome II 828 film box outside" loading="lazy" width="441" height="500">
 </a>
 
 
 `UUID: 566378dad0954215a8976cc6cf6cf173`↓
 
-<a href="./archive/00536_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_006.jpg" target="_blank">
 	<img src="./lowres/00536_006.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="238" height="500">
 </a>
 
 
 `UUID: 3a535cfbe2cf4290897513af040df7aa`↓
 
-<a href="./archive/00536_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_005.jpg" target="_blank">
 	<img src="./lowres/00536_005.jpg" alt="Kodak Kodacolor II 35mm film box leaflet" loading="lazy" width="218" height="500">
 </a>
 
 
 `UUID: f01dcebad7414ecbafe609411370df1e`↓
 
-<a href="./archive/00536_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_004.jpg" target="_blank">
 	<img src="./lowres/00536_004.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
 </a>
 
 
 `UUID: 8d2b565ef2c74110906f66356f164e90`↓
 
-<a href="./archive/00536_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_003.jpg" target="_blank">
 	<img src="./lowres/00536_003.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
 </a>
 
 
 `UUID: 24569d9227db4530b89471f293852831`↓
 
-<a href="./archive/00536_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_002.jpg" target="_blank">
 	<img src="./lowres/00536_002.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="495" height="499">
 </a>
 
 
 `UUID: 3c11f8ae82214741a97acba512ffa0f2`↓
 
-<a href="./archive/00536_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_001.jpg" target="_blank">
 	<img src="./lowres/00536_001.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="346">
 </a>
 
@@ -6281,49 +6281,49 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : ab800ae503c34a0aa02671d6450e8dcf
 ```
 
-<a href="./archive/00536_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00536_000.jpg" target="_blank">
 	<img src="./lowres/00536_000.jpg" alt="Kodak Kodacolor II 35mm film box outside" loading="lazy" width="500" height="341">
 </a>
 
 
 `UUID: e466cea5b2be4f3a80367091c829202e`↓
 
-<a href="./archive/00535_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_006.jpg" target="_blank">
 	<img src="./lowres/00535_006.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="213" height="499">
 </a>
 
 
 `UUID: bf6040a757214fd5a3acc9ecefe96811`↓
 
-<a href="./archive/00535_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_005.jpg" target="_blank">
 	<img src="./lowres/00535_005.jpg" alt="ORWO UK18 35mm film box leaflet" loading="lazy" width="209" height="500">
 </a>
 
 
 `UUID: 8c444d2a5b724d679e2cc5c6bf3c33ff`↓
 
-<a href="./archive/00535_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_004.jpg" target="_blank">
 	<img src="./lowres/00535_004.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="325">
 </a>
 
 
 `UUID: 86f98dc2121d47caae546d61901425b9`↓
 
-<a href="./archive/00535_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_003.jpg" target="_blank">
 	<img src="./lowres/00535_003.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="308">
 </a>
 
 
 `UUID: 0024791369a7416f81f5322942fb529f`↓
 
-<a href="./archive/00535_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_002.jpg" target="_blank">
 	<img src="./lowres/00535_002.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="319">
 </a>
 
 
 `UUID: 05670fe7dc444ef4afd5a9856620a6be`↓
 
-<a href="./archive/00535_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_001.jpg" target="_blank">
 	<img src="./lowres/00535_001.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
@@ -6337,42 +6337,42 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : d3755977cc6f49dab6e0fc8197b3c92d
 ```
 
-<a href="./archive/00535_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00535_000.jpg" target="_blank">
 	<img src="./lowres/00535_000.jpg" alt="ORWO UK18 35mm film box outside" loading="lazy" width="500" height="488">
 </a>
 
 
 `UUID: 1e6b8d2a0fcb4803a1b4724a3c05d55e`↓
 
-<a href="./archive/00534_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_005.jpg" target="_blank">
 	<img src="./lowres/00534_005.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
 </a>
 
 
 `UUID: 5c792057ae00453fab2206dc24459024`↓
 
-<a href="./archive/00534_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_004.jpg" target="_blank">
 	<img src="./lowres/00534_004.jpg" alt="ORWO NP 22 120 film box leaflet" loading="lazy" width="288" height="500">
 </a>
 
 
 `UUID: 1370e15f3fdd45818d436bff362b934c`↓
 
-<a href="./archive/00534_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_003.jpg" target="_blank">
 	<img src="./lowres/00534_003.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="189">
 </a>
 
 
 `UUID: 8aa249acb29b457fa7b9507963d568a9`↓
 
-<a href="./archive/00534_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_002.jpg" target="_blank">
 	<img src="./lowres/00534_002.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="493">
 </a>
 
 
 `UUID: 4558e00e75de4fe8b16b24422e65b281`↓
 
-<a href="./archive/00534_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_001.jpg" target="_blank">
 	<img src="./lowres/00534_001.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="197">
 </a>
 
@@ -6386,35 +6386,35 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : 3a26b6e03eec4c35accf4991a4cd6b7f
 ```
 
-<a href="./archive/00534_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00534_000.jpg" target="_blank">
 	<img src="./lowres/00534_000.jpg" alt="ORWO NP 22 120 film box outside" loading="lazy" width="500" height="200">
 </a>
 
 
 `UUID: f7a0a295907541368829aa36192b0ede`↓
 
-<a href="./archive/00533_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00533_004.jpg" target="_blank">
 	<img src="./lowres/00533_004.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="206" height="499">
 </a>
 
 
 `UUID: 40cf1acc36ad41898c60646b8c61b855`↓
 
-<a href="./archive/00533_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00533_003.jpg" target="_blank">
 	<img src="./lowres/00533_003.jpg" alt="ORWO NC 19 120 film box leaflet" loading="lazy" width="205" height="500">
 </a>
 
 
 `UUID: bc8f4df82be8463eb5744d8728eb967b`↓
 
-<a href="./archive/00533_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00533_002.jpg" target="_blank">
 	<img src="./lowres/00533_002.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
 </a>
 
 
 `UUID: bea59b338851477b94e939e80f50b2f2`↓
 
-<a href="./archive/00533_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00533_001.jpg" target="_blank">
 	<img src="./lowres/00533_001.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="490">
 </a>
 
@@ -6428,7 +6428,7 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : a1dea49e29ae412596b2b691ac3bdca5
 ```
 
-<a href="./archive/00533_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00533_000.jpg" target="_blank">
 	<img src="./lowres/00533_000.jpg" alt="ORWO NC 19 120 film box outside" loading="lazy" width="500" height="235">
 </a>
 
@@ -6442,7 +6442,7 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : c5f2c4c39f884a668f540f88d21c003e
 ```
 
-<a href="./archive/00532_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00532_000.jpg" target="_blank">
 	<img src="./lowres/00532_000.jpg" alt="Foton Mikrofilm Negatywowy Super Orto 35mm film box outside" loading="lazy" width="484" height="500">
 </a>
 
@@ -6456,14 +6456,14 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : 227450eabb63400cb0f7fb663797e815
 ```
 
-<a href="./archive/00531_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00531_000.jpg" target="_blank">
 	<img src="./lowres/00531_000.jpg" alt="ORWO DK5 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 427907b346804a719d109c5c7d407e84`↓
 
-<a href="./archive/00530_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00530_001.jpg" target="_blank">
 	<img src="./lowres/00530_001.jpg" alt="ORWO OrwoChrome RC100 35mm film box inside" loading="lazy" width="399" height="500">
 </a>
 
@@ -6477,21 +6477,21 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : 2ba82c28507045deadcde0588535a9b6
 ```
 
-<a href="./archive/00530_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00530_000.jpg" target="_blank">
 	<img src="./lowres/00530_000.jpg" alt="ORWO OrwoChrome RC100 35mm film box outside" loading="lazy" width="392" height="500">
 </a>
 
 
 `UUID: 1dc440471e384b01a55f1877dc636836`↓
 
-<a href="./archive/00529_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00529_002.jpg" target="_blank">
 	<img src="./lowres/00529_002.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="270" height="500">
 </a>
 
 
 `UUID: c106929fe57e459dbac9ee8e10ca9b50`↓
 
-<a href="./archive/00529_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00529_001.jpg" target="_blank">
 	<img src="./lowres/00529_001.jpg" alt="Foton Fotopan CD 35mm film box leaflet" loading="lazy" width="283" height="500">
 </a>
 
@@ -6505,14 +6505,14 @@ Added : 2026-03-02   |  Author  : Luci 101
 UUID  : e411c38ab057475f8874bd176d3e6ba7
 ```
 
-<a href="./archive/00529_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00529_000.jpg" target="_blank">
 	<img src="./lowres/00529_000.jpg" alt="Foton Fotopan CD 35mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: 98d3ecfcdc824e7bbaef2d5a1f52bd05`↓
 
-<a href="./archive/00528_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00528_001.jpg" target="_blank">
 	<img src="./lowres/00528_001.jpg" alt="efke KB-25 35mm film box inside" loading="lazy" width="468" height="500">
 </a>
 
@@ -6526,7 +6526,7 @@ Added : 2026-03-02   |  Author  : Tobias
 UUID  : b41fb584f713486eb5a5da2fe16e4d17
 ```
 
-<a href="./archive/00528_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00528_000.jpg" target="_blank">
 	<img src="./lowres/00528_000.jpg" alt="efke KB-25 35mm film box outside" loading="lazy" width="496" height="499">
 </a>
 
@@ -6540,7 +6540,7 @@ Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : c72fdf2e60bf4d488f2ac0b2251d099e
 ```
 
-<a href="./archive/00527_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00527_000.jpg" target="_blank">
 	<img src="./lowres/00527_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="482">
 </a>
 
@@ -6554,14 +6554,14 @@ Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : c04d5697e35c49049322ce823f32ac71
 ```
 
-<a href="./archive/00526_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00526_000.jpg" target="_blank">
 	<img src="./lowres/00526_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
 
 `UUID: 67bd10dd07644db88eae7a01ab789970`↓
 
-<a href="./archive/00525_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00525_001.jpg" target="_blank">
 	<img src="./lowres/00525_001.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="188" height="500">
 </a>
 
@@ -6575,7 +6575,7 @@ Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : b25d00004e6f46699b06a4cf360f8a6f
 ```
 
-<a href="./archive/00525_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00525_000.jpg" target="_blank">
 	<img src="./lowres/00525_000.jpg" alt="Fujifilm Hi-Speed 1600 Disposable Camera film box outside" loading="lazy" width="438" height="500">
 </a>
 
@@ -6589,14 +6589,14 @@ Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 1f1865a95b8847d69dcd18cf52bc9ea9
 ```
 
-<a href="./archive/00524_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00524_000.jpg" target="_blank">
 	<img src="./lowres/00524_000.jpg" alt="Fujifilm Neopan Acros 100 II 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
 
 `UUID: 7b38d2f4be7149fd8dc2134415488968`↓
 
-<a href="./archive/00523_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00523_001.jpg" target="_blank">
 	<img src="./lowres/00523_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
@@ -6610,7 +6610,7 @@ Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 97b840e334f14e48ba5baf99f38ea431
 ```
 
-<a href="./archive/00523_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00523_000.jpg" target="_blank">
 	<img src="./lowres/00523_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
@@ -6625,7 +6625,7 @@ UUID  : 9fb74244831e4f8386240b2804a13930
 Notes : Vintage Tone
 ```
 
-<a href="./archive/00522_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00522_000.jpg" target="_blank">
 	<img src="./lowres/00522_000.jpg" alt="Ilford Ilfocolor 400 Plus 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
@@ -6639,7 +6639,7 @@ Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 7bd1d8f74bd641ea8de78dcaaa7e7145
 ```
 
-<a href="./archive/00521_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00521_000.jpg" target="_blank">
 	<img src="./lowres/00521_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
@@ -6653,7 +6653,7 @@ Added : 2026-03-02   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 178660bdc2f841308698aacd5acacba7
 ```
 
-<a href="./archive/00520_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00520_000.jpg" target="_blank">
 	<img src="./lowres/00520_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="402" height="500">
 </a>
 
@@ -6667,7 +6667,7 @@ Added : 2026-03-02   |  Author  : TheSelousScout
 UUID  : b33ca9b3d2e34544a264987426efba30
 ```
 
-<a href="./archive/00519_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00519_000.jpg" target="_blank">
 	<img src="./lowres/00519_000.jpg" alt="Kodak Kodacolor 200 35mm film box outside" loading="lazy" width="459" height="499">
 </a>
 
@@ -6681,14 +6681,14 @@ Added : 2026-03-02   |  Author  : @Hol.m35
 UUID  : 8acc893c8082453a8f83a17f3780fb3a
 ```
 
-<a href="./archive/00518_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00518_000.jpg" target="_blank">
 	<img src="./lowres/00518_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="500" height="238">
 </a>
 
 
 `UUID: 29374a9675814feb86bed63775784334`↓
 
-<a href="./archive/00517_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00517_001.jpg" target="_blank">
 	<img src="./lowres/00517_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="446">
 </a>
 
@@ -6702,7 +6702,7 @@ Added : 2026-03-02   |  Author  : yc128
 UUID  : 4b9fda92ef0b400a909c77872715fe9b
 ```
 
-<a href="./archive/00517_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00517_000.jpg" target="_blank">
 	<img src="./lowres/00517_000.jpg" alt="Ilford FP4 Plus 120 film box outside" loading="lazy" width="500" height="445">
 </a>
 
@@ -6716,14 +6716,14 @@ Added : 2026-03-02   |  Author  : yc128
 UUID  : 187943e086e842469a7f19ddd0f8a7c9
 ```
 
-<a href="./archive/00516_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00516_000.jpg" target="_blank">
 	<img src="./lowres/00516_000.jpg" alt="Optik Oldschool OptiColour 200 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
 
 `UUID: df516fa250bb494dbca14134a2143e6a`↓
 
-<a href="./archive/00515_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00515_001.jpg" target="_blank">
 	<img src="./lowres/00515_001.jpg" alt="Foma Fomapan classic 100 120 film box inside" loading="lazy" width="494" height="500">
 </a>
 
@@ -6737,7 +6737,7 @@ Added : 2026-03-02   |  Author  : @recycling.film
 UUID  : e5c7523b6226483b9d4a1b24d7035e7b
 ```
 
-<a href="./archive/00515_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00515_000.jpg" target="_blank">
 	<img src="./lowres/00515_000.jpg" alt="Foma Fomapan classic 100 120 film box outside" loading="lazy" width="500" height="458">
 </a>
 
@@ -6751,7 +6751,7 @@ Added : 2026-03-02   |  Author  : @recycling.film
 UUID  : a8aa315de3e54a68ae03d37f80d278b7
 ```
 
-<a href="./archive/00514_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00514_000.jpg" target="_blank">
 	<img src="./lowres/00514_000.jpg" alt="Ferrania Solaris FG Plus 35mm film box outside" loading="lazy" width="462" height="500">
 </a>
 
@@ -6765,7 +6765,7 @@ Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : e546f5291c23497b9643b51318452ce9
 ```
 
-<a href="./archive/00513_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00513_000.jpg" target="_blank">
 	<img src="./lowres/00513_000.jpg" alt="Reflx Lab 640T AHU 35mm film cartridge" loading="lazy" width="500" height="230">
 </a>
 
@@ -6779,7 +6779,7 @@ Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : f6ddd372aaa0413a961691159ba30bd5
 ```
 
-<a href="./archive/00512_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00512_000.jpg" target="_blank">
 	<img src="./lowres/00512_000.jpg" alt="Reflx Lab 320D AHU 35mm film cartridge" loading="lazy" width="500" height="240">
 </a>
 
@@ -6793,7 +6793,7 @@ Added : 2026-01-26   |  Author  : @shotbyliampewpew
 UUID  : 758ee88b8edf42b492c8c240281d5faa
 ```
 
-<a href="./archive/00511_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00511_000.jpg" target="_blank">
 	<img src="./lowres/00511_000.jpg" alt="Escura EDO ukiyo-e 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
@@ -6807,14 +6807,14 @@ Added : 2026-01-26   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 8513abf4476f41c880303c3116ee1ba8
 ```
 
-<a href="./archive/00510_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00510_000.jpg" target="_blank">
 	<img src="./lowres/00510_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
 
 `UUID: 83267ba97d474616b31a80a3a2b03493`↓
 
-<a href="./archive/00509_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00509_001.jpg" target="_blank">
 	<img src="./lowres/00509_001.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="421">
 </a>
 
@@ -6828,14 +6828,14 @@ Added : 2026-01-26   |  Author  : kaimon
 UUID  : 0e7da8b53783476da740ee07ca9a3e0b
 ```
 
-<a href="./archive/00509_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00509_000.jpg" target="_blank">
 	<img src="./lowres/00509_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="382">
 </a>
 
 
 `UUID: 6f069574b62047eeafe63d911d3d20ea`↓
 
-<a href="./archive/00508_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00508_001.jpg" target="_blank">
 	<img src="./lowres/00508_001.jpg" alt="Rollei Retro 400S 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
@@ -6849,7 +6849,7 @@ Added : 2026-01-26   |  Author  : @Hol.m35
 UUID  : 17064b735c704134b793c63b583ef2cf
 ```
 
-<a href="./archive/00508_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00508_000.jpg" target="_blank">
 	<img src="./lowres/00508_000.jpg" alt="Rollei Retro 400S 120 film box outside" loading="lazy" width="500" height="416">
 </a>
 
@@ -6863,7 +6863,7 @@ Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : bd59eca469724f71b8b6da2e89dd9942
 ```
 
-<a href="./archive/00507_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00507_000.jpg" target="_blank">
 	<img src="./lowres/00507_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="234" height="500">
 </a>
 
@@ -6877,7 +6877,7 @@ Added : 2026-01-26   |  Author  : Chrisbes
 UUID  : 94d1751b3c454ec590a5d79ee1f9fd36
 ```
 
-<a href="./archive/00506_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00506_000.jpg" target="_blank">
 	<img src="./lowres/00506_000.jpg" alt="Fujifilm Superia 200 35mm film box outside" loading="lazy" width="500" height="358">
 </a>
 
@@ -6891,21 +6891,21 @@ Added : 2026-01-26   |  Author  : @Hol.m35
 UUID  : bc9726f8d278473591afb78fc49bdd85
 ```
 
-<a href="./archive/00505_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00505_000.jpg" target="_blank">
 	<img src="./lowres/00505_000.jpg" alt="Optik Oldschool SantaColor 35mm film box outside" loading="lazy" width="500" height="478">
 </a>
 
 
 `UUID: 92ea3f721b484deba093c773a0c7ea18`↓
 
-<a href="./archive/00504_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00504_002.jpg" target="_blank">
 	<img src="./lowres/00504_002.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="302" height="500">
 </a>
 
 
 `UUID: e0f475a33cbc4eb985d8958d7cd7a505`↓
 
-<a href="./archive/00504_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00504_001.jpg" target="_blank">
 	<img src="./lowres/00504_001.jpg" alt="ORWO NP22 35mm film box inside" loading="lazy" width="320" height="500">
 </a>
 
@@ -6919,14 +6919,14 @@ Added : 2025-12-29   |  Author  : benikum
 UUID  : cfbdda5effec496ca0d9d91d29d65437
 ```
 
-<a href="./archive/00504_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00504_000.jpg" target="_blank">
 	<img src="./lowres/00504_000.jpg" alt="ORWO NP22 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
 
 `UUID: 5490de5951794c9a946af94766f90eff`↓
 
-<a href="./archive/00503_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00503_001.jpg" target="_blank">
 	<img src="./lowres/00503_001.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box inside" loading="lazy" width="421" height="500">
 </a>
 
@@ -6940,21 +6940,21 @@ Added : 2025-12-29   |  Author  : @Hol.m35
 UUID  : 881f46ac2824430cb12f79087a3338c5
 ```
 
-<a href="./archive/00503_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00503_000.jpg" target="_blank">
 	<img src="./lowres/00503_000.jpg" alt="Max Spielmann Pro-Zoom MX 400 35mm film box outside" loading="lazy" width="417" height="500">
 </a>
 
 
 `UUID: f21e18a9ede6445c87e3bc1d2af55363`↓
 
-<a href="./archive/00502_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00502_002.jpg" target="_blank">
 	<img src="./lowres/00502_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
 
 `UUID: 0d8f45a79ecc42cd8b60018426be966a`↓
 
-<a href="./archive/00502_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00502_001.jpg" target="_blank">
 	<img src="./lowres/00502_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
@@ -6968,7 +6968,7 @@ Added : 2025-12-12   |  Author  : lt_col_tall
 UUID  : 943880744935475fa16fbe58b6334a3b
 ```
 
-<a href="./archive/00502_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00502_000.jpg" target="_blank">
 	<img src="./lowres/00502_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="482">
 </a>
 
@@ -6982,7 +6982,7 @@ Added : 2025-12-12   |  Author  : kaimon
 UUID  : 9896161f6dd442ceaa89c6d209063c94
 ```
 
-<a href="./archive/00501_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00501_000.jpg" target="_blank">
 	<img src="./lowres/00501_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="430" height="500">
 </a>
 
@@ -6996,14 +6996,14 @@ Added : 2025-12-12   |  Author  : kaimon
 UUID  : 8b04191a9e994df4a219d5bfd9dfc96e
 ```
 
-<a href="./archive/00500_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00500_000.jpg" target="_blank">
 	<img src="./lowres/00500_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
 `UUID: c98c9d4ac4f944cd837f718b5ae748a0`↓
 
-<a href="./archive/00499_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00499_001.jpg" target="_blank">
 	<img src="./lowres/00499_001.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box inside" loading="lazy" width="500" height="458">
 </a>
 
@@ -7017,28 +7017,28 @@ Added : 2025-12-12   |  Author  : @gregrouxphotography
 UUID  : 6b7dc0000a5f493caa53c841c3ce60ce
 ```
 
-<a href="./archive/00499_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00499_000.jpg" target="_blank">
 	<img src="./lowres/00499_000.jpg" alt="Film Photography Project FPP 620 Black & White Panchromatic Negative Film 620 film box outside" loading="lazy" width="500" height="458">
 </a>
 
 
 `UUID: d3ee36b0442241e78e56a0b9910e24a9`↓
 
-<a href="./archive/00498_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00498_003.jpg" target="_blank">
 	<img src="./lowres/00498_003.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box inside" loading="lazy" width="500" height="450">
 </a>
 
 
 `UUID: 52079bbae4d8474da690f4f6da194578`↓
 
-<a href="./archive/00498_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00498_002.jpg" target="_blank">
 	<img src="./lowres/00498_002.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box inside" loading="lazy" width="433" height="500">
 </a>
 
 
 `UUID: f6c79651a4c147e0b902c3e8c4db52e3`↓
 
-<a href="./archive/00498_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00498_001.jpg" target="_blank">
 	<img src="./lowres/00498_001.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box outside" loading="lazy" width="426" height="500">
 </a>
 
@@ -7052,7 +7052,7 @@ Added : 2025-12-12   |  Author  : toader
 UUID  : 51d75e2058564d668402d5f1bf3fe12f
 ```
 
-<a href="./archive/00498_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00498_000.jpg" target="_blank">
 	<img src="./lowres/00498_000.jpg" alt="Polaroid Color 600 Film Instant Integral Film film box outside" loading="lazy" width="500" height="471">
 </a>
 
@@ -7066,7 +7066,7 @@ Added : 2025-12-12   |  Author  : @recycling.film
 UUID  : 70948fbe01434f64bf95c813e2c8c8ed
 ```
 
-<a href="./archive/00497_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00497_000.jpg" target="_blank">
 	<img src="./lowres/00497_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="456" height="500">
 </a>
 
@@ -7080,14 +7080,14 @@ Added : 2025-12-03   |  Author  : @recycling.film
 UUID  : ce5edab694b4467aa9b3e1d81d8bf92c
 ```
 
-<a href="./archive/00496_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00496_000.jpg" target="_blank">
 	<img src="./lowres/00496_000.jpg" alt="Polaroid Type 42 Instant Roll Film film box outside" loading="lazy" width="470" height="500">
 </a>
 
 
 `UUID: 598d18cdb1b94a4499a2cdd1383a4088`↓
 
-<a href="./archive/00495_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00495_001.jpg" target="_blank">
 	<img src="./lowres/00495_001.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="500" height="423">
 </a>
 
@@ -7101,14 +7101,14 @@ Added : 2025-12-03   |  Author  : @Hol.m35
 UUID  : 7daedd3c10164aa3a9ca3f7a9eae7796
 ```
 
-<a href="./archive/00495_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00495_000.jpg" target="_blank">
 	<img src="./lowres/00495_000.jpg" alt="Lomography Color Negative 800 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
 
 `UUID: 93c0168d54bc413a8841ef0aeccd220c`↓
 
-<a href="./archive/00494_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00494_001.jpg" target="_blank">
 	<img src="./lowres/00494_001.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="254">
 </a>
 
@@ -7122,7 +7122,7 @@ Added : 2025-12-03   |  Author  : @Hol.m35
 UUID  : 11a01c72e7184305af18b815eed7246a
 ```
 
-<a href="./archive/00494_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00494_000.jpg" target="_blank">
 	<img src="./lowres/00494_000.jpg" alt="Lomography Berlin 120 film box outside" loading="lazy" width="500" height="260">
 </a>
 
@@ -7136,7 +7136,7 @@ Added : 2025-12-01   |  Author  : Pelicram
 UUID  : 89e114393f3d49808e0a572e88406cd2
 ```
 
-<a href="./archive/00493_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00493_000.jpg" target="_blank">
 	<img src="./lowres/00493_000.jpg" alt="Candido Colour Negative Film 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -7150,14 +7150,14 @@ Added : 2025-11-25   |  Author  : waldoboro
 UUID  : dd90580d0b034a42ab153ef89c82600a
 ```
 
-<a href="./archive/00492_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00492_000.jpg" target="_blank">
 	<img src="./lowres/00492_000.jpg" alt="Svema FN 64 35mm film box outside" loading="lazy" width="500" height="485">
 </a>
 
 
 `UUID: 879b36b05a2a48f9ac5c68f871c37e60`↓
 
-<a href="./archive/00491_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00491_001.jpg" target="_blank">
 	<img src="./lowres/00491_001.jpg" alt="Perutz Primera 35mm film box inside" loading="lazy" width="431" height="500">
 </a>
 
@@ -7171,14 +7171,14 @@ Added : 2025-11-25   |  Author  : waldoboro
 UUID  : 4e05e028af4c403786967ee168f3cbfb
 ```
 
-<a href="./archive/00491_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00491_000.jpg" target="_blank">
 	<img src="./lowres/00491_000.jpg" alt="Perutz Primera 35mm film box outside" loading="lazy" width="418" height="500">
 </a>
 
 
 `UUID: 78927c2e729346c49a3d788cb89605be`↓
 
-<a href="./archive/00490_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00490_001.jpg" target="_blank">
 	<img src="./lowres/00490_001.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box inside" loading="lazy" width="416" height="499">
 </a>
 
@@ -7193,7 +7193,7 @@ UUID  : 17d5e395c4d64dc2900c1ab54ffa30bf
 Notes : Nueva!!
 ```
 
-<a href="./archive/00490_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00490_000.jpg" target="_blank">
 	<img src="./lowres/00490_000.jpg" alt="Fujifilm Fujicolor Superia 100 35mm film box outside" loading="lazy" width="450" height="500">
 </a>
 
@@ -7207,14 +7207,14 @@ Added : 2025-11-25   |  Author  : waldoboro
 UUID  : e7fb9bd0f50c401dbf51f7c858167d4b
 ```
 
-<a href="./archive/00489_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00489_000.jpg" target="_blank">
 	<img src="./lowres/00489_000.jpg" alt="Kodak Gold 200 35mm film box outside" loading="lazy" width="429" height="499">
 </a>
 
 
 `UUID: 783e8248f4894bedbe3a0d85ce61abf1`↓
 
-<a href="./archive/00488_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00488_001.jpg" target="_blank">
 	<img src="./lowres/00488_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -7228,14 +7228,14 @@ Added : 2025-11-25   |  Author  : waldoboro
 UUID  : 4ed0923440b44070b1da36f464f01b30
 ```
 
-<a href="./archive/00488_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00488_000.jpg" target="_blank">
 	<img src="./lowres/00488_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 
 `UUID: 4d1bc814dacc43818ad07db6bb6459c9`↓
 
-<a href="./archive/00487_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00487_001.jpg" target="_blank">
 	<img src="./lowres/00487_001.jpg" alt="Ilford Ortho Plus 120 film box inside" loading="lazy" width="496" height="499">
 </a>
 
@@ -7249,7 +7249,7 @@ Added : 2025-11-25   |  Author  : kaimon
 UUID  : cc385be1b2a04a35aef42d7e6dc51952
 ```
 
-<a href="./archive/00487_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00487_000.jpg" target="_blank">
 	<img src="./lowres/00487_000.jpg" alt="Ilford Ortho Plus 120 film box outside" loading="lazy" width="500" height="493">
 </a>
 
@@ -7263,7 +7263,7 @@ Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : eeccbc03ca25486db372e649d073e370
 ```
 
-<a href="./archive/00486_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00486_000.jpg" target="_blank">
 	<img src="./lowres/00486_000.jpg" alt="Photocité 400 ISO 35mm film box outside" loading="lazy" width="471" height="499">
 </a>
 
@@ -7277,14 +7277,14 @@ Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : dc59644d2764497d985b1f24bd2c8fd8
 ```
 
-<a href="./archive/00485_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00485_000.jpg" target="_blank">
 	<img src="./lowres/00485_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 
 `UUID: d71ecd2dd0d14c0f9c86aea0d8be963f`↓
 
-<a href="./archive/00484_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00484_001.jpg" target="_blank">
 	<img src="./lowres/00484_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="490" height="500">
 </a>
 
@@ -7298,7 +7298,7 @@ Added : 2025-11-25   |  Author  : @recycling.film
 UUID  : 19e57cb4060b4782955a5a5667fdb736
 ```
 
-<a href="./archive/00484_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00484_000.jpg" target="_blank">
 	<img src="./lowres/00484_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="500" height="498">
 </a>
 
@@ -7312,7 +7312,7 @@ Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : 81ded7f4902d46df8f5dd91868e7b974
 ```
 
-<a href="./archive/00483_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00483_000.jpg" target="_blank">
 	<img src="./lowres/00483_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -7326,14 +7326,14 @@ Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : dea659399cf345a6912964c10b584c56
 ```
 
-<a href="./archive/00482_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00482_000.jpg" target="_blank">
 	<img src="./lowres/00482_000.jpg" alt="Agfa Isochrom Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: f72ce470f4c24f008b715f340c95ce7f`↓
 
-<a href="./archive/00481_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00481_001.jpg" target="_blank">
 	<img src="./lowres/00481_001.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
@@ -7347,7 +7347,7 @@ Added : 2025-11-20   |  Author  : @ellafridalindblom
 UUID  : 8d14ab4db3844e8fa5b59d80adbdec05
 ```
 
-<a href="./archive/00481_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00481_000.jpg" target="_blank">
 	<img src="./lowres/00481_000.jpg" alt="Ilford R.25 F.P Special 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
@@ -7361,14 +7361,14 @@ Added : 2025-11-20   |  Author  : @Hol.m35
 UUID  : 1b198dd0d976444ab98109d0c37c4380
 ```
 
-<a href="./archive/00480_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00480_000.jpg" target="_blank">
 	<img src="./lowres/00480_000.jpg" alt="Street Candy Film ATM400 35mm film box outside" loading="lazy" width="500" height="288">
 </a>
 
 
 `UUID: 865aa90f5fca4c34b283f866c10c6054`↓
 
-<a href="./archive/00479_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00479_001.jpg" target="_blank">
 	<img src="./lowres/00479_001.jpg" alt="Lucky C200 35mm film box inside" loading="lazy" width="393" height="500">
 </a>
 
@@ -7382,14 +7382,14 @@ Added : 2025-11-19   |  Author  : kaimon
 UUID  : 4986ebbbced349e880b7dd92d9649c6c
 ```
 
-<a href="./archive/00479_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00479_000.jpg" target="_blank">
 	<img src="./lowres/00479_000.jpg" alt="Lucky C200 35mm film box outside" loading="lazy" width="401" height="500">
 </a>
 
 
 `UUID: 88c575769d28409a9796d3ecee41d014`↓
 
-<a href="./archive/00478_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00478_001.jpg" target="_blank">
 	<img src="./lowres/00478_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="491" height="500">
 </a>
 
@@ -7403,14 +7403,14 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 5b72cfa7adb14d0f8aefaa083ee444c4
 ```
 
-<a href="./archive/00478_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00478_000.jpg" target="_blank">
 	<img src="./lowres/00478_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="448">
 </a>
 
 
 `UUID: c92f5c416c764c83845e115db6e90106`↓
 
-<a href="./archive/00477_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00477_001.jpg" target="_blank">
 	<img src="./lowres/00477_001.jpg" alt="Polaroid Green 600 Film Reclaimed Series Instant Integral Film film box inside" loading="lazy" width="255" height="500">
 </a>
 
@@ -7424,7 +7424,7 @@ Added : 2025-11-11   |  Author  : @ellafridalindblom
 UUID  : 613f5e7014704b5bbe28565cfe290180
 ```
 
-<a href="./archive/00477_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00477_000.jpg" target="_blank">
 	<img src="./lowres/00477_000.jpg" alt="Polaroid Green 600 Film Reclaimed Series Instant Integral Film film box outside" loading="lazy" width="254" height="500">
 </a>
 
@@ -7438,14 +7438,14 @@ Added : 2025-11-11   |  Author  : dekuNukem
 UUID  : 86ec0b0ed4b94390a23d2cb27e1792c2
 ```
 
-<a href="./archive/00476_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00476_000.jpg" target="_blank">
 	<img src="./lowres/00476_000.jpg" alt="GT Photo GT24 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
 
 `UUID: 9e139b4e9ab140c096622312e9da5e1d`↓
 
-<a href="./archive/00475_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00475_001.jpg" target="_blank">
 	<img src="./lowres/00475_001.jpg" alt="Lomography Postdam 35mm film box inside" loading="lazy" width="500" height="371">
 </a>
 
@@ -7460,14 +7460,14 @@ UUID  : 89df57ba76fb4cc6ad09a663c463d0c6
 Notes : Black & White POSTDAM 35mm Kino Film
 ```
 
-<a href="./archive/00475_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00475_000.jpg" target="_blank">
 	<img src="./lowres/00475_000.jpg" alt="Lomography Postdam 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
 
 `UUID: 82ddbef0b77b47f5b30509a7af1e1808`↓
 
-<a href="./archive/00474_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00474_001.jpg" target="_blank">
 	<img src="./lowres/00474_001.jpg" alt="Lucky SHD400 120 film box inside" loading="lazy" width="456" height="500">
 </a>
 
@@ -7481,14 +7481,14 @@ Added : 2025-11-11   |  Author  : @Hol.m35
 UUID  : 0fbc7c70fa9c46f3bf4365afed4015b5
 ```
 
-<a href="./archive/00474_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00474_000.jpg" target="_blank">
 	<img src="./lowres/00474_000.jpg" alt="Lucky SHD400 120 film box outside" loading="lazy" width="500" height="493">
 </a>
 
 
 `UUID: 4c246c1e545c4160b2d63db6025accfb`↓
 
-<a href="./archive/00473_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00473_001.jpg" target="_blank">
 	<img src="./lowres/00473_001.jpg" alt="Lucky C200 120 film box inside" loading="lazy" width="481" height="500">
 </a>
 
@@ -7502,21 +7502,21 @@ Added : 2025-11-11   |  Author  : @Hol.m35
 UUID  : c6cdb442b65a4e83ac71331c8fffe6f8
 ```
 
-<a href="./archive/00473_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00473_000.jpg" target="_blank">
 	<img src="./lowres/00473_000.jpg" alt="Lucky C200 120 film box outside" loading="lazy" width="472" height="500">
 </a>
 
 
 `UUID: 77aaa3e028754c84bb966a23c5de0ec8`↓
 
-<a href="./archive/00472_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00472_002.jpg" target="_blank">
 	<img src="./lowres/00472_002.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="370" height="500">
 </a>
 
 
 `UUID: 520f0795ac0b49e4a61c8b26781df163`↓
 
-<a href="./archive/00472_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00472_001.jpg" target="_blank">
 	<img src="./lowres/00472_001.jpg" alt="Foma Fomapan 400 Set 35mm film box leaflet" loading="lazy" width="364" height="500">
 </a>
 
@@ -7530,14 +7530,14 @@ Added : 2025-11-11   |  Author  : minidiscus
 UUID  : 3296821c76484d32b09ff0f32057189e
 ```
 
-<a href="./archive/00472_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00472_000.jpg" target="_blank">
 	<img src="./lowres/00472_000.jpg" alt="Foma Fomapan 400 Set 35mm film box outside" loading="lazy" width="495" height="499">
 </a>
 
 
 `UUID: 2f6326633f2f42118a21c5b61a9d4f95`↓
 
-<a href="./archive/00471_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00471_001.jpg" target="_blank">
 	<img src="./lowres/00471_001.jpg" alt="Kentmere PAN 120 film box inside" loading="lazy" width="500" height="483">
 </a>
 
@@ -7551,14 +7551,14 @@ Added : 2025-11-11   |  Author  : minidiscus
 UUID  : 63392fa4def0490fbb2cb93d8c173ec0
 ```
 
-<a href="./archive/00471_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00471_000.jpg" target="_blank">
 	<img src="./lowres/00471_000.jpg" alt="Kentmere PAN 120 film box outside" loading="lazy" width="500" height="491">
 </a>
 
 
 `UUID: f04ab55fbd10406caa7c83d6a06c6ef5`↓
 
-<a href="./archive/00470_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00470_001.jpg" target="_blank">
 	<img src="./lowres/00470_001.jpg" alt="Arista.EDU Ultra 120 film box inside" loading="lazy" width="500" height="428">
 </a>
 
@@ -7572,14 +7572,14 @@ Added : 2025-11-11   |  Author  : minidiscus
 UUID  : 7a09e38ead7d4c73a1a2f3c028fad319
 ```
 
-<a href="./archive/00470_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00470_000.jpg" target="_blank">
 	<img src="./lowres/00470_000.jpg" alt="Arista.EDU Ultra 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 
 `UUID: 2d1bfa62420841828533cbd64cdf68f6`↓
 
-<a href="./archive/00469_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00469_001.jpg" target="_blank">
 	<img src="./lowres/00469_001.jpg" alt="Arista.EDU Ultra 35mm film box inside" loading="lazy" width="420" height="499">
 </a>
 
@@ -7593,7 +7593,7 @@ Added : 2025-11-11   |  Author  : minidiscus
 UUID  : eb126e7cfe084d4d8796a6123633d78b
 ```
 
-<a href="./archive/00469_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00469_000.jpg" target="_blank">
 	<img src="./lowres/00469_000.jpg" alt="Arista.EDU Ultra 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -7607,7 +7607,7 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 7b18320ad3d04332afde69a847606b6b
 ```
 
-<a href="./archive/00468_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00468_000.jpg" target="_blank">
 	<img src="./lowres/00468_000.jpg" alt="Reflx Lab 800T 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
@@ -7621,7 +7621,7 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 4c1b5d50ee594d5694e9a7b0a78c5801
 ```
 
-<a href="./archive/00467_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00467_000.jpg" target="_blank">
 	<img src="./lowres/00467_000.jpg" alt="Reflx Lab 400D 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
@@ -7635,7 +7635,7 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 9814bf1366f343ea940b7c709d107fd2
 ```
 
-<a href="./archive/00466_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00466_000.jpg" target="_blank">
 	<img src="./lowres/00466_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -7649,7 +7649,7 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 8ef818ff997b43d3961092bd540a2335
 ```
 
-<a href="./archive/00465_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00465_000.jpg" target="_blank">
 	<img src="./lowres/00465_000.jpg" alt="Fujifilm Fujicolor HR100 35mm film box outside" loading="lazy" width="420" height="500">
 </a>
 
@@ -7663,21 +7663,21 @@ Added : 2025-11-11   |  Author  : Chrisbes
 UUID  : 2dab58330f43463e9441b6777fce016b
 ```
 
-<a href="./archive/00464_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00464_000.jpg" target="_blank">
 	<img src="./lowres/00464_000.jpg" alt="Agfa AgfaColor HDC Plus 35mm film box outside" loading="lazy" width="500" height="300">
 </a>
 
 
 `UUID: 782baa96b77d424eb0dabc5f6d3b8c88`↓
 
-<a href="./archive/00463_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00463_002.jpg" target="_blank">
 	<img src="./lowres/00463_002.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="176" height="500">
 </a>
 
 
 `UUID: 0f46125636f9490a92937c07595df7cb`↓
 
-<a href="./archive/00463_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00463_001.jpg" target="_blank">
 	<img src="./lowres/00463_001.jpg" alt="Seagull Seagull Color IR100 35mm film box leaflet" loading="lazy" width="172" height="500">
 </a>
 
@@ -7691,21 +7691,21 @@ Added : 2025-11-11   |  Author  : waldoboro
 UUID  : 4696688cabf54eeb83cf66b2fb00e7cc
 ```
 
-<a href="./archive/00463_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00463_000.jpg" target="_blank">
 	<img src="./lowres/00463_000.jpg" alt="Seagull Seagull Color IR100 35mm film box outside" loading="lazy" width="483" height="500">
 </a>
 
 
 `UUID: e61ab90af79a4d558efcaed30d78978a`↓
 
-<a href="./archive/00462_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00462_002.jpg" target="_blank">
 	<img src="./lowres/00462_002.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="261" height="500">
 </a>
 
 
 `UUID: eb2f8ddacbcf4b3087e1fea3117fb683`↓
 
-<a href="./archive/00462_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00462_001.jpg" target="_blank">
 	<img src="./lowres/00462_001.jpg" alt="Kodak Kodachrome 35mm film box leaflet" loading="lazy" width="269" height="500">
 </a>
 
@@ -7719,7 +7719,7 @@ Added : 2025-11-11   |  Author  : waldoboro
 UUID  : 21c4ce1f9fb54086bb13435778243d0a
 ```
 
-<a href="./archive/00462_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00462_000.jpg" target="_blank">
 	<img src="./lowres/00462_000.jpg" alt="Kodak Kodachrome 35mm film box outside" loading="lazy" width="416" height="499">
 </a>
 
@@ -7733,7 +7733,7 @@ Added : 2025-11-11   |  Author  : waldoboro
 UUID  : a4f7e58b2cdf448d8a2e7781c26252aa
 ```
 
-<a href="./archive/00461_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00461_000.jpg" target="_blank">
 	<img src="./lowres/00461_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="460">
 </a>
 
@@ -7747,14 +7747,14 @@ Added : 2025-11-11   |  Author  : waldoboro
 UUID  : e5ed9275c4a34dbb8ab1a60c13ca3213
 ```
 
-<a href="./archive/00460_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00460_000.jpg" target="_blank">
 	<img src="./lowres/00460_000.jpg" alt="Fukkatsu Color Print Film 110 film box outside" loading="lazy" width="500" height="410">
 </a>
 
 
 `UUID: c685c5c86b864b4aa64cfa127b67b049`↓
 
-<a href="./archive/00459_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00459_001.jpg" target="_blank">
 	<img src="./lowres/00459_001.jpg" alt="Kodak Super-sensitive Panchromatic Films 12x16.5cm film box outside" loading="lazy" width="500" height="75">
 </a>
 
@@ -7769,21 +7769,21 @@ UUID  : 56136448523d428b88330cf0427221a0
 Notes : Nitrate base
 ```
 
-<a href="./archive/00459_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00459_000.jpg" target="_blank">
 	<img src="./lowres/00459_000.jpg" alt="Kodak Super-sensitive Panchromatic Films 12x16.5cm film box outside" loading="lazy" width="386" height="500">
 </a>
 
 
 `UUID: bd0852f5b5964fda80affbb0d7b002fc`↓
 
-<a href="./archive/00458_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00458_002.jpg" target="_blank">
 	<img src="./lowres/00458_002.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="500" height="112">
 </a>
 
 
 `UUID: 9ab3d1a84be64e17bf9e78b59ddee3f3`↓
 
-<a href="./archive/00458_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00458_001.jpg" target="_blank">
 	<img src="./lowres/00458_001.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="390" height="500">
 </a>
 
@@ -7797,7 +7797,7 @@ Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : 098d684d4be64821a80474b771d8e684
 ```
 
-<a href="./archive/00458_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00458_000.jpg" target="_blank">
 	<img src="./lowres/00458_000.jpg" alt="Kodak Super-XX 12x16.5cm film box outside" loading="lazy" width="406" height="500">
 </a>
 
@@ -7812,7 +7812,7 @@ UUID  : e585128e844941a98145d4fca88075f9
 Notes : Muster Matt
 ```
 
-<a href="./archive/00457_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00457_000.jpg" target="_blank">
 	<img src="./lowres/00457_000.jpg" alt="Gevaert Studio Film 12x16.5cm film box outside" loading="lazy" width="365" height="500">
 </a>
 
@@ -7826,7 +7826,7 @@ Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : 08e940883895476d8de94bc5137419b5
 ```
 
-<a href="./archive/00456_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00456_000.jpg" target="_blank">
 	<img src="./lowres/00456_000.jpg" alt="Agfa Isopan Portrait 12x16.5cm film box outside" loading="lazy" width="500" height="365">
 </a>
 
@@ -7840,21 +7840,21 @@ Added : 2025-10-27   |  Author  : @ellafridalindblom
 UUID  : dbfd040081714492bd8bcc80d496ae35
 ```
 
-<a href="./archive/00455_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00455_000.jpg" target="_blank">
 	<img src="./lowres/00455_000.jpg" alt="Ilford HP3 Unknown film box outside" loading="lazy" width="500" height="368">
 </a>
 
 
 `UUID: 4f0a47ed8f2a4625956d3e2255b35bd1`↓
 
-<a href="./archive/00454_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00454_002.jpg" target="_blank">
 	<img src="./lowres/00454_002.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="382" height="500">
 </a>
 
 
 `UUID: 8c0dda70e6d44bde9777605dc13cf00f`↓
 
-<a href="./archive/00454_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00454_001.jpg" target="_blank">
 	<img src="./lowres/00454_001.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="500" height="106">
 </a>
 
@@ -7869,7 +7869,7 @@ UUID  : 2210a8e9fb4c400d8258a652aaba6608
 Notes : Estar Thick Base 4164
 ```
 
-<a href="./archive/00454_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00454_000.jpg" target="_blank">
 	<img src="./lowres/00454_000.jpg" alt="Kodak Tri-X Pan 12x16.5cm film box outside" loading="lazy" width="357" height="500">
 </a>
 
@@ -7883,21 +7883,21 @@ Added : 2025-10-25   |  Author  : minidiscus
 UUID  : 930ee2c830af4f0a957649764d5873e0
 ```
 
-<a href="./archive/00453_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00453_000.jpg" target="_blank">
 	<img src="./lowres/00453_000.jpg" alt="Kodak Kodacolor 100 35mm film box outside" loading="lazy" width="413" height="499">
 </a>
 
 
 `UUID: 853499e631474d46b5d2d65e937f6ebd`↓
 
-<a href="./archive/00452_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00452_002.jpg" target="_blank">
 	<img src="./lowres/00452_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="414" height="499">
 </a>
 
 
 `UUID: 446f576effb34b8c9697e27a7dcbd109`↓
 
-<a href="./archive/00452_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00452_001.jpg" target="_blank">
 	<img src="./lowres/00452_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="411" height="500">
 </a>
 
@@ -7912,7 +7912,7 @@ UUID  : 60accb18d36a4358b857d58e5f91b271
 Notes : Made in Belgium
 ```
 
-<a href="./archive/00452_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00452_000.jpg" target="_blank">
 	<img src="./lowres/00452_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -7926,7 +7926,7 @@ Added : 2025-10-25   |  Author  : dekuNukem
 UUID  : 931cd13271f74ddf96233e783ea9bf2a
 ```
 
-<a href="./archive/00451_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00451_000.jpg" target="_blank">
 	<img src="./lowres/00451_000.jpg" alt="Perutz Peromnia 21 127 film box outside" loading="lazy" width="500" height="386">
 </a>
 
@@ -7941,7 +7941,7 @@ UUID  : f0bf478daf444011b6ee52954d9f80d7
 Notes : preproduction package
 ```
 
-<a href="./archive/00450_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00450_000.jpg" target="_blank">
 	<img src="./lowres/00450_000.jpg" alt="Optik Oldschool OptiColour 200 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
@@ -7955,7 +7955,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 3b6a16ff2678454590c574c2fd969799
 ```
 
-<a href="./archive/00449_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00449_000.jpg" target="_blank">
 	<img src="./lowres/00449_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="473">
 </a>
 
@@ -7969,7 +7969,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : d90937332f0a4392adb1f344b5ba3aee
 ```
 
-<a href="./archive/00448_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00448_000.jpg" target="_blank">
 	<img src="./lowres/00448_000.jpg" alt="Agfa Isopan ISS Rapid 35mm film box outside" loading="lazy" width="500" height="483">
 </a>
 
@@ -7983,21 +7983,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : f8785e8bcd5748aeb847c3f6b2d62b99
 ```
 
-<a href="./archive/00447_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00447_000.jpg" target="_blank">
 	<img src="./lowres/00447_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 
 `UUID: 51a30e2c83294d4b858bef55f6a66d21`↓
 
-<a href="./archive/00446_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00446_002.jpg" target="_blank">
 	<img src="./lowres/00446_002.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="215" height="499">
 </a>
 
 
 `UUID: 51b3490951d941be9922c1bf261a5551`↓
 
-<a href="./archive/00446_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00446_001.jpg" target="_blank">
 	<img src="./lowres/00446_001.jpg" alt="Kodak Kodacolor II 620 film box leaflet" loading="lazy" width="224" height="500">
 </a>
 
@@ -8011,28 +8011,28 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 251b2a7fd42343e6b655b100794bb19e
 ```
 
-<a href="./archive/00446_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00446_000.jpg" target="_blank">
 	<img src="./lowres/00446_000.jpg" alt="Kodak Kodacolor II 620 film box outside" loading="lazy" width="500" height="465">
 </a>
 
 
 `UUID: f8c3bdcd064b46b6b5cf8d32372e6e6f`↓
 
-<a href="./archive/00445_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00445_003.jpg" target="_blank">
 	<img src="./lowres/00445_003.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="321">
 </a>
 
 
 `UUID: 3d6c1f5381464108a2758a210b1223f5`↓
 
-<a href="./archive/00445_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00445_002.jpg" target="_blank">
 	<img src="./lowres/00445_002.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="217">
 </a>
 
 
 `UUID: 4080798f7349471c9bc69513abf6b36e`↓
 
-<a href="./archive/00445_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00445_001.jpg" target="_blank">
 	<img src="./lowres/00445_001.jpg" alt="Great Films Processing Kodachrome 35mm film box processing envelope" loading="lazy" width="500" height="277">
 </a>
 
@@ -8046,56 +8046,56 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 0f14cf86439a4009a252f730c308c012
 ```
 
-<a href="./archive/00445_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00445_000.jpg" target="_blank">
 	<img src="./lowres/00445_000.jpg" alt="Great Films Processing Kodachrome 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: c4b98fe88f5144df9629f289423fe72e`↓
 
-<a href="./archive/00444_007.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_007.jpg" target="_blank">
 	<img src="./lowres/00444_007.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="290">
 </a>
 
 
 `UUID: accd90cdf18945939b51da0450c76fa7`↓
 
-<a href="./archive/00444_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_006.jpg" target="_blank">
 	<img src="./lowres/00444_006.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box processing envelope" loading="lazy" width="500" height="281">
 </a>
 
 
 `UUID: 38c2b3a21696430db60ee99a8c55eb0b`↓
 
-<a href="./archive/00444_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_005.jpg" target="_blank">
 	<img src="./lowres/00444_005.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="476">
 </a>
 
 
 `UUID: d777eafbaf03482ca3766210fa8d0e47`↓
 
-<a href="./archive/00444_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_004.jpg" target="_blank">
 	<img src="./lowres/00444_004.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="405" height="500">
 </a>
 
 
 `UUID: 704456920a9943f6bb8a6527d730503c`↓
 
-<a href="./archive/00444_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_003.jpg" target="_blank">
 	<img src="./lowres/00444_003.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="363" height="500">
 </a>
 
 
 `UUID: 68d8ba930ba94a23bcc2c63cd9eb85d0`↓
 
-<a href="./archive/00444_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_002.jpg" target="_blank">
 	<img src="./lowres/00444_002.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="360">
 </a>
 
 
 `UUID: 5d631a69e3e048208c70ec8f859c6045`↓
 
-<a href="./archive/00444_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_001.jpg" target="_blank">
 	<img src="./lowres/00444_001.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box leaflet" loading="lazy" width="500" height="352">
 </a>
 
@@ -8109,7 +8109,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 9129d9db8e114656a58fd2a422b43502
 ```
 
-<a href="./archive/00444_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00444_000.jpg" target="_blank">
 	<img src="./lowres/00444_000.jpg" alt="Agfa Agfacolor Reversal Film CK 35mm film box outside" loading="lazy" width="500" height="478">
 </a>
 
@@ -8123,14 +8123,14 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : a7d5a1c6923e4090b91381a1c853e465
 ```
 
-<a href="./archive/00443_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00443_000.jpg" target="_blank">
 	<img src="./lowres/00443_000.jpg" alt="Kodak Verichrome 616 film box outside" loading="lazy" width="500" height="404">
 </a>
 
 
 `UUID: 51e0c8950d164f8a985b46fe1b0e5f8b`↓
 
-<a href="./archive/00442_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00442_001.jpg" target="_blank">
 	<img src="./lowres/00442_001.jpg" alt="Kodak Gold 620 film box leaflet" loading="lazy" width="183" height="500">
 </a>
 
@@ -8144,35 +8144,35 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 92c51161259045d5b726e32fa4ee1962
 ```
 
-<a href="./archive/00442_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00442_000.jpg" target="_blank">
 	<img src="./lowres/00442_000.jpg" alt="Kodak Gold 620 film box outside" loading="lazy" width="500" height="492">
 </a>
 
 
 `UUID: b776358cf6654afc867da7efc26e681b`↓
 
-<a href="./archive/00441_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00441_004.jpg" target="_blank">
 	<img src="./lowres/00441_004.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="163">
 </a>
 
 
 `UUID: 60d2979073e4417c9511260b6d004d8c`↓
 
-<a href="./archive/00441_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00441_003.jpg" target="_blank">
 	<img src="./lowres/00441_003.jpg" alt="Kodak Kodachrome II 828 film box processing envelope" loading="lazy" width="500" height="154">
 </a>
 
 
 `UUID: 54a70d5cac414623925c05d402aa1df7`↓
 
-<a href="./archive/00441_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00441_002.jpg" target="_blank">
 	<img src="./lowres/00441_002.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="235" height="500">
 </a>
 
 
 `UUID: 9f37569423ef4a36aa7a1c15976f0b2e`↓
 
-<a href="./archive/00441_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00441_001.jpg" target="_blank">
 	<img src="./lowres/00441_001.jpg" alt="Kodak Kodachrome II 828 film box leaflet" loading="lazy" width="225" height="500">
 </a>
 
@@ -8186,7 +8186,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : b9c0bacb3ac64fc6bb46b1e728710982
 ```
 
-<a href="./archive/00441_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00441_000.jpg" target="_blank">
 	<img src="./lowres/00441_000.jpg" alt="Kodak Kodachrome II 828 film box outside" loading="lazy" width="456" height="500">
 </a>
 
@@ -8200,21 +8200,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 9d06405332c04b80b8b6ec709131473d
 ```
 
-<a href="./archive/00440_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00440_000.jpg" target="_blank">
 	<img src="./lowres/00440_000.jpg" alt="Kodak Kodacolor Gold 400 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 7950cdc041654b77a36cee356ebc02b8`↓
 
-<a href="./archive/00439_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00439_002.jpg" target="_blank">
 	<img src="./lowres/00439_002.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="357">
 </a>
 
 
 `UUID: 019691600c184b2e8e1128dc6207790f`↓
 
-<a href="./archive/00439_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00439_001.jpg" target="_blank">
 	<img src="./lowres/00439_001.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box leaflet" loading="lazy" width="500" height="351">
 </a>
 
@@ -8228,21 +8228,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 2e99ee5a9888408093d6983ed9871e83
 ```
 
-<a href="./archive/00439_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00439_000.jpg" target="_blank">
 	<img src="./lowres/00439_000.jpg" alt="Agfa Agfacolor Special Negative Film CN S 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
 
 `UUID: dc750856812b447eaa0debe4122808ac`↓
 
-<a href="./archive/00438_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00438_002.jpg" target="_blank">
 	<img src="./lowres/00438_002.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="211" height="500">
 </a>
 
 
 `UUID: 1590803fe8d045a480338838a869647e`↓
 
-<a href="./archive/00438_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00438_001.jpg" target="_blank">
 	<img src="./lowres/00438_001.jpg" alt="Minox Minocolor 2 8x11mm film box leaflet" loading="lazy" width="209" height="500">
 </a>
 
@@ -8256,21 +8256,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 5ee281ded82c46e5b628a58b9f10fadd
 ```
 
-<a href="./archive/00438_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00438_000.jpg" target="_blank">
 	<img src="./lowres/00438_000.jpg" alt="Minox Minocolor 2 8x11mm film box outside" loading="lazy" width="500" height="425">
 </a>
 
 
 `UUID: 6ca26308da0547e3bb8ffee5cffdd94e`↓
 
-<a href="./archive/00437_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00437_002.jpg" target="_blank">
 	<img src="./lowres/00437_002.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="345">
 </a>
 
 
 `UUID: 4a001e5fb1774942933060bd00e6c6ef`↓
 
-<a href="./archive/00437_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00437_001.jpg" target="_blank">
 	<img src="./lowres/00437_001.jpg" alt="Agfa Isopan IF Rapid 35mm film box leaflet" loading="lazy" width="500" height="350">
 </a>
 
@@ -8284,21 +8284,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 2eb6c6a9aa784c2e871b7edd33fb5962
 ```
 
-<a href="./archive/00437_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00437_000.jpg" target="_blank">
 	<img src="./lowres/00437_000.jpg" alt="Agfa Isopan IF Rapid 35mm film box outside" loading="lazy" width="500" height="422">
 </a>
 
 
 `UUID: aa3d982c74984e12b6a621205250c1d5`↓
 
-<a href="./archive/00436_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00436_002.jpg" target="_blank">
 	<img src="./lowres/00436_002.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="449">
 </a>
 
 
 `UUID: 71077f96d6e74825b04d8c7b1a3a29b2`↓
 
-<a href="./archive/00436_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00436_001.jpg" target="_blank">
 	<img src="./lowres/00436_001.jpg" alt="Ilford Selochrome 120 film box leaflet" loading="lazy" width="500" height="441">
 </a>
 
@@ -8312,21 +8312,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : f085080d08414582a703e7a1982df534
 ```
 
-<a href="./archive/00436_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00436_000.jpg" target="_blank">
 	<img src="./lowres/00436_000.jpg" alt="Ilford Selochrome 120 film box outside" loading="lazy" width="500" height="425">
 </a>
 
 
 `UUID: fb3873078df9491491a4ff63374d80d2`↓
 
-<a href="./archive/00435_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00435_002.jpg" target="_blank">
 	<img src="./lowres/00435_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: 877813b4c98d406b8739c4310f0116a8`↓
 
-<a href="./archive/00435_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00435_001.jpg" target="_blank">
 	<img src="./lowres/00435_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
@@ -8340,21 +8340,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : fc90db41b94d486491177a8407f1100d
 ```
 
-<a href="./archive/00435_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00435_000.jpg" target="_blank">
 	<img src="./lowres/00435_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="318">
 </a>
 
 
 `UUID: f1b06cc535f346edbc6c46be4b11c79a`↓
 
-<a href="./archive/00434_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00434_002.jpg" target="_blank">
 	<img src="./lowres/00434_002.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="381">
 </a>
 
 
 `UUID: c36b6fd7f2b84c8c804db6b318563ece`↓
 
-<a href="./archive/00434_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00434_001.jpg" target="_blank">
 	<img src="./lowres/00434_001.jpg" alt="Famous Brand Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="365">
 </a>
 
@@ -8368,7 +8368,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 1c73b3f95ae14be5ab9a506ac83a0cd6
 ```
 
-<a href="./archive/00434_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00434_000.jpg" target="_blank">
 	<img src="./lowres/00434_000.jpg" alt="Famous Brand Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="437">
 </a>
 
@@ -8382,7 +8382,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : c17a688403b646e6aebd74e8ec357984
 ```
 
-<a href="./archive/00433_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00433_000.jpg" target="_blank">
 	<img src="./lowres/00433_000.jpg" alt="Kodak Verichrome Pan 122 film box outside" loading="lazy" width="500" height="412">
 </a>
 
@@ -8397,7 +8397,7 @@ UUID  : 4cce875d701d4fd4b1d28353305ac0e3
 Notes : 30 most likely is European Scheiner film speed
 ```
 
-<a href="./archive/00432_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00432_000.jpg" target="_blank">
 	<img src="./lowres/00432_000.jpg" alt="Gevaert Gevachrome 30 122 film box outside" loading="lazy" width="500" height="420">
 </a>
 
@@ -8411,7 +8411,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : f4719f9b5e534dbba19c194da39abdd5
 ```
 
-<a href="./archive/00431_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00431_000.jpg" target="_blank">
 	<img src="./lowres/00431_000.jpg" alt="Kodak Gold 110 film box outside" loading="lazy" width="500" height="423">
 </a>
 
@@ -8425,7 +8425,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : adf90d5a8c2b4ad6ba1b6524bf00c9c2
 ```
 
-<a href="./archive/00430_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00430_000.jpg" target="_blank">
 	<img src="./lowres/00430_000.jpg" alt="Kodak Verichrome 122 film box outside" loading="lazy" width="500" height="406">
 </a>
 
@@ -8439,14 +8439,14 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 5700b2c507254c36ac9b05eabf04fc88
 ```
 
-<a href="./archive/00429_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00429_000.jpg" target="_blank">
 	<img src="./lowres/00429_000.jpg" alt="Gevaert Infra-R 120 film box outside" loading="lazy" width="500" height="358">
 </a>
 
 
 `UUID: ae783a67ce214185b13ee707c56dad58`↓
 
-<a href="./archive/00428_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00428_001.jpg" target="_blank">
 	<img src="./lowres/00428_001.jpg" alt="Agfa CT Precisa 100 35mm film box inside" loading="lazy" width="429" height="499">
 </a>
 
@@ -8460,21 +8460,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 087e9a1b5cc7447dbd0b7d5b81c9bc36
 ```
 
-<a href="./archive/00428_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00428_000.jpg" target="_blank">
 	<img src="./lowres/00428_000.jpg" alt="Agfa CT Precisa 100 35mm film box outside" loading="lazy" width="441" height="500">
 </a>
 
 
 `UUID: e76e6347947f40ba97b0e11522ce7144`↓
 
-<a href="./archive/00427_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00427_002.jpg" target="_blank">
 	<img src="./lowres/00427_002.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="378">
 </a>
 
 
 `UUID: 9047ef27d1be40198e23acb1b7adba39`↓
 
-<a href="./archive/00427_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00427_001.jpg" target="_blank">
 	<img src="./lowres/00427_001.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box leaflet" loading="lazy" width="500" height="374">
 </a>
 
@@ -8489,21 +8489,21 @@ UUID  : 25dfa3f80baf4a72ac548c507f8088e6
 Notes : Division of Film Corporation of America
 ```
 
-<a href="./archive/00427_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00427_000.jpg" target="_blank">
 	<img src="./lowres/00427_000.jpg" alt="Triple-Print Film Labs Color Negative Film 127 film box outside" loading="lazy" width="500" height="404">
 </a>
 
 
 `UUID: 77788e6b682e47e089804190aecc56b7`↓
 
-<a href="./archive/00426_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00426_002.jpg" target="_blank">
 	<img src="./lowres/00426_002.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="411">
 </a>
 
 
 `UUID: 17e8ec86380144999ee0f93c6799030d`↓
 
-<a href="./archive/00426_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00426_001.jpg" target="_blank">
 	<img src="./lowres/00426_001.jpg" alt="efke R100 127 film box leaflet" loading="lazy" width="500" height="401">
 </a>
 
@@ -8517,21 +8517,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 686490575de4412b9309d5d797af10ad
 ```
 
-<a href="./archive/00426_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00426_000.jpg" target="_blank">
 	<img src="./lowres/00426_000.jpg" alt="efke R100 127 film box outside" loading="lazy" width="500" height="337">
 </a>
 
 
 `UUID: adc9a88efca146d687fba7dcb75501f0`↓
 
-<a href="./archive/00425_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00425_002.jpg" target="_blank">
 	<img src="./lowres/00425_002.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="218">
 </a>
 
 
 `UUID: 273b6c40428c40acb9fee444125a0426`↓
 
-<a href="./archive/00425_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00425_001.jpg" target="_blank">
 	<img src="./lowres/00425_001.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box processing envelope" loading="lazy" width="500" height="422">
 </a>
 
@@ -8546,21 +8546,21 @@ UUID  : e01d49f304864a7d95976d57624370b1
 Notes : There was a roll of 127 ekfe R100 inside, not sure if it's the original, or someone put it there afterwards.
 ```
 
-<a href="./archive/00425_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00425_000.jpg" target="_blank">
 	<img src="./lowres/00425_000.jpg" alt="Northwest Custom Film Processing Ultra Minituature Film Unknown film box outside" loading="lazy" width="500" height="368">
 </a>
 
 
 `UUID: 55cbb2fe9f184b828a171a1dafd8e2da`↓
 
-<a href="./archive/00424_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00424_002.jpg" target="_blank">
 	<img src="./lowres/00424_002.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="317" height="500">
 </a>
 
 
 `UUID: cdd61b019a054a4d86f52daeeac8de52`↓
 
-<a href="./archive/00424_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00424_001.jpg" target="_blank">
 	<img src="./lowres/00424_001.jpg" alt="Kodak Plus-X 35mm film box leaflet" loading="lazy" width="269" height="500">
 </a>
 
@@ -8574,21 +8574,21 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : bcad57bbd65146fbb2bdcf9fc79a4b73
 ```
 
-<a href="./archive/00424_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00424_000.jpg" target="_blank">
 	<img src="./lowres/00424_000.jpg" alt="Kodak Plus-X 35mm film box outside" loading="lazy" width="472" height="500">
 </a>
 
 
 `UUID: 9fef42045e314c30a39c59e90b9e457e`↓
 
-<a href="./archive/00423_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00423_002.jpg" target="_blank">
 	<img src="./lowres/00423_002.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="232" height="500">
 </a>
 
 
 `UUID: 2708b5dd22794189a31d5bf789bd32be`↓
 
-<a href="./archive/00423_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00423_001.jpg" target="_blank">
 	<img src="./lowres/00423_001.jpg" alt="Kodak Ektachrome-X 620 film box leaflet" loading="lazy" width="236" height="500">
 </a>
 
@@ -8602,14 +8602,14 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : 769ecaf549984530942ed4b96e1dc057
 ```
 
-<a href="./archive/00423_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00423_000.jpg" target="_blank">
 	<img src="./lowres/00423_000.jpg" alt="Kodak Ektachrome-X 620 film box outside" loading="lazy" width="500" height="443">
 </a>
 
 
 `UUID: e5403e7603b24ed995890c4faa3ab25b`↓
 
-<a href="./archive/00422_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00422_001.jpg" target="_blank">
 	<img src="./lowres/00422_001.jpg" alt="Lomography Lobster Redscale Negative 110 film box inside" loading="lazy" width="336" height="500">
 </a>
 
@@ -8623,7 +8623,7 @@ Added : 2025-10-21   |  Author  : dekuNukem
 UUID  : bfb2bdd4749b474f8fe1f971f2a14dcd
 ```
 
-<a href="./archive/00422_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00422_000.jpg" target="_blank">
 	<img src="./lowres/00422_000.jpg" alt="Lomography Lobster Redscale Negative 110 film box outside" loading="lazy" width="336" height="500">
 </a>
 
@@ -8637,7 +8637,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 795c66ef065f442ab27e4ffb9de758b1
 ```
 
-<a href="./archive/00420_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00420_000.jpg" target="_blank">
 	<img src="./lowres/00420_000.jpg" alt="Perutz Perpantic Film 120 film box outside" loading="lazy" width="424" height="500">
 </a>
 
@@ -8651,21 +8651,21 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 05554da8891c470facbddfd5fe35fa4a
 ```
 
-<a href="./archive/00419_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00419_000.jpg" target="_blank">
 	<img src="./lowres/00419_000.jpg" alt="Perutz Peromnia 21 35mm film box outside" loading="lazy" width="500" height="479">
 </a>
 
 
 `UUID: 47363e4b17894d5d99a8c39dfdf981db`↓
 
-<a href="./archive/00418_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00418_002.jpg" target="_blank">
 	<img src="./lowres/00418_002.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="365">
 </a>
 
 
 `UUID: 75c37ed61c3d4b04be3c432a2a80c21e`↓
 
-<a href="./archive/00418_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00418_001.jpg" target="_blank">
 	<img src="./lowres/00418_001.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box leaflet" loading="lazy" width="500" height="353">
 </a>
 
@@ -8679,21 +8679,21 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 1cf0e26c5894469ebdbd94e104c89b03
 ```
 
-<a href="./archive/00418_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00418_000.jpg" target="_blank">
 	<img src="./lowres/00418_000.jpg" alt="Agfa Agfacolor Negative Film Special CNS 35mm film box outside" loading="lazy" width="500" height="479">
 </a>
 
 
 `UUID: 92c015c82f4345438875b286887a584d`↓
 
-<a href="./archive/00417_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00417_002.jpg" target="_blank">
 	<img src="./lowres/00417_002.jpg" alt="Agfa AgfaChrome 50 S 35mm film box leaflet" loading="lazy" width="316" height="500">
 </a>
 
 
 `UUID: ad0043191aad463eafef428fdd9383d5`↓
 
-<a href="./archive/00417_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00417_001.jpg" target="_blank">
 	<img src="./lowres/00417_001.jpg" alt="Agfa AgfaChrome 50 S 35mm film box leaflet" loading="lazy" width="312" height="500">
 </a>
 
@@ -8707,7 +8707,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 364274d1357d458eacedde84db8a71a8
 ```
 
-<a href="./archive/00417_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00417_000.jpg" target="_blank">
 	<img src="./lowres/00417_000.jpg" alt="Agfa AgfaChrome 50 S 35mm film box outside" loading="lazy" width="500" height="499">
 </a>
 
@@ -8721,7 +8721,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : ee054df9bf0f4ad09ef142c01c2788a5
 ```
 
-<a href="./archive/00416_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00416_000.jpg" target="_blank">
 	<img src="./lowres/00416_000.jpg" alt="ADOX KB 17 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
@@ -8735,21 +8735,21 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 68eb8a227e8b48358efc62cf7aabb2f0
 ```
 
-<a href="./archive/00415_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00415_000.jpg" target="_blank">
 	<img src="./lowres/00415_000.jpg" alt="Ilford FP4 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
 
 `UUID: ee61648a19bd4eaea584f3931618f488`↓
 
-<a href="./archive/00414_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00414_002.jpg" target="_blank">
 	<img src="./lowres/00414_002.jpg" alt="Kodak Ektachrome 64 35mm film box leaflet" loading="lazy" width="231" height="500">
 </a>
 
 
 `UUID: 66aac838de9b4f4091acb02215e8b890`↓
 
-<a href="./archive/00414_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00414_001.jpg" target="_blank">
 	<img src="./lowres/00414_001.jpg" alt="Kodak Ektachrome 64 35mm film box leaflet" loading="lazy" width="241" height="500">
 </a>
 
@@ -8764,21 +8764,21 @@ UUID  : 61a248ee92404ad7bcf1a19adbf102cc
 Notes : EPR
 ```
 
-<a href="./archive/00414_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00414_000.jpg" target="_blank">
 	<img src="./lowres/00414_000.jpg" alt="Kodak Ektachrome 64 35mm film box outside" loading="lazy" width="414" height="500">
 </a>
 
 
 `UUID: 9db2e6deb48a408e8848fa333255036a`↓
 
-<a href="./archive/00413_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00413_002.jpg" target="_blank">
 	<img src="./lowres/00413_002.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 
 `UUID: 3c4f8b9bb3e74d20b67ac3611475608f`↓
 
-<a href="./archive/00413_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00413_001.jpg" target="_blank">
 	<img src="./lowres/00413_001.jpg" alt="Foma Fomapan F17 120 film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
@@ -8792,21 +8792,21 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 0315635e32bb4848aaa2fe65ac7aa10e
 ```
 
-<a href="./archive/00413_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00413_000.jpg" target="_blank">
 	<img src="./lowres/00413_000.jpg" alt="Foma Fomapan F17 120 film box outside" loading="lazy" width="500" height="401">
 </a>
 
 
 `UUID: 8ceb71b4c7204eda9fe3eac689142058`↓
 
-<a href="./archive/00412_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00412_002.jpg" target="_blank">
 	<img src="./lowres/00412_002.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box leaflet" loading="lazy" width="353" height="500">
 </a>
 
 
 `UUID: da91308a6c3a42d4b6665e82ee0ab24c`↓
 
-<a href="./archive/00412_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00412_001.jpg" target="_blank">
 	<img src="./lowres/00412_001.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box leaflet" loading="lazy" width="347" height="500">
 </a>
 
@@ -8820,7 +8820,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 4eb2d274d28c41339ad3bd385476c214
 ```
 
-<a href="./archive/00412_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00412_000.jpg" target="_blank">
 	<img src="./lowres/00412_000.jpg" alt="Perfect Photo Inc. Perfect-Pan Film 120 film box outside" loading="lazy" width="500" height="423">
 </a>
 
@@ -8834,7 +8834,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : ec96eb9587cf4485a00f2af323eb07c8
 ```
 
-<a href="./archive/00411_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00411_000.jpg" target="_blank">
 	<img src="./lowres/00411_000.jpg" alt="Kodak Super-XX 616 film box outside" loading="lazy" width="496" height="499">
 </a>
 
@@ -8848,21 +8848,21 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 09363ad5ddf84f67bb44ac27d17c85e9
 ```
 
-<a href="./archive/00410_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00410_000.jpg" target="_blank">
 	<img src="./lowres/00410_000.jpg" alt="Kodak Tri-X Pan 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
 
 `UUID: 94aea5ecf4ab4e74b8e7205d7912c232`↓
 
-<a href="./archive/00409_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00409_002.jpg" target="_blank">
 	<img src="./lowres/00409_002.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="347">
 </a>
 
 
 `UUID: bdd3a188431042dabb560e85287b517a`↓
 
-<a href="./archive/00409_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00409_001.jpg" target="_blank">
 	<img src="./lowres/00409_001.jpg" alt="Ilford XP2 35mm film box leaflet" loading="lazy" width="500" height="358">
 </a>
 
@@ -8876,35 +8876,35 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : bc6e58d62eb34ad6a54ea8d4ac877d94
 ```
 
-<a href="./archive/00409_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00409_000.jpg" target="_blank">
 	<img src="./lowres/00409_000.jpg" alt="Ilford XP2 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
 
 `UUID: 437046f79d2141bfb2af8247bc1a6ba3`↓
 
-<a href="./archive/00408_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00408_004.jpg" target="_blank">
 	<img src="./lowres/00408_004.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="308">
 </a>
 
 
 `UUID: acc4b02a5b2d422ebda7149636e817b3`↓
 
-<a href="./archive/00408_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00408_003.jpg" target="_blank">
 	<img src="./lowres/00408_003.jpg" alt="ORWO OrwoChrom UT18 35mm film box processing envelope" loading="lazy" width="500" height="321">
 </a>
 
 
 `UUID: 062fdd558f6c48fda2979f72c7443cad`↓
 
-<a href="./archive/00408_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00408_002.jpg" target="_blank">
 	<img src="./lowres/00408_002.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="306" height="500">
 </a>
 
 
 `UUID: 1515034bddc345419da08ea6a497ee34`↓
 
-<a href="./archive/00408_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00408_001.jpg" target="_blank">
 	<img src="./lowres/00408_001.jpg" alt="ORWO OrwoChrom UT18 35mm film box leaflet" loading="lazy" width="343" height="499">
 </a>
 
@@ -8918,7 +8918,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : d82a8047531f4e4bbdfe4c0bb95c81b7
 ```
 
-<a href="./archive/00408_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00408_000.jpg" target="_blank">
 	<img src="./lowres/00408_000.jpg" alt="ORWO OrwoChrom UT18 35mm film box outside" loading="lazy" width="488" height="500">
 </a>
 
@@ -8932,7 +8932,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : b57e8c465ff94e02afa31d267b846815
 ```
 
-<a href="./archive/00407_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00407_000.jpg" target="_blank">
 	<img src="./lowres/00407_000.jpg" alt="GAF Color Slide Film 35mm film cartridge" loading="lazy" width="386" height="500">
 </a>
 
@@ -8946,7 +8946,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : c8f31c7a1adf423bbc4d35eae399baeb
 ```
 
-<a href="./archive/00406_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00406_000.jpg" target="_blank">
 	<img src="./lowres/00406_000.jpg" alt="Nishika Color Print Film 35mm film box outside" loading="lazy" width="500" height="499">
 </a>
 
@@ -8960,14 +8960,14 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 64289ff9fd4b4e589c5654a044dbd1fd
 ```
 
-<a href="./archive/00405_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00405_000.jpg" target="_blank">
 	<img src="./lowres/00405_000.jpg" alt="Svema Foto 32 35mm film box outside" loading="lazy" width="500" height="446">
 </a>
 
 
 `UUID: d40e2c7220b94e2988936a7b4137a6cf`↓
 
-<a href="./archive/00404_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00404_001.jpg" target="_blank">
 	<img src="./lowres/00404_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
@@ -8981,7 +8981,7 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : 90ac1c8117ef41d291bedc89cc65feb7
 ```
 
-<a href="./archive/00404_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00404_000.jpg" target="_blank">
 	<img src="./lowres/00404_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="416" height="500">
 </a>
 
@@ -8995,14 +8995,14 @@ Added : 2025-10-17   |  Author  : @recycling.film
 UUID  : e783964d8b4f48e8bd12d7d2c3c510cb
 ```
 
-<a href="./archive/00403_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00403_000.jpg" target="_blank">
 	<img src="./lowres/00403_000.jpg" alt="Svema Foto 64 35mm film box outside" loading="lazy" width="500" height="465">
 </a>
 
 
 `UUID: e08156a89f334bd785397e498b9710f7`↓
 
-<a href="./archive/00402_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00402_001.jpg" target="_blank">
 	<img src="./lowres/00402_001.jpg" alt="ADOX CHS 100 II 35mm film box inside" loading="lazy" width="429" height="499">
 </a>
 
@@ -9016,14 +9016,14 @@ Added : 2025-10-16   |  Author  : nick
 UUID  : edb6848680f443f2a73b70b13c028adf
 ```
 
-<a href="./archive/00402_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00402_000.jpg" target="_blank">
 	<img src="./lowres/00402_000.jpg" alt="ADOX CHS 100 II 35mm film box outside" loading="lazy" width="429" height="499">
 </a>
 
 
 `UUID: d255a9a922f64c6da3cb801c7906b63b`↓
 
-<a href="./archive/00401_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00401_001.jpg" target="_blank">
 	<img src="./lowres/00401_001.jpg" alt="ADOX CMS 20 II Pro 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
@@ -9037,14 +9037,14 @@ Added : 2025-10-16   |  Author  : nick
 UUID  : 092f316a772246018a8de96ebd380bea
 ```
 
-<a href="./archive/00401_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00401_000.jpg" target="_blank">
 	<img src="./lowres/00401_000.jpg" alt="ADOX CMS 20 II Pro 35mm film box outside" loading="lazy" width="418" height="500">
 </a>
 
 
 `UUID: 60733808afbf441da74f97bdd47b9733`↓
 
-<a href="./archive/00400_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00400_001.jpg" target="_blank">
 	<img src="./lowres/00400_001.jpg" alt="Rollei RPX 25 35mm film box inside" loading="lazy" width="500" height="394">
 </a>
 
@@ -9058,28 +9058,28 @@ Added : 2025-10-16   |  Author  : nick
 UUID  : 38e7af3c3ff34abeb7ae0badd310b14c
 ```
 
-<a href="./archive/00400_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00400_000.jpg" target="_blank">
 	<img src="./lowres/00400_000.jpg" alt="Rollei RPX 25 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
 
 `UUID: e481850cf5ef471ca1c4d116ca79a5b8`↓
 
-<a href="./archive/00399_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00399_003.jpg" target="_blank">
 	<img src="./lowres/00399_003.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="265">
 </a>
 
 
 `UUID: b4abaf59baa1429c8085e9f20e115e73`↓
 
-<a href="./archive/00399_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00399_002.jpg" target="_blank">
 	<img src="./lowres/00399_002.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="221">
 </a>
 
 
 `UUID: 9bbddf2ace8b430c87ae445ede2a99f1`↓
 
-<a href="./archive/00399_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00399_001.jpg" target="_blank">
 	<img src="./lowres/00399_001.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="211">
 </a>
 
@@ -9093,28 +9093,28 @@ Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 52bf2ed6baac480dbc32d05e569f4913
 ```
 
-<a href="./archive/00399_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00399_000.jpg" target="_blank">
 	<img src="./lowres/00399_000.jpg" alt="Sharan Color Negative Film 8x11mm film box outside" loading="lazy" width="500" height="243">
 </a>
 
 
 `UUID: aff927d754b94e4a8e02b5db988feb9c`↓
 
-<a href="./archive/00398_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00398_003.jpg" target="_blank">
 	<img src="./lowres/00398_003.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="273">
 </a>
 
 
 `UUID: 181802a92d784d7bb55da9b320456623`↓
 
-<a href="./archive/00398_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00398_002.jpg" target="_blank">
 	<img src="./lowres/00398_002.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="241">
 </a>
 
 
 `UUID: 863a7bdf1a704c8581b85715cfeaf4b6`↓
 
-<a href="./archive/00398_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00398_001.jpg" target="_blank">
 	<img src="./lowres/00398_001.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="271">
 </a>
 
@@ -9129,14 +9129,14 @@ UUID  : f51e641835b543e592ea57ddb0c2a884
 Notes : ACMEL embossed on box
 ```
 
-<a href="./archive/00398_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00398_000.jpg" target="_blank">
 	<img src="./lowres/00398_000.jpg" alt="Sharan Black-and-white Negative Film 8x11mm film box outside" loading="lazy" width="500" height="253">
 </a>
 
 
 `UUID: e73e0dd7193c4cfa9b8d4eed881bb328`↓
 
-<a href="./archive/00397_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00397_001.jpg" target="_blank">
 	<img src="./lowres/00397_001.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="146">
 </a>
 
@@ -9150,21 +9150,21 @@ Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 2b69cd822cf44b0a833b845e7b515338
 ```
 
-<a href="./archive/00397_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00397_000.jpg" target="_blank">
 	<img src="./lowres/00397_000.jpg" alt="Minox MinoColor 100 Pro 8x11mm film box outside" loading="lazy" width="500" height="128">
 </a>
 
 
 `UUID: 9275565ac1d046c5a72f553b7f73e124`↓
 
-<a href="./archive/00396_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00396_002.jpg" target="_blank">
 	<img src="./lowres/00396_002.jpg" alt="Lomography Tiger 110 film cartridge" loading="lazy" width="500" height="198">
 </a>
 
 
 `UUID: 23cf98004a95479ebb6992d73ee36d36`↓
 
-<a href="./archive/00396_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00396_001.jpg" target="_blank">
 	<img src="./lowres/00396_001.jpg" alt="Lomography Tiger 110 film box inside" loading="lazy" width="337" height="500">
 </a>
 
@@ -9178,49 +9178,49 @@ Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 141712bb8988495d811441f1e5fb5b62
 ```
 
-<a href="./archive/00396_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00396_000.jpg" target="_blank">
 	<img src="./lowres/00396_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="337" height="500">
 </a>
 
 
 `UUID: 1bb9712c568140bd86d5d2ba361b85c9`↓
 
-<a href="./archive/00395_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_006.jpg" target="_blank">
 	<img src="./lowres/00395_006.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
 
 `UUID: fe686e709acd4d8eb81aa903bc07d146`↓
 
-<a href="./archive/00395_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_005.jpg" target="_blank">
 	<img src="./lowres/00395_005.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="322" height="500">
 </a>
 
 
 `UUID: 771ae62e2ca14e40a13c15c815d42ff0`↓
 
-<a href="./archive/00395_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_004.jpg" target="_blank">
 	<img src="./lowres/00395_004.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="313" height="500">
 </a>
 
 
 `UUID: e0caa1919c6d4af3a5478f7e16c3664d`↓
 
-<a href="./archive/00395_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_003.jpg" target="_blank">
 	<img src="./lowres/00395_003.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: f6f40232e62741eb8bbc5f22f9e38dc8`↓
 
-<a href="./archive/00395_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_002.jpg" target="_blank">
 	<img src="./lowres/00395_002.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film cartridge" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: c8261d3d4696463091c1e946521ba6b8`↓
 
-<a href="./archive/00395_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_001.jpg" target="_blank">
 	<img src="./lowres/00395_001.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film cartridge" loading="lazy" width="429" height="499">
 </a>
 
@@ -9234,21 +9234,21 @@ Added : 2025-10-14   |  Author  : dekuNukem
 UUID  : 0543dd31cf204c8499f5f1e51a9b861c
 ```
 
-<a href="./archive/00395_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00395_000.jpg" target="_blank">
 	<img src="./lowres/00395_000.jpg" alt="Impossible Project Color Instant Film for Polaroid SX-70 Type Cameras Instant Integral Film film box outside" loading="lazy" width="500" height="361">
 </a>
 
 
 `UUID: 2528a0f231cf473597f3d594c67dc803`↓
 
-<a href="./archive/00394_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00394_002.jpg" target="_blank">
 	<img src="./lowres/00394_002.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="322" height="499">
 </a>
 
 
 `UUID: 71624d5686d648ef9411cbed44ed3f49`↓
 
-<a href="./archive/00394_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00394_001.jpg" target="_blank">
 	<img src="./lowres/00394_001.jpg" alt="ORWO NP15 120 film box leaflet" loading="lazy" width="316" height="500">
 </a>
 
@@ -9262,7 +9262,7 @@ Added : 2025-10-13   |  Author  : @recycling.film
 UUID  : 50956257d99f4f24a3ec712e77379a20
 ```
 
-<a href="./archive/00394_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00394_000.jpg" target="_blank">
 	<img src="./lowres/00394_000.jpg" alt="ORWO NP15 120 film box outside" loading="lazy" width="500" height="425">
 </a>
 
@@ -9276,14 +9276,14 @@ Added : 2025-10-13   |  Author  : @recycling.film
 UUID  : 9205929c91ba4c3bbbfacb1b2e678b44
 ```
 
-<a href="./archive/00393_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00393_000.jpg" target="_blank">
 	<img src="./lowres/00393_000.jpg" alt="Svema Foto 32 120 film box outside" loading="lazy" width="500" height="391">
 </a>
 
 
 `UUID: 21e61895c4f64c35a0a1ee7f59988917`↓
 
-<a href="./archive/00392_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00392_001.jpg" target="_blank">
 	<img src="./lowres/00392_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
@@ -9297,14 +9297,14 @@ Added : 2025-10-13   |  Author  : @recycling.film
 UUID  : 3c726f85acc246d99f3e8c55c4cf072e
 ```
 
-<a href="./archive/00392_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00392_000.jpg" target="_blank">
 	<img src="./lowres/00392_000.jpg" alt="Ilford HP5 Plus 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: b1a79997109841788a563a01c59c6acc`↓
 
-<a href="./archive/00391_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00391_001.jpg" target="_blank">
 	<img src="./lowres/00391_001.jpg" alt="Ilford XP2 Super 120 film box inside" loading="lazy" width="498" height="500">
 </a>
 
@@ -9318,35 +9318,35 @@ Added : 2025-10-12   |  Author  : kaimon
 UUID  : 08ab5616c0644099aceffb457b7e484f
 ```
 
-<a href="./archive/00391_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00391_000.jpg" target="_blank">
 	<img src="./lowres/00391_000.jpg" alt="Ilford XP2 Super 120 film box outside" loading="lazy" width="500" height="490">
 </a>
 
 
 `UUID: 8e3103da87194d3abc7e557078ad9130`↓
 
-<a href="./archive/00390_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00390_004.jpg" target="_blank">
 	<img src="./lowres/00390_004.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="421" height="500">
 </a>
 
 
 `UUID: c84743c44edd485eb047e566a249609f`↓
 
-<a href="./archive/00390_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00390_003.jpg" target="_blank">
 	<img src="./lowres/00390_003.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="304" height="500">
 </a>
 
 
 `UUID: bf8091dc91444595bf58e0b11e2c051c`↓
 
-<a href="./archive/00390_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00390_002.jpg" target="_blank">
 	<img src="./lowres/00390_002.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="406" height="500">
 </a>
 
 
 `UUID: ce169d8c6e8c49b883bf3c1149128398`↓
 
-<a href="./archive/00390_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00390_001.jpg" target="_blank">
 	<img src="./lowres/00390_001.jpg" alt="Kodak Kodacolor 35mm film box leaflet" loading="lazy" width="304" height="500">
 </a>
 
@@ -9360,7 +9360,7 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 1c8fa96c92974edaa7cbf69b3e535d25
 ```
 
-<a href="./archive/00390_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00390_000.jpg" target="_blank">
 	<img src="./lowres/00390_000.jpg" alt="Kodak Kodacolor 35mm film box outside" loading="lazy" width="449" height="500">
 </a>
 
@@ -9374,28 +9374,28 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 5b7606bb875b4930bafa486534e6af27
 ```
 
-<a href="./archive/00389_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00389_000.jpg" target="_blank">
 	<img src="./lowres/00389_000.jpg" alt="Gevaert Superchrome 127 film box outside" loading="lazy" width="500" height="346">
 </a>
 
 
 `UUID: 5162cf96587443cead98bdbef85a229c`↓
 
-<a href="./archive/00388_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00388_003.jpg" target="_blank">
 	<img src="./lowres/00388_003.jpg" alt="Walgreen All Purpose Film 620 film cartridge" loading="lazy" width="500" height="226">
 </a>
 
 
 `UUID: b41e3644f2f6434c807ce95df8c37561`↓
 
-<a href="./archive/00388_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00388_002.jpg" target="_blank">
 	<img src="./lowres/00388_002.jpg" alt="Walgreen All Purpose Film 620 film box leaflet" loading="lazy" width="500" height="383">
 </a>
 
 
 `UUID: 8bbe0c722eb84948bcdd35b683dca54a`↓
 
-<a href="./archive/00388_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00388_001.jpg" target="_blank">
 	<img src="./lowres/00388_001.jpg" alt="Walgreen All Purpose Film 620 film box leaflet" loading="lazy" width="500" height="383">
 </a>
 
@@ -9409,7 +9409,7 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : ed28012d8a77465898bf1bf978db541b
 ```
 
-<a href="./archive/00388_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00388_000.jpg" target="_blank">
 	<img src="./lowres/00388_000.jpg" alt="Walgreen All Purpose Film 620 film box outside" loading="lazy" width="500" height="364">
 </a>
 
@@ -9423,14 +9423,14 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 0c1f9c9669e6421a9d9ef9ac14b918f8
 ```
 
-<a href="./archive/00387_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00387_000.jpg" target="_blank">
 	<img src="./lowres/00387_000.jpg" alt="Svema Foto 64 16mm film box outside" loading="lazy" width="500" height="469">
 </a>
 
 
 `UUID: 2cf8ba4121a04609a57253eea4e541fa`↓
 
-<a href="./archive/00386_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00386_001.jpg" target="_blank">
 	<img src="./lowres/00386_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="442">
 </a>
 
@@ -9444,7 +9444,7 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : da6172ade5c540ee8a25e83586005b36
 ```
 
-<a href="./archive/00386_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00386_000.jpg" target="_blank">
 	<img src="./lowres/00386_000.jpg" alt="Ilford FP4 Plus 120 film box outside" loading="lazy" width="500" height="429">
 </a>
 
@@ -9458,7 +9458,7 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 39756172435749ed870105a77fa53c6c
 ```
 
-<a href="./archive/00385_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00385_000.jpg" target="_blank">
 	<img src="./lowres/00385_000.jpg" alt="Ansco Plenachrome 120 film box outside" loading="lazy" width="500" height="405">
 </a>
 
@@ -9472,35 +9472,35 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : 55a2616da3a9456a90f763ed8ac5bc7a
 ```
 
-<a href="./archive/00384_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00384_000.jpg" target="_blank">
 	<img src="./lowres/00384_000.jpg" alt="Robot NR-Cassette 35mm film box outside" loading="lazy" width="500" height="421">
 </a>
 
 
 `UUID: 0d69320f7ded493590d6abb0ea69f750`↓
 
-<a href="./archive/00383_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00383_004.jpg" target="_blank">
 	<img src="./lowres/00383_004.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
 
 `UUID: 59c184351d13442dab4fb0f74ddd25ee`↓
 
-<a href="./archive/00383_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00383_003.jpg" target="_blank">
 	<img src="./lowres/00383_003.jpg" alt="Ricoh Golden "16" 16mm film box leaflet" loading="lazy" width="331" height="500">
 </a>
 
 
 `UUID: d99990b484984277a0be54182937d422`↓
 
-<a href="./archive/00383_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00383_002.jpg" target="_blank">
 	<img src="./lowres/00383_002.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="220">
 </a>
 
 
 `UUID: 0bd17a0f246c41b79322a478901003c5`↓
 
-<a href="./archive/00383_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00383_001.jpg" target="_blank">
 	<img src="./lowres/00383_001.jpg" alt="Ricoh Golden "16" 16mm film box processing envelope" loading="lazy" width="500" height="197">
 </a>
 
@@ -9514,21 +9514,21 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : c4263f60ad284b669f5db75e79d2c02c
 ```
 
-<a href="./archive/00383_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00383_000.jpg" target="_blank">
 	<img src="./lowres/00383_000.jpg" alt="Ricoh Golden "16" 16mm film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 9298339353774799a2918c495d225335`↓
 
-<a href="./archive/00382_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00382_002.jpg" target="_blank">
 	<img src="./lowres/00382_002.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="473" height="500">
 </a>
 
 
 `UUID: 5c38e6e7bb004036a0b59661d33a5d8b`↓
 
-<a href="./archive/00382_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00382_001.jpg" target="_blank">
 	<img src="./lowres/00382_001.jpg" alt="Ilford HP3 620 film box leaflet" loading="lazy" width="462" height="500">
 </a>
 
@@ -9542,42 +9542,42 @@ Added : 2025-10-12   |  Author  : dekuNukem
 UUID  : df6db4a9d0a24f4689647a4ece831afc
 ```
 
-<a href="./archive/00382_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00382_000.jpg" target="_blank">
 	<img src="./lowres/00382_000.jpg" alt="Ilford HP3 620 film box outside" loading="lazy" width="500" height="434">
 </a>
 
 
 `UUID: 3d8c3f8d64e6401793eaea69cf7319da`↓
 
-<a href="./archive/00381_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_005.jpg" target="_blank">
 	<img src="./lowres/00381_005.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="500" height="236">
 </a>
 
 
 `UUID: cce11076e2304cd1881905d67a8eb7f5`↓
 
-<a href="./archive/00381_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_004.jpg" target="_blank">
 	<img src="./lowres/00381_004.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box processing envelope" loading="lazy" width="234" height="500">
 </a>
 
 
 `UUID: d5614e94dc2b4dfb89e64a7f4e6f369a`↓
 
-<a href="./archive/00381_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_003.jpg" target="_blank">
 	<img src="./lowres/00381_003.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film cartridge" loading="lazy" width="500" height="470">
 </a>
 
 
 `UUID: afeea97aac0f462b845ed530d90edf14`↓
 
-<a href="./archive/00381_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_002.jpg" target="_blank">
 	<img src="./lowres/00381_002.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box leaflet" loading="lazy" width="279" height="500">
 </a>
 
 
 `UUID: 8364bd18c8c14b8b88fad55c8e0f6c48`↓
 
-<a href="./archive/00381_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_001.jpg" target="_blank">
 	<img src="./lowres/00381_001.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box leaflet" loading="lazy" width="275" height="500">
 </a>
 
@@ -9591,7 +9591,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 4f8758001bd74040b9e5a4bc6506c143
 ```
 
-<a href="./archive/00381_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00381_000.jpg" target="_blank">
 	<img src="./lowres/00381_000.jpg" alt="Kodak Kodachrome 40 Movie Film (Type A) for Post-process Sound Striping Super 8 film box outside" loading="lazy" width="500" height="333">
 </a>
 
@@ -9605,7 +9605,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : b79dcd08bc514df3982630e3401f01db
 ```
 
-<a href="./archive/00380_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00380_000.jpg" target="_blank">
 	<img src="./lowres/00380_000.jpg" alt="Agfa Agfacolor Umkehr-Ultra T 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9619,7 +9619,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : def2a04d52794b00aa61a0b801bdb867
 ```
 
-<a href="./archive/00379_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00379_000.jpg" target="_blank">
 	<img src="./lowres/00379_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9633,7 +9633,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : a4dcee02869a4274b81b453160ca7ed1
 ```
 
-<a href="./archive/00378_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00378_000.jpg" target="_blank">
 	<img src="./lowres/00378_000.jpg" alt="Kodak Panatomic-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9647,7 +9647,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 6775b898e26f4b649bd5323259f284f7
 ```
 
-<a href="./archive/00377_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00377_000.jpg" target="_blank">
 	<img src="./lowres/00377_000.jpg" alt="Ilford FP3 35mm film cartridge" loading="lazy" width="500" height="499">
 </a>
 
@@ -9661,7 +9661,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 274e94b488d64e3a890da1f77b607958
 ```
 
-<a href="./archive/00376_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00376_000.jpg" target="_blank">
 	<img src="./lowres/00376_000.jpg" alt="Kodak Plus-X 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9675,7 +9675,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : bb411872cc384c19b35debf6662503e7
 ```
 
-<a href="./archive/00375_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00375_000.jpg" target="_blank">
 	<img src="./lowres/00375_000.jpg" alt="Ilford FP3 Series 2 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9689,7 +9689,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 25cfa8cb048141e38ed79df6bf38b9d7
 ```
 
-<a href="./archive/00374_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00374_000.jpg" target="_blank">
 	<img src="./lowres/00374_000.jpg" alt="Agfa Isopan ISS 35mm film cartridge" loading="lazy" width="500" height="500">
 </a>
 
@@ -9703,7 +9703,7 @@ Added : 2025-10-07   |  Author  : Pelicram
 UUID  : 60cc4bc5cdde4f79946e61ff1fc81bb7
 ```
 
-<a href="./archive/00373_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00373_000.jpg" target="_blank">
 	<img src="./lowres/00373_000.jpg" alt="Filmfabrik Köpenick Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="395">
 </a>
 
@@ -9717,14 +9717,14 @@ Added : 2025-10-06   |  Author  : @Hol.m35
 UUID  : 433055f5732e4d53b4245da4dfe0ef1f
 ```
 
-<a href="./archive/00372_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00372_000.jpg" target="_blank">
 	<img src="./lowres/00372_000.jpg" alt="Fujifilm Superia Premium 400 35mm film box outside" loading="lazy" width="448" height="500">
 </a>
 
 
 `UUID: e3caf8b1d9ec4d0495a5908c202bca61`↓
 
-<a href="./archive/00371_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00371_001.jpg" target="_blank">
 	<img src="./lowres/00371_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="451" height="500">
 </a>
 
@@ -9738,7 +9738,7 @@ Added : 2025-10-06   |  Author  : @Hol.m35
 UUID  : ca7affc001374aa882b4c2edd3e8f5f7
 ```
 
-<a href="./archive/00371_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00371_000.jpg" target="_blank">
 	<img src="./lowres/00371_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
@@ -9752,14 +9752,14 @@ Added : 2025-10-05   |  Author  : Pelicram
 UUID  : a54b7c329f26403d91ffa69325a1d209
 ```
 
-<a href="./archive/00370_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00370_000.jpg" target="_blank">
 	<img src="./lowres/00370_000.jpg" alt="Minox MinoColor 3 8x11mm film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 4220a86f04794b568159c0b119859985`↓
 
-<a href="./archive/00369_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00369_001.jpg" target="_blank">
 	<img src="./lowres/00369_001.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box inside" loading="lazy" width="500" height="250">
 </a>
 
@@ -9773,7 +9773,7 @@ Added : 2025-10-05   |  Author  : benikum
 UUID  : da22aec5f8564cd8b34023047f511620
 ```
 
-<a href="./archive/00369_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00369_000.jpg" target="_blank">
 	<img src="./lowres/00369_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Super S 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -9787,14 +9787,14 @@ Added : 2025-10-05   |  Author  : benikum
 UUID  : a26198b637074f36b099870688e7dba0
 ```
 
-<a href="./archive/00368_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00368_000.jpg" target="_blank">
 	<img src="./lowres/00368_000.jpg" alt="VEB Fotochemische Werke Berlin Dekopan Feinkorn 35mm film box outside" loading="lazy" width="500" height="406">
 </a>
 
 
 `UUID: 32693b43dc864734a3514bada3537ae3`↓
 
-<a href="./archive/00367_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00367_001.jpg" target="_blank">
 	<img src="./lowres/00367_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="431" height="499">
 </a>
 
@@ -9809,14 +9809,14 @@ UUID  : 1989020e64ed45108cb6e45a389641d4
 Notes : Chinese version
 ```
 
-<a href="./archive/00367_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00367_000.jpg" target="_blank">
 	<img src="./lowres/00367_000.jpg" alt="Harman Phoenix II 35mm film box outside" loading="lazy" width="442" height="500">
 </a>
 
 
 `UUID: fcc0cdbabdd246f7a2de58209827f9c3`↓
 
-<a href="./archive/00366_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00366_001.jpg" target="_blank">
 	<img src="./lowres/00366_001.jpg" alt="Harman Phoenix II 120 film box inside" loading="lazy" width="500" height="430">
 </a>
 
@@ -9831,14 +9831,14 @@ UUID  : df238026e7c84a89961248cec20737c7
 Notes : Chinese version
 ```
 
-<a href="./archive/00366_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00366_000.jpg" target="_blank">
 	<img src="./lowres/00366_000.jpg" alt="Harman Phoenix II 120 film box outside" loading="lazy" width="500" height="438">
 </a>
 
 
 `UUID: 7cde8a5a159c441f9bad7f7f5d8cba98`↓
 
-<a href="./archive/00365_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00365_001.jpg" target="_blank">
 	<img src="./lowres/00365_001.jpg" alt="Kodak Tri-X 400 Pro 120 film box inside" loading="lazy" width="384" height="500">
 </a>
 
@@ -9852,14 +9852,14 @@ Added : 2025-10-03   |  Author  : @ellafridalindblom
 UUID  : dd34c2bc1fe34b17b67c6ad002bef05c
 ```
 
-<a href="./archive/00365_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00365_000.jpg" target="_blank">
 	<img src="./lowres/00365_000.jpg" alt="Kodak Tri-X 400 Pro 120 film box outside" loading="lazy" width="382" height="500">
 </a>
 
 
 `UUID: c2742bb793f34d90a0365bb82e0160df`↓
 
-<a href="./archive/00364_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00364_001.jpg" target="_blank">
 	<img src="./lowres/00364_001.jpg" alt="Polaroid Image Instant Film Instant Integral Film film box inside" loading="lazy" width="303" height="500">
 </a>
 
@@ -9873,35 +9873,35 @@ Added : 2025-10-03   |  Author  : @ellafridalindblom
 UUID  : 6a3ab27a3a964d7c9ecc38dbce2fee6d
 ```
 
-<a href="./archive/00364_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00364_000.jpg" target="_blank">
 	<img src="./lowres/00364_000.jpg" alt="Polaroid Image Instant Film Instant Integral Film film box outside" loading="lazy" width="293" height="500">
 </a>
 
 
 `UUID: 4e513a5356fb4b3e8bbc3b0d6ae62543`↓
 
-<a href="./archive/00363_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00363_004.jpg" target="_blank">
 	<img src="./lowres/00363_004.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="202">
 </a>
 
 
 `UUID: 2672ff6891f14e44b7f3077a501ae234`↓
 
-<a href="./archive/00363_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00363_003.jpg" target="_blank">
 	<img src="./lowres/00363_003.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: a29f494b970044eab313b00b12096cf3`↓
 
-<a href="./archive/00363_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00363_002.jpg" target="_blank">
 	<img src="./lowres/00363_002.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="260" height="500">
 </a>
 
 
 `UUID: 95f013bdd442471d9258bb0cc8eb77fc`↓
 
-<a href="./archive/00363_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00363_001.jpg" target="_blank">
 	<img src="./lowres/00363_001.jpg" alt="PrinzColor Colour Negative Film 35mm film box processing envelope" loading="lazy" width="500" height="262">
 </a>
 
@@ -9915,42 +9915,42 @@ Added : 2025-10-02   |  Author  : dekuNukem
 UUID  : 1d1377fcb4fa495e9f3009a4c69b448c
 ```
 
-<a href="./archive/00363_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00363_000.jpg" target="_blank">
 	<img src="./lowres/00363_000.jpg" alt="PrinzColor Colour Negative Film 35mm film box outside" loading="lazy" width="500" height="495">
 </a>
 
 
 `UUID: c893ed2ea45f4220b7e8c463a3621b6d`↓
 
-<a href="./archive/00362_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_005.jpg" target="_blank">
 	<img src="./lowres/00362_005.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="266" height="500">
 </a>
 
 
 `UUID: 8c332dbe2d0f4a6389bbcbc8eb93e0aa`↓
 
-<a href="./archive/00362_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_004.jpg" target="_blank">
 	<img src="./lowres/00362_004.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="365">
 </a>
 
 
 `UUID: 7527ca56668c467386813a8357601289`↓
 
-<a href="./archive/00362_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_003.jpg" target="_blank">
 	<img src="./lowres/00362_003.jpg" alt="Film Corporation of America TriFCA 35 35mm film box processing envelope" loading="lazy" width="500" height="267">
 </a>
 
 
 `UUID: ced4b9758b32450183e2359abbb2dd8a`↓
 
-<a href="./archive/00362_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_002.jpg" target="_blank">
 	<img src="./lowres/00362_002.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
 </a>
 
 
 `UUID: fc5bf25a0e624483a581e4171fb368e1`↓
 
-<a href="./archive/00362_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_001.jpg" target="_blank">
 	<img src="./lowres/00362_001.jpg" alt="Film Corporation of America TriFCA 35 35mm film box leaflet" loading="lazy" width="235" height="500">
 </a>
 
@@ -9964,14 +9964,14 @@ Added : 2025-10-02   |  Author  : dekuNukem
 UUID  : a3346f80db3b4032a2c69665f7448f0a
 ```
 
-<a href="./archive/00362_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00362_000.jpg" target="_blank">
 	<img src="./lowres/00362_000.jpg" alt="Film Corporation of America TriFCA 35 35mm film box outside" loading="lazy" width="500" height="475">
 </a>
 
 
 `UUID: 52be7e5732274b03a9a7423e31c12fce`↓
 
-<a href="./archive/00361_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00361_001.jpg" target="_blank">
 	<img src="./lowres/00361_001.jpg" alt="Ilford Delta 100 Professional 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
@@ -9985,14 +9985,14 @@ Added : 2025-10-02   |  Author  : kaimon
 UUID  : 179f22ce3d644d728b189f6ef7a9bf01
 ```
 
-<a href="./archive/00361_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00361_000.jpg" target="_blank">
 	<img src="./lowres/00361_000.jpg" alt="Ilford Delta 100 Professional 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: aefb75faa42949bb9a8093770ec9fac8`↓
 
-<a href="./archive/00360_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00360_001.jpg" target="_blank">
 	<img src="./lowres/00360_001.jpg" alt="CatLABS X Film 80 MKII 120 film box inside" loading="lazy" width="500" height="427">
 </a>
 
@@ -10006,35 +10006,35 @@ Added : 2025-10-01   |  Author  : lt_col_tall
 UUID  : 98b415dbd4184372b8568b2b99a1bcd1
 ```
 
-<a href="./archive/00360_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00360_000.jpg" target="_blank">
 	<img src="./lowres/00360_000.jpg" alt="CatLABS X Film 80 MKII 120 film box outside" loading="lazy" width="500" height="427">
 </a>
 
 
 `UUID: 1340536f2f4b408a9129dea625da8168`↓
 
-<a href="./archive/00359_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00359_004.jpg" target="_blank">
 	<img src="./lowres/00359_004.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="282" height="500">
 </a>
 
 
 `UUID: 27c54d7248cb4d858c6773bc29ec69a3`↓
 
-<a href="./archive/00359_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00359_003.jpg" target="_blank">
 	<img src="./lowres/00359_003.jpg" alt="ORWO Chrom UT21 35mm film box processing envelope" loading="lazy" width="500" height="284">
 </a>
 
 
 `UUID: 357b9379dea24d16b611aaf25ccdcd04`↓
 
-<a href="./archive/00359_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00359_002.jpg" target="_blank">
 	<img src="./lowres/00359_002.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="298" height="500">
 </a>
 
 
 `UUID: a9dd1ce04a364ba9bf0610b68b3d3b89`↓
 
-<a href="./archive/00359_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00359_001.jpg" target="_blank">
 	<img src="./lowres/00359_001.jpg" alt="ORWO Chrom UT21 35mm film box leaflet" loading="lazy" width="299" height="500">
 </a>
 
@@ -10048,7 +10048,7 @@ Added : 2025-09-28   |  Author  : fine-seat
 UUID  : e3f739b7106044949b4f101684ad3fd5
 ```
 
-<a href="./archive/00359_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00359_000.jpg" target="_blank">
 	<img src="./lowres/00359_000.jpg" alt="ORWO Chrom UT21 35mm film box outside" loading="lazy" width="409" height="499">
 </a>
 
@@ -10062,7 +10062,7 @@ Added : 2025-09-28   |  Author  : fine-seat
 UUID  : 7ac665727691429d9ea1ec73ebe9a9ad
 ```
 
-<a href="./archive/00358_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00358_000.jpg" target="_blank">
 	<img src="./lowres/00358_000.jpg" alt="Herzog Duxopan 35mm film box outside" loading="lazy" width="500" height="486">
 </a>
 
@@ -10076,7 +10076,7 @@ Added : 2025-09-28   |  Author  : fine-seat
 UUID  : ab1d4ea5f512444e92d82e4610c75ba6
 ```
 
-<a href="./archive/00357_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00357_000.jpg" target="_blank">
 	<img src="./lowres/00357_000.jpg" alt="Agfa Isopan ISS 127 film box outside" loading="lazy" width="500" height="412">
 </a>
 
@@ -10090,14 +10090,14 @@ Added : 2025-09-28   |  Author  : lemoniter
 UUID  : 88f5c251c21546fba06cd2943e55813a
 ```
 
-<a href="./archive/00356_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00356_000.jpg" target="_blank">
 	<img src="./lowres/00356_000.jpg" alt="Club Color Natural Color System 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: 7935fbe7f8a44593a172f1e9fc2fd2bc`↓
 
-<a href="./archive/00355_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00355_001.jpg" target="_blank">
 	<img src="./lowres/00355_001.jpg" alt="JCH Streetpan 120 film box inside" loading="lazy" width="500" height="463">
 </a>
 
@@ -10111,7 +10111,7 @@ Added : 2025-09-28   |  Author  : @Hol.m35
 UUID  : f32d9e32d43441b79220744cdb4e5c70
 ```
 
-<a href="./archive/00355_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00355_000.jpg" target="_blank">
 	<img src="./lowres/00355_000.jpg" alt="JCH Streetpan 120 film box outside" loading="lazy" width="500" height="456">
 </a>
 
@@ -10125,7 +10125,7 @@ Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 28ed6948476d4d7baeb8e7fd7c3520f3
 ```
 
-<a href="./archive/00354_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00354_000.jpg" target="_blank">
 	<img src="./lowres/00354_000.jpg" alt="Impossible Project PX 600 Silver Shade UV+ Instant Integral Film film box outside" loading="lazy" width="194" height="500">
 </a>
 
@@ -10139,7 +10139,7 @@ Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 6670d5214ea545e99bfb7aadb6d4aa7a
 ```
 
-<a href="./archive/00353_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00353_000.jpg" target="_blank">
 	<img src="./lowres/00353_000.jpg" alt="Kodak High Speed Infrared Film 2481 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
@@ -10153,7 +10153,7 @@ Added : 2025-09-28   |  Author  : @ellafridalindblom
 UUID  : 2ec40bee5af2471cad92278123ba7a94
 ```
 
-<a href="./archive/00352_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00352_000.jpg" target="_blank">
 	<img src="./lowres/00352_000.jpg" alt="Polaroid Spectra Film Instant Integral Film film box outside" loading="lazy" width="271" height="499">
 </a>
 
@@ -10167,21 +10167,21 @@ Added : 2025-09-28   |  Author  : dekuNukem
 UUID  : b1affc3985b44a4781729ffa50908ae4
 ```
 
-<a href="./archive/00351_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00351_000.jpg" target="_blank">
 	<img src="./lowres/00351_000.jpg" alt="Klick Max Extra Definition Multi Purpose Film 35mm film box outside" loading="lazy" width="468" height="500">
 </a>
 
 
 `UUID: f5abcdb901ff4bae82a7b52a8d8dda5c`↓
 
-<a href="./archive/00350_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00350_002.jpg" target="_blank">
 	<img src="./lowres/00350_002.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
 
 `UUID: 911c893c07554c488c396cebc100e6b5`↓
 
-<a href="./archive/00350_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00350_001.jpg" target="_blank">
 	<img src="./lowres/00350_001.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box leaflet" loading="lazy" width="276" height="500">
 </a>
 
@@ -10195,28 +10195,28 @@ Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : bbcc3da99c5c4734a5a8a985b9b31d39
 ```
 
-<a href="./archive/00350_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00350_000.jpg" target="_blank">
 	<img src="./lowres/00350_000.jpg" alt="Fujifilm Fujicolor HR 1600 35mm film box outside" loading="lazy" width="467" height="500">
 </a>
 
 
 `UUID: 99e7ca19be7b412ba276d45c7a09369f`↓
 
-<a href="./archive/00349_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00349_003.jpg" target="_blank">
 	<img src="./lowres/00349_003.jpg" alt="Polaroid 990 Instant Integral Film film box inside" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: d4caa7bc6e1a46e1a5712fccfe5003e0`↓
 
-<a href="./archive/00349_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00349_002.jpg" target="_blank">
 	<img src="./lowres/00349_002.jpg" alt="Polaroid 990 Instant Integral Film film box inside" loading="lazy" width="500" height="406">
 </a>
 
 
 `UUID: 6e2ec8c800b140baaf1a2438e722931c`↓
 
-<a href="./archive/00349_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00349_001.jpg" target="_blank">
 	<img src="./lowres/00349_001.jpg" alt="Polaroid 990 Instant Integral Film film box outside" loading="lazy" width="476" height="500">
 </a>
 
@@ -10230,42 +10230,42 @@ Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 79f8183905d443aaaab84c6f0944e3bc
 ```
 
-<a href="./archive/00349_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00349_000.jpg" target="_blank">
 	<img src="./lowres/00349_000.jpg" alt="Polaroid 990 Instant Integral Film film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 1d879777e90646b7958f04a7b03c4569`↓
 
-<a href="./archive/00348_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_005.jpg" target="_blank">
 	<img src="./lowres/00348_005.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="378">
 </a>
 
 
 `UUID: 1ea1b9e629554579aa058a12e7d4c721`↓
 
-<a href="./archive/00348_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_004.jpg" target="_blank">
 	<img src="./lowres/00348_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="271" height="500">
 </a>
 
 
 `UUID: 98f8c5fced3c41198779e0bc6342b785`↓
 
-<a href="./archive/00348_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_003.jpg" target="_blank">
 	<img src="./lowres/00348_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="270">
 </a>
 
 
 `UUID: 273677a3c51140c781c4f2bcc7da1ce3`↓
 
-<a href="./archive/00348_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_002.jpg" target="_blank">
 	<img src="./lowres/00348_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="240" height="500">
 </a>
 
 
 `UUID: 6ecc1d182bf8420d9d0c02e83bda565d`↓
 
-<a href="./archive/00348_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_001.jpg" target="_blank">
 	<img src="./lowres/00348_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="247" height="500">
 </a>
 
@@ -10280,35 +10280,35 @@ UUID  : 49fdf7859f354d85933ce875998c9937
 Notes : Expiry is probably later than the other one, due to the increase of the processing cost.
 ```
 
-<a href="./archive/00348_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00348_000.jpg" target="_blank">
 	<img src="./lowres/00348_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
 
 `UUID: 42849bf6f7684843ab2f412fadcd58e8`↓
 
-<a href="./archive/00347_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00347_004.jpg" target="_blank">
 	<img src="./lowres/00347_004.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="500" height="276">
 </a>
 
 
 `UUID: 9d3c5d4e5a1948cc86a38226b1a51dc4`↓
 
-<a href="./archive/00347_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00347_003.jpg" target="_blank">
 	<img src="./lowres/00347_003.jpg" alt="Film Corporation of America TriFCA 120 120 film box processing envelope" loading="lazy" width="268" height="500">
 </a>
 
 
 `UUID: f59f27c936cf4c98bfd8fb480a56f858`↓
 
-<a href="./archive/00347_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00347_002.jpg" target="_blank">
 	<img src="./lowres/00347_002.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
 </a>
 
 
 `UUID: d82edd4e175246df8a163421cbf276fe`↓
 
-<a href="./archive/00347_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00347_001.jpg" target="_blank">
 	<img src="./lowres/00347_001.jpg" alt="Film Corporation of America TriFCA 120 120 film box leaflet" loading="lazy" width="236" height="500">
 </a>
 
@@ -10322,7 +10322,7 @@ Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 6041b4bb7a8149ee98f4b7e3b80ad024
 ```
 
-<a href="./archive/00347_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00347_000.jpg" target="_blank">
 	<img src="./lowres/00347_000.jpg" alt="Film Corporation of America TriFCA 120 120 film box outside" loading="lazy" width="500" height="351">
 </a>
 
@@ -10336,7 +10336,7 @@ Added : 2025-09-18   |  Author  : dekuNukem
 UUID  : 010a03a196a543beb83906a352d490b9
 ```
 
-<a href="./archive/00346_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00346_000.jpg" target="_blank">
 	<img src="./lowres/00346_000.jpg" alt="Polaroid Polavision Phototape Land Cassette Type 608 Polavision film box outside" loading="lazy" width="500" height="473">
 </a>
 
@@ -10350,7 +10350,7 @@ Added : 2025-09-17   |  Author  : The Compartmentalist
 UUID  : 404910cf04a14b8ab5116ec9c2f86b0a
 ```
 
-<a href="./archive/00345_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00345_000.jpg" target="_blank">
 	<img src="./lowres/00345_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="361">
 </a>
 
@@ -10364,7 +10364,7 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 07d897691a00479584d29dbe8c05ff86
 ```
 
-<a href="./archive/00344_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00344_000.jpg" target="_blank">
 	<img src="./lowres/00344_000.jpg" alt="Ificolor Super FG HQ 200 35mm film box leaflet" loading="lazy" width="500" height="441">
 </a>
 
@@ -10378,7 +10378,7 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : f211bfbc4ac9498bb83cfe5f3846d848
 ```
 
-<a href="./archive/00343_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00343_000.jpg" target="_blank">
 	<img src="./lowres/00343_000.jpg" alt="Fujifilm Neopan SS 120 film box outside" loading="lazy" width="500" height="465">
 </a>
 
@@ -10392,7 +10392,7 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : b5dd426d99ad43e5b289be7acd9c0198
 ```
 
-<a href="./archive/00342_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00342_000.jpg" target="_blank">
 	<img src="./lowres/00342_000.jpg" alt="Ificolor SHR 100 126 film box outside" loading="lazy" width="468" height="500">
 </a>
 
@@ -10406,7 +10406,7 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : cd3f61fd84d844c0810b9a508c4721a7
 ```
 
-<a href="./archive/00341_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00341_000.jpg" target="_blank">
 	<img src="./lowres/00341_000.jpg" alt="Fujifilm Neopan 400 Presto 120 film box outside" loading="lazy" width="500" height="468">
 </a>
 
@@ -10420,21 +10420,21 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 83467c04e5254b4286b48e5a8e1b0b40
 ```
 
-<a href="./archive/00340_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00340_000.jpg" target="_blank">
 	<img src="./lowres/00340_000.jpg" alt="Konica Sepia Professional 120 film box outside" loading="lazy" width="500" height="436">
 </a>
 
 
 `UUID: 0532cf90dadd4f8a9d5b2e6654989bbb`↓
 
-<a href="./archive/00339_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00339_002.jpg" target="_blank">
 	<img src="./lowres/00339_002.jpg" alt="Fujifilm Fujichrome 64T 120 film box inside" loading="lazy" width="483" height="500">
 </a>
 
 
 `UUID: be884dd0a48d4d35b510d4bfbf61bcd5`↓
 
-<a href="./archive/00339_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00339_001.jpg" target="_blank">
 	<img src="./lowres/00339_001.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="477" height="499">
 </a>
 
@@ -10448,21 +10448,21 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 5bfbb5140c7943fcb52950d4db4c311b
 ```
 
-<a href="./archive/00339_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00339_000.jpg" target="_blank">
 	<img src="./lowres/00339_000.jpg" alt="Fujifilm Fujichrome 64T 120 film box outside" loading="lazy" width="481" height="500">
 </a>
 
 
 `UUID: 120f8d3620ca4d8d84af3c32c09c5bba`↓
 
-<a href="./archive/00338_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00338_002.jpg" target="_blank">
 	<img src="./lowres/00338_002.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="189" height="500">
 </a>
 
 
 `UUID: 8dd3ba1b167542bb95a7661994e4246e`↓
 
-<a href="./archive/00338_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00338_001.jpg" target="_blank">
 	<img src="./lowres/00338_001.jpg" alt="Kodak Tri-X Pan 120 film box leaflet" loading="lazy" width="182" height="500">
 </a>
 
@@ -10476,7 +10476,7 @@ Added : 2025-09-17   |  Author  : @ellafridalindblom
 UUID  : 496c4c1b618442bf933f48660acef201
 ```
 
-<a href="./archive/00338_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00338_000.jpg" target="_blank">
 	<img src="./lowres/00338_000.jpg" alt="Kodak Tri-X Pan 120 film box outside" loading="lazy" width="500" height="444">
 </a>
 
@@ -10490,7 +10490,7 @@ Added : 2025-09-17   |  Author  : The Compartmentalist
 UUID  : 7fc91e3ef9cf4519adde24e24938e3ba
 ```
 
-<a href="./archive/00337_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00337_000.jpg" target="_blank">
 	<img src="./lowres/00337_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="481" height="500">
 </a>
 
@@ -10504,14 +10504,14 @@ Added : 2025-09-17   |  Author  : The Compartmentalist
 UUID  : e72a327c49d3440c85ab03647ff00960
 ```
 
-<a href="./archive/00336_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00336_000.jpg" target="_blank">
 	<img src="./lowres/00336_000.jpg" alt="Lomography Lomochrome Color’92 120 film box outside" loading="lazy" width="500" height="275">
 </a>
 
 
 `UUID: 3e6eca45a0704e0da5c37631b1fd0b56`↓
 
-<a href="./archive/00335_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00335_001.jpg" target="_blank">
 	<img src="./lowres/00335_001.jpg" alt="Jessops Diamond Everyday 35mm film box inside" loading="lazy" width="414" height="500">
 </a>
 
@@ -10525,28 +10525,28 @@ Added : 2025-09-13   |  Author  : GreatGizmo74
 UUID  : 44e526db85e94a63ac582d20a1cc6d5a
 ```
 
-<a href="./archive/00335_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00335_000.jpg" target="_blank">
 	<img src="./lowres/00335_000.jpg" alt="Jessops Diamond Everyday 35mm film box outside" loading="lazy" width="407" height="500">
 </a>
 
 
 `UUID: c41e2cc23bee49768e995b15393af204`↓
 
-<a href="./archive/00334_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00334_003.jpg" target="_blank">
 	<img src="./lowres/00334_003.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="273" height="500">
 </a>
 
 
 `UUID: 460cbe6f0af64e2d9a648dc1795c4605`↓
 
-<a href="./archive/00334_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00334_002.jpg" target="_blank">
 	<img src="./lowres/00334_002.jpg" alt="Jessops CS100 35mm film box processing envelope" loading="lazy" width="500" height="293">
 </a>
 
 
 `UUID: 488ad47450f348a898c909433e87172f`↓
 
-<a href="./archive/00334_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00334_001.jpg" target="_blank">
 	<img src="./lowres/00334_001.jpg" alt="Jessops CS100 35mm film box inside" loading="lazy" width="428" height="500">
 </a>
 
@@ -10560,7 +10560,7 @@ Added : 2025-09-13   |  Author  : GreatGizmo74
 UUID  : 6e2123fd1134408789902c16b3764288
 ```
 
-<a href="./archive/00334_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00334_000.jpg" target="_blank">
 	<img src="./lowres/00334_000.jpg" alt="Jessops CS100 35mm film box outside" loading="lazy" width="441" height="500">
 </a>
 
@@ -10574,7 +10574,7 @@ Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : d01783be3b70456095411ca387865701
 ```
 
-<a href="./archive/00333_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00333_000.jpg" target="_blank">
 	<img src="./lowres/00333_000.jpg" alt="Kodak Ultra 110 film box outside" loading="lazy" width="296" height="500">
 </a>
 
@@ -10588,21 +10588,21 @@ Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 6c0cf01a1703494296ce60ad5dd28cca
 ```
 
-<a href="./archive/00332_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00332_000.jpg" target="_blank">
 	<img src="./lowres/00332_000.jpg" alt="Kodak 110 Film 110 film box outside" loading="lazy" width="299" height="499">
 </a>
 
 
 `UUID: a87701598e4540da8804dd29aa0922f7`↓
 
-<a href="./archive/00331_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00331_002.jpg" target="_blank">
 	<img src="./lowres/00331_002.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: 2227688b4c8b4ef796fb75f487359f71`↓
 
-<a href="./archive/00331_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00331_001.jpg" target="_blank">
 	<img src="./lowres/00331_001.jpg" alt="Kodak Kodacolor 400 110 film box leaflet" loading="lazy" width="414" height="500">
 </a>
 
@@ -10616,14 +10616,14 @@ Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 3ef3252141a64ffe9d7e3fad745b9e4c
 ```
 
-<a href="./archive/00331_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00331_000.jpg" target="_blank">
 	<img src="./lowres/00331_000.jpg" alt="Kodak Kodacolor 400 110 film box outside" loading="lazy" width="500" height="400">
 </a>
 
 
 `UUID: 96209110f95e4744b78b1d31a44f73cf`↓
 
-<a href="./archive/00330_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00330_001.jpg" target="_blank">
 	<img src="./lowres/00330_001.jpg" alt="CineStill 400Dynamic 35mm film box inside" loading="lazy" width="382" height="500">
 </a>
 
@@ -10637,7 +10637,7 @@ Added : 2025-09-13   |  Author  : @filmfotofella
 UUID  : 587ac1b471994b54bb5f472d6975fccd
 ```
 
-<a href="./archive/00330_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00330_000.jpg" target="_blank">
 	<img src="./lowres/00330_000.jpg" alt="CineStill 400Dynamic 35mm film box outside" loading="lazy" width="380" height="500">
 </a>
 
@@ -10651,7 +10651,7 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 81e8726a7d3b45beb1f1bd6c1cbc2f14
 ```
 
-<a href="./archive/00329_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00329_000.jpg" target="_blank">
 	<img src="./lowres/00329_000.jpg" alt="Agfa AgfaColor Vista 110 film box outside" loading="lazy" width="500" height="336">
 </a>
 
@@ -10665,7 +10665,7 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 9cec7faf26254e72bfb79611ea6ed22b
 ```
 
-<a href="./archive/00328_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00328_000.jpg" target="_blank">
 	<img src="./lowres/00328_000.jpg" alt="Agfa AgfaColor HDC Plus 110 film box outside" loading="lazy" width="500" height="354">
 </a>
 
@@ -10679,7 +10679,7 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 6c15a39618164543bfc2ef7f54addeb6
 ```
 
-<a href="./archive/00327_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00327_000.jpg" target="_blank">
 	<img src="./lowres/00327_000.jpg" alt="Polaroid High Definition 110 film box outside" loading="lazy" width="500" height="343">
 </a>
 
@@ -10693,21 +10693,21 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 5b9792793fd94c9a9f9f776fe34e1ca2
 ```
 
-<a href="./archive/00326_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00326_000.jpg" target="_blank">
 	<img src="./lowres/00326_000.jpg" alt="Kodak Advantix Ultra Max APS film box outside" loading="lazy" width="500" height="399">
 </a>
 
 
 `UUID: 5bb72bffd3224a279eb4b01c201a80f2`↓
 
-<a href="./archive/00325_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00325_002.jpg" target="_blank">
 	<img src="./lowres/00325_002.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="218" height="499">
 </a>
 
 
 `UUID: cdd3df87cea649c7b8015b295520bd54`↓
 
-<a href="./archive/00325_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00325_001.jpg" target="_blank">
 	<img src="./lowres/00325_001.jpg" alt="Kodak Kodacolor II 120 film box leaflet" loading="lazy" width="220" height="499">
 </a>
 
@@ -10721,14 +10721,14 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 3bfb81116e54468fb296098a03ad4108
 ```
 
-<a href="./archive/00325_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00325_000.jpg" target="_blank">
 	<img src="./lowres/00325_000.jpg" alt="Kodak Kodacolor II 120 film box outside" loading="lazy" width="500" height="411">
 </a>
 
 
 `UUID: 2406fd96271a4db4b946e0e17a503b1b`↓
 
-<a href="./archive/00324_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00324_001.jpg" target="_blank">
 	<img src="./lowres/00324_001.jpg" alt="SupaSnaps Snappit Film 126 film cartridge" loading="lazy" width="500" height="444">
 </a>
 
@@ -10742,7 +10742,7 @@ Added : 2025-09-13   |  Author  : dekuNukem
 UUID  : 1cf47ce82b58418f9e009b4f0121c41b
 ```
 
-<a href="./archive/00324_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00324_000.jpg" target="_blank">
 	<img src="./lowres/00324_000.jpg" alt="SupaSnaps Snappit Film 126 film box outside" loading="lazy" width="500" height="480">
 </a>
 
@@ -10756,7 +10756,7 @@ Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : 4acd5aeda3a34bc89b646a14bb4dc968
 ```
 
-<a href="./archive/00323_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00323_000.jpg" target="_blank">
 	<img src="./lowres/00323_000.jpg" alt="Mr. Negative Silver Screen Negative 35mm film box outside" loading="lazy" width="490" height="500">
 </a>
 
@@ -10770,7 +10770,7 @@ Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : 955fbe87cb4c45dfb7f198cc638d6d6e
 ```
 
-<a href="./archive/00322_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00322_000.jpg" target="_blank">
 	<img src="./lowres/00322_000.jpg" alt="Mr. Negative Eterna 250D 35mm film box outside" loading="lazy" width="472" height="499">
 </a>
 
@@ -10784,7 +10784,7 @@ Added : 2025-09-11   |  Author  : @sachynmital
 UUID  : e5b29575691e43d8bc17578978083574
 ```
 
-<a href="./archive/00321_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00321_000.jpg" target="_blank">
 	<img src="./lowres/00321_000.jpg" alt="Mr. Negative 250D 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
@@ -10798,14 +10798,14 @@ Added : 2025-09-10   |  Author  : Aoi Yuki
 UUID  : 59358e7096174d7f926ed0aab9fd030a
 ```
 
-<a href="./archive/00320_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00320_000.jpg" target="_blank">
 	<img src="./lowres/00320_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="356">
 </a>
 
 
 `UUID: af8da0bc734f498f80c6423b2d78667b`↓
 
-<a href="./archive/00319_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00319_001.jpg" target="_blank">
 	<img src="./lowres/00319_001.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box inside" loading="lazy" width="494" height="500">
 </a>
 
@@ -10820,21 +10820,21 @@ UUID  : 41ebc0cc4fb746288adb198f58a84591
 Notes : RHP III
 ```
 
-<a href="./archive/00319_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00319_000.jpg" target="_blank">
 	<img src="./lowres/00319_000.jpg" alt="Fujifilm Fujichrome Provia 400F Professional 120 film box outside" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: 16af66bb84f245a89c2bdb1c2d548ce2`↓
 
-<a href="./archive/00318_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00318_002.jpg" target="_blank">
 	<img src="./lowres/00318_002.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="284" height="500">
 </a>
 
 
 `UUID: 022093eba4ed4f8fa2875519ad245735`↓
 
-<a href="./archive/00318_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00318_001.jpg" target="_blank">
 	<img src="./lowres/00318_001.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box leaflet" loading="lazy" width="294" height="500">
 </a>
 
@@ -10849,14 +10849,14 @@ UUID  : eb3d804130c64e0f9486b1134bc7b7b2
 Notes : RHP
 ```
 
-<a href="./archive/00318_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00318_000.jpg" target="_blank">
 	<img src="./lowres/00318_000.jpg" alt="Fujifilm Fujichrome Provia 400 Professional 120 film box outside" loading="lazy" width="488" height="500">
 </a>
 
 
 `UUID: cafaee7054534b7284726cab6f56c367`↓
 
-<a href="./archive/00317_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00317_001.jpg" target="_blank">
 	<img src="./lowres/00317_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="403" height="500">
 </a>
 
@@ -10870,7 +10870,7 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 295bd5709b1e4dd88204bd2c67bd1731
 ```
 
-<a href="./archive/00317_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00317_000.jpg" target="_blank">
 	<img src="./lowres/00317_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
@@ -10884,14 +10884,14 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 031527052b0d4c4daf74708dde626991
 ```
 
-<a href="./archive/00316_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00316_000.jpg" target="_blank">
 	<img src="./lowres/00316_000.jpg" alt="Svema Foto 200 35mm film box outside" loading="lazy" width="500" height="477">
 </a>
 
 
 `UUID: 0e0ad3d8bf184fe4ba12b803f267b71e`↓
 
-<a href="./archive/00315_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00315_001.jpg" target="_blank">
 	<img src="./lowres/00315_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box inside" loading="lazy" width="472" height="500">
 </a>
 
@@ -10905,14 +10905,14 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 905002d5cdc24e36b190fb04a38cda37
 ```
 
-<a href="./archive/00315_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00315_000.jpg" target="_blank">
 	<img src="./lowres/00315_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 400 120 film box outside" loading="lazy" width="468" height="500">
 </a>
 
 
 `UUID: d7e77f89cf4549d383b81dad410adff4`↓
 
-<a href="./archive/00314_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00314_001.jpg" target="_blank">
 	<img src="./lowres/00314_001.jpg" alt="Lomography Lomochrome Color'92 120 film box inside" loading="lazy" width="500" height="272">
 </a>
 
@@ -10926,14 +10926,14 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 48a192dcc8f44c17a449dfccf8279fdb
 ```
 
-<a href="./archive/00314_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00314_000.jpg" target="_blank">
 	<img src="./lowres/00314_000.jpg" alt="Lomography Lomochrome Color'92 120 film box outside" loading="lazy" width="500" height="276">
 </a>
 
 
 `UUID: b59730221b5f438388c4a9cbcba44676`↓
 
-<a href="./archive/00313_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00313_001.jpg" target="_blank">
 	<img src="./lowres/00313_001.jpg" alt="Lomography Color Negative Film 120 film box inside" loading="lazy" width="500" height="256">
 </a>
 
@@ -10947,7 +10947,7 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : e200ab98ca5746cbb6f3af1afb481529
 ```
 
-<a href="./archive/00313_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00313_000.jpg" target="_blank">
 	<img src="./lowres/00313_000.jpg" alt="Lomography Color Negative Film 120 film box outside" loading="lazy" width="500" height="253">
 </a>
 
@@ -10961,14 +10961,14 @@ Added : 2025-09-07   |  Author  : @zruk_ts
 UUID  : 46e2cf3d6d78474ca55da2c510d0d1c5
 ```
 
-<a href="./archive/00311_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00311_000.jpg" target="_blank">
 	<img src="./lowres/00311_000.jpg" alt="Alien Film Aeronega 120 film box outside" loading="lazy" width="500" height="433">
 </a>
 
 
 `UUID: 999648311ef040049db316f49db239b0`↓
 
-<a href="./archive/00310_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00310_001.jpg" target="_blank">
 	<img src="./lowres/00310_001.jpg" alt="Ilford Delta 100 Professional 120 film box inside" loading="lazy" width="500" height="448">
 </a>
 
@@ -10982,14 +10982,14 @@ Added : 2025-09-07   |  Author  : dekuNukem
 UUID  : c2225dedcae040e7bb27a918c4ca93b9
 ```
 
-<a href="./archive/00310_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00310_000.jpg" target="_blank">
 	<img src="./lowres/00310_000.jpg" alt="Ilford Delta 100 Professional 120 film box outside" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: c32ca8b644b54348a71dab9414ec61d4`↓
 
-<a href="./archive/00309_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00309_001.jpg" target="_blank">
 	<img src="./lowres/00309_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
@@ -11003,21 +11003,21 @@ Added : 2025-09-07   |  Author  : dekuNukem
 UUID  : f38dd0735c2e441088b421eec4678f8b
 ```
 
-<a href="./archive/00309_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00309_000.jpg" target="_blank">
 	<img src="./lowres/00309_000.jpg" alt="Ilford Delta 400 Professional 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
 
 `UUID: 3e4277ca388248c5a4ea7d11988bf3a6`↓
 
-<a href="./archive/00308_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00308_002.jpg" target="_blank">
 	<img src="./lowres/00308_002.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="383" height="500">
 </a>
 
 
 `UUID: 172bc614704c4391bd34e58f0b27b279`↓
 
-<a href="./archive/00308_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00308_001.jpg" target="_blank">
 	<img src="./lowres/00308_001.jpg" alt="Fujifilm Fujicolor HR100 120 film box leaflet" loading="lazy" width="378" height="500">
 </a>
 
@@ -11031,7 +11031,7 @@ Added : 2025-09-06   |  Author  : dekuNukem
 UUID  : 934f2484197d41c7a5467b92a9ea23c5
 ```
 
-<a href="./archive/00308_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00308_000.jpg" target="_blank">
 	<img src="./lowres/00308_000.jpg" alt="Fujifilm Fujicolor HR100 120 film box outside" loading="lazy" width="500" height="466">
 </a>
 
@@ -11045,14 +11045,14 @@ Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : b8ea314888b244f8ab8ace49c734e5e7
 ```
 
-<a href="./archive/00307_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00307_000.jpg" target="_blank">
 	<img src="./lowres/00307_000.jpg" alt="Fujifilm Instax Mini Instant Integral Film film box outside" loading="lazy" width="500" height="400">
 </a>
 
 
 `UUID: e4133b6a1709448dbe4efa97d028e25a`↓
 
-<a href="./archive/00306_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00306_001.jpg" target="_blank">
 	<img src="./lowres/00306_001.jpg" alt="Harman Red 35mm film box inside" loading="lazy" width="383" height="500">
 </a>
 
@@ -11066,14 +11066,14 @@ Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : 3903165bcfbc43ad9a6ee42e7922da3a
 ```
 
-<a href="./archive/00306_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00306_000.jpg" target="_blank">
 	<img src="./lowres/00306_000.jpg" alt="Harman Red 35mm film box outside" loading="lazy" width="393" height="500">
 </a>
 
 
 `UUID: be7e29869fd34099b29753fc5dc86b02`↓
 
-<a href="./archive/00305_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00305_001.jpg" target="_blank">
 	<img src="./lowres/00305_001.jpg" alt="Ilford Delta 400 Professional 35mm film box inside" loading="lazy" width="402" height="500">
 </a>
 
@@ -11087,14 +11087,14 @@ Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : 3b21d893a52242f886e7057855d7f3da
 ```
 
-<a href="./archive/00305_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00305_000.jpg" target="_blank">
 	<img src="./lowres/00305_000.jpg" alt="Ilford Delta 400 Professional 35mm film box outside" loading="lazy" width="406" height="500">
 </a>
 
 
 `UUID: 627cee08157e4e5c9277b0e02fe7eb6c`↓
 
-<a href="./archive/00304_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00304_001.jpg" target="_blank">
 	<img src="./lowres/00304_001.jpg" alt="Ilford FP4 Plus 35mm film box inside" loading="lazy" width="443" height="500">
 </a>
 
@@ -11108,21 +11108,21 @@ Added : 2025-09-06   |  Author  : @toastergod101
 UUID  : c1bab96948014588adbde72665853bc0
 ```
 
-<a href="./archive/00304_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00304_000.jpg" target="_blank">
 	<img src="./lowres/00304_000.jpg" alt="Ilford FP4 Plus 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
 
 `UUID: 00e9096cb514470d8c00d2f66a652286`↓
 
-<a href="./archive/00303_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00303_002.jpg" target="_blank">
 	<img src="./lowres/00303_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="188" height="500">
 </a>
 
 
 `UUID: 304a86e18bd841ee86c30538fe4e1940`↓
 
-<a href="./archive/00303_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00303_001.jpg" target="_blank">
 	<img src="./lowres/00303_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="200" height="500">
 </a>
 
@@ -11137,7 +11137,7 @@ UUID  : ac9eab85f0874cf7aa5c67f0458e7533
 Notes : Tungsten (3200K) EHB 120
 ```
 
-<a href="./archive/00303_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00303_000.jpg" target="_blank">
 	<img src="./lowres/00303_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
 </a>
 
@@ -11151,14 +11151,14 @@ Added : 2025-09-06   |  Author  : kaimon
 UUID  : e7713fa57cac41e3ae3f416f3ea5ac24
 ```
 
-<a href="./archive/00302_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00302_000.jpg" target="_blank">
 	<img src="./lowres/00302_000.jpg" alt="Ilford Ilfochrome 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: af2f0855d49849daa5b8fbde77c2ce5d`↓
 
-<a href="./archive/00301_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00301_001.jpg" target="_blank">
 	<img src="./lowres/00301_001.jpg" alt="Agfa AgfaColor Optima 200 120 film box inside" loading="lazy" width="500" height="373">
 </a>
 
@@ -11172,14 +11172,14 @@ Added : 2025-09-05   |  Author  : dekuNukem
 UUID  : e8465f64b1f84f32900d92caa25e393d
 ```
 
-<a href="./archive/00301_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00301_000.jpg" target="_blank">
 	<img src="./lowres/00301_000.jpg" alt="Agfa AgfaColor Optima 200 120 film box outside" loading="lazy" width="500" height="373">
 </a>
 
 
 `UUID: a8ade8c85a504d288a6d5d7458843652`↓
 
-<a href="./archive/00300_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00300_001.jpg" target="_blank">
 	<img src="./lowres/00300_001.jpg" alt="Agfa Agfapan APX 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
@@ -11193,14 +11193,14 @@ Added : 2025-09-05   |  Author  : dekuNukem
 UUID  : 4f4b0a2c13064863a1db469838095855
 ```
 
-<a href="./archive/00300_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00300_000.jpg" target="_blank">
 	<img src="./lowres/00300_000.jpg" alt="Agfa Agfapan APX 400 120 film box outside" loading="lazy" width="500" height="374">
 </a>
 
 
 `UUID: 4d0264c90bd7476099107ddfac1ec67f`↓
 
-<a href="./archive/00299_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00299_001.jpg" target="_blank">
 	<img src="./lowres/00299_001.jpg" alt="Kodak Portra 400UC 120 film box inside" loading="lazy" width="500" height="432">
 </a>
 
@@ -11215,14 +11215,14 @@ UUID  : 87e948a92b624ef996d2e1da3a7b5b9e
 Notes : sample pack, not for resale.
 ```
 
-<a href="./archive/00299_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00299_000.jpg" target="_blank">
 	<img src="./lowres/00299_000.jpg" alt="Kodak Portra 400UC 120 film box processing envelope" loading="lazy" width="500" height="431">
 </a>
 
 
 `UUID: 14bad93245df4dbdbcdaacff90eafb1a`↓
 
-<a href="./archive/00298_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00298_001.jpg" target="_blank">
 	<img src="./lowres/00298_001.jpg" alt="Agfa Optima II 400 120 film box inside" loading="lazy" width="500" height="384">
 </a>
 
@@ -11236,7 +11236,7 @@ Added : 2025-09-05   |  Author  : dekuNukem
 UUID  : 4ae0df57aeb24746a0a7854da202fdf0
 ```
 
-<a href="./archive/00298_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00298_000.jpg" target="_blank">
 	<img src="./lowres/00298_000.jpg" alt="Agfa Optima II 400 120 film box outside" loading="lazy" width="500" height="381">
 </a>
 
@@ -11250,35 +11250,35 @@ Added : 2025-09-04   |  Author  : dekuNukem
 UUID  : dc04ec32aeda4b9ba394437272fde9b6
 ```
 
-<a href="./archive/00297_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00297_000.jpg" target="_blank">
 	<img src="./lowres/00297_000.jpg" alt="Kodak FarbWelt 400 35mm film box outside" loading="lazy" width="500" height="443">
 </a>
 
 
 `UUID: b7c2b191e72e4ae297c4c78d98585957`↓
 
-<a href="./archive/00296_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00296_004.jpg" target="_blank">
 	<img src="./lowres/00296_004.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="314" height="500">
 </a>
 
 
 `UUID: 349ef3a2ea8244f78955530ca905e8c9`↓
 
-<a href="./archive/00296_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00296_003.jpg" target="_blank">
 	<img src="./lowres/00296_003.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="319" height="500">
 </a>
 
 
 `UUID: 5b61ba8200934d8b8f89c63c03d389f1`↓
 
-<a href="./archive/00296_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00296_002.jpg" target="_blank">
 	<img src="./lowres/00296_002.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="296" height="500">
 </a>
 
 
 `UUID: f334a74bb5b94b8f9b24bda99e8ef2ab`↓
 
-<a href="./archive/00296_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00296_001.jpg" target="_blank">
 	<img src="./lowres/00296_001.jpg" alt="Kodak Ektachrome Professional Type B 120 film box leaflet" loading="lazy" width="292" height="500">
 </a>
 
@@ -11292,35 +11292,35 @@ Added : 2025-09-03   |  Author  : dekuNukem
 UUID  : 666d8c45723a458199b88976a68e1d9d
 ```
 
-<a href="./archive/00296_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00296_000.jpg" target="_blank">
 	<img src="./lowres/00296_000.jpg" alt="Kodak Ektachrome Professional Type B 120 film box outside" loading="lazy" width="500" height="366">
 </a>
 
 
 `UUID: 2d2b3b0808304c8fa9c8810ea8dcc6e4`↓
 
-<a href="./archive/00295_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00295_004.jpg" target="_blank">
 	<img src="./lowres/00295_004.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
 </a>
 
 
 `UUID: 3dd8f1463a874d57bc90793c0245a9f4`↓
 
-<a href="./archive/00295_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00295_003.jpg" target="_blank">
 	<img src="./lowres/00295_003.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="298" height="500">
 </a>
 
 
 `UUID: fc04a897f24546cc9a6751b83c8e93ff`↓
 
-<a href="./archive/00295_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00295_002.jpg" target="_blank">
 	<img src="./lowres/00295_002.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="319" height="500">
 </a>
 
 
 `UUID: 39df14e1dcee4f79bf2cb7ddb03265a8`↓
 
-<a href="./archive/00295_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00295_001.jpg" target="_blank">
 	<img src="./lowres/00295_001.jpg" alt="Kodak Ektachrome Professional 120 film box leaflet" loading="lazy" width="315" height="500">
 </a>
 
@@ -11334,21 +11334,21 @@ Added : 2025-09-03   |  Author  : dekuNukem
 UUID  : aa971cf96ee94671899aff23564902a1
 ```
 
-<a href="./archive/00295_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00295_000.jpg" target="_blank">
 	<img src="./lowres/00295_000.jpg" alt="Kodak Ektachrome Professional 120 film box outside" loading="lazy" width="500" height="355">
 </a>
 
 
 `UUID: 8d4656fd04a842ddafb29997f55ccb69`↓
 
-<a href="./archive/00294_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00294_002.jpg" target="_blank">
 	<img src="./lowres/00294_002.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="177" height="500">
 </a>
 
 
 `UUID: 53dbbb4bb5fe48e88ed62f5f595f7bab`↓
 
-<a href="./archive/00294_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00294_001.jpg" target="_blank">
 	<img src="./lowres/00294_001.jpg" alt="Kodak Ektachrome 400 120 film box leaflet" loading="lazy" width="200" height="500">
 </a>
 
@@ -11362,21 +11362,21 @@ Added : 2025-09-03   |  Author  : dekuNukem
 UUID  : 7c96865a4b554505b46710b016fd2b94
 ```
 
-<a href="./archive/00294_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00294_000.jpg" target="_blank">
 	<img src="./lowres/00294_000.jpg" alt="Kodak Ektachrome 400 120 film box outside" loading="lazy" width="500" height="423">
 </a>
 
 
 `UUID: 685cd88d9a3244ad8de01af68f32c144`↓
 
-<a href="./archive/00293_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00293_002.jpg" target="_blank">
 	<img src="./lowres/00293_002.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
 </a>
 
 
 `UUID: 7b9dbba78af944b1a37dfe6112cdd9b0`↓
 
-<a href="./archive/00293_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00293_001.jpg" target="_blank">
 	<img src="./lowres/00293_001.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="244" height="500">
 </a>
 
@@ -11390,7 +11390,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 25b1c5f73455417384b6ef1a78b06b0e
 ```
 
-<a href="./archive/00293_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00293_000.jpg" target="_blank">
 	<img src="./lowres/00293_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="421">
 </a>
 
@@ -11404,7 +11404,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : ae2418a073074872aa2c46534649a859
 ```
 
-<a href="./archive/00292_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00292_000.jpg" target="_blank">
 	<img src="./lowres/00292_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="500" height="461">
 </a>
 
@@ -11418,14 +11418,14 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 0b703dc8e8c74e8b9dd3215fa370e903
 ```
 
-<a href="./archive/00291_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00291_000.jpg" target="_blank">
 	<img src="./lowres/00291_000.jpg" alt="Konica Minolta Commercial Color Film 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
 
 `UUID: 5ea770cbc81f42758f9e01cf960f01b3`↓
 
-<a href="./archive/00290_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00290_001.jpg" target="_blank">
 	<img src="./lowres/00290_001.jpg" alt="Fujifilm Fujichrome Sensia 200 35mm film box inside" loading="lazy" width="445" height="500">
 </a>
 
@@ -11439,14 +11439,14 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 50c87b98fb1245c189e746556f6b3a01
 ```
 
-<a href="./archive/00290_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00290_000.jpg" target="_blank">
 	<img src="./lowres/00290_000.jpg" alt="Fujifilm Fujichrome Sensia 200 35mm film box outside" loading="lazy" width="462" height="500">
 </a>
 
 
 `UUID: 95ed7ff9054943edb1339bc4c06ee17e`↓
 
-<a href="./archive/00289_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00289_001.jpg" target="_blank">
 	<img src="./lowres/00289_001.jpg" alt="Fujifilm Neopan 400 35mm film box inside" loading="lazy" width="472" height="499">
 </a>
 
@@ -11460,7 +11460,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 93700c4c5c904b40b9c311614ebac088
 ```
 
-<a href="./archive/00289_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00289_000.jpg" target="_blank">
 	<img src="./lowres/00289_000.jpg" alt="Fujifilm Neopan 400 35mm film box outside" loading="lazy" width="482" height="499">
 </a>
 
@@ -11474,7 +11474,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 9a6b4771688d43c58b96c254e43d1ff6
 ```
 
-<a href="./archive/00288_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00288_000.jpg" target="_blank">
 	<img src="./lowres/00288_000.jpg" alt="Gevaert Ultra Panchro Normal 12x16.5cm film box outside" loading="lazy" width="379" height="500">
 </a>
 
@@ -11488,14 +11488,14 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : b3c3d2e18aed443fb89465bd6f257418
 ```
 
-<a href="./archive/00287_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00287_000.jpg" target="_blank">
 	<img src="./lowres/00287_000.jpg" alt="Agfa Extra Rapid Platten 9x12cm film box outside" loading="lazy" width="500" height="413">
 </a>
 
 
 `UUID: 90348c8ca8bf424eb54a73d1f129afb1`↓
 
-<a href="./archive/00286_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00286_001.jpg" target="_blank">
 	<img src="./lowres/00286_001.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="373" height="500">
 </a>
 
@@ -11509,7 +11509,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 80d64fa269454c5589109c68a40541a8
 ```
 
-<a href="./archive/00286_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00286_000.jpg" target="_blank">
 	<img src="./lowres/00286_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="376">
 </a>
 
@@ -11523,7 +11523,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : bacfd600baf843a694225c99ed99afcf
 ```
 
-<a href="./archive/00285_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00285_000.jpg" target="_blank">
 	<img src="./lowres/00285_000.jpg" alt="Defender Extra Special Fast Panchromatic 12x16.5cm film box outside" loading="lazy" width="374" height="500">
 </a>
 
@@ -11537,7 +11537,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : 0d51ddb121144fe6a26519a75517348b
 ```
 
-<a href="./archive/00284_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00284_000.jpg" target="_blank">
 	<img src="./lowres/00284_000.jpg" alt="Defender Extra Fast Panchromatic 12x16.5cm film box outside" loading="lazy" width="383" height="500">
 </a>
 
@@ -11551,7 +11551,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : ad700b1b71964ee3a1f2aaa78d8a0937
 ```
 
-<a href="./archive/00283_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00283_000.jpg" target="_blank">
 	<img src="./lowres/00283_000.jpg" alt="Agfa Trockenplatten 9x12cm film box outside" loading="lazy" width="500" height="396">
 </a>
 
@@ -11565,7 +11565,7 @@ Added : 2025-09-03   |  Author  : @ellafridalindblom
 UUID  : d9b0fa92fbbb494085ce494cc407d505
 ```
 
-<a href="./archive/00282_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00282_000.jpg" target="_blank">
 	<img src="./lowres/00282_000.jpg" alt="Phöbus-Platten Sheet Film 12x16.5cm film box outside" loading="lazy" width="500" height="419">
 </a>
 
@@ -11580,7 +11580,7 @@ UUID  : c7a59b3560b04f3a93f2ee26d1b21b4b
 Notes : Japanese version?
 ```
 
-<a href="./archive/00281_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00281_000.jpg" target="_blank">
 	<img src="./lowres/00281_000.jpg" alt="Fujifilm Fujichrome Provia 100F 120 film box outside" loading="lazy" width="400" height="499">
 </a>
 
@@ -11594,14 +11594,14 @@ Added : 2025-09-01   |  Author  : dekuNukem
 UUID  : 818038affb2c4137a33e5de403510ce5
 ```
 
-<a href="./archive/00280_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00280_000.jpg" target="_blank">
 	<img src="./lowres/00280_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="447">
 </a>
 
 
 `UUID: 8a7459e9d8894fa8872872fea7032a9d`↓
 
-<a href="./archive/00279_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00279_001.jpg" target="_blank">
 	<img src="./lowres/00279_001.jpg" alt="Kodak Ektachrome 100 Plus 220 film box inside" loading="lazy" width="500" height="391">
 </a>
 
@@ -11615,14 +11615,14 @@ Added : 2025-09-01   |  Author  : dekuNukem
 UUID  : 389f8e8d270647eda7b0b7d2ab060183
 ```
 
-<a href="./archive/00279_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00279_000.jpg" target="_blank">
 	<img src="./lowres/00279_000.jpg" alt="Kodak Ektachrome 100 Plus 220 film box outside" loading="lazy" width="372" height="500">
 </a>
 
 
 `UUID: b17891fbab094a19b7da26c8ac2b40b4`↓
 
-<a href="./archive/00278_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00278_001.jpg" target="_blank">
 	<img src="./lowres/00278_001.jpg" alt="Kodak Ektachrome 400X 120 film box inside" loading="lazy" width="411" height="500">
 </a>
 
@@ -11636,14 +11636,14 @@ Added : 2025-09-01   |  Author  : dekuNukem
 UUID  : 877e28be6f7240898a95616c39a95b82
 ```
 
-<a href="./archive/00278_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00278_000.jpg" target="_blank">
 	<img src="./lowres/00278_000.jpg" alt="Kodak Ektachrome 400X 120 film box outside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: bfb832790e754aa0ba98a030969ab95d`↓
 
-<a href="./archive/00277_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00277_001.jpg" target="_blank">
 	<img src="./lowres/00277_001.jpg" alt="Fujifilm FP-100C Instant Pack Film film box inside" loading="lazy" width="500" height="353">
 </a>
 
@@ -11657,14 +11657,14 @@ Added : 2025-09-01   |  Author  : @recycling.film
 UUID  : 9bf3702e732a42adb54727a565645cda
 ```
 
-<a href="./archive/00277_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00277_000.jpg" target="_blank">
 	<img src="./lowres/00277_000.jpg" alt="Fujifilm FP-100C Instant Pack Film film box outside" loading="lazy" width="500" height="353">
 </a>
 
 
 `UUID: 3c397dbea68649edb38d6464d6516746`↓
 
-<a href="./archive/00276_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00276_001.jpg" target="_blank">
 	<img src="./lowres/00276_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
@@ -11678,14 +11678,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 064dbfe80ca84ac99329c252bce0775a
 ```
 
-<a href="./archive/00276_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00276_000.jpg" target="_blank">
 	<img src="./lowres/00276_000.jpg" alt="Kodak Ektachrome 100HC 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: de18a3dd00a744a3973965244938320f`↓
 
-<a href="./archive/00275_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00275_001.jpg" target="_blank">
 	<img src="./lowres/00275_001.jpg" alt="Kodak Ektachrome 100HC 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
@@ -11699,14 +11699,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c7c26bb546634d47ae7fc5aa68b33ab9
 ```
 
-<a href="./archive/00275_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00275_000.jpg" target="_blank">
 	<img src="./lowres/00275_000.jpg" alt="Kodak Ektachrome 100HC 35mm film box outside" loading="lazy" width="433" height="500">
 </a>
 
 
 `UUID: 4c120316ad9f4fedb57d57138d37d0e1`↓
 
-<a href="./archive/00274_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00274_001.jpg" target="_blank">
 	<img src="./lowres/00274_001.jpg" alt="Kodak Ektachrome Elite 200 35mm film box inside" loading="lazy" width="466" height="500">
 </a>
 
@@ -11720,21 +11720,21 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 5f3a81c10cdb46baa28b1b1fbc56a391
 ```
 
-<a href="./archive/00274_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00274_000.jpg" target="_blank">
 	<img src="./lowres/00274_000.jpg" alt="Kodak Ektachrome Elite 200 35mm film box outside" loading="lazy" width="456" height="500">
 </a>
 
 
 `UUID: c6b25c061c1649c1a5fd09059473a330`↓
 
-<a href="./archive/00273_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00273_002.jpg" target="_blank">
 	<img src="./lowres/00273_002.jpg" alt="Kodak T-MAX 400 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
 
 `UUID: 92e90ab4cddd4e9d92981ba28f810803`↓
 
-<a href="./archive/00273_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00273_001.jpg" target="_blank">
 	<img src="./lowres/00273_001.jpg" alt="Kodak T-MAX 400 35mm film box leaflet" loading="lazy" width="188" height="499">
 </a>
 
@@ -11748,49 +11748,49 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c3e0b9bbf7a94fe28d6c2fc3cab2a34d
 ```
 
-<a href="./archive/00273_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00273_000.jpg" target="_blank">
 	<img src="./lowres/00273_000.jpg" alt="Kodak T-MAX 400 35mm film box outside" loading="lazy" width="363" height="500">
 </a>
 
 
 `UUID: bb549196d49a4992afdb1a15e70f51b8`↓
 
-<a href="./archive/00272_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_006.jpg" target="_blank">
 	<img src="./lowres/00272_006.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="340">
 </a>
 
 
 `UUID: 92d1c329ca9c4714bfe7ae4ccca5cc86`↓
 
-<a href="./archive/00272_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_005.jpg" target="_blank">
 	<img src="./lowres/00272_005.jpg" alt="Agfa AgfaColor CT 18 35mm film box processing envelope" loading="lazy" width="500" height="381">
 </a>
 
 
 `UUID: b2c42b0d1fca464e8813d18e3e709abe`↓
 
-<a href="./archive/00272_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_004.jpg" target="_blank">
 	<img src="./lowres/00272_004.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="451" height="500">
 </a>
 
 
 `UUID: 60fd9b682b714bda937f1489895e3f04`↓
 
-<a href="./archive/00272_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_003.jpg" target="_blank">
 	<img src="./lowres/00272_003.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="448" height="499">
 </a>
 
 
 `UUID: 9b5f0876d6bb4d049b1a352116b1edfa`↓
 
-<a href="./archive/00272_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_002.jpg" target="_blank">
 	<img src="./lowres/00272_002.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="467" height="500">
 </a>
 
 
 `UUID: a873cb888fb747898307b01aefc735f5`↓
 
-<a href="./archive/00272_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_001.jpg" target="_blank">
 	<img src="./lowres/00272_001.jpg" alt="Agfa AgfaColor CT 18 35mm film box leaflet" loading="lazy" width="481" height="500">
 </a>
 
@@ -11804,7 +11804,7 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 0e445a9b612a487b90df4e94a3831fef
 ```
 
-<a href="./archive/00272_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00272_000.jpg" target="_blank">
 	<img src="./lowres/00272_000.jpg" alt="Agfa AgfaColor CT 18 35mm film box outside" loading="lazy" width="500" height="453">
 </a>
 
@@ -11818,14 +11818,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 66f3d693560540d5b5a4cbfb3a91f5cc
 ```
 
-<a href="./archive/00271_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00271_000.jpg" target="_blank">
 	<img src="./lowres/00271_000.jpg" alt="Kodak Plus-X Pan 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
 
 `UUID: f65991d851c249318d64793e8e7defeb`↓
 
-<a href="./archive/00270_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00270_001.jpg" target="_blank">
 	<img src="./lowres/00270_001.jpg" alt="Klick 400ASA 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
@@ -11839,14 +11839,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 42f73c1448634cdb856d014e59098779
 ```
 
-<a href="./archive/00270_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00270_000.jpg" target="_blank">
 	<img src="./lowres/00270_000.jpg" alt="Klick 400ASA 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
 
 `UUID: 2e481382168c430c8a923e5a2aa60e05`↓
 
-<a href="./archive/00269_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00269_001.jpg" target="_blank">
 	<img src="./lowres/00269_001.jpg" alt="Konica KonicaColor VX 100 35mm film box inside" loading="lazy" width="439" height="500">
 </a>
 
@@ -11860,7 +11860,7 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : daee9d73b6d14f768e414b87260c8350
 ```
 
-<a href="./archive/00269_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00269_000.jpg" target="_blank">
 	<img src="./lowres/00269_000.jpg" alt="Konica KonicaColor VX 100 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
@@ -11874,14 +11874,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 0953325be5e54102b7615a7a5f82bf60
 ```
 
-<a href="./archive/00268_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00268_000.jpg" target="_blank">
 	<img src="./lowres/00268_000.jpg" alt="Max Spielmann Maxi Color 35mm film box outside" loading="lazy" width="453" height="500">
 </a>
 
 
 `UUID: 037c5e1f5185418c96aae0a01cf726a3`↓
 
-<a href="./archive/00267_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00267_001.jpg" target="_blank">
 	<img src="./lowres/00267_001.jpg" alt="Konica Centuria 200 35mm film box inside" loading="lazy" width="455" height="500">
 </a>
 
@@ -11895,7 +11895,7 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 2f575e07049946ea981e1d53eb4ee155
 ```
 
-<a href="./archive/00267_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00267_000.jpg" target="_blank">
 	<img src="./lowres/00267_000.jpg" alt="Konica Centuria 200 35mm film box outside" loading="lazy" width="458" height="499">
 </a>
 
@@ -11909,14 +11909,14 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : c4d16975eee44b9185b17cf0c0e4074c
 ```
 
-<a href="./archive/00266_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00266_000.jpg" target="_blank">
 	<img src="./lowres/00266_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
 `UUID: 6a35a7c39a2e4083bc5faa53fb5abd4e`↓
 
-<a href="./archive/00265_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00265_001.jpg" target="_blank">
 	<img src="./lowres/00265_001.jpg" alt="Premium Super XG 35mm film box inside" loading="lazy" width="500" height="440">
 </a>
 
@@ -11930,7 +11930,7 @@ Added : 2025-08-30   |  Author  : dekuNukem
 UUID  : 592592a0182a47dda6390cfc4fd18ccd
 ```
 
-<a href="./archive/00265_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00265_000.jpg" target="_blank">
 	<img src="./lowres/00265_000.jpg" alt="Premium Super XG 35mm film box outside" loading="lazy" width="500" height="453">
 </a>
 
@@ -11944,7 +11944,7 @@ Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : a361e3b88dde4e0482027e58f12d8bec
 ```
 
-<a href="./archive/00264_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00264_000.jpg" target="_blank">
 	<img src="./lowres/00264_000.jpg" alt="Reflx Lab Pro 100 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
@@ -11958,21 +11958,21 @@ Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : 08c1609b39a64daf8be1373ea99c7310
 ```
 
-<a href="./archive/00263_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00263_000.jpg" target="_blank">
 	<img src="./lowres/00263_000.jpg" alt="Kodak Kodacolor II 126 film box outside" loading="lazy" width="440" height="499">
 </a>
 
 
 `UUID: 240477250c92463e90e7887b069dcb03`↓
 
-<a href="./archive/00262_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00262_002.jpg" target="_blank">
 	<img src="./lowres/00262_002.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="184" height="500">
 </a>
 
 
 `UUID: 92d31dfc11894fdbbaa954ad3a06fdec`↓
 
-<a href="./archive/00262_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00262_001.jpg" target="_blank">
 	<img src="./lowres/00262_001.jpg" alt="Kodak High Speed Ektachrome 120 film box leaflet" loading="lazy" width="173" height="499">
 </a>
 
@@ -11986,21 +11986,21 @@ Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : 221130722e5d4ecfb94b4c1326dcbe8f
 ```
 
-<a href="./archive/00262_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00262_000.jpg" target="_blank">
 	<img src="./lowres/00262_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="480">
 </a>
 
 
 `UUID: 8a9d6009b1724610bbea230b5b2bdc73`↓
 
-<a href="./archive/00261_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00261_002.jpg" target="_blank">
 	<img src="./lowres/00261_002.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="483" height="500">
 </a>
 
 
 `UUID: 201fc821d3354cd7a82b0e1554ac06e4`↓
 
-<a href="./archive/00261_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00261_001.jpg" target="_blank">
 	<img src="./lowres/00261_001.jpg" alt="Kodak Ektachrome 200 126 film box leaflet" loading="lazy" width="482" height="499">
 </a>
 
@@ -12014,7 +12014,7 @@ Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : fef4be09ea484eecb10a13282d18f372
 ```
 
-<a href="./archive/00261_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00261_000.jpg" target="_blank">
 	<img src="./lowres/00261_000.jpg" alt="Kodak Ektachrome 200 126 film box outside" loading="lazy" width="444" height="499">
 </a>
 
@@ -12028,14 +12028,14 @@ Added : 2025-08-28   |  Author  : The Compartmentalist
 UUID  : 82095e23320f4581be4672fd5559596a
 ```
 
-<a href="./archive/00260_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00260_000.jpg" target="_blank">
 	<img src="./lowres/00260_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="500" height="306">
 </a>
 
 
 `UUID: 8fbb971a033b4a848831c97822b67601`↓
 
-<a href="./archive/00259_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00259_001.jpg" target="_blank">
 	<img src="./lowres/00259_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="454" height="500">
 </a>
 
@@ -12049,14 +12049,14 @@ Added : 2025-08-21   |  Author  : Pelicram
 UUID  : 1b741df3125e4a77bd28c50ce3dcc097
 ```
 
-<a href="./archive/00259_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00259_000.jpg" target="_blank">
 	<img src="./lowres/00259_000.jpg" alt="Rollei RPX 400 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
 
 `UUID: f8b9f798c2d34459955fd96c84c414b3`↓
 
-<a href="./archive/00258_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00258_001.jpg" target="_blank">
 	<img src="./lowres/00258_001.jpg" alt="Rollei RPX 100 35mm film box inside" loading="lazy" width="454" height="500">
 </a>
 
@@ -12070,14 +12070,14 @@ Added : 2025-08-21   |  Author  : Pelicram
 UUID  : 201ce1e1831a483ab7fd569cc50e7cd1
 ```
 
-<a href="./archive/00258_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00258_000.jpg" target="_blank">
 	<img src="./lowres/00258_000.jpg" alt="Rollei RPX 100 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
 
 `UUID: 0088411d14c547aa96ea5d28bf04d9ea`↓
 
-<a href="./archive/00257_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00257_001.jpg" target="_blank">
 	<img src="./lowres/00257_001.jpg" alt="Agfa Vista Plus 200 35mm film box inside" loading="lazy" width="410" height="499">
 </a>
 
@@ -12091,14 +12091,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : b1c4d56515954c8d98bd0b8f9591f08a
 ```
 
-<a href="./archive/00257_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00257_000.jpg" target="_blank">
 	<img src="./lowres/00257_000.jpg" alt="Agfa Vista Plus 200 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: 6e4b285456d1438ab0cdad81440b9761`↓
 
-<a href="./archive/00256_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00256_001.jpg" target="_blank">
 	<img src="./lowres/00256_001.jpg" alt="CineStill BWXX 120 film box inside" loading="lazy" width="495" height="499">
 </a>
 
@@ -12112,14 +12112,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : e4493fbb55e044edaaca55ecd22366eb
 ```
 
-<a href="./archive/00256_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00256_000.jpg" target="_blank">
 	<img src="./lowres/00256_000.jpg" alt="CineStill BWXX 120 film box outside" loading="lazy" width="500" height="489">
 </a>
 
 
 `UUID: 42d565d0fdbc4e12bcc11d172b36f779`↓
 
-<a href="./archive/00255_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00255_001.jpg" target="_blank">
 	<img src="./lowres/00255_001.jpg" alt="CineStill 400Dynamic 120 film box inside" loading="lazy" width="490" height="500">
 </a>
 
@@ -12133,14 +12133,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 9e2bc75381ca4ca68e59dbf6c3a388dc
 ```
 
-<a href="./archive/00255_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00255_000.jpg" target="_blank">
 	<img src="./lowres/00255_000.jpg" alt="CineStill 400Dynamic 120 film box outside" loading="lazy" width="500" height="486">
 </a>
 
 
 `UUID: 219350408c3c45c7b9c23de73db1ed40`↓
 
-<a href="./archive/00254_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00254_001.jpg" target="_blank">
 	<img src="./lowres/00254_001.jpg" alt="CineStill 50D 35mm film box inside" loading="lazy" width="408" height="500">
 </a>
 
@@ -12154,14 +12154,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 9213a1fbffc44178878f7bd9c5d33452
 ```
 
-<a href="./archive/00254_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00254_000.jpg" target="_blank">
 	<img src="./lowres/00254_000.jpg" alt="CineStill 50D 35mm film box outside" loading="lazy" width="397" height="500">
 </a>
 
 
 `UUID: 49bb438bb4a94d07b07d1bd3178a38d8`↓
 
-<a href="./archive/00253_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00253_001.jpg" target="_blank">
 	<img src="./lowres/00253_001.jpg" alt="Kodak Gold II 35mm film box inside" loading="lazy" width="427" height="500">
 </a>
 
@@ -12175,14 +12175,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 63fd3851483d457d9fdc15b2d24461d0
 ```
 
-<a href="./archive/00253_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00253_000.jpg" target="_blank">
 	<img src="./lowres/00253_000.jpg" alt="Kodak Gold II 35mm film box outside" loading="lazy" width="427" height="500">
 </a>
 
 
 `UUID: b9bddee9f550460c837c5489aff72400`↓
 
-<a href="./archive/00252_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00252_001.jpg" target="_blank">
 	<img src="./lowres/00252_001.jpg" alt="Kodak Gold 35mm film box processing envelope" loading="lazy" width="481" height="500">
 </a>
 
@@ -12196,14 +12196,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 99836199940848569bab40a438546587
 ```
 
-<a href="./archive/00252_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00252_000.jpg" target="_blank">
 	<img src="./lowres/00252_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="242" height="500">
 </a>
 
 
 `UUID: 5ee59977ab8f4902b82e22de1767d131`↓
 
-<a href="./archive/00251_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00251_001.jpg" target="_blank">
 	<img src="./lowres/00251_001.jpg" alt="Kodak Ektar 100 120 film box outside" loading="lazy" width="500" height="320">
 </a>
 
@@ -12217,7 +12217,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 22bb063ec2ca4f2ea5b9f4be4dce4631
 ```
 
-<a href="./archive/00251_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00251_000.jpg" target="_blank">
 	<img src="./lowres/00251_000.jpg" alt="Kodak Ektar 100 120 film box outside" loading="lazy" width="500" height="415">
 </a>
 
@@ -12231,14 +12231,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 3167bab31b134176a6d637dc1491ff20
 ```
 
-<a href="./archive/00250_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00250_000.jpg" target="_blank">
 	<img src="./lowres/00250_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="420" height="499">
 </a>
 
 
 `UUID: df9f856987284644858ab4590872c133`↓
 
-<a href="./archive/00249_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00249_001.jpg" target="_blank">
 	<img src="./lowres/00249_001.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box inside" loading="lazy" width="431" height="499">
 </a>
 
@@ -12252,14 +12252,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 9934366ea7a04b65b3c300352fa8dc37
 ```
 
-<a href="./archive/00249_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00249_000.jpg" target="_blank">
 	<img src="./lowres/00249_000.jpg" alt="Fujifilm Fujicolor Pro 400H 35mm film box outside" loading="lazy" width="431" height="499">
 </a>
 
 
 `UUID: db24477938104d81beddac492c8d637e`↓
 
-<a href="./archive/00248_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00248_001.jpg" target="_blank">
 	<img src="./lowres/00248_001.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="220">
 </a>
 
@@ -12273,21 +12273,21 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 3a84e3b505004d069104ff0042d03c08
 ```
 
-<a href="./archive/00248_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00248_000.jpg" target="_blank">
 	<img src="./lowres/00248_000.jpg" alt="Fujifilm Fujichrome Provia 400X 120 film box outside" loading="lazy" width="500" height="437">
 </a>
 
 
 `UUID: a10a19f268084ce881ab55f247f1035f`↓
 
-<a href="./archive/00247_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00247_002.jpg" target="_blank">
 	<img src="./lowres/00247_002.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box inside" loading="lazy" width="500" height="440">
 </a>
 
 
 `UUID: a305e39dc3f041d1bf59e7dc2504835c`↓
 
-<a href="./archive/00247_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00247_001.jpg" target="_blank">
 	<img src="./lowres/00247_001.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="500" height="265">
 </a>
 
@@ -12301,14 +12301,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : fae60be8fc0745c3965f24b1778e48ed
 ```
 
-<a href="./archive/00247_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00247_000.jpg" target="_blank">
 	<img src="./lowres/00247_000.jpg" alt="Fujifilm Fujicolor Pro 400H 220 film box outside" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: 6407fec85c4344a1bbc2ae930e51ae8e`↓
 
-<a href="./archive/00246_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00246_001.jpg" target="_blank">
 	<img src="./lowres/00246_001.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="500" height="338">
 </a>
 
@@ -12322,7 +12322,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 12ee41c6f8fe493fbda516802e039f18
 ```
 
-<a href="./archive/00246_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00246_000.jpg" target="_blank">
 	<img src="./lowres/00246_000.jpg" alt="Kodak Portra 400 120 film box outside" loading="lazy" width="500" height="403">
 </a>
 
@@ -12336,7 +12336,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 848f67976c48465a8c245ba2a4d0c869
 ```
 
-<a href="./archive/00245_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00245_000.jpg" target="_blank">
 	<img src="./lowres/00245_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" height="377">
 </a>
 
@@ -12350,28 +12350,28 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 282ef0c08f374148afc8a5efaf5b8b1c
 ```
 
-<a href="./archive/00244_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00244_000.jpg" target="_blank">
 	<img src="./lowres/00244_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" height="377">
 </a>
 
 
 `UUID: c4a365adef6546cf945a04e9a6088a02`↓
 
-<a href="./archive/00243_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00243_003.jpg" target="_blank">
 	<img src="./lowres/00243_003.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" height="401">
 </a>
 
 
 `UUID: de89359102c54df797bee4229920e191`↓
 
-<a href="./archive/00243_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00243_002.jpg" target="_blank">
 	<img src="./lowres/00243_002.jpg" alt="Kodak Portra 400VC 120 film box inside" loading="lazy" width="500" height="330">
 </a>
 
 
 `UUID: 154cd3f3c85944ab87c33eaad232c3b6`↓
 
-<a href="./archive/00243_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00243_001.jpg" target="_blank">
 	<img src="./lowres/00243_001.jpg" alt="Kodak Portra 400VC 120 film box outside" loading="lazy" width="500" height="330">
 </a>
 
@@ -12385,7 +12385,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 348bccb01edc4a6ea9a2f5c4d88cb67b
 ```
 
-<a href="./archive/00243_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00243_000.jpg" target="_blank">
 	<img src="./lowres/00243_000.jpg" alt="Kodak Portra 400VC 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
@@ -12399,14 +12399,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2152a58cb08c463ea298a61858ff7669
 ```
 
-<a href="./archive/00242_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00242_000.jpg" target="_blank">
 	<img src="./lowres/00242_000.jpg" alt="Kodak Portra 400VC 35mm film box outside" loading="lazy" width="500" height="377">
 </a>
 
 
 `UUID: 6ed0486400df45eab9b7465642ecee9d`↓
 
-<a href="./archive/00241_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00241_001.jpg" target="_blank">
 	<img src="./lowres/00241_001.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="500" height="333">
 </a>
 
@@ -12420,14 +12420,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 05d59d140f584adcaf97f6acb69f3c02
 ```
 
-<a href="./archive/00241_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00241_000.jpg" target="_blank">
 	<img src="./lowres/00241_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="284" height="500">
 </a>
 
 
 `UUID: 63ef586862154b94aeccdbdb4227ad5c`↓
 
-<a href="./archive/00240_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00240_001.jpg" target="_blank">
 	<img src="./lowres/00240_001.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
@@ -12441,7 +12441,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 3663afb2b2d340d3a5c9e0d0e9f021f9
 ```
 
-<a href="./archive/00240_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00240_000.jpg" target="_blank">
 	<img src="./lowres/00240_000.jpg" alt="Kodak Portra 800 120 film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -12455,28 +12455,28 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 76cf680b7e1a407f92eb84541d21fe32
 ```
 
-<a href="./archive/00239_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00239_000.jpg" target="_blank">
 	<img src="./lowres/00239_000.jpg" alt="Kodak ProImage 100 35mm film box outside" loading="lazy" width="500" height="384">
 </a>
 
 
 `UUID: cb3839d18fe44552bb710d82020a7743`↓
 
-<a href="./archive/00238_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00238_003.jpg" target="_blank">
 	<img src="./lowres/00238_003.jpg" alt="Kodak Vericolor 400 Plus 120 film box outside" loading="lazy" width="500" height="341">
 </a>
 
 
 `UUID: 8a605cec4f594f37823796472cfb7005`↓
 
-<a href="./archive/00238_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00238_002.jpg" target="_blank">
 	<img src="./lowres/00238_002.jpg" alt="Kodak Vericolor 400 Plus 120 film box inside" loading="lazy" width="500" height="411">
 </a>
 
 
 `UUID: 07052f2a4fd8445aa344c21b79c06d9d`↓
 
-<a href="./archive/00238_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00238_001.jpg" target="_blank">
 	<img src="./lowres/00238_001.jpg" alt="Kodak Vericolor 400 Plus 120 film box inside" loading="lazy" width="500" height="340">
 </a>
 
@@ -12490,28 +12490,28 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 8b882b8198ca4aeb8180b8743269bd88
 ```
 
-<a href="./archive/00238_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00238_000.jpg" target="_blank">
 	<img src="./lowres/00238_000.jpg" alt="Kodak Vericolor 400 Plus 120 film box outside" loading="lazy" width="500" height="404">
 </a>
 
 
 `UUID: ed6cc093b4e44b8b81bb19f6d1e6a4f2`↓
 
-<a href="./archive/00237_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00237_003.jpg" target="_blank">
 	<img src="./lowres/00237_003.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" width="320" height="500">
 </a>
 
 
 `UUID: 6cbb4abac86e407d99055015b4719e95`↓
 
-<a href="./archive/00237_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00237_002.jpg" target="_blank">
 	<img src="./lowres/00237_002.jpg" alt="Kodak Vericolor III 120 film box inside" loading="lazy" width="411" height="500">
 </a>
 
 
 `UUID: e4c84e87bd66459cbea1954dc32b5920`↓
 
-<a href="./archive/00237_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00237_001.jpg" target="_blank">
 	<img src="./lowres/00237_001.jpg" alt="Kodak Vericolor III 120 film box outside" loading="lazy" width="500" height="320">
 </a>
 
@@ -12525,14 +12525,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : bcb6ab106d2941429eaf1088c1194b3e
 ```
 
-<a href="./archive/00237_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00237_000.jpg" target="_blank">
 	<img src="./lowres/00237_000.jpg" alt="Kodak Vericolor III 120 film box outside" loading="lazy" width="500" height="405">
 </a>
 
 
 `UUID: 415e6aeb12db4efbba5f290d09d7beba`↓
 
-<a href="./archive/00236_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00236_001.jpg" target="_blank">
 	<img src="./lowres/00236_001.jpg" alt="Lomography Lomochrome Metropolis 35mm film box inside" loading="lazy" width="500" height="448">
 </a>
 
@@ -12546,7 +12546,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : eba9730505104dfd8c12254eeafd5546
 ```
 
-<a href="./archive/00236_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00236_000.jpg" target="_blank">
 	<img src="./lowres/00236_000.jpg" alt="Lomography Lomochrome Metropolis 35mm film box outside" loading="lazy" width="500" height="443">
 </a>
 
@@ -12560,7 +12560,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1a68334cdfc146b98a7fa95672e33b23
 ```
 
-<a href="./archive/00235_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00235_000.jpg" target="_blank">
 	<img src="./lowres/00235_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="331" height="500">
 </a>
 
@@ -12574,7 +12574,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 5d0c054ebc17452397de86653bf42361
 ```
 
-<a href="./archive/00234_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00234_000.jpg" target="_blank">
 	<img src="./lowres/00234_000.jpg" alt="Kodak MAX 35mm film box outside" loading="lazy" width="327" height="500">
 </a>
 
@@ -12588,7 +12588,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : e0db5edb5d3046e99d019b901088d48d
 ```
 
-<a href="./archive/00233_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00233_000.jpg" target="_blank">
 	<img src="./lowres/00233_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="433" height="500">
 </a>
 
@@ -12602,7 +12602,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 16351828954846229e7a4ca1193d0446
 ```
 
-<a href="./archive/00232_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00232_000.jpg" target="_blank">
 	<img src="./lowres/00232_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="306" height="500">
 </a>
 
@@ -12616,7 +12616,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : de6b17f5230e4052b6b166977a418923
 ```
 
-<a href="./archive/00231_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00231_000.jpg" target="_blank">
 	<img src="./lowres/00231_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="464" height="500">
 </a>
 
@@ -12630,7 +12630,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 47af4374c1474eb3b20cb1894b43a624
 ```
 
-<a href="./archive/00230_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00230_000.jpg" target="_blank">
 	<img src="./lowres/00230_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="431" height="500">
 </a>
 
@@ -12644,7 +12644,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2acd2ce4aefb44b4a4c72b130edb9272
 ```
 
-<a href="./archive/00229_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00229_000.jpg" target="_blank">
 	<img src="./lowres/00229_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="312" height="500">
 </a>
 
@@ -12658,7 +12658,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 198465748a5e41f8ad634fffa08a740f
 ```
 
-<a href="./archive/00228_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00228_000.jpg" target="_blank">
 	<img src="./lowres/00228_000.jpg" alt="Walkens Speed 400 35mm film box outside" loading="lazy" width="397" height="500">
 </a>
 
@@ -12672,7 +12672,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1595b93966854178a03bc6d0de705027
 ```
 
-<a href="./archive/00227_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00227_000.jpg" target="_blank">
 	<img src="./lowres/00227_000.jpg" alt="Space Cat Film Mars 250D 35mm film box outside" loading="lazy" width="500" height="362">
 </a>
 
@@ -12686,7 +12686,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 5589454d652e4771b024a9901acb8b00
 ```
 
-<a href="./archive/00226_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00226_000.jpg" target="_blank">
 	<img src="./lowres/00226_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" height="450">
 </a>
 
@@ -12700,7 +12700,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 81d185de4ddf494785362046cada12b4
 ```
 
-<a href="./archive/00225_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00225_000.jpg" target="_blank">
 	<img src="./lowres/00225_000.jpg" alt="Lomography Lomochrome Color'92 35mm film box outside" loading="lazy" width="500" height="448">
 </a>
 
@@ -12714,7 +12714,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : eef92f5fa5b244518890b1ba52b895ec
 ```
 
-<a href="./archive/00224_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00224_000.jpg" target="_blank">
 	<img src="./lowres/00224_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -12728,7 +12728,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 1d1d6ca155874b6dba4333cf6f6194ff
 ```
 
-<a href="./archive/00223_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00223_000.jpg" target="_blank">
 	<img src="./lowres/00223_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -12742,7 +12742,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : f3193ccd9b9d4a929904a6a2e8b682be
 ```
 
-<a href="./archive/00222_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00222_000.jpg" target="_blank">
 	<img src="./lowres/00222_000.jpg" alt="Fujifilm 400 35mm film box outside" loading="lazy" width="425" height="500">
 </a>
 
@@ -12756,7 +12756,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 0b59ba932e214f03a5069488e9651b8d
 ```
 
-<a href="./archive/00221_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00221_000.jpg" target="_blank">
 	<img src="./lowres/00221_000.jpg" alt="Fujifilm Fujicolor Pro400 120 film box outside" loading="lazy" width="488" height="500">
 </a>
 
@@ -12770,7 +12770,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : b290e4b860364420924596fc3330a0de
 ```
 
-<a href="./archive/00220_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00220_000.jpg" target="_blank">
 	<img src="./lowres/00220_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="494" height="500">
 </a>
 
@@ -12784,7 +12784,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 8f934c948478459386443596e74c02f7
 ```
 
-<a href="./archive/00219_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00219_000.jpg" target="_blank">
 	<img src="./lowres/00219_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film box outside" loading="lazy" width="412" height="499">
 </a>
 
@@ -12798,7 +12798,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 331bb2ddb04f4cd8ab637f79324e55ff
 ```
 
-<a href="./archive/00218_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00218_000.jpg" target="_blank">
 	<img src="./lowres/00218_000.jpg" alt="Fujifilm Fujicolor Super G 120 film box outside" loading="lazy" width="492" height="500">
 </a>
 
@@ -12812,7 +12812,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : ac13f69474544179a4a2513e8641b3c9
 ```
 
-<a href="./archive/00217_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00217_000.jpg" target="_blank">
 	<img src="./lowres/00217_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="400" height="500">
 </a>
 
@@ -12826,7 +12826,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : a6bb919bc40b4000a753bf9d3367796d
 ```
 
-<a href="./archive/00216_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00216_000.jpg" target="_blank">
 	<img src="./lowres/00216_000.jpg" alt="Film Never Die Kiro 35mm film box outside" loading="lazy" width="500" height="401">
 </a>
 
@@ -12840,7 +12840,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 03b12b9d23dc4e059a9149ca4f682a22
 ```
 
-<a href="./archive/00215_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00215_000.jpg" target="_blank">
 	<img src="./lowres/00215_000.jpg" alt="Film Never Die IRO 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
@@ -12854,7 +12854,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 37936bef9f314a45b9ed57f7091fa929
 ```
 
-<a href="./archive/00214_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00214_000.jpg" target="_blank">
 	<img src="./lowres/00214_000.jpg" alt="Ferrania Solaris 35mm film box outside" loading="lazy" width="406" height="500">
 </a>
 
@@ -12868,7 +12868,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : f0c8cbdc08d146ba8690d19a70dbe548
 ```
 
-<a href="./archive/00213_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00213_000.jpg" target="_blank">
 	<img src="./lowres/00213_000.jpg" alt="Building 2 50D 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
@@ -12882,7 +12882,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 2e9e8e40ac154f4f9ac497837e2470d9
 ```
 
-<a href="./archive/00212_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00212_000.jpg" target="_blank">
 	<img src="./lowres/00212_000.jpg" alt="Building 2 500T 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -12896,7 +12896,7 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 693d77ba06bc4823bd4f43112d957d4f
 ```
 
-<a href="./archive/00211_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00211_000.jpg" target="_blank">
 	<img src="./lowres/00211_000.jpg" alt="Building 2 250D 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
@@ -12910,14 +12910,14 @@ Added : 2025-08-20   |  Author  : @photos.by.qi
 UUID  : 4e05091526684626b09f6f957dd9c025
 ```
 
-<a href="./archive/00210_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00210_000.jpg" target="_blank">
 	<img src="./lowres/00210_000.jpg" alt="Building 2 200T 35mm film box outside" loading="lazy" width="410" height="499">
 </a>
 
 
 `UUID: 434f763fea0d4c4c9dc5aeb2eb10e8aa`↓
 
-<a href="./archive/00209_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00209_001.jpg" target="_blank">
 	<img src="./lowres/00209_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box inside" loading="lazy" width="485" height="499">
 </a>
 
@@ -12931,14 +12931,14 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 9e774f36e4d34b3c81a30a5b44da7980
 ```
 
-<a href="./archive/00209_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00209_000.jpg" target="_blank">
 	<img src="./lowres/00209_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 120 film box outside" loading="lazy" width="500" height="495">
 </a>
 
 
 `UUID: 5782545b9d15462e93943f2b62f605f5`↓
 
-<a href="./archive/00208_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00208_001.jpg" target="_blank">
 	<img src="./lowres/00208_001.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="385" height="500">
 </a>
 
@@ -12952,7 +12952,7 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 24c9c3108671446dae824d00093fd69c
 ```
 
-<a href="./archive/00208_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00208_000.jpg" target="_blank">
 	<img src="./lowres/00208_000.jpg" alt="Defender Portrait HGS 12x16.5cm film box outside" loading="lazy" width="397" height="500">
 </a>
 
@@ -12966,7 +12966,7 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : bec584ee60f3462381719b3e908f54fe
 ```
 
-<a href="./archive/00207_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00207_000.jpg" target="_blank">
 	<img src="./lowres/00207_000.jpg" alt="Illingworth's Fleet H&D 6.5x9cm film box outside" loading="lazy" width="500" height="421">
 </a>
 
@@ -12980,7 +12980,7 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 515a9a246a8e4eed87d77142623a4411
 ```
 
-<a href="./archive/00206_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00206_000.jpg" target="_blank">
 	<img src="./lowres/00206_000.jpg" alt="Hands On Film Midnight 1600 35mm film box outside" loading="lazy" width="473" height="500">
 </a>
 
@@ -12994,7 +12994,7 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : f2002785f14a4aba9fd1da2386890ad6
 ```
 
-<a href="./archive/00205_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00205_000.jpg" target="_blank">
 	<img src="./lowres/00205_000.jpg" alt="Foton Fotopan F 120 film box outside" loading="lazy" width="495" height="500">
 </a>
 
@@ -13008,21 +13008,21 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 1056543f30334a238387be8abe2dec67
 ```
 
-<a href="./archive/00204_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00204_000.jpg" target="_blank">
 	<img src="./lowres/00204_000.jpg" alt="Hasselblad Hassel-plåtar E.R.Orto 6.5x9cm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 
 `UUID: 70ffb21210374c97a9fa3b819e9b3a1a`↓
 
-<a href="./archive/00203_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00203_002.jpg" target="_blank">
 	<img src="./lowres/00203_002.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
 
 `UUID: a15217b7a9c34d25a71276e952a8dce0`↓
 
-<a href="./archive/00203_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00203_001.jpg" target="_blank">
 	<img src="./lowres/00203_001.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box leaflet" loading="lazy" width="187" height="500">
 </a>
 
@@ -13036,7 +13036,7 @@ Added : 2025-08-19   |  Author  : @ellafridalindblom
 UUID  : 59aa1c52cf434a60976debe684a3d53a
 ```
 
-<a href="./archive/00203_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00203_000.jpg" target="_blank">
 	<img src="./lowres/00203_000.jpg" alt="Kodak Ektachrome Slide Duplicating Film 35mm film box outside" loading="lazy" width="459" height="499">
 </a>
 
@@ -13050,7 +13050,7 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 271054727291471392db72d5556f2ff8
 ```
 
-<a href="./archive/00202_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00202_000.jpg" target="_blank">
 	<img src="./lowres/00202_000.jpg" alt="Fujifilm Fujicolor C200 35mm film box outside" loading="lazy" width="419" height="500">
 </a>
 
@@ -13064,7 +13064,7 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : d14bbf440f3a4ac9aa4169c8bba7e4ad
 ```
 
-<a href="./archive/00201_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00201_000.jpg" target="_blank">
 	<img src="./lowres/00201_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="437" height="500">
 </a>
 
@@ -13078,7 +13078,7 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 5bdddffe29bd464cab4630d85485cf9c
 ```
 
-<a href="./archive/00200_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00200_000.jpg" target="_blank">
 	<img src="./lowres/00200_000.jpg" alt="Kodak Portra 400 35mm film box outside" loading="lazy" width="500" height="370">
 </a>
 
@@ -13092,14 +13092,14 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : a57061210f17463fae293851f2130d8e
 ```
 
-<a href="./archive/00199_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00199_000.jpg" target="_blank">
 	<img src="./lowres/00199_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: 757b2d5a25cc41aab1220ff909f90fb0`↓
 
-<a href="./archive/00198_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00198_001.jpg" target="_blank">
 	<img src="./lowres/00198_001.jpg" alt="Agfa Agfapan  APX 25 35mm film box inside" loading="lazy" width="420" height="500">
 </a>
 
@@ -13113,14 +13113,14 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 4ef7e8e28d2c4c589d24d9e12135805f
 ```
 
-<a href="./archive/00198_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00198_000.jpg" target="_blank">
 	<img src="./lowres/00198_000.jpg" alt="Agfa Agfapan  APX 25 35mm film box outside" loading="lazy" width="423" height="500">
 </a>
 
 
 `UUID: 560832b2cfff4e60930fd3116f1ccffc`↓
 
-<a href="./archive/00197_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00197_001.jpg" target="_blank">
 	<img src="./lowres/00197_001.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box inside" loading="lazy" width="425" height="500">
 </a>
 
@@ -13134,14 +13134,14 @@ Added : 2025-08-18   |  Author  : @recycling.film
 UUID  : 89750d8a18fe4e238c76b97b4578713b
 ```
 
-<a href="./archive/00197_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00197_000.jpg" target="_blank">
 	<img src="./lowres/00197_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="412" height="499">
 </a>
 
 
 `UUID: 3fa90851d420466183f638184ce9a49a`↓
 
-<a href="./archive/00196_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00196_001.jpg" target="_blank">
 	<img src="./lowres/00196_001.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
@@ -13155,7 +13155,7 @@ Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : b5423225b6b2496eaf713a5a38731c69
 ```
 
-<a href="./archive/00196_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00196_000.jpg" target="_blank">
 	<img src="./lowres/00196_000.jpg" alt="CatLABS X Film 320 Pro 120 film box outside" loading="lazy" width="500" height="422">
 </a>
 
@@ -13169,7 +13169,7 @@ Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : f7bc85a093744f3084883876ecc51311
 ```
 
-<a href="./archive/00195_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00195_000.jpg" target="_blank">
 	<img src="./lowres/00195_000.jpg" alt="Reflx Lab Pro 100 220 film box outside" loading="lazy" width="500" height="413">
 </a>
 
@@ -13183,7 +13183,7 @@ Added : 2025-08-18   |  Author  : lt_col_tall
 UUID  : ce8b081c148f43f7921e2fb4d7aa1a3e
 ```
 
-<a href="./archive/00194_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00194_000.jpg" target="_blank">
 	<img src="./lowres/00194_000.jpg" alt="Reflx Lab 250D 120 film box outside" loading="lazy" width="500" height="419">
 </a>
 
@@ -13197,21 +13197,21 @@ Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 386384f6be954ddc8ab42f3bcb1d8d69
 ```
 
-<a href="./archive/00193_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00193_000.jpg" target="_blank">
 	<img src="./lowres/00193_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" width="334" height="500">
 </a>
 
 
 `UUID: 662f12bfdc864efb861dd9ede2973332`↓
 
-<a href="./archive/00192_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00192_001.jpg" target="_blank">
 	<img src="./lowres/00192_001.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
 
 `UUID: 85fea329b0a34765987a30d8a728a8e0`↓
 
-<a href="./archive/00192_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00192_002.jpg" target="_blank">
 	<img src="./lowres/00192_002.jpg" alt="Kodak Panatomic-X 35mm film box leaflet" loading="lazy" width="174" height="500">
 </a>
 
@@ -13225,7 +13225,7 @@ Added : 2025-08-16   |  Author  : u/ReeeSchmidtyWerber
 UUID  : 475b6bf4c66141b48fc73ace756435f6
 ```
 
-<a href="./archive/00192_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00192_000.jpg" target="_blank">
 	<img src="./lowres/00192_000.jpg" alt="Kodak Panatomic-X 35mm film box outside" loading="lazy" width="404" height="500">
 </a>
 
@@ -13239,14 +13239,14 @@ Added : 2025-08-16   |  Author  : Kraksen
 UUID  : e00a9a59b3d74a1d85ff4331bc73e271
 ```
 
-<a href="./archive/00191_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00191_000.jpg" target="_blank">
 	<img src="./lowres/00191_000.jpg" alt="Agfa Agfapan APX 100 35mm film box outside" loading="lazy" width="422" height="499">
 </a>
 
 
 `UUID: 4ecb4b290f4845c196358776429baaec`↓
 
-<a href="./archive/00190_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00190_001.jpg" target="_blank">
 	<img src="./lowres/00190_001.jpg" alt="Agfa Agfapan APX 400 35mm film box inside" loading="lazy" width="395" height="500">
 </a>
 
@@ -13260,7 +13260,7 @@ Added : 2025-08-16   |  Author  : Kraksen
 UUID  : 7dd80a6f50584141ba1752071b9419bc
 ```
 
-<a href="./archive/00190_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00190_000.jpg" target="_blank">
 	<img src="./lowres/00190_000.jpg" alt="Agfa Agfapan APX 400 35mm film box outside" loading="lazy" width="405" height="500">
 </a>
 
@@ -13274,7 +13274,7 @@ Added : 2025-08-16   |  Author  : Kraksen
 UUID  : 8ae6d75c042c48318fa711a412b72ff3
 ```
 
-<a href="./archive/00189_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00189_000.jpg" target="_blank">
 	<img src="./lowres/00189_000.jpg" alt="Kodak Black & White + 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
@@ -13288,14 +13288,14 @@ Added : 2025-08-16   |  Author  : Kraksen
 UUID  : 715e5119d4b941d98ce52bcd8596c457
 ```
 
-<a href="./archive/00188_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00188_000.jpg" target="_blank">
 	<img src="./lowres/00188_000.jpg" alt="Marix Professional Negative Movie Color Film 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
 
 `UUID: 51e4fc9142fa45039f5d4a5d823f1ab5`↓
 
-<a href="./archive/00187_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00187_001.jpg" target="_blank">
 	<img src="./lowres/00187_001.jpg" alt="Foma Ortho 400 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
@@ -13309,7 +13309,7 @@ Added : 2025-08-15   |  Author  : Pelicram
 UUID  : 676655ff95914769b0869d71d824c559
 ```
 
-<a href="./archive/00187_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00187_000.jpg" target="_blank">
 	<img src="./lowres/00187_000.jpg" alt="Foma Ortho 400 35mm film box outside" loading="lazy" width="440" height="500">
 </a>
 
@@ -13323,7 +13323,7 @@ Added : 2025-08-15   |  Author  : Pelicram
 UUID  : b0e988456d7444b1b879dc6ca4a80e32
 ```
 
-<a href="./archive/00186_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00186_000.jpg" target="_blank">
 	<img src="./lowres/00186_000.jpg" alt="Kentmere PAN 200 35mm film box outside" loading="lazy" width="437" height="499">
 </a>
 
@@ -13337,7 +13337,7 @@ Added : 2025-08-15   |  Author  : Pelicram
 UUID  : e4d2af3a69704509a07e108fcb4b5150
 ```
 
-<a href="./archive/00185_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00185_000.jpg" target="_blank">
 	<img src="./lowres/00185_000.jpg" alt="Mutascan Kodak Vision3 500T/5219 35mm film box outside" loading="lazy" width="475" height="500">
 </a>
 
@@ -13351,28 +13351,28 @@ Added : 2025-08-15   |  Author  : @ad.astra.per.aspera.1894
 UUID  : 7f4a0fbd6be7494ab097f7f816700441
 ```
 
-<a href="./archive/00184_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00184_000.jpg" target="_blank">
 	<img src="./lowres/00184_000.jpg" alt="Kirkland Signature Color Print Film 35mm film box outside" loading="lazy" width="272" height="500">
 </a>
 
 
 `UUID: 917cdc09fdc9435c90eb61f470def180`↓
 
-<a href="./archive/00181_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00181_003.jpg" target="_blank">
 	<img src="./lowres/00181_003.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: 312da1e64f2f416f9b394ea7e4e34e86`↓
 
-<a href="./archive/00181_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00181_002.jpg" target="_blank">
 	<img src="./lowres/00181_002.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: c18af4a6fe504e6bab7aaa0cdccb02a1`↓
 
-<a href="./archive/00181_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00181_001.jpg" target="_blank">
 	<img src="./lowres/00181_001.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
@@ -13386,14 +13386,14 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 7a518ce06cc242f9a5af067c1ffedb52
 ```
 
-<a href="./archive/00181_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00181_000.jpg" target="_blank">
 	<img src="./lowres/00181_000.jpg" alt="Kodak High Contrast Copy Film 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
 
 `UUID: 78441115e27d4fe8a442ce240ec160ef`↓
 
-<a href="./archive/00180_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00180_001.jpg" target="_blank">
 	<img src="./lowres/00180_001.jpg" alt="Kodak Ektachrome 64T 35mm film box inside" loading="lazy" width="326" height="500">
 </a>
 
@@ -13407,14 +13407,14 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 25961b13fd6943a9b7dd77b2eba18f4f
 ```
 
-<a href="./archive/00180_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00180_000.jpg" target="_blank">
 	<img src="./lowres/00180_000.jpg" alt="Kodak Ektachrome 64T 35mm film box outside" loading="lazy" width="500" height="336">
 </a>
 
 
 `UUID: c199fff31c474139afcea6ed0b66ff7e`↓
 
-<a href="./archive/00179_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00179_001.jpg" target="_blank">
 	<img src="./lowres/00179_001.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="479" height="499">
 </a>
 
@@ -13428,14 +13428,14 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 66a105cd605748d78884e5c305a4e5d4
 ```
 
-<a href="./archive/00179_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00179_000.jpg" target="_blank">
 	<img src="./lowres/00179_000.jpg" alt="Agfa Fine-Grain Plenachrome 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
 
 `UUID: 7c1650085c4146e0bec821475e25219f`↓
 
-<a href="./archive/00178_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00178_001.jpg" target="_blank">
 	<img src="./lowres/00178_001.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="500" height="430">
 </a>
 
@@ -13449,21 +13449,21 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : c9ba81252c5f438ca70922a2b5703943
 ```
 
-<a href="./archive/00178_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00178_000.jpg" target="_blank">
 	<img src="./lowres/00178_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="286" height="500">
 </a>
 
 
 `UUID: dd126451b04a42b19a705cec886addf0`↓
 
-<a href="./archive/00177_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00177_002.jpg" target="_blank">
 	<img src="./lowres/00177_002.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="258">
 </a>
 
 
 `UUID: 85bc1b0ff9694798a9f92915ab267978`↓
 
-<a href="./archive/00177_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00177_001.jpg" target="_blank">
 	<img src="./lowres/00177_001.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="264">
 </a>
 
@@ -13477,7 +13477,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 8abda51b18d84ec4939df489457d2e06
 ```
 
-<a href="./archive/00177_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00177_000.jpg" target="_blank">
 	<img src="./lowres/00177_000.jpg" alt="Fujifilm Fujicolor Natura 1600 35mm film box outside" loading="lazy" width="500" height="426">
 </a>
 
@@ -13491,7 +13491,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : e214a4d756ac48c4ac6dbe515fd38468
 ```
 
-<a href="./archive/00176_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00176_000.jpg" target="_blank">
 	<img src="./lowres/00176_000.jpg" alt="Kodak Eastman Tri-X Reversal Film 7278 16mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
@@ -13505,7 +13505,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 88ebc10c01ea46238c48e65157ddb8de
 ```
 
-<a href="./archive/00175_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00175_000.jpg" target="_blank">
 	<img src="./lowres/00175_000.jpg" alt="Kodak Portra 400NC 70mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
@@ -13519,7 +13519,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 30947745f405445e88808deab9a4b202
 ```
 
-<a href="./archive/00174_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00174_000.jpg" target="_blank">
 	<img src="./lowres/00174_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" height="424">
 </a>
 
@@ -13533,7 +13533,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 34d91c79c1704ac49f5376ca6424fb5b
 ```
 
-<a href="./archive/00173_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00173_000.jpg" target="_blank">
 	<img src="./lowres/00173_000.jpg" alt="Konica Konica Color II 35mm film box outside" loading="lazy" width="462" height="500">
 </a>
 
@@ -13547,7 +13547,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : 90304019395a4c62bb9c6fe1cb2ba444
 ```
 
-<a href="./archive/00172_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00172_000.jpg" target="_blank">
 	<img src="./lowres/00172_000.jpg" alt="Kodak Professional Microfilm Type I 35mm film box outside" loading="lazy" width="493" height="500">
 </a>
 
@@ -13561,7 +13561,7 @@ Added : 2025-08-14   |  Author  : Camera.Riley
 UUID  : f3d8be37c34a4055823836987a0a74a1
 ```
 
-<a href="./archive/00171_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00171_000.jpg" target="_blank">
 	<img src="./lowres/00171_000.jpg" alt="Fujifilm Fujichrome 64T Type II Professional 35mm film box outside" loading="lazy" width="491" height="500">
 </a>
 
@@ -13575,14 +13575,14 @@ Added : 2025-08-13   |  Author  : Pelicram
 UUID  : 840026a068594c3389b34374204f60ee
 ```
 
-<a href="./archive/00183_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00183_000.jpg" target="_blank">
 	<img src="./lowres/00183_000.jpg" alt="Foma Fomapan 200 35mm film box outside" loading="lazy" width="482" height="499">
 </a>
 
 
 `UUID: f5e745758ed2479ea297dce9275f3508`↓
 
-<a href="./archive/00182_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00182_001.jpg" target="_blank">
 	<img src="./lowres/00182_001.jpg" alt="ADOX HR 50 35mm film box inside" loading="lazy" width="457" height="500">
 </a>
 
@@ -13596,14 +13596,14 @@ Added : 2025-08-13   |  Author  : Pelicram
 UUID  : a504b8da97b642908de921d1053d4da7
 ```
 
-<a href="./archive/00182_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00182_000.jpg" target="_blank">
 	<img src="./lowres/00182_000.jpg" alt="ADOX HR 50 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
 `UUID: 2e9c0e4f84414bb192512b4ce5b1e212`↓
 
-<a href="./archive/00170_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00170_001.jpg" target="_blank">
 	<img src="./lowres/00170_001.jpg" alt="Ilford XP2 Super 35mm film box inside" loading="lazy" width="419" height="500">
 </a>
 
@@ -13617,14 +13617,14 @@ Added : 2025-08-08   |  Author  : TheSelousScout
 UUID  : 5863564ab1ef43a4b41fb5312dd0622a
 ```
 
-<a href="./archive/00170_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00170_000.jpg" target="_blank">
 	<img src="./lowres/00170_000.jpg" alt="Ilford XP2 Super 35mm film box outside" loading="lazy" width="437" height="499">
 </a>
 
 
 `UUID: 1dea328c77d74bf19135dc04194df311`↓
 
-<a href="./archive/00169_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00169_001.jpg" target="_blank">
 	<img src="./lowres/00169_001.jpg" alt="Rollei Retro 80S 35mm film box inside" loading="lazy" width="426" height="500">
 </a>
 
@@ -13638,7 +13638,7 @@ Added : 2025-08-08   |  Author  : Pelicram
 UUID  : 406a06d6d4df49cfa27378242ef6e23d
 ```
 
-<a href="./archive/00169_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00169_000.jpg" target="_blank">
 	<img src="./lowres/00169_000.jpg" alt="Rollei Retro 80S 35mm film box outside" loading="lazy" width="427" height="500">
 </a>
 
@@ -13652,14 +13652,14 @@ Added : 2025-08-07   |  Author  : TheSelousScout
 UUID  : 075938ec54de4c4bbee63671e4c208ad
 ```
 
-<a href="./archive/00168_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00168_000.jpg" target="_blank">
 	<img src="./lowres/00168_000.jpg" alt="Reto Amber D400 35mm film box outside" loading="lazy" width="399" height="500">
 </a>
 
 
 `UUID: a950a24ab9da4b23b33e0b4b9d28d5d5`↓
 
-<a href="./archive/00030_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00030_001.jpg" target="_blank">
 	<img src="./lowres/00030_001.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="459" height="499">
 </a>
 
@@ -13673,7 +13673,7 @@ Added : 2025-08-07   |  Author  : The Compartmentalist
 UUID  : 480a75f9978b4fba84c81a8a9e95df27
 ```
 
-<a href="./archive/00167_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00167_000.jpg" target="_blank">
 	<img src="./lowres/00167_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -13687,7 +13687,7 @@ Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : bd601340027a4c9daa7e219b414fa30f
 ```
 
-<a href="./archive/00166_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00166_000.jpg" target="_blank">
 	<img src="./lowres/00166_000.jpg" alt="Boots Colour Print Film 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
@@ -13701,7 +13701,7 @@ Added : 2025-08-07   |  Author  : @Hol.m35
 UUID  : 64b5e2e7f9a841d2a99c8f1bd8766b8a
 ```
 
-<a href="./archive/00165_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00165_000.jpg" target="_blank">
 	<img src="./lowres/00165_000.jpg" alt="Fujifilm Fujicolor Superia X-TRA 35mm film box outside" loading="lazy" width="460" height="499">
 </a>
 
@@ -13715,7 +13715,7 @@ Added : 2025-08-06   |  Author  : @Hol.m35
 UUID  : b09848420a1a4d76b099d82d76bc41f4
 ```
 
-<a href="./archive/00164_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00164_000.jpg" target="_blank">
 	<img src="./lowres/00164_000.jpg" alt="Hope Film Bubble 35mm film box outside" loading="lazy" width="500" height="394">
 </a>
 
@@ -13729,7 +13729,7 @@ Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : 9791c2074fdd4340a1463312ed77b16c
 ```
 
-<a href="./archive/00163_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00163_000.jpg" target="_blank">
 	<img src="./lowres/00163_000.jpg" alt="ORWO NP 20 SL 35mm film box outside" loading="lazy" width="500" height="489">
 </a>
 
@@ -13743,98 +13743,98 @@ Added : 2025-08-05   |  Author  : The Compartmentalist
 UUID  : a2cfc71ac0e24ea58f4e3350423aa2ff
 ```
 
-<a href="./archive/00162_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00162_000.jpg" target="_blank">
 	<img src="./lowres/00162_000.jpg" alt="Minolta Minolta 16 Color Film For Prints 16mm film box outside" loading="lazy" width="500" height="413">
 </a>
 
 
 `UUID: 67abf5aa56574fafab78e2ade2112475`↓
 
-<a href="./archive/00029_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00029_004.jpg" target="_blank">
 	<img src="./lowres/00029_004.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" height="378">
 </a>
 
 
 `UUID: 705197bbfdc24b92a581a8070d4ee0d2`↓
 
-<a href="./archive/00029_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00029_003.jpg" target="_blank">
 	<img src="./lowres/00029_003.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" height="377">
 </a>
 
 
 `UUID: ca6b169f6ec949a4a77874ccee054951`↓
 
-<a href="./archive/00029_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00029_002.jpg" target="_blank">
 	<img src="./lowres/00029_002.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" height="376">
 </a>
 
 
 `UUID: 1d0b621cf6f44481b941423f04103243`↓
 
-<a href="./archive/00029_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00029_001.jpg" target="_blank">
 	<img src="./lowres/00029_001.jpg" alt="Polaroid PolaChrome 35mm 35mm film box leaflet" loading="lazy" width="500" height="376">
 </a>
 
 
 `UUID: e48473352ab04761b968bdcae19a1ab5`↓
 
-<a href="./archive/00019_006.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_006.jpg" target="_blank">
 	<img src="./lowres/00019_006.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="475" height="500">
 </a>
 
 
 `UUID: de72b5b522a749fbb6aa280253eea1bd`↓
 
-<a href="./archive/00019_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_005.jpg" target="_blank">
 	<img src="./lowres/00019_005.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="468" height="500">
 </a>
 
 
 `UUID: 21253e4311ae4a25b46ba931aa78f266`↓
 
-<a href="./archive/00019_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_004.jpg" target="_blank">
 	<img src="./lowres/00019_004.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="475" height="500">
 </a>
 
 
 `UUID: 6a168a96e48f45c5b2e4e730e1644fb4`↓
 
-<a href="./archive/00019_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_003.jpg" target="_blank">
 	<img src="./lowres/00019_003.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="484" height="500">
 </a>
 
 
 `UUID: 69c6bc7256f542acadde9fa0441c8c8f`↓
 
-<a href="./archive/00019_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_002.jpg" target="_blank">
 	<img src="./lowres/00019_002.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="481" height="500">
 </a>
 
 
 `UUID: 6f0d7187f2aa4396ab9879964db7a22a`↓
 
-<a href="./archive/00019_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_001.jpg" target="_blank">
 	<img src="./lowres/00019_001.jpg" alt="Polaroid PolaBlue 35mm 35mm film box leaflet" loading="lazy" width="482" height="499">
 </a>
 
 
 `UUID: cc5370f8b582460ebd5a9e27380bd3d2`↓
 
-<a href="./archive/00161_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00161_003.jpg" target="_blank">
 	<img src="./lowres/00161_003.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box inside" loading="lazy" width="351" height="500">
 </a>
 
 
 `UUID: 35d7f44a3b59463fabb387917d8f4808`↓
 
-<a href="./archive/00161_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00161_002.jpg" target="_blank">
 	<img src="./lowres/00161_002.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box inside" loading="lazy" width="377" height="500">
 </a>
 
 
 `UUID: cca2cc887edb44adb3b00fc9b6cb0dfd`↓
 
-<a href="./archive/00161_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00161_001.jpg" target="_blank">
 	<img src="./lowres/00161_001.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box outside" loading="lazy" width="377" height="500">
 </a>
 
@@ -13848,7 +13848,7 @@ Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5844215c1fc74612b6118648b845625c
 ```
 
-<a href="./archive/00161_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00161_000.jpg" target="_blank">
 	<img src="./lowres/00161_000.jpg" alt="Polaroid Polacolor 679 Instant Pack Film film box outside" loading="lazy" width="335" height="500">
 </a>
 
@@ -13862,35 +13862,35 @@ Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : e8673d04cee440bd9c065a37a485a8d3
 ```
 
-<a href="./archive/00160_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00160_000.jpg" target="_blank">
 	<img src="./lowres/00160_000.jpg" alt="Kodak Ektachrome E100VS 120 film box outside" loading="lazy" width="391" height="500">
 </a>
 
 
 `UUID: d4369d4ac7bc432cb5bf9acdb0d835d7`↓
 
-<a href="./archive/00159_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00159_004.jpg" target="_blank">
 	<img src="./lowres/00159_004.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" height="383">
 </a>
 
 
 `UUID: 61e5cb43037441ca9a06dd2a4883833c`↓
 
-<a href="./archive/00159_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00159_003.jpg" target="_blank">
 	<img src="./lowres/00159_003.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" height="377">
 </a>
 
 
 `UUID: 30abcb19f7ce46d39021fb057efb95f6`↓
 
-<a href="./archive/00159_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00159_002.jpg" target="_blank">
 	<img src="./lowres/00159_002.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" height="380">
 </a>
 
 
 `UUID: a650b451e12b4e1fabb05b4f1f23fb29`↓
 
-<a href="./archive/00159_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00159_001.jpg" target="_blank">
 	<img src="./lowres/00159_001.jpg" alt="Polaroid PolaPan 35mm 35mm film box leaflet" loading="lazy" width="500" height="377">
 </a>
 
@@ -13904,14 +13904,14 @@ Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 24a8ae46c50049afb35fc44e956a9825
 ```
 
-<a href="./archive/00159_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00159_000.jpg" target="_blank">
 	<img src="./lowres/00159_000.jpg" alt="Polaroid PolaPan 35mm 35mm film box outside" loading="lazy" width="500" height="445">
 </a>
 
 
 `UUID: 55178f72127944e898f8804ac2663c79`↓
 
-<a href="./archive/00158_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00158_001.jpg" target="_blank">
 	<img src="./lowres/00158_001.jpg" alt="Polaroid 87 Instant Pack Film film box inside" loading="lazy" width="349" height="500">
 </a>
 
@@ -13925,28 +13925,28 @@ Added : 2025-08-03   |  Author  : dekuNukem
 UUID  : 5a63521777ca4f788d01aac5f94862ef
 ```
 
-<a href="./archive/00158_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00158_000.jpg" target="_blank">
 	<img src="./lowres/00158_000.jpg" alt="Polaroid 87 Instant Pack Film film box outside" loading="lazy" width="500" height="349">
 </a>
 
 
 `UUID: 038f964e849d4fd1a0c6f1aeb6dd4b0e`↓
 
-<a href="./archive/00157_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00157_003.jpg" target="_blank">
 	<img src="./lowres/00157_003.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box inside" loading="lazy" width="423" height="500">
 </a>
 
 
 `UUID: 95b81cc72d3646d6966a2341510333aa`↓
 
-<a href="./archive/00157_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00157_002.jpg" target="_blank">
 	<img src="./lowres/00157_002.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box inside" loading="lazy" width="432" height="500">
 </a>
 
 
 `UUID: b9ec4052b0d548ef90f77d7fc99d0ccb`↓
 
-<a href="./archive/00157_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00157_001.jpg" target="_blank">
 	<img src="./lowres/00157_001.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -13960,28 +13960,28 @@ Added : 2025-08-02   |  Author  : toader
 UUID  : e798fdd114be4a018cb7651bba94d985
 ```
 
-<a href="./archive/00157_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00157_000.jpg" target="_blank">
 	<img src="./lowres/00157_000.jpg" alt="Polaroid Color 600 Film Round Frame Instant Integral Film film box outside" loading="lazy" width="417" height="500">
 </a>
 
 
 `UUID: 3c3020e2767a48b88a7dd8662a0ec06d`↓
 
-<a href="./archive/00156_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00156_003.jpg" target="_blank">
 	<img src="./lowres/00156_003.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="425" height="499">
 </a>
 
 
 `UUID: 170151c0a84e459db08a9b3718b67743`↓
 
-<a href="./archive/00156_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00156_002.jpg" target="_blank">
 	<img src="./lowres/00156_002.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box inside" loading="lazy" width="435" height="500">
 </a>
 
 
 `UUID: 5ce2d6b8b1894bf7b67c5a9fdd635a6e`↓
 
-<a href="./archive/00156_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00156_001.jpg" target="_blank">
 	<img src="./lowres/00156_001.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="440" height="499">
 </a>
 
@@ -13995,7 +13995,7 @@ Added : 2025-08-02   |  Author  : toader
 UUID  : b4af154cea6f40c0aa1d4154d0c2dc7f
 ```
 
-<a href="./archive/00156_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00156_000.jpg" target="_blank">
 	<img src="./lowres/00156_000.jpg" alt="Polaroid Color SX-70 Film Instant Integral Film film box outside" loading="lazy" width="421" height="500">
 </a>
 
@@ -14009,35 +14009,35 @@ Added : 2025-08-02   |  Author  : toader
 UUID  : 829cd9dd98cd489f8bff71e403c1ae10
 ```
 
-<a href="./archive/00155_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00155_000.jpg" target="_blank">
 	<img src="./lowres/00155_000.jpg" alt="Kodak Ektachrome E100 35mm film box outside" loading="lazy" width="451" height="500">
 </a>
 
 
 `UUID: 31df442b386446679540b0cf52c92fd7`↓
 
-<a href="./archive/00154_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00154_004.jpg" target="_blank">
 	<img src="./lowres/00154_004.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
 </a>
 
 
 `UUID: 870ff01807e949a7b361cdad01dddf7f`↓
 
-<a href="./archive/00154_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00154_003.jpg" target="_blank">
 	<img src="./lowres/00154_003.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box processing envelope" loading="lazy" width="500" height="191">
 </a>
 
 
 `UUID: 5d06a8833e0e44e8ab8d53bc0ce11095`↓
 
-<a href="./archive/00154_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00154_002.jpg" target="_blank">
 	<img src="./lowres/00154_002.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="352" height="500">
 </a>
 
 
 `UUID: 28c6f19bd37e4199a072687d11b19961`↓
 
-<a href="./archive/00154_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00154_001.jpg" target="_blank">
 	<img src="./lowres/00154_001.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box leaflet" loading="lazy" width="351" height="500">
 </a>
 
@@ -14051,7 +14051,7 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 6032680a3aba41b39c600d7e23998f62
 ```
 
-<a href="./archive/00154_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00154_000.jpg" target="_blank">
 	<img src="./lowres/00154_000.jpg" alt="Kodak Ektachrome 160 Movie Film Type A Super 8 film box outside" loading="lazy" width="500" height="379">
 </a>
 
@@ -14065,14 +14065,14 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : faf0a44eece541a9b701feb772f4f8bf
 ```
 
-<a href="./archive/00153_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00153_000.jpg" target="_blank">
 	<img src="./lowres/00153_000.jpg" alt="Kodak Kodacolor VR Plus 35mm film box outside" loading="lazy" width="500" height="391">
 </a>
 
 
 `UUID: 5598d8aac5844772a87d019a7d37e9f6`↓
 
-<a href="./archive/00152_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00152_001.jpg" target="_blank">
 	<img src="./lowres/00152_001.jpg" alt="Agfa AgfaColor XRG 200 35mm film box inside" loading="lazy" width="404" height="500">
 </a>
 
@@ -14086,7 +14086,7 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 86136eea89d14e15b60dfcdf45b1689e
 ```
 
-<a href="./archive/00152_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00152_000.jpg" target="_blank">
 	<img src="./lowres/00152_000.jpg" alt="Agfa AgfaColor XRG 200 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -14100,14 +14100,14 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : cc723aa89e9e43ec8ac1ebd18efa94b9
 ```
 
-<a href="./archive/00151_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00151_000.jpg" target="_blank">
 	<img src="./lowres/00151_000.jpg" alt="Alfo ALFOcolor PR-G 35mm film box outside" loading="lazy" width="414" height="500">
 </a>
 
 
 `UUID: 302969081f4442239212b8e123d38378`↓
 
-<a href="./archive/00150_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00150_001.jpg" target="_blank">
 	<img src="./lowres/00150_001.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box inside" loading="lazy" width="415" height="500">
 </a>
 
@@ -14121,7 +14121,7 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : 9233714654ff481089c2d4ff1334ee94
 ```
 
-<a href="./archive/00150_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00150_000.jpg" target="_blank">
 	<img src="./lowres/00150_000.jpg" alt="Fujifilm Fujicolor Super HG 35mm film box outside" loading="lazy" width="425" height="500">
 </a>
 
@@ -14135,7 +14135,7 @@ Added : 2025-07-31   |  Author  : fine-seat
 UUID  : c56f944bf87d40dcac75cf41aeb82f8d
 ```
 
-<a href="./archive/00149_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00149_000.jpg" target="_blank">
 	<img src="./lowres/00149_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="396" height="500">
 </a>
 
@@ -14149,7 +14149,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : cdcaa912ee0142c3b76eb1500e2375fa
 ```
 
-<a href="./archive/00148_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00148_000.jpg" target="_blank">
 	<img src="./lowres/00148_000.jpg" alt="Agfa Isopan ISS 35mm film box outside" loading="lazy" width="500" height="406">
 </a>
 
@@ -14163,7 +14163,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 9d7f531c7a764f9689228ab477297afa
 ```
 
-<a href="./archive/00147_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00147_000.jpg" target="_blank">
 	<img src="./lowres/00147_000.jpg" alt="Lomography Babylon 35mm film box outside" loading="lazy" width="500" height="398">
 </a>
 
@@ -14177,14 +14177,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : b8795d19697a453c8f27fde773eaf9ff
 ```
 
-<a href="./archive/00146_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00146_000.jpg" target="_blank">
 	<img src="./lowres/00146_000.jpg" alt="Kodak Värikuvafilmi 35mm film box outside" loading="lazy" width="500" height="484">
 </a>
 
 
 `UUID: c771fff8ecbb4c9b981f3606dd4fa428`↓
 
-<a href="./archive/00145_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00145_001.jpg" target="_blank">
 	<img src="./lowres/00145_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="438" height="500">
 </a>
 
@@ -14198,7 +14198,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 58f2bea3a3204a1dafebf2881d99a327
 ```
 
-<a href="./archive/00145_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00145_000.jpg" target="_blank">
 	<img src="./lowres/00145_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="435" height="500">
 </a>
 
@@ -14212,7 +14212,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 39fa3ae0251e4cdbaf8240602537521a
 ```
 
-<a href="./archive/00144_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00144_000.jpg" target="_blank">
 	<img src="./lowres/00144_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="443" height="500">
 </a>
 
@@ -14226,7 +14226,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : e8a5b04ef68c43ae9e79df89123726dd
 ```
 
-<a href="./archive/00143_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00143_000.jpg" target="_blank">
 	<img src="./lowres/00143_000.jpg" alt="Lomography Tiger 110 film box outside" loading="lazy" width="317" height="500">
 </a>
 
@@ -14240,7 +14240,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 8f91948e930f491a8684337e32d443a2
 ```
 
-<a href="./archive/00142_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00142_000.jpg" target="_blank">
 	<img src="./lowres/00142_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
@@ -14254,14 +14254,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 538e7611233a4cc3bd733763bf694340
 ```
 
-<a href="./archive/00141_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00141_000.jpg" target="_blank">
 	<img src="./lowres/00141_000.jpg" alt="Lomography Fantome 35mm film box outside" loading="lazy" width="500" height="397">
 </a>
 
 
 `UUID: 17ab4481b81243c9bbc211688ba2336a`↓
 
-<a href="./archive/00140_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00140_001.jpg" target="_blank">
 	<img src="./lowres/00140_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="453">
 </a>
 
@@ -14275,14 +14275,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : dbf3817f506a444b9d394745dba311a8
 ```
 
-<a href="./archive/00140_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00140_000.jpg" target="_blank">
 	<img src="./lowres/00140_000.jpg" alt="Ilford HP5 Plus 120 film box outside" loading="lazy" width="500" height="458">
 </a>
 
 
 `UUID: a193a13c20a24dada68357552593974f`↓
 
-<a href="./archive/00139_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00139_001.jpg" target="_blank">
 	<img src="./lowres/00139_001.jpg" alt="Fujifilm Fujicolor Superia 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
@@ -14296,14 +14296,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 2b50b3d82a7340ffbe9bff871793d1b7
 ```
 
-<a href="./archive/00139_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00139_000.jpg" target="_blank">
 	<img src="./lowres/00139_000.jpg" alt="Fujifilm Fujicolor Superia 35mm film box outside" loading="lazy" width="417" height="500">
 </a>
 
 
 `UUID: 9f45eb2e52134da79a732605103a6f39`↓
 
-<a href="./archive/00138_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00138_001.jpg" target="_blank">
 	<img src="./lowres/00138_001.jpg" alt="Konica KonicaColor VX 200 35mm film box inside" loading="lazy" width="487" height="500">
 </a>
 
@@ -14317,7 +14317,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : dd3a6c347560484295ca09c86e3dfe53
 ```
 
-<a href="./archive/00138_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00138_000.jpg" target="_blank">
 	<img src="./lowres/00138_000.jpg" alt="Konica KonicaColor VX 200 35mm film box outside" loading="lazy" width="487" height="500">
 </a>
 
@@ -14331,14 +14331,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 462e32d45cd740cf866732a73a00889f
 ```
 
-<a href="./archive/00137_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00137_000.jpg" target="_blank">
 	<img src="./lowres/00137_000.jpg" alt="Hazenfilm Sorolla Chrome 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 962831862dbc4da89c8b979e5fb6584b`↓
 
-<a href="./archive/00136_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00136_001.jpg" target="_blank">
 	<img src="./lowres/00136_001.jpg" alt="Rollei RPX 400 35mm film box inside" loading="lazy" width="500" height="436">
 </a>
 
@@ -14352,7 +14352,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 19ef81d6d03844b088250c7b54032155
 ```
 
-<a href="./archive/00136_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00136_000.jpg" target="_blank">
 	<img src="./lowres/00136_000.jpg" alt="Rollei RPX 400 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
@@ -14366,7 +14366,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0417faf4f5be42538db49741140bc671
 ```
 
-<a href="./archive/00135_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00135_000.jpg" target="_blank">
 	<img src="./lowres/00135_000.jpg" alt="Kodak Tri-X 400 35mm film box outside" loading="lazy" width="445" height="500">
 </a>
 
@@ -14380,14 +14380,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6d10288df24748fa8944774857f3d506
 ```
 
-<a href="./archive/00134_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00134_000.jpg" target="_blank">
 	<img src="./lowres/00134_000.jpg" alt="Lomography Orca 110 film box outside" loading="lazy" width="315" height="500">
 </a>
 
 
 `UUID: 0d7f7062ffb34d0c91f0080e3749cbe4`↓
 
-<a href="./archive/00133_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00133_001.jpg" target="_blank">
 	<img src="./lowres/00133_001.jpg" alt="Foma Fomapan Classic 100 120 film box inside" loading="lazy" width="500" height="391">
 </a>
 
@@ -14401,14 +14401,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : a0786cc1bc884f66bbb84118d55665ad
 ```
 
-<a href="./archive/00133_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00133_000.jpg" target="_blank">
 	<img src="./lowres/00133_000.jpg" alt="Foma Fomapan Classic 100 120 film box outside" loading="lazy" width="500" height="391">
 </a>
 
 
 `UUID: 19dfce255f604980b0f596b8895d923f`↓
 
-<a href="./archive/00132_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00132_001.jpg" target="_blank">
 	<img src="./lowres/00132_001.jpg" alt="JCH Streetpan 35mm film box inside" loading="lazy" width="437" height="499">
 </a>
 
@@ -14422,7 +14422,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 1873b4d20d2a47659ab15d0af4146e58
 ```
 
-<a href="./archive/00132_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00132_000.jpg" target="_blank">
 	<img src="./lowres/00132_000.jpg" alt="JCH Streetpan 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
@@ -14436,7 +14436,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 898148fa3a754866a407bbecec4a71a6
 ```
 
-<a href="./archive/00131_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00131_000.jpg" target="_blank">
 	<img src="./lowres/00131_000.jpg" alt="Wolfen NP100 35mm film box outside" loading="lazy" width="500" height="455">
 </a>
 
@@ -14450,14 +14450,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 6e9f27ffcfea4f298be7d33d7f3826ad
 ```
 
-<a href="./archive/00130_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00130_000.jpg" target="_blank">
 	<img src="./lowres/00130_000.jpg" alt="Svema Foto 400 35mm film box outside" loading="lazy" width="500" height="441">
 </a>
 
 
 `UUID: 01adf7d0b4df41f990c60d5cafb7f55f`↓
 
-<a href="./archive/00129_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00129_001.jpg" target="_blank">
 	<img src="./lowres/00129_001.jpg" alt="Foma Fomapan Classic 100 35mm film box inside" loading="lazy" width="442" height="500">
 </a>
 
@@ -14471,7 +14471,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : bf1734a1ea48495d92afb7d03bdf0030
 ```
 
-<a href="./archive/00129_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00129_000.jpg" target="_blank">
 	<img src="./lowres/00129_000.jpg" alt="Foma Fomapan Classic 100 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
@@ -14485,14 +14485,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0a141b49a84a4b06a18355308940f3a7
 ```
 
-<a href="./archive/00128_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00128_000.jpg" target="_blank">
 	<img src="./lowres/00128_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="210">
 </a>
 
 
 `UUID: 728d195752464a448163dbb0ad4e8aa0`↓
 
-<a href="./archive/00127_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00127_001.jpg" target="_blank">
 	<img src="./lowres/00127_001.jpg" alt="Foma Ortho 400 120 film box inside" loading="lazy" width="500" height="412">
 </a>
 
@@ -14506,14 +14506,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 4c97e2b7413b42278b0fd129c1c589e7
 ```
 
-<a href="./archive/00127_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00127_000.jpg" target="_blank">
 	<img src="./lowres/00127_000.jpg" alt="Foma Ortho 400 120 film box outside" loading="lazy" width="500" height="418">
 </a>
 
 
 `UUID: 3921b5a404564bb2b4231bf59d22e6d3`↓
 
-<a href="./archive/00126_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00126_001.jpg" target="_blank">
 	<img src="./lowres/00126_001.jpg" alt="Ilford Delta 3200 Professional 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
@@ -14527,14 +14527,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : d6f377dbe74745a0aacdf51ce7669b54
 ```
 
-<a href="./archive/00126_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00126_000.jpg" target="_blank">
 	<img src="./lowres/00126_000.jpg" alt="Ilford Delta 3200 Professional 35mm film box outside" loading="lazy" width="437" height="499">
 </a>
 
 
 `UUID: 06dcb1f1f350482ba935ad30bd5a42b6`↓
 
-<a href="./archive/00125_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00125_001.jpg" target="_blank">
 	<img src="./lowres/00125_001.jpg" alt="Ilford Delta 3200 Professional 120 film box inside" loading="lazy" width="500" height="447">
 </a>
 
@@ -14548,14 +14548,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 78d1111d1b234dcfb272c00d7935920f
 ```
 
-<a href="./archive/00125_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00125_000.jpg" target="_blank">
 	<img src="./lowres/00125_000.jpg" alt="Ilford Delta 3200 Professional 120 film box outside" loading="lazy" width="500" height="450">
 </a>
 
 
 `UUID: 5643e1130f1949c48dfdeddc7c7a955f`↓
 
-<a href="./archive/00124_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00124_001.jpg" target="_blank">
 	<img src="./lowres/00124_001.jpg" alt="Bergger Pancro400 120 film box inside" loading="lazy" width="500" height="444">
 </a>
 
@@ -14569,14 +14569,14 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 73396128854a4c6ab3723a549225ad7b
 ```
 
-<a href="./archive/00124_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00124_000.jpg" target="_blank">
 	<img src="./lowres/00124_000.jpg" alt="Bergger Pancro400 120 film box outside" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: 29d10e873e704093bd65148f288f968b`↓
 
-<a href="./archive/00123_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00123_001.jpg" target="_blank">
 	<img src="./lowres/00123_001.jpg" alt="Bergger Pancro400 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
@@ -14590,7 +14590,7 @@ Added : 2025-07-31   |  Author  : Pelicram
 UUID  : 0d9fee6b29f445f089acde3247d1f619
 ```
 
-<a href="./archive/00123_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00123_000.jpg" target="_blank">
 	<img src="./lowres/00123_000.jpg" alt="Bergger Pancro400 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
@@ -14604,7 +14604,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 0143ad8539d84710845f4d2dc82e4f7d
 ```
 
-<a href="./archive/00122_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00122_000.jpg" target="_blank">
 	<img src="./lowres/00122_000.jpg" alt="Sakura Sakuracolor II 35mm film box outside" loading="lazy" width="395" height="500">
 </a>
 
@@ -14618,7 +14618,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6239a04366d74208a9010cd231688833
 ```
 
-<a href="./archive/00121_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00121_000.jpg" target="_blank">
 	<img src="./lowres/00121_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="408" height="499">
 </a>
 
@@ -14632,7 +14632,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 4ee1eec740dd4838a83384cc19c6ae7e
 ```
 
-<a href="./archive/00120_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00120_000.jpg" target="_blank">
 	<img src="./lowres/00120_000.jpg" alt="Kodak Ektachrome-X 828 film box outside" loading="lazy" width="477" height="500">
 </a>
 
@@ -14646,7 +14646,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 6a81b1428cfe46c8b9cf187fb672aec5
 ```
 
-<a href="./archive/00119_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00119_000.jpg" target="_blank">
 	<img src="./lowres/00119_000.jpg" alt="Kodak Ektachrome-X 35mm film box outside" loading="lazy" width="411" height="500">
 </a>
 
@@ -14660,7 +14660,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : 1c541b4c837944d788eab8986f349db3
 ```
 
-<a href="./archive/00118_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00118_000.jpg" target="_blank">
 	<img src="./lowres/00118_000.jpg" alt="Fujifilm Neopan SS Rapid 35mm film box outside" loading="lazy" width="369" height="500">
 </a>
 
@@ -14674,14 +14674,14 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : cb85af928a7f454e9673960e22b428da
 ```
 
-<a href="./archive/00117_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00117_000.jpg" target="_blank">
 	<img src="./lowres/00117_000.jpg" alt="Fujifilm Fujicolor Professional 35mm film box outside" loading="lazy" width="460" height="500">
 </a>
 
 
 `UUID: 4f21cef93ed3401caed74619ffa2b595`↓
 
-<a href="./archive/00116_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00116_001.jpg" target="_blank">
 	<img src="./lowres/00116_001.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box inside" loading="lazy" width="418" height="500">
 </a>
 
@@ -14695,7 +14695,7 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : d4fdfa0d829f4fcab984381a31f2a59b
 ```
 
-<a href="./archive/00116_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00116_000.jpg" target="_blank">
 	<img src="./lowres/00116_000.jpg" alt="Fujifilm Fujichrome Sensia 100 35mm film box outside" loading="lazy" width="424" height="500">
 </a>
 
@@ -14709,14 +14709,14 @@ Added : 2025-07-31   |  Author  : The Compartmentalist
 UUID  : b2470c1734d344698f6e1c01eaa85e7b
 ```
 
-<a href="./archive/00115_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00115_000.jpg" target="_blank">
 	<img src="./lowres/00115_000.jpg" alt="Agfa Agfapan Rapid 35mm film box outside" loading="lazy" width="500" height="480">
 </a>
 
 
 `UUID: 89d1b19f3e364f55adc2523a07ed9ddb`↓
 
-<a href="./archive/00114_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00114_001.jpg" target="_blank">
 	<img src="./lowres/00114_001.jpg" alt="Kodak Ektachrome Elite 100 35mm film box inside" loading="lazy" width="441" height="500">
 </a>
 
@@ -14730,14 +14730,14 @@ Added : 2025-07-31   |  Author  : toader
 UUID  : 175cf2b69fe3413093d9d7f9ea0d26ef
 ```
 
-<a href="./archive/00114_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00114_000.jpg" target="_blank">
 	<img src="./lowres/00114_000.jpg" alt="Kodak Ektachrome Elite 100 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 
 `UUID: 1ac536af04e3459fa3389050a3c93bee`↓
 
-<a href="./archive/00113_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00113_001.jpg" target="_blank">
 	<img src="./lowres/00113_001.jpg" alt="Kodak Ektachrome 100 Plus 35mm film box inside" loading="lazy" width="448" height="500">
 </a>
 
@@ -14751,7 +14751,7 @@ Added : 2025-07-31   |  Author  : toader
 UUID  : b17b7b46926e49ae88a7b74904245d9f
 ```
 
-<a href="./archive/00113_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00113_000.jpg" target="_blank">
 	<img src="./lowres/00113_000.jpg" alt="Kodak Ektachrome 100 Plus 35mm film box outside" loading="lazy" width="441" height="500">
 </a>
 
@@ -14765,14 +14765,14 @@ Added : 2025-07-30   |  Author  : yc128
 UUID  : e54ce68c797b4846b9aee3f5818ecb58
 ```
 
-<a href="./archive/00112_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00112_000.jpg" target="_blank">
 	<img src="./lowres/00112_000.jpg" alt="SantaColor SantaColor 35mm film box outside" loading="lazy" width="500" height="433">
 </a>
 
 
 `UUID: 95c6d78d0b0540a9ba70dc769609a112`↓
 
-<a href="./archive/00111_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00111_001.jpg" target="_blank">
 	<img src="./lowres/00111_001.jpg" alt="Ilford FP4 Plus 120 film box inside" loading="lazy" width="500" height="465">
 </a>
 
@@ -14786,14 +14786,14 @@ Added : 2025-07-30   |  Author  : yc128
 UUID  : c6c88d6d009048e9ac3721bdc7f076e7
 ```
 
-<a href="./archive/00111_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00111_000.jpg" target="_blank">
 	<img src="./lowres/00111_000.jpg" alt="Ilford FP4 Plus 120 film box outside" loading="lazy" width="500" height="453">
 </a>
 
 
 `UUID: b6dcbe9ae6ea4aebabaf290f3160a553`↓
 
-<a href="./archive/00110_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00110_001.jpg" target="_blank">
 	<img src="./lowres/00110_001.jpg" alt="Harman Phoenix II 35mm film box inside" loading="lazy" width="426" height="500">
 </a>
 
@@ -14807,14 +14807,14 @@ Added : 2025-07-30   |  Author  : yc128
 UUID  : f12ed23e31e14008a969fe05f29940df
 ```
 
-<a href="./archive/00110_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00110_000.jpg" target="_blank">
 	<img src="./lowres/00110_000.jpg" alt="Harman Phoenix II 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 
 `UUID: db80264f66ae451abd1b0cc6f34e3280`↓
 
-<a href="./archive/00109_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00109_001.jpg" target="_blank">
 	<img src="./lowres/00109_001.jpg" alt="Harman Phoenix II 120 film box inside" loading="lazy" width="500" height="445">
 </a>
 
@@ -14828,7 +14828,7 @@ Added : 2025-07-30   |  Author  : yc128
 UUID  : 42f9d40379814cf8b02c3f0daf74f686
 ```
 
-<a href="./archive/00109_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00109_000.jpg" target="_blank">
 	<img src="./lowres/00109_000.jpg" alt="Harman Phoenix II 120 film box outside" loading="lazy" width="500" height="448">
 </a>
 
@@ -14842,21 +14842,21 @@ Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 58211887217046be9d2dfcce8d0c5c43
 ```
 
-<a href="./archive/00108_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00108_000.jpg" target="_blank">
 	<img src="./lowres/00108_000.jpg" alt="Tasma OCh 50 35mm film box outside" loading="lazy" width="500" height="408">
 </a>
 
 
 `UUID: e582ca2ca6ec44e49e9d9e96a56b930e`↓
 
-<a href="./archive/00107_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00107_002.jpg" target="_blank">
 	<img src="./lowres/00107_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="194" height="500">
 </a>
 
 
 `UUID: 6d7d9f75f74b4caebbb7a7c6e27c663b`↓
 
-<a href="./archive/00107_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00107_001.jpg" target="_blank">
 	<img src="./lowres/00107_001.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="203" height="499">
 </a>
 
@@ -14870,14 +14870,14 @@ Added : 2025-07-29   |  Author  : Henry Gunn
 UUID  : 86470a73e4b5436b97ffb272be6bb8f8
 ```
 
-<a href="./archive/00107_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00107_000.jpg" target="_blank">
 	<img src="./lowres/00107_000.jpg" alt="Kodak High Speed Ektachrome 35mm film box outside" loading="lazy" width="433" height="500">
 </a>
 
 
 `UUID: fd713c7576534f62832529c13f74996b`↓
 
-<a href="./archive/00106_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00106_001.jpg" target="_blank">
 	<img src="./lowres/00106_001.jpg" alt="Kodak Technical Pan 35mm film box inside" loading="lazy" width="315" height="500">
 </a>
 
@@ -14891,21 +14891,21 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : e65b4252384141028ee037892c6bf4cf
 ```
 
-<a href="./archive/00106_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00106_000.jpg" target="_blank">
 	<img src="./lowres/00106_000.jpg" alt="Kodak Technical Pan 35mm film box outside" loading="lazy" width="500" height="320">
 </a>
 
 
 `UUID: fc2e102fecae4f2dbd04fd341fdb7afd`↓
 
-<a href="./archive/00105_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00105_002.jpg" target="_blank">
 	<img src="./lowres/00105_002.jpg" alt="Kodak Rapid Process Copy Film 35mm film box inside" loading="lazy" width="166" height="500">
 </a>
 
 
 `UUID: bab6cc70d0044171a1afcf33b6cb5556`↓
 
-<a href="./archive/00105_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00105_001.jpg" target="_blank">
 	<img src="./lowres/00105_001.jpg" alt="Kodak Rapid Process Copy Film 35mm film box outside" loading="lazy" width="170" height="499">
 </a>
 
@@ -14919,21 +14919,21 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 396a3645cb9a40a4b0a6dd2fd854e66e
 ```
 
-<a href="./archive/00105_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00105_000.jpg" target="_blank">
 	<img src="./lowres/00105_000.jpg" alt="Kodak Rapid Process Copy Film 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
 
 `UUID: a6740f1fc4df4b80a8a4dee83a26c04b`↓
 
-<a href="./archive/00104_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00104_002.jpg" target="_blank">
 	<img src="./lowres/00104_002.jpg" alt="Kodak T-MAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
 
 `UUID: b9d1b08379d9482bbc799101f6881f12`↓
 
-<a href="./archive/00104_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00104_001.jpg" target="_blank">
 	<img src="./lowres/00104_001.jpg" alt="Kodak T-MAX P3200 35mm film box leaflet" loading="lazy" width="169" height="500">
 </a>
 
@@ -14947,14 +14947,14 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9e4ea1efa5a54938985fdf8901951dff
 ```
 
-<a href="./archive/00104_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00104_000.jpg" target="_blank">
 	<img src="./lowres/00104_000.jpg" alt="Kodak T-MAX P3200 35mm film box outside" loading="lazy" width="436" height="500">
 </a>
 
 
 `UUID: 5667abf6f7f04edba88137bd54153841`↓
 
-<a href="./archive/00103_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00103_001.jpg" target="_blank">
 	<img src="./lowres/00103_001.jpg" alt="Kodak High Speed Infrared 35mm film box inside" loading="lazy" width="466" height="500">
 </a>
 
@@ -14968,21 +14968,21 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 77352e93d73748eca98cff7b30d7883e
 ```
 
-<a href="./archive/00103_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00103_000.jpg" target="_blank">
 	<img src="./lowres/00103_000.jpg" alt="Kodak High Speed Infrared 35mm film box outside" loading="lazy" width="466" height="500">
 </a>
 
 
 `UUID: 1058c3167209457aac0f4336c911c8b3`↓
 
-<a href="./archive/00102_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00102_002.jpg" target="_blank">
 	<img src="./lowres/00102_002.jpg" alt="Kodak High Speed Infrared 35mm film box leaflet" loading="lazy" width="168" height="500">
 </a>
 
 
 `UUID: 5cdb927687974c8db4458239ed9a09b4`↓
 
-<a href="./archive/00102_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00102_001.jpg" target="_blank">
 	<img src="./lowres/00102_001.jpg" alt="Kodak High Speed Infrared 35mm film box leaflet" loading="lazy" width="171" height="500">
 </a>
 
@@ -14996,7 +14996,7 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 7b611fc399af469a80ac1a0124c84294
 ```
 
-<a href="./archive/00102_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00102_000.jpg" target="_blank">
 	<img src="./lowres/00102_000.jpg" alt="Kodak High Speed Infrared 35mm film box outside" loading="lazy" width="446" height="500">
 </a>
 
@@ -15010,14 +15010,14 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 9ea6437ea85442048ffe63b8b64c3700
 ```
 
-<a href="./archive/00101_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00101_000.jpg" target="_blank">
 	<img src="./lowres/00101_000.jpg" alt="Agfa Isopan FF 35mm film box outside" loading="lazy" width="500" height="427">
 </a>
 
 
 `UUID: c8ecef6f805d4a7eab60f82855687e17`↓
 
-<a href="./archive/00100_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00100_001.jpg" target="_blank">
 	<img src="./lowres/00100_001.jpg" alt="Kodak Ektachrome 400 35mm film box inside" loading="lazy" width="460" height="499">
 </a>
 
@@ -15031,7 +15031,7 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 2330da9237ad4dbaac0028199f363c96
 ```
 
-<a href="./archive/00100_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00100_000.jpg" target="_blank">
 	<img src="./lowres/00100_000.jpg" alt="Kodak Ektachrome 400 35mm film box outside" loading="lazy" width="439" height="500">
 </a>
 
@@ -15045,7 +15045,7 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 46cc0a179fc34cb4832e1d3336bafaec
 ```
 
-<a href="./archive/00099_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00099_000.jpg" target="_blank">
 	<img src="./lowres/00099_000.jpg" alt="Kodak Eastman High Contrast Panchromatic 7369 16mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
@@ -15059,14 +15059,14 @@ Added : 2025-07-29   |  Author  : Nano_Burger
 UUID  : 952823ad9ef14c75a83ac8e230b38e68
 ```
 
-<a href="./archive/00098_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00098_000.jpg" target="_blank">
 	<img src="./lowres/00098_000.jpg" alt="Agfa Autolith Repo 9x12cm film box outside" loading="lazy" width="500" height="370">
 </a>
 
 
 `UUID: 185225c336bc491683c7a1806458c4e8`↓
 
-<a href="./archive/00097_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00097_001.jpg" target="_blank">
 	<img src="./lowres/00097_001.jpg" alt="Kodak Kodacolor VR 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
@@ -15080,7 +15080,7 @@ Added : 2025-07-28   |  Author  : @ftfilmphotos
 UUID  : a26daa2cb6e44957af3d978bc67e035f
 ```
 
-<a href="./archive/00097_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00097_000.jpg" target="_blank">
 	<img src="./lowres/00097_000.jpg" alt="Kodak Kodacolor VR 35mm film box outside" loading="lazy" width="417" height="500">
 </a>
 
@@ -15094,14 +15094,14 @@ Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : b220e7d5dbee49898fbd1d42ee67c90d
 ```
 
-<a href="./archive/00096_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00096_000.jpg" target="_blank">
 	<img src="./lowres/00096_000.jpg" alt="Perutz Superomnia 9x12cm film box outside" loading="lazy" width="500" height="367">
 </a>
 
 
 `UUID: 86ebec2c1a1d41359d84654d24dbac69`↓
 
-<a href="./archive/00095_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00095_001.jpg" target="_blank">
 	<img src="./lowres/00095_001.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
@@ -15115,14 +15115,14 @@ Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : e45118f7bd5e4ae682e5747a81f0ea58
 ```
 
-<a href="./archive/00095_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00095_000.jpg" target="_blank">
 	<img src="./lowres/00095_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="500" height="393">
 </a>
 
 
 `UUID: 1501f7eec7f34d3788b6c7b94a4134df`↓
 
-<a href="./archive/00094_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00094_001.jpg" target="_blank">
 	<img src="./lowres/00094_001.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
@@ -15136,14 +15136,14 @@ Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c2dc7711cd38434da5cfea8750f61358
 ```
 
-<a href="./archive/00094_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00094_000.jpg" target="_blank">
 	<img src="./lowres/00094_000.jpg" alt="Kodak Gold Ultra 400 35mm film box outside" loading="lazy" width="300" height="500">
 </a>
 
 
 `UUID: 286ea2dbf5394a36b8f013b9aaa33a46`↓
 
-<a href="./archive/00093_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00093_001.jpg" target="_blank">
 	<img src="./lowres/00093_001.jpg" alt="Agfa APX 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
@@ -15157,14 +15157,14 @@ Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : ecf4e081ccf64a9a8606601f9f665276
 ```
 
-<a href="./archive/00093_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00093_000.jpg" target="_blank">
 	<img src="./lowres/00093_000.jpg" alt="Agfa APX 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
 
 `UUID: ae13defc8e3d43e2988974430ea63335`↓
 
-<a href="./archive/00092_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00092_001.jpg" target="_blank">
 	<img src="./lowres/00092_001.jpg" alt="Foma Fomapan Creative 200 35mm film box inside" loading="lazy" width="417" height="500">
 </a>
 
@@ -15178,7 +15178,7 @@ Added : 2025-07-28   |  Author  : lilyu.xyz
 UUID  : c3d51159b481435b90dbe2411de784a5
 ```
 
-<a href="./archive/00092_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00092_000.jpg" target="_blank">
 	<img src="./lowres/00092_000.jpg" alt="Foma Fomapan Creative 200 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
@@ -15192,7 +15192,7 @@ Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bd00cd25958d4108a7501bf4be9d6637
 ```
 
-<a href="./archive/00091_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00091_000.jpg" target="_blank">
 	<img src="./lowres/00091_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
@@ -15206,7 +15206,7 @@ Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : fcbc3377fa3d4ca9b58779f86ed7c725
 ```
 
-<a href="./archive/00090_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00090_000.jpg" target="_blank">
 	<img src="./lowres/00090_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="408" height="500">
 </a>
 
@@ -15220,7 +15220,7 @@ Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 9131fb90db70475dbad5f63f1448ce56
 ```
 
-<a href="./archive/00089_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00089_000.jpg" target="_blank">
 	<img src="./lowres/00089_000.jpg" alt="Kodak Portra 160 35mm film box outside" loading="lazy" width="500" height="367">
 </a>
 
@@ -15234,7 +15234,7 @@ Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : 7ebac9d7fb8c4ff9b7fbabcaec1d7d65
 ```
 
-<a href="./archive/00088_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00088_000.jpg" target="_blank">
 	<img src="./lowres/00088_000.jpg" alt="Kodak Portra 800 35mm film box outside" loading="lazy" width="415" height="500">
 </a>
 
@@ -15248,7 +15248,7 @@ Added : 2025-07-28   |  Author  : @recycling.film
 UUID  : bab5fa204b25431a9872c4ce8e9aa7de
 ```
 
-<a href="./archive/00087_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00087_000.jpg" target="_blank">
 	<img src="./lowres/00087_000.jpg" alt="Fujifilm Fujicolor Superia Reala 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
@@ -15262,14 +15262,14 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 856af2ca15fd4a0bad0df6eb29a2855e
 ```
 
-<a href="./archive/00086_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00086_000.jpg" target="_blank">
 	<img src="./lowres/00086_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="449" height="500">
 </a>
 
 
 `UUID: fbd9b946fd4d46f8a45a46112dcd16ae`↓
 
-<a href="./archive/00085_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00085_001.jpg" target="_blank">
 	<img src="./lowres/00085_001.jpg" alt="CineStill 800T 35mm film box inside" loading="lazy" width="435" height="500">
 </a>
 
@@ -15283,7 +15283,7 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 81978ca6f6d048b3a759dffdb80fb3ff
 ```
 
-<a href="./archive/00085_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00085_000.jpg" target="_blank">
 	<img src="./lowres/00085_000.jpg" alt="CineStill 800T 35mm film box outside" loading="lazy" width="433" height="500">
 </a>
 
@@ -15297,14 +15297,14 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 087223fc24654e3882a4596e3cea79ca
 ```
 
-<a href="./archive/00084_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00084_000.jpg" target="_blank">
 	<img src="./lowres/00084_000.jpg" alt="Kodak ColorPlus 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: aa635d75717e4083a0ab53a0c2e1b892`↓
 
-<a href="./archive/00083_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00083_001.jpg" target="_blank">
 	<img src="./lowres/00083_001.jpg" alt="Ilford HP5 Plus 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
@@ -15318,14 +15318,14 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8db6d8343d544c21bfd539c32525df49
 ```
 
-<a href="./archive/00083_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00083_000.jpg" target="_blank">
 	<img src="./lowres/00083_000.jpg" alt="Ilford HP5 Plus 35mm film box outside" loading="lazy" width="430" height="499">
 </a>
 
 
 `UUID: c91fc253637a47dc8507a7dab7d38475`↓
 
-<a href="./archive/00082_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00082_001.jpg" target="_blank">
 	<img src="./lowres/00082_001.jpg" alt="Kentmere PAN 100 35mm film box inside" loading="lazy" width="431" height="499">
 </a>
 
@@ -15339,7 +15339,7 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : c4c934a23c59430f8b99c71a9322c907
 ```
 
-<a href="./archive/00082_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00082_000.jpg" target="_blank">
 	<img src="./lowres/00082_000.jpg" alt="Kentmere PAN 100 35mm film box outside" loading="lazy" width="432" height="500">
 </a>
 
@@ -15353,7 +15353,7 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8552091a80a844a5aec3e9b8185e3498
 ```
 
-<a href="./archive/00081_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00081_000.jpg" target="_blank">
 	<img src="./lowres/00081_000.jpg" alt="Kodak Ektar 100 35mm film box outside" loading="lazy" width="447" height="500">
 </a>
 
@@ -15367,7 +15367,7 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : d2e434e91001465dbea2d815d5e23e7f
 ```
 
-<a href="./archive/00080_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00080_000.jpg" target="_blank">
 	<img src="./lowres/00080_000.jpg" alt="Kodak Gold 35mm film box outside" loading="lazy" width="446" height="500">
 </a>
 
@@ -15381,14 +15381,14 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : 8b0e255948ad4bbc8689d371569caaa6
 ```
 
-<a href="./archive/00079_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00079_000.jpg" target="_blank">
 	<img src="./lowres/00079_000.jpg" alt="Kodak UltraMax 35mm film box outside" loading="lazy" width="443" height="499">
 </a>
 
 
 `UUID: bd02e2aa40df4da59c616139d8d06db6`↓
 
-<a href="./archive/00078_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00078_001.jpg" target="_blank">
 	<img src="./lowres/00078_001.jpg" alt="Lomography Lomochrome Purple 35mm film box inside" loading="lazy" width="500" height="381">
 </a>
 
@@ -15402,7 +15402,7 @@ Added : 2025-07-22   |  Author  : @SirBrentsworth
 UUID  : b02540ba4b454a639f8096f9474d068f
 ```
 
-<a href="./archive/00078_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00078_000.jpg" target="_blank">
 	<img src="./lowres/00078_000.jpg" alt="Lomography Lomochrome Purple 35mm film box outside" loading="lazy" width="500" height="375">
 </a>
 
@@ -15416,14 +15416,14 @@ Added : 2025-06-25   |  Author  : yc128
 UUID  : 678648d080ba4e3e8f8e3bd7f429b74f
 ```
 
-<a href="./archive/00077_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00077_000.jpg" target="_blank">
 	<img src="./lowres/00077_000.jpg" alt="Kosmo Foto Mono 35mm film box outside" loading="lazy" width="427" height="500">
 </a>
 
 
 `UUID: a7a70b20b4224baeb85c732245eb31d1`↓
 
-<a href="./archive/00076_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00076_001.jpg" target="_blank">
 	<img src="./lowres/00076_001.jpg" alt="Harman Phoenix 35mm film box inside" loading="lazy" width="426" height="500">
 </a>
 
@@ -15437,14 +15437,14 @@ Added : 2025-06-25   |  Author  : yc128
 UUID  : 2fe522ef01b84a9aa6263807135f8eb4
 ```
 
-<a href="./archive/00076_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00076_000.jpg" target="_blank">
 	<img src="./lowres/00076_000.jpg" alt="Harman Phoenix 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
 
 `UUID: c5a0132ac51a488ba35ebd6cc48911e7`↓
 
-<a href="./archive/00004_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00004_001.jpg" target="_blank">
 	<img src="./lowres/00004_001.jpg" alt="Harman Phoenix 120 film box inside" loading="lazy" width="500" height="448">
 </a>
 
@@ -15458,7 +15458,7 @@ Added : 2025-06-21   |  Author  : benikum
 UUID  : 098e510bfaa14be39697b9d8218475d9
 ```
 
-<a href="./archive/00074_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00074_000.jpg" target="_blank">
 	<img src="./lowres/00074_000.jpg" alt="Foma Fomapan21 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
@@ -15472,7 +15472,7 @@ Added : 2025-06-05   |  Author  : Yrikonchik
 UUID  : fe02d85cb9294ee2ba64e8543ce65b41
 ```
 
-<a href="./archive/00073_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00073_000.jpg" target="_blank">
 	<img src="./lowres/00073_000.jpg" alt="Fujifilm 200 35mm film box outside" loading="lazy" width="476" height="500">
 </a>
 
@@ -15486,14 +15486,14 @@ Added : 2025-06-05   |  Author  : benikum
 UUID  : b09413c4c1f44fceaa31ea8e50bf7670
 ```
 
-<a href="./archive/00072_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00072_000.jpg" target="_blank">
 	<img src="./lowres/00072_000.jpg" alt="Rossmann Jahreszeiten Pack 35mm film box outside" loading="lazy" width="227" height="500">
 </a>
 
 
 `UUID: 7c96a37e3f0f4550876f507554b2a6dd`↓
 
-<a href="./archive/00071_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00071_001.jpg" target="_blank">
 	<img src="./lowres/00071_001.jpg" alt="Rollei SUPERPAN 200 35mm film box inside" loading="lazy" width="434" height="500">
 </a>
 
@@ -15507,14 +15507,14 @@ Added : 2025-06-05   |  Author  : benikum
 UUID  : f22d3e1e2f70453f87aea4b67db3ee8f
 ```
 
-<a href="./archive/00071_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00071_000.jpg" target="_blank">
 	<img src="./lowres/00071_000.jpg" alt="Rollei SUPERPAN 200 35mm film box outside" loading="lazy" width="429" height="500">
 </a>
 
 
 `UUID: b049b10ae15b40319e7b70fed1ccbd71`↓
 
-<a href="./archive/00070_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00070_001.jpg" target="_blank">
 	<img src="./lowres/00070_001.jpg" alt="Foma Fomapan Creative 200 120 film box inside" loading="lazy" width="500" height="378">
 </a>
 
@@ -15528,7 +15528,7 @@ Added : 2025-06-05   |  Author  : benikum
 UUID  : 7be1cb0047f14034a7386cd7b1843e4f
 ```
 
-<a href="./archive/00070_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00070_000.jpg" target="_blank">
 	<img src="./lowres/00070_000.jpg" alt="Foma Fomapan Creative 200 120 film box outside" loading="lazy" width="500" height="387">
 </a>
 
@@ -15542,7 +15542,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 9a43d0c373354e1989ea7bb7a43db3b1
 ```
 
-<a href="./archive/00069_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00069_000.jpg" target="_blank">
 	<img src="./lowres/00069_000.jpg" alt="Kodak T-MAX 100 120 film box outside" loading="lazy" width="381" height="500">
 </a>
 
@@ -15556,7 +15556,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 78bfeed667154d819902ec92d7dcf368
 ```
 
-<a href="./archive/00068_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00068_000.jpg" target="_blank">
 	<img src="./lowres/00068_000.jpg" alt="Kodak Kodacolor Gold 200 110 film box outside" loading="lazy" width="500" height="403">
 </a>
 
@@ -15570,7 +15570,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 44bd7d4688e04d19a958d961c2abc7cf
 ```
 
-<a href="./archive/00067_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00067_000.jpg" target="_blank">
 	<img src="./lowres/00067_000.jpg" alt="Lloyds Pharmacy APS Film APS film box outside" loading="lazy" width="418" height="500">
 </a>
 
@@ -15584,14 +15584,14 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 041622f239024ffb8b75c367619a566b
 ```
 
-<a href="./archive/00066_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00066_000.jpg" target="_blank">
 	<img src="./lowres/00066_000.jpg" alt="Kodak Advantix Ultra APS film box outside" loading="lazy" width="500" height="389">
 </a>
 
 
 `UUID: 04f60deb3d044553a9d662db1d30d3b7`↓
 
-<a href="./archive/00065_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00065_001.jpg" target="_blank">
 	<img src="./lowres/00065_001.jpg" alt="ADOX KB17 35mm film box inside" loading="lazy" width="500" height="418">
 </a>
 
@@ -15605,21 +15605,21 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 14047842e1a641268bfd4d01fcf02c95
 ```
 
-<a href="./archive/00065_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00065_000.jpg" target="_blank">
 	<img src="./lowres/00065_000.jpg" alt="ADOX KB17 35mm film box outside" loading="lazy" width="500" height="428">
 </a>
 
 
 `UUID: fc168256a6044253a1cf1c8362cf5c50`↓
 
-<a href="./archive/00064_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00064_002.jpg" target="_blank">
 	<img src="./lowres/00064_002.jpg" alt="Kodak Kodacolor-X 120 film box leaflet" loading="lazy" width="213" height="499">
 </a>
 
 
 `UUID: 20e8ec19e41a4c1e99eac4cd7ce097fa`↓
 
-<a href="./archive/00064_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00064_001.jpg" target="_blank">
 	<img src="./lowres/00064_001.jpg" alt="Kodak Kodacolor-X 120 film box leaflet" loading="lazy" width="217" height="500">
 </a>
 
@@ -15633,14 +15633,14 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 01bfcffd1db54d6eadefbc1442f7a4b1
 ```
 
-<a href="./archive/00064_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00064_000.jpg" target="_blank">
 	<img src="./lowres/00064_000.jpg" alt="Kodak Kodacolor-X 120 film box outside" loading="lazy" width="500" height="473">
 </a>
 
 
 `UUID: dff53610cf16453fb97135efcc0eed86`↓
 
-<a href="./archive/00063_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00063_001.jpg" target="_blank">
 	<img src="./lowres/00063_001.jpg" alt="Klick APS Film APS film box inside" loading="lazy" width="500" height="268">
 </a>
 
@@ -15654,7 +15654,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 1dc3d9dbb8bb42b4acfbfbe0737a4b88
 ```
 
-<a href="./archive/00063_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00063_000.jpg" target="_blank">
 	<img src="./lowres/00063_000.jpg" alt="Klick APS Film APS film box outside" loading="lazy" width="500" height="288">
 </a>
 
@@ -15668,7 +15668,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 2276628aa2794442ae81221329fc44d7
 ```
 
-<a href="./archive/00062_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00062_000.jpg" target="_blank">
 	<img src="./lowres/00062_000.jpg" alt="Klick XD200 110 film box outside" loading="lazy" width="500" height="386">
 </a>
 
@@ -15682,7 +15682,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : dc9c151b87de48339e564e6692663206
 ```
 
-<a href="./archive/00060_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00060_000.jpg" target="_blank">
 	<img src="./lowres/00060_000.jpg" alt="Kodak Kodachrome 64 35mm film box outside" loading="lazy" width="450" height="499">
 </a>
 
@@ -15696,14 +15696,14 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 4de0f5e76dd748c488fa81be23340292
 ```
 
-<a href="./archive/00059_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00059_000.jpg" target="_blank">
 	<img src="./lowres/00059_000.jpg" alt="Three Film Rolls 5207 35mm film box outside" loading="lazy" width="452" height="500">
 </a>
 
 
 `UUID: ecc653f10f124afe9b4225edb7e06587`↓
 
-<a href="./archive/00058_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00058_001.jpg" target="_blank">
 	<img src="./lowres/00058_001.jpg" alt="Kentmere PAN 400 120 film box inside" loading="lazy" width="500" height="436">
 </a>
 
@@ -15717,7 +15717,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : e876f866f1e9430494356ad098c7d223
 ```
 
-<a href="./archive/00058_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00058_000.jpg" target="_blank">
 	<img src="./lowres/00058_000.jpg" alt="Kentmere PAN 400 120 film box outside" loading="lazy" width="500" height="445">
 </a>
 
@@ -15731,7 +15731,7 @@ Added : 2025-05-24   |  Author  : dekuNukem
 UUID  : 9984ed6c13cd4be496e7e4b58e313e49
 ```
 
-<a href="./archive/00057_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00057_000.jpg" target="_blank">
 	<img src="./lowres/00057_000.jpg" alt="Alien Film 5222/XX 35mm film box outside" loading="lazy" width="455" height="500">
 </a>
 
@@ -15745,7 +15745,7 @@ Added : 2025-02-21   |  Author  : @seklerek
 UUID  : ce5c1d786286427ba5633091b06432d4
 ```
 
-<a href="./archive/00056_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00056_000.jpg" target="_blank">
 	<img src="./lowres/00056_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 35mm film box outside" loading="lazy" width="425" height="499">
 </a>
 
@@ -15759,42 +15759,42 @@ Added : 2025-02-21   |  Author  : @seklerek
 UUID  : a3603dbdd8ca49b893c8ce2bc76f356d
 ```
 
-<a href="./archive/00055_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00055_000.jpg" target="_blank">
 	<img src="./lowres/00055_000.jpg" alt="Fujifilm Fujichrome Provia 100F 35mm film box outside" loading="lazy" width="432" height="500">
 </a>
 
 
 `UUID: 90cc6194552d42dd873d9af54a9bc283`↓
 
-<a href="./archive/00054_005.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_005.jpg" target="_blank">
 	<img src="./lowres/00054_005.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="133">
 </a>
 
 
 `UUID: dd9347600c9a47299504239d1038f0dd`↓
 
-<a href="./archive/00054_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_004.jpg" target="_blank">
 	<img src="./lowres/00054_004.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="146">
 </a>
 
 
 `UUID: a332a7492f2b4a708c8a0ead5b9af986`↓
 
-<a href="./archive/00054_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_003.jpg" target="_blank">
 	<img src="./lowres/00054_003.jpg" alt="GAF Color Slide Film 126 film box processing envelope" loading="lazy" width="500" height="180">
 </a>
 
 
 `UUID: 02c9a3b0b9f547c4ab3cabb2d1173fdf`↓
 
-<a href="./archive/00054_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_002.jpg" target="_blank">
 	<img src="./lowres/00054_002.jpg" alt="GAF Color Slide Film 126 film box leaflet" loading="lazy" width="449" height="500">
 </a>
 
 
 `UUID: f8987f712bca4daaae3f732500332332`↓
 
-<a href="./archive/00054_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_001.jpg" target="_blank">
 	<img src="./lowres/00054_001.jpg" alt="GAF Color Slide Film 126 film box leaflet" loading="lazy" width="459" height="499">
 </a>
 
@@ -15808,14 +15808,14 @@ Added : 2025-02-04   |  Author  : b0baspace
 UUID  : c426ea17398c4c549c6a2720103adea6
 ```
 
-<a href="./archive/00054_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00054_000.jpg" target="_blank">
 	<img src="./lowres/00054_000.jpg" alt="GAF Color Slide Film 126 film box outside" loading="lazy" width="500" height="298">
 </a>
 
 
 `UUID: a11cf7e8abea41a8854da816157269c4`↓
 
-<a href="./archive/00053_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00053_001.jpg" target="_blank">
 	<img src="./lowres/00053_001.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box inside" loading="lazy" width="449" height="500">
 </a>
 
@@ -15829,21 +15829,21 @@ Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 576142521c2f4fe5abc387032bcc5e85
 ```
 
-<a href="./archive/00053_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00053_000.jpg" target="_blank">
 	<img src="./lowres/00053_000.jpg" alt="Fujifilm Fujicolor NPS 160 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: c6c1d49626e14661a700da5b26e07ca8`↓
 
-<a href="./archive/00052_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00052_002.jpg" target="_blank">
 	<img src="./lowres/00052_002.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="181" height="500">
 </a>
 
 
 `UUID: cbae471aa4184cbeabc5b1f8b49f8943`↓
 
-<a href="./archive/00052_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00052_001.jpg" target="_blank">
 	<img src="./lowres/00052_001.jpg" alt="Kodak Ektachrome 200 35mm film box leaflet" loading="lazy" width="185" height="500">
 </a>
 
@@ -15857,7 +15857,7 @@ Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 7d8346073bbe4d6a84e57cc2bb28b21e
 ```
 
-<a href="./archive/00052_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00052_000.jpg" target="_blank">
 	<img src="./lowres/00052_000.jpg" alt="Kodak Ektachrome 200 35mm film box outside" loading="lazy" width="456" height="500">
 </a>
 
@@ -15871,7 +15871,7 @@ Added : 2025-02-04   |  Author  : b0baspace
 UUID  : 46037fb6c55244b6ae47c55d0e454bf8
 ```
 
-<a href="./archive/00051_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00051_000.jpg" target="_blank">
 	<img src="./lowres/00051_000.jpg" alt="York Photo Labs DXG 200 35mm film box outside" loading="lazy" width="500" height="500">
 </a>
 
@@ -15885,7 +15885,7 @@ Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 0e16f7ae50164c658acd22b8d62e52aa
 ```
 
-<a href="./archive/00050_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00050_000.jpg" target="_blank">
 	<img src="./lowres/00050_000.jpg" alt="Shanghai GP3 127 film box outside" loading="lazy" width="500" height="400">
 </a>
 
@@ -15899,14 +15899,14 @@ Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 6e3408d7e97247e380ea52077a7491c1
 ```
 
-<a href="./archive/00049_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00049_000.jpg" target="_blank">
 	<img src="./lowres/00049_000.jpg" alt="Wolfen NC500 35mm film box outside" loading="lazy" width="454" height="500">
 </a>
 
 
 `UUID: e4c76c5b957347178af448f4aa6001d0`↓
 
-<a href="./archive/00048_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00048_001.jpg" target="_blank">
 	<img src="./lowres/00048_001.jpg" alt="Ilford Delta 100 Professional 120 film box inside" loading="lazy" width="500" height="488">
 </a>
 
@@ -15920,14 +15920,14 @@ Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : e39c5eca4e3e4e5badfa00ee512deb8d
 ```
 
-<a href="./archive/00048_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00048_000.jpg" target="_blank">
 	<img src="./lowres/00048_000.jpg" alt="Ilford Delta 100 Professional 120 film box outside" loading="lazy" width="500" height="459">
 </a>
 
 
 `UUID: 5bbaeaec47a046a683f87f266c73e71e`↓
 
-<a href="./archive/00047_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00047_001.jpg" target="_blank">
 	<img src="./lowres/00047_001.jpg" alt="Rollei Infrared 35mm film box inside" loading="lazy" width="406" height="499">
 </a>
 
@@ -15941,14 +15941,14 @@ Added : 2025-01-21   |  Author  : @ob.skura
 UUID  : 9ef642a09d294cbfad7e040a701deae2
 ```
 
-<a href="./archive/00047_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00047_000.jpg" target="_blank">
 	<img src="./lowres/00047_000.jpg" alt="Rollei Infrared 35mm film box outside" loading="lazy" width="406" height="499">
 </a>
 
 
 `UUID: e9bc17db34fa4b779e283c96c92b2359`↓
 
-<a href="./archive/00046_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00046_001.jpg" target="_blank">
 	<img src="./lowres/00046_001.jpg" alt="Porst Color N21 35mm film box leaflet" loading="lazy" width="500" height="426">
 </a>
 
@@ -15962,21 +15962,21 @@ Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e08418889f714c9dbda0858718e0494a
 ```
 
-<a href="./archive/00046_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00046_000.jpg" target="_blank">
 	<img src="./lowres/00046_000.jpg" alt="Porst Color N21 35mm film box outside" loading="lazy" width="458" height="500">
 </a>
 
 
 `UUID: 6b248d300438476aa38c9b6bce04fc87`↓
 
-<a href="./archive/00045_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00045_002.jpg" target="_blank">
 	<img src="./lowres/00045_002.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="182" height="500">
 </a>
 
 
 `UUID: 1fc1082f5b524367820b31b7669e86cd`↓
 
-<a href="./archive/00045_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00045_001.jpg" target="_blank">
 	<img src="./lowres/00045_001.jpg" alt="Kodak High Speed Ektachrome 35mm film box leaflet" loading="lazy" width="207" height="500">
 </a>
 
@@ -15990,21 +15990,21 @@ Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9702189f65de43c59fce151094a7ec3d
 ```
 
-<a href="./archive/00045_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00045_000.jpg" target="_blank">
 	<img src="./lowres/00045_000.jpg" alt="Kodak High Speed Ektachrome 35mm film box outside" loading="lazy" width="426" height="500">
 </a>
 
 
 `UUID: 03951cb49c8a44229aa4b5760744fc6f`↓
 
-<a href="./archive/00044_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00044_002.jpg" target="_blank">
 	<img src="./lowres/00044_002.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" width="267" height="500">
 </a>
 
 
 `UUID: 2e2e20a0b57542e4908ad9fc825e7e76`↓
 
-<a href="./archive/00044_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00044_001.jpg" target="_blank">
 	<img src="./lowres/00044_001.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box leaflet" loading="lazy" width="279" height="500">
 </a>
 
@@ -16018,7 +16018,7 @@ Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 9b9ee1c1c0e94d968674987799d33182
 ```
 
-<a href="./archive/00044_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00044_000.jpg" target="_blank">
 	<img src="./lowres/00044_000.jpg" alt="Fujifilm Fujichrome Velvia 35mm film box outside" loading="lazy" width="425" height="500">
 </a>
 
@@ -16032,7 +16032,7 @@ Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : 77dfbdf80e3a4950b40c7ea8c1e369a1
 ```
 
-<a href="./archive/00043_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00043_000.jpg" target="_blank">
 	<img src="./lowres/00043_000.jpg" alt="Kodak Ultra 35mm film box outside" loading="lazy" width="442" height="500">
 </a>
 
@@ -16046,7 +16046,7 @@ Added : 2025-01-14   |  Author  : @ob.skura
 UUID  : e0b3ec957ade47a99d5cd5abe2a4523c
 ```
 
-<a href="./archive/00042_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00042_000.jpg" target="_blank">
 	<img src="./lowres/00042_000.jpg" alt="Kodak Elite Chrome 35mm film box outside" loading="lazy" width="416" height="499">
 </a>
 
@@ -16060,7 +16060,7 @@ Added : 2025-01-12   |  Author  : b0baspace
 UUID  : 75c7c232d44949c3b1d766b0d2580195
 ```
 
-<a href="./archive/00041_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00041_000.jpg" target="_blank">
 	<img src="./lowres/00041_000.jpg" alt="Kodak Verichrome Pan 620 film box outside" loading="lazy" width="500" height="435">
 </a>
 
@@ -16074,14 +16074,14 @@ Added : 2025-01-12   |  Author  : b0baspace
 UUID  : 27d88b35933b4ede958b5b5b5b42013b
 ```
 
-<a href="./archive/00040_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00040_000.jpg" target="_blank">
 	<img src="./lowres/00040_000.jpg" alt="Fujifilm Fujicolor 100 35mm film box outside" loading="lazy" width="434" height="500">
 </a>
 
 
 `UUID: b5abc293fb26450eab9bfdda971cf1ad`↓
 
-<a href="./archive/00039_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00039_001.jpg" target="_blank">
 	<img src="./lowres/00039_001.jpg" alt="Konica Infrared 750nm 120 film box leaflet" loading="lazy" width="281" height="499">
 </a>
 
@@ -16095,14 +16095,14 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 79a0275aee8e43e895b5794a8538e696
 ```
 
-<a href="./archive/00039_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00039_000.jpg" target="_blank">
 	<img src="./lowres/00039_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="389">
 </a>
 
 
 `UUID: 4c7b545000f04f4da046d18c43575e19`↓
 
-<a href="./archive/00038_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00038_001.jpg" target="_blank">
 	<img src="./lowres/00038_001.jpg" alt="Efke IR 820 Aura 120 film box inside" loading="lazy" width="500" height="341">
 </a>
 
@@ -16116,21 +16116,21 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 716e410a3823476e9befa704361f43c9
 ```
 
-<a href="./archive/00038_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00038_000.jpg" target="_blank">
 	<img src="./lowres/00038_000.jpg" alt="Efke IR 820 Aura 120 film box outside" loading="lazy" width="500" height="295">
 </a>
 
 
 `UUID: 6bcd669b9d2e44c6929e55a446d1d075`↓
 
-<a href="./archive/00037_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00037_002.jpg" target="_blank">
 	<img src="./lowres/00037_002.jpg" alt="Kodak Technical Pan 6415 120 film box leaflet" loading="lazy" width="199" height="500">
 </a>
 
 
 `UUID: 579e1eee184e49669d586cf512ec1bc8`↓
 
-<a href="./archive/00037_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00037_001.jpg" target="_blank">
 	<img src="./lowres/00037_001.jpg" alt="Kodak Technical Pan 6415 120 film box leaflet" loading="lazy" width="306" height="500">
 </a>
 
@@ -16144,7 +16144,7 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 3a03860d64d2400caee97955197703be
 ```
 
-<a href="./archive/00037_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00037_000.jpg" target="_blank">
 	<img src="./lowres/00037_000.jpg" alt="Kodak Technical Pan 6415 120 film box outside" loading="lazy" width="500" height="318">
 </a>
 
@@ -16158,35 +16158,35 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 63b2857f2df549878446cc1963362d93
 ```
 
-<a href="./archive/00036_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00036_000.jpg" target="_blank">
 	<img src="./lowres/00036_000.jpg" alt="Konica Infrared 750nm 120 film box outside" loading="lazy" width="500" height="302">
 </a>
 
 
 `UUID: 754d321490a3453981be592ac6221b8d`↓
 
-<a href="./archive/00035_004.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00035_004.jpg" target="_blank">
 	<img src="./lowres/00035_004.jpg" alt="Kodak Kodachrome 25 35mm film box processing envelope" loading="lazy" width="500" height="231">
 </a>
 
 
 `UUID: a64a927ad3a348ae9eeb445a9725acfa`↓
 
-<a href="./archive/00035_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00035_003.jpg" target="_blank">
 	<img src="./lowres/00035_003.jpg" alt="Kodak Kodachrome 25 35mm film box processing envelope" loading="lazy" width="500" height="246">
 </a>
 
 
 `UUID: 547384566f7d4aff89c18059a11e7f0b`↓
 
-<a href="./archive/00035_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00035_002.jpg" target="_blank">
 	<img src="./lowres/00035_002.jpg" alt="Kodak Kodachrome 25 35mm film box leaflet" loading="lazy" width="294" height="500">
 </a>
 
 
 `UUID: 71a9b098894d4f00a8006ba4b37783b8`↓
 
-<a href="./archive/00035_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00035_001.jpg" target="_blank">
 	<img src="./lowres/00035_001.jpg" alt="Kodak Kodachrome 25 35mm film box leaflet" loading="lazy" width="362" height="500">
 </a>
 
@@ -16200,21 +16200,21 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 483191da2aa742bba3343cbe9f296477
 ```
 
-<a href="./archive/00035_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00035_000.jpg" target="_blank">
 	<img src="./lowres/00035_000.jpg" alt="Kodak Kodachrome 25 35mm film box outside" loading="lazy" width="500" height="390">
 </a>
 
 
 `UUID: 10efb3e22574460db3db552e55684945`↓
 
-<a href="./archive/00034_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00034_002.jpg" target="_blank">
 	<img src="./lowres/00034_002.jpg" alt="Fujifilm Fujicolor NPL 160 120 film box leaflet" loading="lazy" width="460" height="500">
 </a>
 
 
 `UUID: 2e3f349e094b49d8ba6e026a98eb1455`↓
 
-<a href="./archive/00034_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00034_001.jpg" target="_blank">
 	<img src="./lowres/00034_001.jpg" alt="Fujifilm Fujicolor NPL 160 120 film box leaflet" loading="lazy" width="447" height="500">
 </a>
 
@@ -16228,7 +16228,7 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : ce40cc432d9e445b987fdd72fd88d10b
 ```
 
-<a href="./archive/00034_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00034_000.jpg" target="_blank">
 	<img src="./lowres/00034_000.jpg" alt="Fujifilm Fujicolor NPL 160 120 film box outside" loading="lazy" width="500" height="442">
 </a>
 
@@ -16242,21 +16242,21 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b53e5c167866448d812a4dc8e85967d3
 ```
 
-<a href="./archive/00033_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00033_000.jpg" target="_blank">
 	<img src="./lowres/00033_000.jpg" alt="Jessops Diamond Everyday APS film box outside" loading="lazy" width="420" height="499">
 </a>
 
 
 `UUID: 2d0ef64e672342509bad0f88d7908974`↓
 
-<a href="./archive/00032_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00032_002.jpg" target="_blank">
 	<img src="./lowres/00032_002.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" width="305" height="500">
 </a>
 
 
 `UUID: 2e00754170744438a318b7f71da1c977`↓
 
-<a href="./archive/00032_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00032_001.jpg" target="_blank">
 	<img src="./lowres/00032_001.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box leaflet" loading="lazy" width="414" height="500">
 </a>
 
@@ -16270,28 +16270,28 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 5dcdd19ddf654415b7eac69183e7439d
 ```
 
-<a href="./archive/00032_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00032_000.jpg" target="_blank">
 	<img src="./lowres/00032_000.jpg" alt="Fujifilm Fujichrome Professional 100D 120 film box outside" loading="lazy" width="500" height="441">
 </a>
 
 
 `UUID: aa6fba27f7c9484291dbf8279a8e3d18`↓
 
-<a href="./archive/00031_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00031_003.jpg" target="_blank">
 	<img src="./lowres/00031_003.jpg" alt="Polaroid GridFilm Instant Integral Film film box inside" loading="lazy" width="500" height="340">
 </a>
 
 
 `UUID: 727d6925fdca4834bd96d71c32f40077`↓
 
-<a href="./archive/00031_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00031_002.jpg" target="_blank">
 	<img src="./lowres/00031_002.jpg" alt="Polaroid GridFilm Instant Integral Film film box inside" loading="lazy" width="490" height="500">
 </a>
 
 
 `UUID: 1dda008c9a844e1b9b64527511fdc282`↓
 
-<a href="./archive/00031_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00031_001.jpg" target="_blank">
 	<img src="./lowres/00031_001.jpg" alt="Polaroid GridFilm Instant Integral Film film box outside" loading="lazy" width="500" height="395">
 </a>
 
@@ -16305,7 +16305,7 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : 4f1aabf29f724c9ea3b2bee414b08deb
 ```
 
-<a href="./archive/00031_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00031_000.jpg" target="_blank">
 	<img src="./lowres/00031_000.jpg" alt="Polaroid GridFilm Instant Integral Film film box outside" loading="lazy" width="490" height="500">
 </a>
 
@@ -16319,7 +16319,7 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b7bb7d65979543d0a8e5c9179d734f54
 ```
 
-<a href="./archive/00030_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00030_000.jpg" target="_blank">
 	<img src="./lowres/00030_000.jpg" alt="Rollei Infrared 120 film box outside" loading="lazy" width="500" height="459">
 </a>
 
@@ -16333,7 +16333,7 @@ Added : 2025-01-05   |  Author  : dekuNukem
 UUID  : b0041b1e44a64f6591d49e918e033b60
 ```
 
-<a href="./archive/00029_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00029_000.jpg" target="_blank">
 	<img src="./lowres/00029_000.jpg" alt="Polaroid PolaChrome 35mm 35mm film box outside" loading="lazy" width="500" height="459">
 </a>
 
@@ -16347,28 +16347,28 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : f7f99b9d46a4491c9cbfda4f030f88c5
 ```
 
-<a href="./archive/00028_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00028_000.jpg" target="_blank">
 	<img src="./lowres/00028_000.jpg" alt="Kodak Tri-X 400 120 film box outside" loading="lazy" width="408" height="500">
 </a>
 
 
 `UUID: 53e024b9a272410888a6d44549f7ceb0`↓
 
-<a href="./archive/00027_003.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00027_003.jpg" target="_blank">
 	<img src="./lowres/00027_003.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" width="203" height="499">
 </a>
 
 
 `UUID: c13296cf46f04c1dba4ef93110f3ca71`↓
 
-<a href="./archive/00027_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00027_002.jpg" target="_blank">
 	<img src="./lowres/00027_002.jpg" alt="Kodak Ektacolor Pro Gold 220 film box leaflet" loading="lazy" width="317" height="500">
 </a>
 
 
 `UUID: e9e4b4c649dc4b62aecc7bc004a1a6ff`↓
 
-<a href="./archive/00027_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00027_001.jpg" target="_blank">
 	<img src="./lowres/00027_001.jpg" alt="Kodak Ektacolor Pro Gold 220 film box inside" loading="lazy" width="395" height="500">
 </a>
 
@@ -16382,21 +16382,21 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 7456456d09c844c8ab046abd9c17c3f8
 ```
 
-<a href="./archive/00027_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00027_000.jpg" target="_blank">
 	<img src="./lowres/00027_000.jpg" alt="Kodak Ektacolor Pro Gold 220 film box outside" loading="lazy" width="395" height="500">
 </a>
 
 
 `UUID: 045746d5a421440487c431bf74ad0091`↓
 
-<a href="./archive/00026_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00026_002.jpg" target="_blank">
 	<img src="./lowres/00026_002.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="309">
 </a>
 
 
 `UUID: 54ea8372830b463391dec9cc43789bdf`↓
 
-<a href="./archive/00026_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00026_001.jpg" target="_blank">
 	<img src="./lowres/00026_001.jpg" alt="Kodak Kodachrome 64 110 film box processing envelope" loading="lazy" width="500" height="294">
 </a>
 
@@ -16410,7 +16410,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 68c945b76fc14ab699b944a3c7b93145
 ```
 
-<a href="./archive/00026_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00026_000.jpg" target="_blank">
 	<img src="./lowres/00026_000.jpg" alt="Kodak Kodachrome 64 110 film box outside" loading="lazy" width="500" height="398">
 </a>
 
@@ -16424,7 +16424,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8131d8c6fbf14016be9c17a2586b07c0
 ```
 
-<a href="./archive/00025_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00025_000.jpg" target="_blank">
 	<img src="./lowres/00025_000.jpg" alt="Kodak Ektachrome 64 110 film box outside" loading="lazy" width="500" height="418">
 </a>
 
@@ -16438,7 +16438,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 5a3d2ba8ff7649c9b3450d7069445302
 ```
 
-<a href="./archive/00024_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00024_000.jpg" target="_blank">
 	<img src="./lowres/00024_000.jpg" alt="Kodak Kodacolor-X 126 film box outside" loading="lazy" width="500" height="471">
 </a>
 
@@ -16452,7 +16452,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0fef128c3b17437eb25d5c4f0520f7fb
 ```
 
-<a href="./archive/00023_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00023_000.jpg" target="_blank">
 	<img src="./lowres/00023_000.jpg" alt="Fujifilm Fujichrome Velvia 100F 120 film box outside" loading="lazy" width="397" height="500">
 </a>
 
@@ -16466,7 +16466,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0d89ecf11f3c46deb52171aa909566e3
 ```
 
-<a href="./archive/00022_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00022_000.jpg" target="_blank">
 	<img src="./lowres/00022_000.jpg" alt="Fujifilm Fujicolor Pro 400H 120 film box outside" loading="lazy" width="408" height="499">
 </a>
 
@@ -16480,7 +16480,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : e8aefc10fa0d43cebbac73bdcf10933f
 ```
 
-<a href="./archive/00021_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00021_000.jpg" target="_blank">
 	<img src="./lowres/00021_000.jpg" alt="Kodak Gold 200 120 film box outside" loading="lazy" width="500" height="281">
 </a>
 
@@ -16494,7 +16494,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : bb62de3a22c04f699c780aeae7c83566
 ```
 
-<a href="./archive/00020_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00020_000.jpg" target="_blank">
 	<img src="./lowres/00020_000.jpg" alt="Polaroid 669 Instant Pack Film film box outside" loading="lazy" width="500" height="362">
 </a>
 
@@ -16508,7 +16508,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 8236180d686f4e9ca4aa8e6fc397df66
 ```
 
-<a href="./archive/00019_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00019_000.jpg" target="_blank">
 	<img src="./lowres/00019_000.jpg" alt="Polaroid PolaBlue 35mm 35mm film box outside" loading="lazy" width="487" height="500">
 </a>
 
@@ -16522,7 +16522,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 311d896d68b74b1193afcfa129c5e054
 ```
 
-<a href="./archive/00018_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00018_000.jpg" target="_blank">
 	<img src="./lowres/00018_000.jpg" alt="Polaroid 665 Instant Pack Film film box outside" loading="lazy" width="500" height="406">
 </a>
 
@@ -16536,14 +16536,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : ec7cf78858fc48c59e5a0875ec74ce7f
 ```
 
-<a href="./archive/00017_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00017_000.jpg" target="_blank">
 	<img src="./lowres/00017_000.jpg" alt="Kodak High Speed Ektachrome 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 1d938d2d844d498caf9fe2bc83618dda`↓
 
-<a href="./archive/00016_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00016_001.jpg" target="_blank">
 	<img src="./lowres/00016_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
@@ -16557,14 +16557,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : ddf9b76e633f43718144af7dcb89efad
 ```
 
-<a href="./archive/00016_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00016_000.jpg" target="_blank">
 	<img src="./lowres/00016_000.jpg" alt="Ilford HP5 Plus 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: 3514628a650741c8abb104047d809f55`↓
 
-<a href="./archive/00015_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00015_001.jpg" target="_blank">
 	<img src="./lowres/00015_001.jpg" alt="Kentmere PAN 400 35mm film box inside" loading="lazy" width="433" height="500">
 </a>
 
@@ -16578,14 +16578,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d2cf9753f6fd49a78404c72d848a827e
 ```
 
-<a href="./archive/00015_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00015_000.jpg" target="_blank">
 	<img src="./lowres/00015_000.jpg" alt="Kentmere PAN 400 35mm film box outside" loading="lazy" width="459" height="499">
 </a>
 
 
 `UUID: 300a430fc19f4eeeb4892e58d3c3cd56`↓
 
-<a href="./archive/00014_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00014_001.jpg" target="_blank">
 	<img src="./lowres/00014_001.jpg" alt="Agfa AgfaColor Vista 35mm film box inside" loading="lazy" width="440" height="500">
 </a>
 
@@ -16599,7 +16599,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : f1e50745927f4b7cb16af36fd30dd3af
 ```
 
-<a href="./archive/00014_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00014_000.jpg" target="_blank">
 	<img src="./lowres/00014_000.jpg" alt="Agfa AgfaColor Vista 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
@@ -16613,14 +16613,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : c58dda071d1741fda90e20b4252277d9
 ```
 
-<a href="./archive/00013_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00013_000.jpg" target="_blank">
 	<img src="./lowres/00013_000.jpg" alt="Lloyds Pharmacy Colour Film 35mm film box outside" loading="lazy" width="428" height="500">
 </a>
 
 
 `UUID: 5cd39510c35f4b9cbae3089311db118f`↓
 
-<a href="./archive/00012_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00012_001.jpg" target="_blank">
 	<img src="./lowres/00012_001.jpg" alt="Fujifilm Fujicolor Superia 120 film box inside" loading="lazy" width="500" height="500">
 </a>
 
@@ -16634,14 +16634,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : c3d9e51d22e241f69133be30d5a00683
 ```
 
-<a href="./archive/00012_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00012_000.jpg" target="_blank">
 	<img src="./lowres/00012_000.jpg" alt="Fujifilm Fujicolor Superia 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: dd262792b6a446dcab73a07738f8a8dd`↓
 
-<a href="./archive/00011_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00011_001.jpg" target="_blank">
 	<img src="./lowres/00011_001.jpg" alt="Agfa APX 120 film box inside" loading="lazy" width="500" height="402">
 </a>
 
@@ -16655,14 +16655,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : a20bbca534454915a6970b6ede2212c7
 ```
 
-<a href="./archive/00011_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00011_000.jpg" target="_blank">
 	<img src="./lowres/00011_000.jpg" alt="Agfa APX 120 film box outside" loading="lazy" width="500" height="388">
 </a>
 
 
 `UUID: 8594d11f816c45b6a18dd122f8e38fc0`↓
 
-<a href="./archive/00010_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00010_001.jpg" target="_blank">
 	<img src="./lowres/00010_001.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box inside" loading="lazy" width="453" height="500">
 </a>
 
@@ -16676,14 +16676,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : d10e846ba5154f1d940ed7009a904faa
 ```
 
-<a href="./archive/00010_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00010_000.jpg" target="_blank">
 	<img src="./lowres/00010_000.jpg" alt="Agfa AgfaColor ULTRA 50 35mm film box outside" loading="lazy" width="438" height="500">
 </a>
 
 
 `UUID: 2579a55634474187bac08797a02f422d`↓
 
-<a href="./archive/00009_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00009_001.jpg" target="_blank">
 	<img src="./lowres/00009_001.jpg" alt="Ilford SFX 200 120 film box inside" loading="lazy" width="500" height="456">
 </a>
 
@@ -16697,14 +16697,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 7856b5442362453caa67628c93be6057
 ```
 
-<a href="./archive/00009_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00009_000.jpg" target="_blank">
 	<img src="./lowres/00009_000.jpg" alt="Ilford SFX 200 120 film box outside" loading="lazy" width="500" height="500">
 </a>
 
 
 `UUID: adc4ed82e419439c8bec5348db4a1ca2`↓
 
-<a href="./archive/00008_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00008_001.jpg" target="_blank">
 	<img src="./lowres/00008_001.jpg" alt="Lomography Lomochrome Turquoise 120 film box inside" loading="lazy" width="500" height="298">
 </a>
 
@@ -16718,21 +16718,21 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 99643a4fc27b4ff298e834fc72970d90
 ```
 
-<a href="./archive/00008_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00008_000.jpg" target="_blank">
 	<img src="./lowres/00008_000.jpg" alt="Lomography Lomochrome Turquoise 120 film box outside" loading="lazy" width="500" height="262">
 </a>
 
 
 `UUID: e5688fcb7e8943a987ca6b882275ca7b`↓
 
-<a href="./archive/00007_002.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00007_002.jpg" target="_blank">
 	<img src="./lowres/00007_002.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box leaflet" loading="lazy" width="269" height="499">
 </a>
 
 
 `UUID: a179b7257aaf455fa69df546545457f6`↓
 
-<a href="./archive/00007_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00007_001.jpg" target="_blank">
 	<img src="./lowres/00007_001.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box leaflet" loading="lazy" width="275" height="500">
 </a>
 
@@ -16746,14 +16746,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 2d27c9a865aa4de19ad8dc0bcdc8aaa0
 ```
 
-<a href="./archive/00007_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00007_000.jpg" target="_blank">
 	<img src="./lowres/00007_000.jpg" alt="Fujifilm Fujicolor Super HR 35mm film box outside" loading="lazy" width="478" height="500">
 </a>
 
 
 `UUID: 6576b3b48e8244469a692f2e0edcd1a6`↓
 
-<a href="./archive/00006_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00006_001.jpg" target="_blank">
 	<img src="./lowres/00006_001.jpg" alt="CineStill 800T 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
@@ -16767,14 +16767,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 53253eca96d841f5b98bfb3590fec86a
 ```
 
-<a href="./archive/00006_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00006_000.jpg" target="_blank">
 	<img src="./lowres/00006_000.jpg" alt="CineStill 800T 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
 
 `UUID: a57794309f6b44d784d9555b416a200c`↓
 
-<a href="./archive/00005_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00005_001.jpg" target="_blank">
 	<img src="./lowres/00005_001.jpg" alt="Rollei Retro 80S 120 film box inside" loading="lazy" width="500" height="335">
 </a>
 
@@ -16788,7 +16788,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : fb2ccfebcf2f4a17afe00acaaea5e6c0
 ```
 
-<a href="./archive/00005_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00005_000.jpg" target="_blank">
 	<img src="./lowres/00005_000.jpg" alt="Rollei Retro 80S 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
@@ -16802,7 +16802,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 0b11ba38c9a34f58a2f13d696b05637f
 ```
 
-<a href="./archive/00004_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00004_000.jpg" target="_blank">
 	<img src="./lowres/00004_000.jpg" alt="Harman Phoenix 120 film box outside" loading="lazy" width="500" height="335">
 </a>
 
@@ -16816,7 +16816,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : cde1122dafbc47088a11d9ee12b6471a
 ```
 
-<a href="./archive/00002_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00002_000.jpg" target="_blank">
 	<img src="./lowres/00002_000.jpg" alt="Efiniti UXi Super 200 35mm film box outside" loading="lazy" width="457" height="500">
 </a>
 
@@ -16830,14 +16830,14 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : aedc4b00bd174e0baf7c744ed21d8820
 ```
 
-<a href="./archive/00001_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00001_000.jpg" target="_blank">
 	<img src="./lowres/00001_000.jpg" alt="Alien Film 5207/250D 120 film box outside" loading="lazy" width="500" height="385">
 </a>
 
 
 `UUID: 3d64b751d4dd412889855a65731d5f25`↓
 
-<a href="./archive/00000_001.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00000_001.jpg" target="_blank">
 	<img src="./lowres/00000_001.jpg" alt="Ilford HP5 Plus 120 film box inside" loading="lazy" width="500" height="449">
 </a>
 
@@ -16851,7 +16851,7 @@ Added : 2025-01-04   |  Author  : dekuNukem
 UUID  : 36151f6b7cc045c2b43d7f5cbee41a5d
 ```
 
-<a href="./archive/00000_000.jpg" target="_blank">
+<a href="https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00000_000.jpg" target="_blank">
 	<img src="./lowres/00000_000.jpg" alt="Ilford HP5 Plus 120 film box outside" loading="lazy" width="500" height="455">
 </a>
 

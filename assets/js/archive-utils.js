@@ -3,6 +3,17 @@
     const GALLERY_PATH = global.location.protocol === 'file:' ? './gallery/index.html' : '/gallery/';
     const NEW_ADDITION_WINDOW_MS = 7 * 24 * 60 * 60 * 1000;
 
+    function resolveImageUrls(item, localRoot = global.location.href) {
+        const thumbnailUrl = item.thumbnailUrl || `/film_packaging/lowres/${item.filename}`;
+        if (global.location.protocol === 'file:') {
+            return {
+                imageUrl: new URL(`film_packaging/archive/${item.filename}`, localRoot).href,
+                thumbnailUrl: new URL(thumbnailUrl.replace(/^\//, ''), localRoot).href
+            };
+        }
+        return { imageUrl: item.imageUrl, thumbnailUrl };
+    }
+
     function renderNewlyAddedBadge(group, now = Date.now()) {
         const isNew = group.images.some((image) => {
             const addedAt = Number(image.first_seen_at) * 1000;
@@ -210,10 +221,7 @@
 
         const itemCards = picks.map((group) => {
             const { front, metadata } = group;
-            const imageUrl = global.location.protocol === 'file:'
-                ? new URL('.' + front.imageUrl, global.location.href).href
-                : front.imageUrl;
-            const thumb = imageUrl.replace('/archive/', '/lowres/');
+            const { imageUrl, thumbnailUrl: thumb } = resolveImageUrls(front);
             const title = metadata.product || front.title;
             const brand = metadata.brand || 'Unknown';
             const brandColor = global.BrandColors?.resolveBrand(brand);
@@ -312,6 +320,7 @@
         getEntryId,
         groupItemsByBaseFilename,
         renderNewlyAddedBadge,
+        resolveImageUrls,
         computeArchiveStats,
         applyHeaderStats,
         applyHomePageStats

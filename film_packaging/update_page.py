@@ -4,6 +4,10 @@ import csv
 import time
 from shared import *
 import operator
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from image_urls import full_size_url
 
 # Enforce UTF-8 for consistency across terminals
 sys.stdout.reconfigure(encoding='utf-8')
@@ -29,7 +33,7 @@ def make_subtitle(this_entry, foretext_key=None, foretext_func=None):
 
 def make_lazy_load_image_link(this_lowres_path, this_image_path, this_entry):
     display_width, display_height = get_resized_dimensions(this_lowres_path, max_size=500)
-    # output = f"\n<a href=\"{this_image_path}\">"
+    this_image_path = full_size_url(Path(this_image_path).name)
     output = f'\n<a href="{this_image_path}" target="_blank">'
     output += f"\n\t<img src=\"{this_lowres_path}\" alt=\"{make_alt_text(this_entry)}\" loading=\"lazy\" width=\"{display_width}\" height=\"{display_height}\">"
     output += f"\n</a>\n"

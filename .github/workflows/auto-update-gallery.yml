@@ -8,6 +8,7 @@ on:
       - 'film_packaging/gallery_updates.json'
       - 'generate_js_data.py'
       - 'gallery_updates.py'
+      - 'image_urls.py'
   workflow_dispatch:  # Manual trigger option
 
 permissions:
@@ -28,12 +29,15 @@ jobs:
         
     - name: Generate Gallery Data
       run: |
+        python -m pip install Pillow
+        python -m unittest discover -s tests -v
+        node tests/test_image_urls.js
         python generate_js_data.py
         
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add assets/js/gallery-data.js
+        git add assets/js/gallery-data.js film_packaging/lowres
         git commit -m "Auto-update gallery data [skip ci]" || echo "No changes to commit"
         git push

@@ -27,6 +27,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install page-generation dependency
+        run: python -m pip install Pillow
+
       - name: Add upstream remote
         run: git remote add upstream https://github.com/dekuNukem/Film-Packaging.git
 
@@ -37,15 +40,13 @@ jobs:
         run: |
           python -m unittest discover -s tests -v
           node tests/test_newly_added_badge.js
+          node tests/test_image_urls.js
 
       - name: Merge upstream and reconcile catalogue
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           python sync_upstream.py
-
-      - name: Install page-generation dependency
-        run: python -m pip install Pillow
 
       - name: Regenerate gallery and catalogue pages
         run: |
@@ -54,7 +55,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add film_packaging/database.csv film_packaging/gallery_updates.json assets/js/gallery-data.js film_packaging/by_*.md
+          git add film_packaging/database.csv film_packaging/gallery_updates.json film_packaging/lowres assets/js/gallery-data.js film_packaging/by_*.md
           if ! git diff --cached --quiet || git rev-parse -q --verify MERGE_HEAD >/dev/null; then
             git commit -m "Auto-sync upstream + regenerate gallery data [skip ci]"
           fi

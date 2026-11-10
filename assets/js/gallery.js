@@ -330,10 +330,6 @@ class FilmGallery {
                 oldScript.remove();
             }
             
-            if (typeof window.GALLERY_DATA !== 'undefined') {
-                delete window.GALLERY_DATA;
-            }
-            
             const newScript = document.createElement('script');
             newScript.src = '/assets/js/gallery-data.js?' + Date.now();
             newScript.onload = () => {
@@ -352,13 +348,11 @@ class FilmGallery {
 
 
     async loadGalleryData() {
-        this.galleryData = GALLERY_DATA;
-        if (window.location.protocol === 'file:') {
-            this.galleryData = this.galleryData.map((item) => ({
-                ...item,
-                imageUrl: new URL('..' + item.imageUrl, window.location.href).href
-            }));
-        }
+        const localRoot = new URL('../', window.location.href).href;
+        this.galleryData = GALLERY_DATA.map((item) => ({
+            ...item,
+            ...ArchiveUtils.resolveImageUrls(item, localRoot)
+        }));
         this.filteredData = [...this.galleryData];
     }
 
@@ -800,7 +794,7 @@ class FilmGallery {
             const process = group.metadata.process || 'C-41';
             const thumbnailItem = group.front || group.back;
             const expiry = this.formatExpiryDate(thumbnailItem?.expiry_date, true);
-            const thumbnailUrl = thumbnailItem.imageUrl.replace('/archive/', '/lowres/');
+            const thumbnailUrl = thumbnailItem.thumbnailUrl;
             const isStarred = this.starStore.has(group.entryId);
             
             let viewType = '';
@@ -1099,13 +1093,26 @@ class FilmGallery {
         return estimatedMB;
     }
 
-    downloadImage(imageUrl) {
+    async downloadImage(imageUrl) {
         const link = document.createElement('a');
-        link.href = imageUrl;
-        link.download = imageUrl.split('/').pop();
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
+        let objectUrl;
+        try {
+            const source = new URL(imageUrl, window.location.href);
+            if (source.protocol !== 'file:' && source.origin !== window.location.origin) {
+                const response = await fetch(source.href);
+                if (!response.ok) throw new Error(`Image download failed: ${response.status}`);
+                objectUrl = URL.createObjectURL(await response.blob());
+            }
+            link.href = objectUrl || source.href;
+            link.download = source.pathname.split('/').pop();
+            document.body.appendChild(link);
+            link.click();
+        } catch (error) {
+            window.open(imageUrl, '_blank', 'noopener');
+        } finally {
+            link.remove();
+            if (objectUrl) window.setTimeout(() => URL.revokeObjectURL(objectUrl), 60000);
+        }
     }
 
     showPreviousImage() {

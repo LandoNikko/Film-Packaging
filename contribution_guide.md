@@ -66,7 +66,7 @@ Each box is different, but generally you can:
 
 Yours should look similar to this. Click to enlarge.
 
-![title](film_packaging/archive/00036_000.jpg)
+[![Sample film scan](film_packaging/lowres/00036_000.jpg)](https://raw.githubusercontent.com/LandoNikko/Film-Packaging/master/film_packaging/archive/00036_000.jpg)
 
 ## Submission
 
