@@ -1,4 +1,4 @@
-Film Packaging Archive is an open source community-driven archive of high-resolution image scans of photography film packages.
+Film Packaging Archive is a gallery website for an open source community-driven archive of high-resolution image scans of photography film packages.
 
 **Live site:** [filmpackagingarchive.com](https://filmpackagingarchive.com)
 
