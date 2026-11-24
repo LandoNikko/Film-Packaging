@@ -966,8 +966,7 @@ class FilmGallery {
         const entryId = this.getCurrentEntryId();
         const starred = this.starStore.has(entryId);
         btn.setAttribute('aria-pressed', starred ? 'true' : 'false');
-        btn.setAttribute('aria-label', starred ? 'Remove star' : 'Star entry');
-        btn.title = starred ? 'Starred (S)' : 'Star (S)';
+        btn.title = starred ? 'Favorited (S)' : 'Favorite (S)';
         const icon = btn.querySelector('i');
         if (icon) {
             icon.className = starred ? 'ri-star-fill' : 'ri-star-line';
